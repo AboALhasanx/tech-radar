@@ -17,6 +17,7 @@ SOURCE_LABEL = {
     "github": "GitHub",
     "mastodon": "Mastodon",
     "paper": "ورقة بحثية",
+    "producthunt": "Product Hunt",
 }
 
 TOPIC_LABEL = {
@@ -31,10 +32,14 @@ TOPIC_LABEL = {
     "community": "مجتمع",
     "code": "كود",
     "general": "عام",
-    "research": "بحث علمي",
+    "research_tools": "أدوات بحثية",
+    "harness": "هارنس / مهارات",
+    "free": "مجاني وفري تير",
+    "launch": "إطلاقات",
     "writing": "كتابة علمية",
     "reasoning": "استدلال",
-    "learning": "تعلّم وتحسين أكاديمي",
+    "learning": "تعلّم",
+    "research": "بحث علمي",
 }
 
 
@@ -83,23 +88,26 @@ def render_markdown(
         "",
     ]
 
-    # Research first: this radar exists to keep an academic current, so the
-    # papers and writing tools lead the digest.
-    research = [
-        s for s in stories if s.topics & config.RESEARCH_TOPICS or "paper" in s.sources
+    # Tools first: this radar exists to show what is becoming possible, and the
+    # launch/free/harness signals are where that shows up first.
+    tools = [
+        s
+        for s in stories
+        if (s.topics | {s.lead.topic}) & config.RESEARCH_TOPICS
+        or "producthunt" in s.sources
     ]
-    if research:
-        out += ["## البحث والكتابة العلمية", ""]
-        for i, story in enumerate(research[:8], 1):
+    if tools:
+        out += ["## أدوات، هارنس، ومجاني", ""]
+        for i, story in enumerate(tools[:9], 1):
             out.append(_story_block(i, story, summaries.get(story.lead.id)))
 
-    x_stories = [s for s in stories if "x" in s.sources and s not in research]
+    x_stories = [s for s in stories if "x" in s.sources and s not in tools]
     if x_stories:
         out += ["## ما يدور على X", ""]
         for i, story in enumerate(x_stories[:6], 1):
             out.append(_story_block(i, story, summaries.get(story.lead.id)))
 
-    rest = [s for s in stories if s not in research and s not in x_stories]
+    rest = [s for s in stories if s not in tools and s not in x_stories]
     if rest:
         out += ["## أخبار ومصادر ثانية", ""]
         for i, story in enumerate(rest, 1):

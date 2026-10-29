@@ -37,30 +37,28 @@ only, nothing leaves the machine.
 |---|---|---|---|
 | X posts | Google News `site:x.com` | free | the primary signal |
 | X (personal) | Playwright + your profile | free, local | your following list and timeline |
-| Papers | HF daily papers + arXiv RSS | free | the research lane |
+| Product Hunt | public RSS | free | launches before the press |
+| GitHub tooling | topic search API | free | research tools people actually install |
 | Hacker News | Algolia API | free | builder-grade filtering |
 | GitHub | search API (new + starred) | free | what people are actually shipping |
 | Reddit | public Atom feeds | free | practitioner chatter |
 | Mastodon | public API | free | early, non-algorithmic chatter |
 | Press | Google News RSS | free | confirmation, not discovery |
 
-## Research lane
+## Tooling lane
 
-The academic side is not a filter over tech news; it has its own queries and
-its own ranking boost. Four lanes, each with an X query, a news query, and
-arXiv/Semantic Scholar coverage:
+This is not a papers feed. The academic side tracks the **tools around the
+work** — the thing a researcher installs, pays for, or gets for free:
 
 | Lane | What it tracks |
 |---|---|
-| `research` | papers, preprints, automated discovery, research agents |
-| `writing` | LaTeX, Typst, Zotero, citations, peer review, scientific writing |
-| `reasoning` | test-time compute, verifiers, process reward models, chain-of-thought |
-| `learning` | spaced repetition, retrieval practice, cognitive load, tutoring |
+| `research_tools` | literature review, reference managers, Zotero/Overleaf/Typst, research workbenches |
+| `harness` | agent harnesses, skills, MCP servers, research agents |
+| `free` | free tiers, credits, trials, "no API key", open-source alternatives |
+| `launch` | new products and v1.0 releases before they reach the press |
 
-Papers get their own ranking floor: a paper is never buried for looking
-unfamiliar to the taste model, which was trained on likes that skew to news.
-
-The research section leads the digest and the site.
+These four are ranked first and carry an 8-point boost. Papers still exist as
+an opt-in (`PAPERS_ENABLED=1`) but they are not the point.
 
 ## How ranking works
 

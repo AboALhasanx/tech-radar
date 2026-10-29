@@ -20,8 +20,9 @@ from .rank import similarity, tokens
 from .render import SOURCE_LABEL, TOPIC_LABEL
 
 TOPIC_ORDER = [
-    "ai", "agents", "opensource", "devtools", "code", "mobile", "arabic",
-    "hardware", "community", "dev", "general",
+    "research_tools", "harness", "free", "launch", "writing", "reasoning",
+    "learning", "ai", "agents", "opensource", "devtools", "code", "mobile",
+    "arabic", "hardware", "community", "dev", "general",
 ]
 
 

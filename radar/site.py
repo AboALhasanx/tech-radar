@@ -16,7 +16,7 @@ from .render import SOURCE_LABEL, TOPIC_LABEL
 SITE_DIR = "site"
 SITE_URL = "https://aboalhasanx.github.io/tech-radar/"
 
-RESEARCH = {"research", "writing", "reasoning", "learning"}
+RESEARCH = {"research_tools", "harness", "free", "launch"}
 
 CSS = """
 :root{--bg:#0f1115;--card:#171a21;--fg:#e8eaf0;--muted:#9aa3b2;--accent:#f0b46a;--line:#252a34}
@@ -105,7 +105,7 @@ def build(out_dir: str = SITE_DIR) -> Path:
     ]
 
     if research:
-        parts.append("<section><h3 class='sec'>البحث والكتابة العلمية</h3>")
+        parts.append("<section><h3 class='sec'>أدوات، هارنس، ومجاني</h3>")
         parts += [_card(s) for s in research]
         parts.append("</section>")
     if x_items:

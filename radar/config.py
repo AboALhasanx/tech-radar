@@ -12,12 +12,14 @@ from __future__ import annotations
 X_QUERIES: list[tuple[str, str]] = [
     ("ai", 'site:x.com (AI OR LLM OR "language model" OR OpenAI OR Anthropic) when:3d'),
     ("agents", 'site:x.com (agent OR agents OR agentic OR MCP) when:3d'),
-    ("opensource", 'site:x.com ("open source" OR "open-source" OR GitHub) when:3d'),
+    ("opensource", 'site:x.com ("open source" OR "open-source" OR "self-hosted") when:3d'),
     ("devtools", 'site:x.com (developer OR coding OR IDE OR compiler) when:3d'),
-    ("research", 'site:x.com (arxiv OR "new paper" OR "research paper" OR preprint) when:7d'),
-    ("writing", 'site:x.com (LaTeX OR Typst OR Zotero OR "scientific writing" OR citation) when:7d'),
-    ("reasoning", 'site:x.com (reasoning OR "test-time" OR "inference-time" OR verifier) when:7d'),
-    ("learning", 'site:x.com ("spaced repetition" OR "cognitive load" OR "learning science") when:14d'),
+    # the academic lane: tools researchers actually use, not papers
+    ("research_tools", 'site:x.com (Elicit OR Consensus OR SciSpace OR NotebookLM OR Zotero OR Overleaf OR "literature review") when:14d'),
+    ("harness", 'site:x.com (harness OR "coding agent" OR skill OR "agent skills") when:3d'),
+    # free tiers, credits, trials, open alternatives
+    ("free", 'site:x.com ("free tier" OR "free credits" OR "free trial" OR "no API key" OR "free plan") when:7d'),
+    ("launch", 'site:x.com ("open source alternative" OR "just launched" OR "now available" OR "v1.0") when:3d'),
     ("arabic", 'site:x.com (Arabic OR RTL OR عربي OR "الذكاء الاصطناعي") when:7d'),
     ("mobile", 'site:x.com (Flutter OR "React Native" OR Expo OR Android) when:7d'),
 ]
@@ -27,8 +29,8 @@ NEWS_QUERIES: list[tuple[str, str]] = [
     ("ai", "artificial intelligence OR LLM when:3d"),
     ("dev", "open source OR developer tools when:3d"),
     ("hardware", "chip OR GPU OR semiconductor when:3d"),
-    ("research", '"scientific research" OR "peer review" OR university when:7d'),
-    ("writing", "academic writing OR research software when:7d"),
+    ("tools", "AI tool launch OR productivity software when:7d"),
+    ("free", '"free tier" OR "free plan" OR "open source alternative" when:7d'),
 ]
 
 # ---------------------------------------------------------------- community
@@ -50,22 +52,10 @@ GITHUB_WINDOW_DAYS = 7
 # ---------------------------------------------------------------- research
 # The academic lane: papers, research harnesses, AI-assisted writing.
 S2_QUERIES: list[tuple[str, str]] = [
-    # research process itself
-    ("research", "AI research agent"),
-    ("research", "automated scientific discovery"),
-    # scientific writing and publishing
-    ("writing", "scientific writing with large language models"),
-    ("writing", "citation and reference management"),
-    ("writing", "peer review automation"),
-    # reasoning / inference
-    ("reasoning", "inference-time compute scaling"),
-    ("reasoning", "process reward model reasoning"),
-    ("reasoning", "chain-of-thought verification"),
-    # human academic performance
-    ("learning", "spaced repetition retrieval practice"),
-    ("learning", "cognitive load learning technology"),
-    ("learning", "intelligent tutoring system"),
-    # this profile's own lane
+    # research workflow tools, not papers about research
+    ("research_tools", "AI literature review tool"),
+    ("research_tools", "academic writing assistant"),
+    ("harness", "research agent workflow"),
     ("arabic", "Arabic natural language processing"),
     ("ocr", "document understanding OCR"),
 ]
@@ -73,14 +63,11 @@ S2_QUERIES: list[tuple[str, str]] = [
 ARXIV_FEEDS = [
     ("cs.CL", "https://rss.arxiv.org/rss/cs.CL"),
     ("cs.AI", "https://rss.arxiv.org/rss/cs.AI"),
-    ("cs.SE", "https://rss.arxiv.org/rss/cs.SE"),
     ("cs.HC", "https://rss.arxiv.org/rss/cs.HC"),
-    ("cs.CY", "https://rss.arxiv.org/rss/cs.CY"),
 ]
 
-# The academic lane is the point of this radar, so it gets a ranking boost on
-# top of the learned taste score.
-RESEARCH_TOPICS = {"research", "writing", "reasoning", "learning"}
+# The academic lane is about tooling, so these topics get the ranking boost.
+RESEARCH_TOPICS = {"research_tools", "harness", "free", "launch", "writing"}
 RESEARCH_BOOST = 8.0
 
 # ---------------------------------------------------------------- ranking

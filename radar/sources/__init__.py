@@ -10,11 +10,13 @@ from .. import config
 from ..models import Signal
 from . import (
     arxiv,
+    github_tools,
     github_trending,
     google_news,
     hackernews,
     hf_papers,
     mastodon,
+    producthunt,
     reddit,
     semantic_scholar,
 )
@@ -23,6 +25,8 @@ __all__ = ["collect_all"]
 
 
 def collect_all(*, include_x: bool = True, include_news: bool = True) -> list[Signal]:
+    import os
+
     signals: list[Signal] = []
 
     if include_x:
@@ -35,15 +39,14 @@ def collect_all(*, include_x: bool = True, include_news: bool = True) -> list[Si
     signals += github_trending.fetch(
         config.GITHUB_MIN_STARS, config.GITHUB_WINDOW_DAYS
     )
+    signals += github_tools.fetch()
+    signals += producthunt.fetch()
     signals += mastodon.fetch(config.MASTODON_TAGS)
 
-    # research lane
-    signals += hf_papers.fetch()
-    signals += arxiv.fetch(config.ARXIV_FEEDS)
-    # Semantic Scholar's keyless pool rate-limits hard (HTTP 429 after the
-    # first couple of calls), so it is opt-in rather than default.
-    import os
-
-    if os.getenv("S2_ENABLED") == "1":
+    # Papers are opt-in: the point of this radar is the tooling around
+    # research, not the papers themselves.
+    if os.getenv("PAPERS_ENABLED") == "1":
+        signals += hf_papers.fetch()
+        signals += arxiv.fetch(config.ARXIV_FEEDS)
         signals += semantic_scholar.fetch(config.S2_QUERIES)
     return signals

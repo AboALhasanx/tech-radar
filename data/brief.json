@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:39:47.335888+00:00",
+  "generated_at": "2026-10-29T09:52:38.252321+00:00",
   "days": 3,
   "stories": [
     {
@@ -13,47 +13,11 @@
         "reasoning"
       ],
       "days": 1,
-      "score": 103.02,
+      "score": 95.02,
       "taste": 0.8,
       "ar": "",
       "meta": {
         "query": "site:x.com (reasoning OR \"test-time\" OR \"inference-time\" OR verifier) when:7d"
-      }
-    },
-    {
-      "title": "Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. Each response returns the model’s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Co",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95MUFwWUVlS0lYS0lLS2VXVEdreFVxWEl1MDZERVB4V1VRUmVDUDNIdTJBMHpkVWFBeUNLTnExS181Z1VXa0dxVzRnUTFsS2t6bzhvQmZpaFNJTjdwSnMw?oc=5",
-      "topic": "reasoning",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "days": 1,
-      "score": 91.42,
-      "taste": 0.892,
-      "ar": "",
-      "meta": {
-        "query": "site:x.com (reasoning OR \"test-time\" OR \"inference-time\" OR verifier) when:7d"
-      }
-    },
-    {
-      "title": "New Google paper finds that the best AI agent scores only 50.6% on physical engineering jobs, often by missing a hard safety or feasibility rule. Engineering benchmarks for LLMs mostly test textbook questions or toy problems that top agents already handle w",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UZDdyeG80NHI2aUJTNWpkUzZycVNnaFdDdEFSc0ZKdzdkUDAtSi0wQWdETFBtSFlGZlpWM2dnVnlaWWs3X29rX3V5b0RFeHIySUI2bU9aVVBORjdUdFpqLTFUTQ?oc=5",
-      "topic": "research",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "research"
-      ],
-      "days": 1,
-      "score": 91.15,
-      "taste": 0.724,
-      "ar": "",
-      "meta": {
-        "query": "site:x.com (arxiv OR paper OR \"new paper\" OR benchmark) when:7d"
       }
     },
     {
@@ -93,24 +57,6 @@
       }
     },
     {
-      "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
-      "url": "https://arxiv.org/abs/2610.36335",
-      "topic": "research",
-      "sources": [
-        "paper"
-      ],
-      "topics": [
-        "research"
-      ],
-      "days": 1,
-      "score": 88.2,
-      "taste": 0.802,
-      "ar": "",
-      "meta": {
-        "venue": "arXiv cs.AI"
-      }
-    },
-    {
       "title": "Browser Use Arrives on Unsloth, Qwen3.8-27B Browses the Web Locally",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOG01Tkd1YjZmLW1QZ3Qyd2g4YjhCMmxsYjFkVktERS1FYlZqSVVsTFpFVl92NnVka2tqVjE3RzNXb2hXb3ExYmZHM3ROTUxjSnJTZVg2NEFlSWxlNHBwaXQ5ZlRCOC1paG4wZXNHTUE0T05jTDkwSXFEZTROLUpvdHN6YV8zX2x0R3Y4bTBXWWN2alE?oc=5",
       "topic": "dev",
@@ -147,6 +93,24 @@
       }
     },
     {
+      "title": "Harness Engineering — Assuring Code Quality and Safety When Programming with AI Agents:",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96RXJSN3NOVzZTV3o1M2JGQ0lNRjVJbHB4MkFteXdlaC10Y1NSUjl1QjFiMjRaR3J5SngwR1cyMHR3QWZNVW5RWWg3LWx6LXpQWHhHSGViOUducmVOM2I4Xw?oc=5",
+      "topic": "harness",
+      "sources": [
+        "x"
+      ],
+      "topics": [
+        "harness"
+      ],
+      "days": 1,
+      "score": 86.03,
+      "taste": 0.507,
+      "ar": "",
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d"
+      }
+    },
+    {
       "title": "Someone built a web browser that doesn't render webpages. It has passed 37K GitHub stars as a project written in Zig from scratch, rather than forked from Chromium. And in the team's benchmark, it used 16× less memory than headless Chrome. It's called Lig",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mTHM1Z2dPckpGM3JXM2hXbmNCSTBPWUxDX3hvNmd6WVBEd3lkTmFuRS1mQWdjN1FOeUxta1Izc3Fub0tzNXFtU1FaMWFpOVBjdlhxbUZ0M3FnbFJHNkE?oc=5",
       "topic": "opensource",
@@ -162,24 +126,6 @@
       "ar": "",
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:3d"
-      }
-    },
-    {
-      "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
-      "url": "https://arxiv.org/abs/2610.36298",
-      "topic": "research",
-      "sources": [
-        "paper"
-      ],
-      "topics": [
-        "research"
-      ],
-      "days": 1,
-      "score": 85.18,
-      "taste": 0.764,
-      "ar": "",
-      "meta": {
-        "venue": "arXiv cs.AI"
       }
     },
     {
@@ -219,8 +165,64 @@
       }
     },
     {
-      "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
-      "url": "https://arxiv.org/abs/2610.36234",
+      "title": "Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. Each response returns the model’s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Co",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95MUFwWUVlS0lYS0lLS2VXVEdreFVxWEl1MDZERVB4V1VRUmVDUDNIdTJBMHpkVWFBeUNLTnExS181Z1VXa0dxVzRnUTFsS2t6bzhvQmZpaFNJTjdwSnMw?oc=5",
+      "topic": "reasoning",
+      "sources": [
+        "x"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "days": 1,
+      "score": 83.42,
+      "taste": 0.892,
+      "ar": "",
+      "meta": {
+        "query": "site:x.com (reasoning OR \"test-time\" OR \"inference-time\" OR verifier) when:7d"
+      }
+    },
+    {
+      "title": "New Google paper finds that the best AI agent scores only 50.6% on physical engineering jobs, often by missing a hard safety or feasibility rule. Engineering benchmarks for LLMs mostly test textbook questions or toy problems that top agents already handle w",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UZDdyeG80NHI2aUJTNWpkUzZycVNnaFdDdEFSc0ZKdzdkUDAtSi0wQWdETFBtSFlGZlpWM2dnVnlaWWs3X29rX3V5b0RFeHIySUI2bU9aVVBORjdUdFpqLTFUTQ?oc=5",
+      "topic": "research",
+      "sources": [
+        "x"
+      ],
+      "topics": [
+        "research"
+      ],
+      "days": 1,
+      "score": 83.15,
+      "taste": 0.724,
+      "ar": "",
+      "meta": {
+        "query": "site:x.com (arxiv OR paper OR \"new paper\" OR benchmark) when:7d"
+      }
+    },
+    {
+      "title": "Companion-Inc/feynman — The open source AI research agent.",
+      "url": "https://github.com/Companion-Inc/feynman",
+      "topic": "research_tools",
+      "sources": [
+        "github"
+      ],
+      "topics": [
+        "research_tools"
+      ],
+      "days": 1,
+      "score": 80.96,
+      "taste": 0.964,
+      "ar": "",
+      "meta": {
+        "repo": "Companion-Inc/feynman",
+        "stars": 10038,
+        "language": "TypeScript"
+      }
+    },
+    {
+      "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
+      "url": "https://arxiv.org/abs/2610.36335",
       "topic": "research",
       "sources": [
         "paper"
@@ -229,11 +231,29 @@
         "research"
       ],
       "days": 1,
-      "score": 82.36,
-      "taste": 0.761,
+      "score": 80.2,
+      "taste": 0.802,
       "ar": "",
       "meta": {
         "venue": "arXiv cs.AI"
+      }
+    },
+    {
+      "title": "Layers of observability in AI systems, explained visually: If an LLM app is serving real users, its input and output are not enough to debug it. Consider a RAG pipeline where a query passes through embedding, retrieval, context assembly, and generation. Every",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55eno2T0ZXYXNYaExObE42bEprUWpuZzZPMS1HTjVCS0l3bGRMQ1Jubng4UmU0c0JnNUItYnZCSXJhX0kwQ1YxV3NUcHI5UDZpdDFfblI5eFdOeVdFZEFJVWtmcF84UQ?oc=5",
+      "topic": "ai",
+      "sources": [
+        "x"
+      ],
+      "topics": [
+        "ai"
+      ],
+      "days": 1,
+      "score": 79.45,
+      "taste": 0.713,
+      "ar": "",
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d"
       }
     },
     {
@@ -257,39 +277,21 @@
       }
     },
     {
-      "title": "Open source Chinese models need to stop using Claude and GPT reasoning traces for training; otherwise, they won't get close to the frontier. The benchmark is getting better at exposing cheating. Build your data team and focus on task quality.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OVkpta0FVakxVNWNjM0k4SG5TMG1rVzBOVnViZmxST3YzcS1KS25DcU9pR3lxRF9oVHJvaXdBcXV5czdIRUtPZksyMG02VjJwZk5LMDRkdVZaZzREZEdKQkVqWQ?oc=5",
-      "topic": "reasoning",
+      "title": "IFTTT.ai",
+      "url": "https://www.producthunt.com/products/ifttt",
+      "topic": "launch",
       "sources": [
-        "x"
+        "producthunt"
       ],
       "topics": [
-        "reasoning"
+        "launch"
       ],
       "days": 1,
-      "score": 78.62,
-      "taste": 0.374,
+      "score": 78.92,
+      "taste": 0.902,
       "ar": "",
       "meta": {
-        "query": "site:x.com (reasoning OR \"test-time\" OR \"inference-time\" OR verifier) when:7d"
-      }
-    },
-    {
-      "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-      "url": "https://arxiv.org/abs/2610.36169",
-      "topic": "research",
-      "sources": [
-        "paper"
-      ],
-      "topics": [
-        "research"
-      ],
-      "days": 1,
-      "score": 77.8,
-      "taste": 0.696,
-      "ar": "",
-      "meta": {
-        "venue": "arXiv cs.AI"
+        "via": "Product Hunt"
       }
     },
     {
@@ -333,8 +335,8 @@
       }
     },
     {
-      "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory",
-      "url": "https://arxiv.org/abs/2610.36308",
+      "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
+      "url": "https://arxiv.org/abs/2610.36298",
       "topic": "research",
       "sources": [
         "paper"
@@ -343,8 +345,8 @@
         "research"
       ],
       "days": 1,
-      "score": 77.27,
-      "taste": 0.645,
+      "score": 77.18,
+      "taste": 0.764,
       "ar": "",
       "meta": {
         "venue": "arXiv cs.AI"
@@ -366,98 +368,6 @@
       "ar": "",
       "meta": {
         "account": "jerryxff26alt"
-      }
-    },
-    {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "topic": "dev",
-      "sources": [
-        "hackernews"
-      ],
-      "topics": [
-        "dev"
-      ],
-      "days": 1,
-      "score": 76.96,
-      "taste": 0.736,
-      "ar": "",
-      "meta": {
-        "points": 425,
-        "comments": 92,
-        "hn_url": "https://news.ycombinator.com/item?id=50282838"
-      }
-    },
-    {
-      "title": "South Korea’s benchmark stock index is up nearly 30% this year, but it’s a long way from its peak. Even as the KOSPI has pulled back, third quarter GDP grew 1.0%, more than triple the central bank’s forecast, on strong chip demand. Read more:",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SZE0zVnRvSm51Z2N2VHNwMFU4d2g5d3BRdlRUZUI3UlpRZFZwa05veERmNWdjMzc5dkFndlphLThUUlBvMHZCNUkyR1lrZ3ZoTF9xeUF3akRmcFptbTI2YWxYWQ?oc=5",
-      "topic": "research",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "research"
-      ],
-      "days": 1,
-      "score": 74.67,
-      "taste": 0.727,
-      "ar": "",
-      "meta": {
-        "query": "site:x.com (arxiv OR paper OR \"new paper\" OR benchmark) when:7d"
-      }
-    },
-    {
-      "title": "GitHub Launches Copilot Fusion, Claims To Offer Cheaper AI Coding",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GLWFsR0dlN1dXcnNlTXJNU1N0QTJERWhrS1I0a09kMkZnalhSenA4Ync1MWg2TU14SnZiYWE4NGVLSk16a2lrVHJvcmJNSGtGcWhKVG9oQ3A0ZmR4TGc?oc=5",
-      "topic": "opensource",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "opensource"
-      ],
-      "days": 1,
-      "score": 74.08,
-      "taste": 0.636,
-      "ar": "",
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d"
-      }
-    },
-    {
-      "title": "In AA-PersonalityBench, GPT-6 and Grok models are the most Direct and most likely to use an Answer First format of all models measured The Direct trait assesses whether models get to the point quickly without unnecessary filler; Answer First measures whet",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XNk45TWlQR2xab3lGdHBnRC1XUmNkVEY3QU1DdEFJY3ZDVzhSLXVqcFBMcTR0YjNfSnF5MS0xbDZzcnNaM2hWY3dmOXJETGpaeWdjX2g0b0NDS2Z6LU9oajc5c1dWRFk?oc=5",
-      "topic": "reasoning",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "days": 1,
-      "score": 74.01,
-      "taste": 0.565,
-      "ar": "",
-      "meta": {
-        "query": "site:x.com (reasoning OR \"test-time\" OR \"inference-time\" OR verifier) when:7d"
-      }
-    },
-    {
-      "title": "🚀 AbraFlexi API Doc v1.2.1 released! The REST API docs now cover password reset (send-email, set-password) and a fuller authentication…",
-      "url": "https://f.cz/@vitexsoftware/117523336164926036",
-      "topic": "community",
-      "sources": [
-        "mastodon"
-      ],
-      "topics": [
-        "community"
-      ],
-      "days": 1,
-      "score": 73.16,
-      "taste": 0.795,
-      "ar": "",
-      "meta": {
-        "account": "vitexsoftware@f.cz"
       }
     }
   ]
