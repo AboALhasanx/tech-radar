@@ -262,6 +262,14 @@ def write_report(days: int = 30, top: int = 25, *, use_ai: bool = True,
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "days": days,
         "stories": [item.to_dict() for item in items[:top]],
+        "shelves": {
+            "newsletters": [
+                item.to_dict() for item in items if "newsletter" in item.sources
+            ][:6],
+            "researchers": [
+                item.to_dict() for item in items if "x_account" in item.sources
+            ][:8],
+        },
     }
     Path("data").mkdir(exist_ok=True)
     Path("data/brief.json").write_text(

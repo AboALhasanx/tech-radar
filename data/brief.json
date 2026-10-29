@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:00:33.829119+00:00",
+  "generated_at": "2026-10-29T10:20:17.605318+00:00",
   "days": 3,
   "stories": [
     {
@@ -72,6 +72,24 @@
       "ar": "",
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      }
+    },
+    {
+      "title": "agent-shell gets its first 2000 GitHub stars https:// github.com/xenodium/agent-shell 😊 # emacs # llm # ai # agent # foss # oss",
+      "url": "https://indieweb.social/@xenodium/117523638757111468",
+      "topic": "community",
+      "sources": [
+        "mastodon"
+      ],
+      "topics": [
+        "community"
+      ],
+      "days": 1,
+      "score": 88.72,
+      "taste": 0.921,
+      "ar": "",
+      "meta": {
+        "account": "xenodium@indieweb.social"
       }
     },
     {
@@ -331,40 +349,280 @@
       }
     },
     {
-      "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-      "url": "https://arxiv.org/abs/2610.36169",
-      "topic": "research",
-      "sources": [
-        "paper"
-      ],
-      "topics": [
-        "research"
-      ],
-      "days": 1,
-      "score": 77.8,
-      "taste": 0.696,
-      "ar": "",
-      "meta": {
-        "venue": "arXiv cs.AI"
-      }
-    },
-    {
-      "title": "Look for Expo Mode. We built it with Google’s new HTML-in-Canvas API. I think we’re one of the first to use it.",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1SFpseW9xNjZEUEpJeTlybHFfQUlzdExBMUNtTFIza29vMWJBUGZpRmZmUVhPWmFQa2QtWnBZYlNCeWpFbElRV3FIek5CTHBNN1h3bTN0WGs?oc=5",
-      "topic": "mobile",
+      "title": "#ChinaDailyCartoon A new wave of entrepreneurship #AI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nYmRzb2RnZmlGcm5hNG41OVlZcVVQRDBFa1dxVnNiWXkzRVhEdXhReFJXWnVfS3hjVUh0S21menFjajdjTmlSTlkzRXE0QUdfa0RBWVp0eDM1SnJUX2dNSg?oc=5",
+      "topic": "ai",
       "sources": [
         "x"
       ],
       "topics": [
-        "mobile"
+        "ai"
       ],
       "days": 1,
-      "score": 77.75,
-      "taste": 0.914,
+      "score": 78.26,
+      "taste": 0.696,
       "ar": "",
       "meta": {
-        "query": "site:x.com (Flutter OR \"React Native\" OR Expo OR Android) when:7d"
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d"
       }
     }
-  ]
+  ],
+  "shelves": {
+    "newsletters": [
+      {
+        "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+        "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+        "topic": "research",
+        "sources": [
+          "newsletter"
+        ],
+        "topics": [
+          "research"
+        ],
+        "days": 1,
+        "score": 55.88,
+        "taste": 0.281,
+        "ar": "",
+        "meta": {
+          "outlet": "Interconnects"
+        }
+      },
+      {
+        "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "topic": "research",
+        "sources": [
+          "newsletter"
+        ],
+        "topics": [
+          "research"
+        ],
+        "days": 1,
+        "score": 38.69,
+        "taste": 0.605,
+        "ar": "",
+        "meta": {
+          "outlet": "Ahead of AI"
+        }
+      },
+      {
+        "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+        "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+        "topic": "research",
+        "sources": [
+          "newsletter"
+        ],
+        "topics": [
+          "research"
+        ],
+        "days": 1,
+        "score": 35.7,
+        "taste": 0.458,
+        "ar": "",
+        "meta": {
+          "outlet": "Interconnects"
+        }
+      },
+      {
+        "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+        "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+        "topic": "research",
+        "sources": [
+          "newsletter"
+        ],
+        "topics": [
+          "research"
+        ],
+        "days": 1,
+        "score": 33.42,
+        "taste": 0.528,
+        "ar": "",
+        "meta": {
+          "outlet": "Interconnects"
+        }
+      },
+      {
+        "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+        "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+        "topic": "research",
+        "sources": [
+          "newsletter"
+        ],
+        "topics": [
+          "research"
+        ],
+        "days": 1,
+        "score": 30.17,
+        "taste": 0.191,
+        "ar": "",
+        "meta": {
+          "outlet": "Import AI"
+        }
+      },
+      {
+        "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+        "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+        "topic": "research",
+        "sources": [
+          "newsletter"
+        ],
+        "topics": [
+          "research"
+        ],
+        "days": 1,
+        "score": 28.11,
+        "taste": 0.453,
+        "ar": "",
+        "meta": {
+          "outlet": "Import AI"
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "title": "There’s more to System One decision models than Jev.  These 15 models are worth a closer look:   Jeva  Prism-1  Bongard  Verdict (multi-question)  VideoJev  MJev-Spatial  AudioJev  MetaEncoder  FastJE",
+        "url": "https://x.com/TheTuringPost/status/2114422040929489241",
+        "topic": "research_tools",
+        "sources": [
+          "x_account"
+        ],
+        "topics": [
+          "research_tools"
+        ],
+        "days": 1,
+        "score": 72.42,
+        "taste": 0.784,
+        "ar": "",
+        "meta": {
+          "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 25"
+        }
+      },
+      {
+        "title": "alphaXiv Mobile 2.0 is here   • Mobile friendly PDF reader • Library with sharable folders • Custom feeds with research curated to your interests • Al visual overviews for papers • Support for iPhone ",
+        "url": "https://x.com/askalphaxiv/status/2115131377641509259",
+        "topic": "research_tools",
+        "sources": [
+          "x_account"
+        ],
+        "topics": [
+          "research_tools"
+        ],
+        "days": 1,
+        "score": 71.07,
+        "taste": 0.742,
+        "ar": "",
+        "meta": {
+          "author": "alphaXiv @askalphaxiv · Oct 27"
+        }
+      },
+      {
+        "title": "We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights today! Introducing Flora, a suite of open models to parse the physical world and t",
+        "url": "https://x.com/DrJimFan/status/2112597587987689912",
+        "topic": "research_tools",
+        "sources": [
+          "x_account"
+        ],
+        "topics": [
+          "research_tools"
+        ],
+        "days": 1,
+        "score": 66.81,
+        "taste": 0.8,
+        "ar": "",
+        "meta": {
+          "author": "Jim Fan @DrJimFan · Oct 20"
+        }
+      },
+      {
+        "title": "VideoJev  System One Model for Video Understanding and Interaction  paper:  https:// huggingface.co/papers/2610.18 615 …",
+        "url": "https://x.com/_akhaliq/status/2110423274413056230",
+        "topic": "research_tools",
+        "sources": [
+          "x_account"
+        ],
+        "topics": [
+          "research_tools"
+        ],
+        "days": 1,
+        "score": 66.1,
+        "taste": 0.79,
+        "ar": "",
+        "meta": {
+          "author": "AK @_akhaliq · Oct 14"
+        }
+      },
+      {
+        "title": "If doomscrolling X is part of your research workflow, we built something for you.  Introducing Paperscrolling, now on iOS and Android   Follow the latest research with key ideas, figures, and audio ex",
+        "url": "https://x.com/askalphaxiv/status/2107486537206419769",
+        "topic": "research_tools",
+        "sources": [
+          "x_account"
+        ],
+        "topics": [
+          "research_tools"
+        ],
+        "days": 1,
+        "score": 65.25,
+        "taste": 0.778,
+        "ar": "",
+        "meta": {
+          "author": "alphaXiv @askalphaxiv · Oct 6"
+        }
+      },
+      {
+        "title": "Do you know how to typeset fractions and binomial coefficients in your maths document? Check out this article.  https:// overleaf.com/learn/latex/Fr actions_and_Binomials …",
+        "url": "https://x.com/overleaf/status/2115730384197415118",
+        "topic": "research_tools",
+        "sources": [
+          "x_account"
+        ],
+        "topics": [
+          "research_tools"
+        ],
+        "days": 1,
+        "score": 64.71,
+        "taste": 0.283,
+        "ar": "",
+        "meta": {
+          "author": "Overleaf @overleaf · 1h"
+        }
+      },
+      {
+        "title": "The same model, with the same weights, scores 62% in one agent harness and 33% in another.   @adithya_s_k  and the  @huggingface  team just released the ultimate guide to multi-harness RL, and it's on",
+        "url": "https://x.com/huggingface/status/2106034221005312448",
+        "topic": "research_tools",
+        "sources": [
+          "x_account"
+        ],
+        "topics": [
+          "research_tools"
+        ],
+        "days": 1,
+        "score": 60.88,
+        "taste": 0.672,
+        "ar": "",
+        "meta": {
+          "author": "Hugging Face @huggingface · Oct 2"
+        }
+      },
+      {
+        "title": "OpenResearch is now available as a desktop app   Native builds for: • macOS (Apple Silicon + Intel) • Windows (x64) • Linux (x64 + ARM)  Turn your coding agents into research agents, and own your stac",
+        "url": "https://x.com/askalphaxiv/status/2104947053642047521",
+        "topic": "research_tools",
+        "sources": [
+          "x_account"
+        ],
+        "topics": [
+          "research_tools"
+        ],
+        "days": 1,
+        "score": 59.92,
+        "taste": 0.658,
+        "ar": "",
+        "meta": {
+          "author": "alphaXiv @askalphaxiv · Sep 29"
+        }
+      }
+    ]
+  }
 }

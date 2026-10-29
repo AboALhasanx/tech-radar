@@ -117,6 +117,15 @@ def build(out_dir: str = SITE_DIR) -> Path:
         parts += [_card(s) for s in rest]
         parts.append("</section>")
 
+    shelves = data.get("shelves") or {}
+    for key, title in (("researchers", "من الباحثين على X"), ("newsletters", "من النشرات")):
+        rows = shelves.get(key) or []
+        if not rows:
+            continue
+        parts.append(f"<section><h3 class='sec'>{title}</h3>")
+        parts += [_card(s) for s in rows]
+        parts.append("</section>")
+
     parts.append(
         "<footer>يعمل على GitHub Actions · بلا سيرفر · "
         "<a href='https://github.com/AboALhasanx/tech-radar'>الكود</a></footer>"
