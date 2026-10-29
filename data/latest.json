@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-10-29T07:49:42.000243+00:00",
-  "fetched": 681,
+  "generated_at": "2026-10-29T07:50:47.547968+00:00",
+  "fetched": 675,
   "stories": [
+    {
+      "id": "908e684061c0e2c6",
+      "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vZldaMHNjVk1uZW9KS2pXQVBVTTVXbjQzN2N5bmVtMkc3eUdpNV9pc0czc2dSUHBwM0dZcFNFYnh3TW5QQW5LYThLalRVM2pha0U2a2VDdDFVOE02elo5Nm1n?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T05:00:31+00:00",
+      "summary": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say https://t.co/pCEPYXfPOt X",
+      "engagement": 0.0,
+      "score": 60.17,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      },
+      "sources": [
+        "news",
+        "x"
+      ],
+      "ar": "أظهرت اختبارات أن نموذجاً صينياً قادراً على تنفيذ هجمات سيبرانية معقدة، مما يثير مخاوف أمنية جديدة حول قدرات الذكاء الاصطناعي."
+    },
     {
       "id": "271134257c4af766",
       "title": "Claude Code regularly sends each background agent’s transcript to its model",
@@ -11,7 +31,7 @@
       "published": "2026-10-29T03:33:42+00:00",
       "summary": "",
       "engagement": 295.0,
-      "score": 54.19,
+      "score": 54.15,
       "niche_hits": [],
       "meta": {
         "points": 295,
@@ -21,7 +41,140 @@
       "sources": [
         "hackernews"
       ],
-      "ar": "Claude Code يرسل سجلات الوكلاء الخلفيين للنموذج دورياً، مما يثير تساؤلات حول خصوصية البيانات وكفاءة استخدام الـ tokens في بيئة التطوير."
+      "ar": "يُرسل Claude Code سجلات الوكلاء الخلفيين إلى النموذج بشكل دوري، ما يثير تساؤلات حول خصوصية البيانات وكفاءة معالجة السياق."
+    },
+    {
+      "id": "b8cd18089cb95d06",
+      "title": "#Anthropic says its #Claude AI model is showing early promise in #drug development, including research into cancer treatments, food allergy therapies and pharmaceutical manufacturing. @AnthropicAI @claudeai #AI #Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QYTRCZ1EtZDRMWVNDcXp6SnRyelJVbGMxX1hTZFBqbW40Umk1X2FqbGJEMlJVaGpZSnhId2JhNUxlTkZfd1IyWmV1S3FGejVMUmdPLTd5NW5HR2FONTdXUjBrZnc?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T07:40:00+00:00",
+      "summary": "#Anthropic says its #Claude AI model is showing early promise in #drug development, including research into cancer treatments, food allergy therapies and pharmaceutical manufacturing. https://t.co/98jNYraZ63 @AnthropicAI @claudeai #AI #Healthcare X",
+      "engagement": 0.0,
+      "score": 51.6,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      },
+      "sources": [
+        "x"
+      ],
+      "ar": "تُظهر نماذج Claude وعوداً مبكرة في تطوير الأدوية والعلاجات السرطانية، مما يعزز دور الذكاء الاصطناعي في تسريع الأبحاث الطبية الحيوية."
+    },
+    {
+      "id": "32a062264ecfa469",
+      "title": "Elvis Presley’s rights holders have sued AI company Anthropic for $41.1 million, alleging 274 songs were used without permission to train its Claude chatbot. Anthropic denies the allegations and plans to defend the case. #ElvisPresley #Anthropic #ArtificialInte",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9feEpMOUctZzRtd0tGcE53XzN2dU9tMlNCQ25XeFpqeE9RMnV5STlpVExsSEIzeHl3N1ZuN2o0a29TdHFXeXN1UEdxWWlhSGxNUlNkNXF3b3JFNWFCQ0JybWRDRHRPU0RnYV9ZRw?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T07:36:31+00:00",
+      "summary": "Elvis Presley’s rights holders have sued AI company Anthropic for $41.1 million, alleging 274 songs were used without permission to train its Claude chatbot. Anthropic denies the allegations and plans to defend the case. #ElvisPresley #Anthropic #ArtificialInte X",
+      "engagement": 0.0,
+      "score": 51.48,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      },
+      "sources": [
+        "x"
+      ],
+      "ar": "رفع ورثة Elvis دعوى ضد Anthropic بمبلغ 41 مليون دولار لتدريب Claude على 274 أغنية دون إذن، في نزاع قانوني جديد حول حقوق الملكية."
+    },
+    {
+      "id": "fae8aa7b9e5ec035",
+      "title": "Moving AI from pilots to accountable operations requires clear ownership, strong oversight and continuous risk checks. Build technology that earns trust by design—not as an afterthought. #AI #Governance #Trust",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44VmtKMXpsSVZSaGhNNHZpN3hoLTdfTnpFNzY2cmRDRWs1TnE3R0VkV2dqcGlGTzZQR0VNV00wOXROa3dpX2tmYU5adlZNbElYdGM3VXZPNEF1X2t6NzFYMQ?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T07:19:32+00:00",
+      "summary": "Moving AI from pilots to accountable operations requires clear ownership, strong oversight and continuous risk checks. Build technology that earns trust by design—not as an afterthought. #AI #Governance #Trust https://t.co/xCG3pTU316: https://t.co/uopPXnrR X",
+      "engagement": 0.0,
+      "score": 50.86,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      },
+      "sources": [
+        "x"
+      ],
+      "ar": "تحويل الذكاء الاصطناعي من تجارب إلى عمليات محاسبة يتطلب ملكية واضحة وإشرافاً قوياً، لضمان بناء أنظمة موثوقة بتصميم مدروس."
+    },
+    {
+      "id": "7f9b5c8a10ba6973",
+      "title": "Report from Global Banking & Finance Review Move AI beyond pilots with accountable operations. Build trustworthy AI systems through strong governance, transparency, and responsible deployment—turning experimentation into technology that earns trust. #",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VWlB5OEFNbDBLLVdwOWpkRU1TcGtGMDZCWDF2MGNicml5TTdtNTJwdjlMbHZKV0tQcjljbHM2MHFuZnZOVkJ0YndGTEZJQzVaTEZ6SjhlTEVTTmZPTU56WA?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T07:17:47+00:00",
+      "summary": "Report from Global Banking & Finance Review Move AI beyond pilots with accountable operations. Build trustworthy AI systems through strong governance, transparency, and responsible deployment—turning experimentation into technology that earns trust. # X",
+      "engagement": 0.0,
+      "score": 50.8,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      },
+      "sources": [
+        "x"
+      ],
+      "ar": "تقرير يؤكد ضرورة تجاوز مرحلة التجارب الأولية نحو عمليات محاسبة عبر حوكمة قوية وشفافية، لتحويل الذكاء الاصطناعي إلى تقنية موثوقة."
+    },
+    {
+      "id": "b1a44fd401ccb63d",
+      "title": "If Thiel is right that the relational side of being human matters more in the AI era, the skills that compound are: → Reading people → Selling an idea → Taste: knowing what's good → Telling a story people remember → Asking better questions, of people and of",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53LU1qMjlnNHR6SWNVR3pTMzB2bHl3OGtKRVZzTE02S1BWRXNLZm1JbV9jZzZjSnBPeFJVUXR6cWhTbWR2MWNDWkVpR1ZNZG5LT2JUSS1WQkU0MTctQ0FzMnNYVlg?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T07:12:40+00:00",
+      "summary": "If Thiel is right that the relational side of being human matters more in the AI era, the skills that compound are: → Reading people → Selling an idea → Taste: knowing what's good → Telling a story people remember → Asking better questions, of people and of X",
+      "engagement": 0.0,
+      "score": 50.61,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      },
+      "sources": [
+        "x"
+      ],
+      "ar": "يرى Thiel أن مهارات قراءة الناس وإقناعهم وقصصهم تصبح أكثر قيمة في عصر الذكاء الاصطناعي، حيث تتفوق العلاقات الإنسانية على الآلات."
+    },
+    {
+      "id": "26b522a53e6a7bc1",
+      "title": "Lively discussion at #Villa Europa🇪🇺 on the challenges of international cooperation on artificial intelligence. As part of the #FestivaldellaDiplomazia 2026 @DiplomacyinRome, the European Union hosted the Head of our 🇪🇺AI Office Lucilla Sioli @DigitalEU, t",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oU3lYZmgxdHl0a3lkR2VDZDlYTWN3WDlWMjEyMXEweGNjNzRSZzhWamktYkxKSFhmX0VYYXNPNWtzTUlTWWpUY3RuUEptbW9uRmFfWE5ISmQyOHlmSmpFSHpXRzI?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T07:11:17+00:00",
+      "summary": "Lively discussion at #Villa Europa🇪🇺 on the challenges of international cooperation on artificial intelligence. As part of the #FestivaldellaDiplomazia 2026 @DiplomacyinRome, the European Union hosted the Head of our 🇪🇺AI Office Lucilla Sioli @DigitalEU, t X",
+      "engagement": 0.0,
+      "score": 50.56,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      },
+      "sources": [
+        "x"
+      ],
+      "ar": "ناقش مسؤولو الاتحاد الأوروبي تحديات التعاون الدولي في الذكاء الاصطناعي خلال مهرجان الدبلوماسية، مع التركيز على دور مكتب الذكاء الاصطناعي الأوروبي."
+    },
+    {
+      "id": "9bb9c5925c2f453d",
+      "title": "Google AI Mode is getting more ads, whether you like it or not",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzMDlsSE9fcEtmQmEzRHRXVjVlMmw4bHlfU0VnRy1XeE1PSjZPQXVWUWZ4TmFlYWVYMERTbDljRkhqa3U4QkQ0MWhqOFh6RDZKRFlsYWNCMTJLcFE5ZXlQc0VB?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T07:05:00+00:00",
+      "summary": "Google AI Mode is getting more ads, whether you like it or not https://t.co/dD37wSmjhx X",
+      "engagement": 0.0,
+      "score": 50.34,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      },
+      "sources": [
+        "x"
+      ],
+      "ar": "تضيف Google إعلانات أكثر إلى وضع AI Mode، مما قد يؤثر سلباً على تجربة المستخدم وجودة النتائج في البحث المدعوم بالذكاء الاصطناعي."
     },
     {
       "id": "3be8be0dc42c8f48",
@@ -32,7 +185,7 @@
       "published": "2026-10-29T07:00:03+00:00",
       "summary": "GitHub Launches Copilot Fusion, Claims To Offer Cheaper AI Coding https://t.co/TSJQlZaI9l X",
       "engagement": 0.0,
-      "score": 50.2,
+      "score": 50.17,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d"
@@ -40,7 +193,26 @@
       "sources": [
         "x"
       ],
-      "ar": "GitHub أطلق Copilot Fusion مدعياً توفير تكاليف البرمجة بالذكاء الاصطناعي، وهو تحرك تنافسي مباشر قد يعيد تشكيل أسعار أدوات التطوير المدعومة بالـ AI."
+      "ar": "أطلق GitHub ميزة Copilot Fusion مدعياً تقديم أسعار أرخص للبرمجة بالذكاء الاصطناعي، في محاولة لتعزيز المنافسة في أدوات تطوير البرمجيات."
+    },
+    {
+      "id": "b1c8a3e8cda0215f",
+      "title": "From @qwinsi0x — how an AI Self-improving Trading Machine runs a Hedge Fund…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MZEhMYmRTNE1OT0VuVXM0cVlaT19xZml3WWhZVDNiOGhBVnFHZUlIc1UtSEtaNjdKaWxEYjBteWtVUGNjQ0NpUUhuLS1HUjhUYkZESXQ0RXkxRkNGVU5TSw?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T06:43:07+00:00",
+      "summary": "From @qwinsi0x — how an AI Self-improving Trading Machine runs a Hedge Fund… X",
+      "engagement": 0.0,
+      "score": 49.57,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      },
+      "sources": [
+        "x"
+      ],
+      "ar": ""
     },
     {
       "id": "1b6f8627fe01e01e",
@@ -51,7 +223,7 @@
       "published": "2026-10-29T06:42:54+00:00",
       "summary": "RevenueCat Android SDK 11.0.0 has been released. This release updates the SDK to Google Play Billing Library 9.1.0. The RevenueCat API is unchanged, but the new dependencies raise the build requirements. https://t.co/Vej80y8bZG X",
       "engagement": 0.0,
-      "score": 49.6,
+      "score": 49.56,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (Flutter OR \"React Native\" OR Expo OR Android) when:7d"
@@ -59,7 +231,7 @@
       "sources": [
         "x"
       ],
-      "ar": "إصدار RevenueCat SDK 11.0.0 يحدّث مكتبة Google Play Billing، مما يفرض على المطورين ترقية متطلبات البناء دون تغيير الـ API."
+      "ar": ""
     },
     {
       "id": "46ec9c527a26f04b",
@@ -70,7 +242,7 @@
       "published": "2026-10-29T07:48:06+00:00",
       "summary": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways. https://www. wired.com/story/i-put-ai-agent s-in-charge-of-a-fantasy-team/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cy",
       "engagement": 4.0,
-      "score": 49.37,
+      "score": 49.33,
       "niche_hits": [],
       "meta": {
         "account": "techwire@gamefan.net"
@@ -78,7 +250,7 @@
       "sources": [
         "mastodon"
       ],
-      "ar": "تجربة عملية لوضع وكلاء ذكاء اصطناعي لإدارة فريق كرة قدم خيالي، توضح حدود قدرات الـ Agents في اتخاذ القرارات المعقدة والتكتيكية."
+      "ar": ""
     },
     {
       "id": "042828d502a67adc",
@@ -89,7 +261,7 @@
       "published": "2026-10-29T04:58:38+00:00",
       "summary": "Slack is an especially good form factor for interacting with AI agents. Channels, threaded replies, notifications - all the features that make it work well for a team of humans work just as well for a team of agents. X",
       "engagement": 0.0,
-      "score": 48.54,
+      "score": 48.51,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d"
@@ -97,16 +269,16 @@
       "sources": [
         "x"
       ],
-      "ar": "Slack يُعد واجهة مثالية للتفاعل مع وكلاء الذكاء الاصطناعي بفضل قنواته وإشعاراته، مما يسهل دمج الـ Agents في سير عمل الفرق البشرية."
+      "ar": ""
     },
     {
-      "id": "7dbb44d674522f97",
-      "title": "Google’s Search business is being CANNIBALIZED by AI. Alphabet shares plunged nearly -10% after hours as Search revenue missed expectations, even as people asked Google more questions. The reason is that more searches don’t automatically mean m",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZMjBKbTlUbzZPemtBOFRpTkdJVnJkajVLeTJodjc5THBGdTN3RFFMMy1yVjlOczdPX1dXeXR1SS1qMVlyRUpGWTdRakRwVkZobm5pX3B5ZWVHTThuQ0N5dQ?oc=5",
+      "id": "db6a317bf0ef589c",
+      "title": "Morning Bid: In the AI alphabet, cash is king. As AI reshapes markets, cash flow and disciplined funding remain central to the investment story. Read more: #AI #Markets #Finance:",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ObzR1NEdPSXk0UVdJNGZiTGE3RlYxNWRFbDh3RlhTWHJsNUt5c2tQTjRHNDdlZVQ0WEJmSTV3SEo4c2t1NEhpWXJHVXBtWnUwTlpOdS1kUkw5OWdSRlVQUg?oc=5",
       "source": "x",
       "topic": "ai",
-      "published": "2026-10-29T05:48:25+00:00",
-      "summary": "Google’s Search business is being CANNIBALIZED by AI. Alphabet shares plunged nearly -10% after hours as Search revenue missed expectations, even as people asked Google more questions. The reason is that more searches don’t automatically mean m X",
+      "published": "2026-10-29T05:49:35+00:00",
+      "summary": "Morning Bid: In the AI alphabet, cash is king. As AI reshapes markets, cash flow and disciplined funding remain central to the investment story. Read more: https://t.co/xCG3pTU316 #AI #Markets #Finance: https://t.co/JdG65XX70D X",
       "engagement": 0.0,
       "score": 47.75,
       "niche_hits": [],
@@ -115,179 +287,6 @@
       },
       "sources": [
         "x"
-      ],
-      "ar": "أسهم Alphabet هبطت 10% بعد نتائج أرباح مخيبة للآمال رغم زيادة البحث، مما يؤكد أن الـ AI يستهلك إيرادات البحث التقليدية بشكل متسارع."
-    },
-    {
-      "id": "68b30f52f0b88fee",
-      "title": "AI connected to your company knowledge should come with an off switch",
-      "url": "https://social.xwiki.com/@xwiki/117523078682605038",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T07:44:27+00:00",
-      "summary": "AI connected to your company knowledge should come with an off switch. And a choice of provider. And a choice of where it runs. That was part of the thinking behind the XWiki MCP Server (Beta) from the beginning. Today, Gabriel will guide you through connecting an AI agent to XWiki, working with the knowledge already there, and configuring the setup around your own choices. 👉Last chance to registe",
-      "engagement": 0.0,
-      "score": 47.61,
-      "niche_hits": [],
-      "meta": {
-        "account": "xwiki@xwiki.com"
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "ar": "يجب تزويد أنظمة الذكاء الاصطناعي المرتبطة بمعرفة الشركة بمفتاح إيقاف، لضمان التحكم الكامل ومنع تسرب البيانات الحساسة أو الأخطاء غير المرغوبة."
-    },
-    {
-      "id": "e1a248fdfb16b1bc",
-      "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners Florida county claims it lacks resources to find owners of…",
-      "url": "https://social.gamefan.net/@techwire/117523034031205351",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T07:33:06+00:00",
-      "summary": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners Florida county claims it lacks resources to find owners of unpermitted Flock cameras. https:// arstechnica.com/tech-policy/20 26/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # St",
-      "engagement": 6.0,
-      "score": 47.26,
-      "niche_hits": [],
-      "meta": {
-        "account": "techwire@gamefan.net"
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "ar": "مقاطعة فلوريدا ترفض التحقيق في كاميرات Flock المشبوهة المزالة، مما يكشف عن فجوة رقابية خطيرة في مراقبة الأجهزة الأمنية الخاصة."
-    },
-    {
-      "id": "44e3e5f137f8038b",
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-10-29T00:25:45+00:00",
-      "summary": "",
-      "engagement": 351.0,
-      "score": 47.18,
-      "niche_hits": [],
-      "meta": {
-        "points": 351,
-        "comments": 78,
-        "hn_url": "https://news.ycombinator.com/item?id=50282838"
-      },
-      "sources": [
-        "hackernews"
-      ],
-      "ar": "نموذج Qwen3.5 يحتوي على معالج RISC-V حتمي وظيفي، وهو تطور غير متوقع يدمج قدرات معالجة مباشرة داخل بنية النموذج اللغوي."
-    },
-    {
-      "id": "5991b31911d2f3d5",
-      "title": "Apple announces touchscreen MacBook Pro with OLED display The OLED display is the main draw, but the price is a lot to reckon with",
-      "url": "https://social.gamefan.net/@techwire/117523053691748516",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T07:38:06+00:00",
-      "summary": "Apple announces touchscreen MacBook Pro with OLED display The OLED display is the main draw, but the price is a lot to reckon with. https:// arstechnica.com/apple/2026/10/ apple-announces-touchscreen-macbook-pro-with-oled-display/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # ArsTechnica [Ars Technica]",
-      "engagement": 4.0,
-      "score": 46.6,
-      "niche_hits": [],
-      "meta": {
-        "account": "techwire@gamefan.net"
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "ar": "Apple أعلنت عن MacBook Pro بشاشة لمس وOLED، حيث يمثل العرض الجديد نقطة البيع الأساسية رغم السعر المرتفع الذي قد يحد من انتشاره."
-    },
-    {
-      "id": "46ff991ea061aaa4",
-      "title": "Omicron is now listed on @ fedidb See at: https:// fedidb.com/software/omicron # Fediverse # ActivityPub # OpenSource # Blogging # omicron",
-      "url": "https://fosstodon.org/@OmicronHQ/117522998371864847",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T07:24:02+00:00",
-      "summary": "Omicron is now listed on @ fedidb See at: https:// fedidb.com/software/omicron # Fediverse # ActivityPub # OpenSource # Blogging # omicron",
-      "engagement": 4.0,
-      "score": 46.09,
-      "niche_hits": [],
-      "meta": {
-        "account": "OmicronHQ@fosstodon.org"
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "600a3d68ee256a27",
-      "title": "📢 Découvrez le 3ème numéro de notre veille sécuritaire 🛡️ ! 💡 Dans cette série de billets, nous communiquons sur les alertes de sécurité…",
-      "url": "https://pouet.chapril.org/@arawa/117522906303583271",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T07:00:37+00:00",
-      "summary": "📢 Découvrez le 3ème numéro de notre veille sécuritaire 🛡️ ! 💡 Dans cette série de billets, nous communiquons sur les alertes de sécurité (#CVE...) qui concernent les solutions que nous intégrons. 🔗 C'est par ici : https://www. arawa.fr/2026/10/28/veille-sec uritaire-collaboration-open-source-3/ 🛜 Flux RSS : https://www. arawa.fr/category/veille-techn ique/feed/ #️⃣ # OpenSource # LogicielsLibres #",
-      "engagement": 6.0,
-      "score": 46.09,
-      "niche_hits": [],
-      "meta": {
-        "account": "arawa@pouet.chapril.org"
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "4d0280c5458a74eb",
-      "title": "OpenMBEE: Der lange Weg von der NASA’s JPL zu Kotar Kotar ist ein kostenloser SysML-v2-Editor, der im Browser läuft",
-      "url": "https://mastodon.world/@jastram/117522904052988732",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T07:00:02+00:00",
-      "summary": "OpenMBEE: Der lange Weg von der NASA’s JPL zu Kotar Kotar ist ein kostenloser SysML-v2-Editor, der im Browser läuft. Mein erster Eindruck: Extrem beeindruckend. Insbesondere steckt wesentlich mehr als nur ein Editor allerdings: ein SysML-v2-Service, ein Model Management System namens Flexo und eine RDF-Date https://www. se-trends.de/openmbee-der-lang e-weg-von-der-nasa-zu-kotar/ # LuftRaumfahrt # ",
-      "engagement": 6.0,
-      "score": 46.07,
-      "niche_hits": [],
-      "meta": {
-        "account": "jastram@mastodon.world"
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "33356f5a7ed55328",
-      "title": "Google AI gets cagey when asked who won the 2020 elections But the AI responses get more forthright when asked outside the US",
-      "url": "https://social.gamefan.net/@techwire/117522994709456207",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T07:23:06+00:00",
-      "summary": "Google AI gets cagey when asked who won the 2020 elections But the AI responses get more forthright when asked outside the US. https:// arstechnica.com/ai/2026/10/goo gle-ai-gets-cagey-when-asked-who-won-the-2020-elections/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # ArsTechnica [Ars Technica]",
-      "engagement": 4.0,
-      "score": 46.05,
-      "niche_hits": [],
-      "meta": {
-        "account": "techwire@gamefan.net"
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "ef9d79a7acc9a063",
-      "title": "From worker surveillance to warfare, the risks of the widespread adoption of AI are increasingly clear",
-      "url": "https://mastodon.online/@pernillet/117523048416897416",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T07:36:45+00:00",
-      "summary": "From worker surveillance to warfare, the risks of the widespread adoption of AI are increasingly clear. According to polls, large majorities of Europeans are in favour of regulating # ai But while citizens support government actions to regulate AI, the Council’s text goes in the opposite direction. Under the guise of “winning the global AI race” the EU has embarked on a radical deregulation progra",
-      "engagement": 3.0,
-      "score": 45.99,
-      "niche_hits": [],
-      "meta": {
-        "account": "pernillet@mastodon.online"
-      },
-      "sources": [
-        "mastodon"
       ],
       "ar": ""
     }
