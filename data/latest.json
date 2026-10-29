@@ -1,320 +1,320 @@
 {
-  "generated_at": "2026-10-29T10:22:11.877247+00:00",
-  "fetched": 44,
+  "generated_at": "2026-10-29T10:25:25.212385+00:00",
+  "fetched": 54,
   "stories": [
     {
-      "id": "0f292a090ca103f0",
-      "title": "DLSS Updater 5.2 released with AMD FSR 4.1.2 support #OpenSource #Apps #NewRelease #AMD #NVIDIA #Intel DLSS Updater 5.2 released with...",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:m5dcinlrpxq6rm2uficksxp7/post/3myyzwskbvr2i",
+      "id": "b4a203f9c681d60a",
+      "title": "Open source prosthetics! 🦿 A powered prosthetic leg runs its control loop at a few hundred hertz, on a battery computer strapped to someone’s shin, and the failure mode is literally a person falling over. The Neurobionics Lab at Michigan says it plainly about th",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11Y0dKSlZPWnV2UVZoeEd1TGNhcGtCVnpFemh6WUlBQXhPa2h3WXIwLXFENUp6LU9jbzczcnlsVUczeFgtT0pRU0VUMkZod2xHSXhKU3J5QTR0YkM3SVB2RTZiWTlQVEU?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-29T03:37:57+00:00",
+      "summary": "Open source prosthetics! 🦿 A powered prosthetic leg runs its control loop at a few hundred hertz, on a battery computer strapped to someone’s shin, and the failure mode is literally a person falling over. The Neurobionics Lab at Michigan says it plainly about th X",
+      "engagement": 0.0,
+      "score": 53.46,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.524
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.524,
+      "ar": "مختبر في ميشيغان يطور ساقاً صناعية مفتوحة المصدر تعمل بحلقة تحكم عالية التردد، مما يبرز تحدي الموثوقية في أنظمة الروبوتات الطبية الحرجة."
+    },
+    {
+      "id": "fda9c6785a6d7762",
+      "title": "Open-source LLM doesn't mean free LLM. Here's why:",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wd2gzZklFY3VkcHlpNUxBNWRsaDV2WlU0M25jZ0FwdTRISWZLOTdjQW0xdnZvdG96UDVPcFc3Q0syU2J3SHMzZERvY1ktNVdzeGU5OHR0UDRjOHBrT2VmdE84UklhSFEt?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-28T19:00:46+00:00",
+      "summary": "Open-source LLM doesn't mean free LLM. Here's why: X",
+      "engagement": 0.0,
+      "score": 50.82,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.7949
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.795,
+      "ar": "مفهوم Open-source LLM لا يعني بالضرورة مجانية الاستخدام، بل يشير فقط إلى إتاحة الكود، مما يتطلب فهم التكاليف التشغيلية الحقيقية للنماذج."
+    },
+    {
+      "id": "e2493e18c0f11ceb",
+      "title": "50th birthday of # gnu # emacs What a piece of software! 🎉 🤓 # foss # opensource # freesoftware",
+      "url": "https://mastodon.social/@rauldux/117523709058772219",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T10:16:35+00:00",
-      "summary": "DLSS Updater 5.2 released with AMD FSR 4.1.2 support #OpenSource #Apps #NewRelease #AMD #NVIDIA #Intel DLSS Updater 5.2 released with...",
+      "published": "2026-10-29T10:24:46.374000+00:00",
+      "summary": "50th birthday of # gnu # emacs What a piece of software! 🎉 🤓 # foss # opensource # freesoftware",
+      "engagement": 1.0,
+      "score": 48.36,
+      "niche_hits": [],
+      "meta": {
+        "account": "rauldux",
+        "taste": 0.591
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.591,
+      "ar": "احتفال بمرور خمسين عاماً على إطلاق GNU Emacs، وهو محرر نصوص أسطوري لا يزال يثبت متانته وقدرته على التخصيص في عالم البرمجيات الحرة."
+    },
+    {
+      "id": "21348c6c25612dab",
+      "title": "Ask a coding agent to speed up a slow pandas job and you often get pandas back: correct, confident, and still on the CPU. 🖥️ Join Allison Ding, Senior Developer Advocate at NVIDIA, for the hands-on tutorial “Teaching Coding Agents to Think in GPU: Writing,",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5b2RsUkMzVDFKNUk5Q24yazJHcXZ2MU9xU0lmTWlaNDFLNFpRSUs2NjlsMGVhTmJIeU93VHFRTjZoZ1o3TUwyU3VBUWpEelJSQk1SUUU2OWhzRTdpQXZDSGxsMkptdTQ?oc=5",
+      "source": "x",
+      "topic": "harness",
+      "published": "2026-10-28T14:01:15+00:00",
+      "summary": "Ask a coding agent to speed up a slow pandas job and you often get pandas back: correct, confident, and still on the CPU. 🖥️ Join Allison Ding, Senior Developer Advocate at NVIDIA, for the hands-on tutorial “Teaching Coding Agents to Think in GPU: Writing, X",
       "engagement": 0.0,
-      "score": 44.44,
+      "score": 40.45,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.4024
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.402,
+      "ar": "وكلاء البرمجة غالباً ما يعيدون استخدام pandas على المعالج المركزي، لذا تحتاج لتدريبهم على التفكير بـ GPU لتحقيق تسريع حقيقي في معالجة البيانات."
+    },
+    {
+      "id": "22f85207885e5db4",
+      "title": "Mesa 26.2.6 brings fixes for The Witcher 3 Remastered and various other Linux driver issues #Drivers #OpenSource #Linux #LinuxGaming #Mesa…",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:m5dcinlrpxq6rm2uficksxp7/post/3myz2damqcb2x",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:23:33+00:00",
+      "summary": "Mesa 26.2.6 brings fixes for The Witcher 3 Remastered and various other Linux driver issues #Drivers #OpenSource #Linux #LinuxGaming #Mesa Mesa 26.2.6 brings fixes for T...",
+      "engagement": 0.0,
+      "score": 37.36,
       "niche_hits": [],
       "meta": {
         "account": "gamingonlinux.com@bsky.brid.gy",
-        "taste": 0.5398
+        "taste": 0.3604
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.54,
-      "ar": "أصدرت NVIDIA تحديث DLSS Updater 5.2 بدعم رسمي لتقنية AMD FSR 4.1.2، مما يسهّل إدارة التحديثات عبر منصة موحدة لجميع المستخدمين."
+      "taste": 0.36,
+      "ar": "إصدار Mesa 26.2.6 يحسن أداء The Witcher 3 Remastered ويصلح أخطاء متنوعة في دوافع Linux، مما يعزز تجربة الألعاب على لينكس."
     },
     {
-      "id": "d54a5cb98c7f16c0",
-      "title": "Small Language Models (SLMs) vs. Large Language Models (LLMs): Use Cases & Trade-offs in 2026 For a while, it felt like the AI world had…",
-      "url": "https://mastodon.world/@razi93/117523693190947052",
+      "id": "0ae4fd27efb4b915",
+      "title": "At least 68 killed in Spanish high-speed train crash Article URL: https://www",
+      "url": "https://social.gamefan.net/@techwire/117523702500197200",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T10:20:44+00:00",
-      "summary": "Small Language Models (SLMs) vs. Large Language Models (LLMs): Use Cases & Trade-offs in 2026 For a while, it felt like the AI world had one rule: bigger is better. The drumbeat of headlines celebrated models with hundreds of https:// wpfrank.com/slms-vs-large-lang uage-models-llms-use-cases/ # LLMs # SLMs # AI # AImodels",
-      "engagement": 2.0,
-      "score": 42.29,
-      "niche_hits": [],
-      "meta": {
-        "account": "razi93@mastodon.world",
-        "taste": 0.4146
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.415,
-      "ar": "تبرز مزايا النماذج اللغوية الصغيرة SLMs مقابل الكبيرة LLMs في كفاءة التشغيل والتكلفة، مما يجعلها خياراً عملياً للتطبيقات المتخصصة في عام 2026."
-    },
-    {
-      "id": "48f9415c0168d04f",
-      "title": "Claude Code CLI finally has the /restart built into it",
-      "url": "https://mstdn.social/@tekkie/117523694983824140",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:21:11+00:00",
-      "summary": "Claude Code CLI finally has the /restart built into it. Also keeps the session. Good change! # AI # Programming",
-      "engagement": 0.0,
-      "score": 41.08,
-      "niche_hits": [],
-      "meta": {
-        "account": "tekkie@mstdn.social",
-        "taste": 0.4526
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.453,
-      "ar": "أضافت Anthropic أمر /restart المدمج في واجهة Claude Code CLI، مما يحسن استقرار الجلسة ويقلل الحاجة لإعادة تشغيل الأداة يدوياً."
-    },
-    {
-      "id": "ad0751d6781edd78",
-      "title": "Engadget is hiring writers! We're looking for freelance journalists who know their way around a tech blog",
-      "url": "https://social.gamefan.net/@techwire/117523682837791461",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:18:06+00:00",
-      "summary": "Engadget is hiring writers! We're looking for freelance journalists who know their way around a tech blog. https://www. engadget.com/2300216/engadget- is-hiring-writers-october-2026/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # Engadget [Engadget]",
+      "published": "2026-10-29T10:23:06+00:00",
+      "summary": "At least 68 killed in Spanish high-speed train crash Article URL: https://www. bbc.com/news/live/cv1j309d4g98t Comments URL: https:// news.ycombinator.com/item?id=5 0278970 Points: 6 # Comments: 1 https://www. bbc.com/news/live/cv1j309d4g98t # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # HackerNews [Hacker News]",
       "engagement": 4.0,
-      "score": 33.62,
+      "score": 37.16,
       "niche_hits": [],
       "meta": {
         "account": "techwire@gamefan.net",
-        "taste": 0.1676
+        "taste": 0.2551
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.168,
-      "ar": "تعلن Engadget عن توظيف كتاب مستقلين لتغطية أخبار التقنية، مما يعكس استمرار الطلب على المحتوى الصحفي المتخصص في قطاع التكنولوجيا."
+      "taste": 0.255,
+      "ar": "حادث قطار سريع في إسبانيا أسفر عن مقتل 68 شخصاً، وهو كارثة نقل جماعي تثير تساؤلات حول معايير السلامة في شبكات السكك الحديدية الأوروبية."
     },
     {
-      "id": "e43f6c2067750d31",
-      "title": "We chose ArgoCD for our GitOps controller after a neutral comparison with Flux CD, proving our sovereign cloud is ready for scalable,…",
-      "url": "https://mastodon.social/@graphwiz_ai/117523691874080059",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:20:24.155000+00:00",
-      "summary": "We chose ArgoCD for our GitOps controller after a neutral comparison with Flux CD, proving our sovereign cloud is ready for scalable, secure Kubernetes deployments. Read the full comparison at https:// openedusuite.org/en/blog/argoc d-vs-flux 🚀 Read the latest at https:// openedusuite.org/en/blog — open-source digital workplace for universities. # opendesk # digitalsovereignty # education # univer",
+      "id": "ad310af9d3d6f896",
+      "title": "LFM3 by Liquid AI",
+      "url": "https://www.producthunt.com/products/lfm2",
+      "source": "producthunt",
+      "topic": "launch",
+      "published": "2026-10-27T10:20:52-07:00",
+      "summary": "",
       "engagement": 0.0,
-      "score": 33.28,
+      "score": 35.62,
       "niche_hits": [],
       "meta": {
-        "account": "graphwiz_ai",
-        "taste": 0.2582
+        "via": "Product Hunt",
+        "taste": 0.8723
       },
       "sources": [
-        "mastodon"
+        "producthunt"
       ],
-      "taste": 0.258,
-      "ar": "اختار فريق السحابة السيادية ArgoCD كمتحكم GitOps بعد مقارنة محايدة مع Flux CD، مؤكداً جاهزيتهم لتوسيع البنية التحتية بشكل مرن وآمن."
+      "taste": 0.872,
+      "ar": "إطلاق LFM3 من Liquid AI، وهو نموذج لغوي مصمم لتقديم أداء قوي وكفاءة عالية في المهام المعقدة ضمن إطار عمل مرن للمطورين."
     },
     {
-      "id": "9f0650a40db6bb12",
-      "title": "Google's Gemini 4 Carbon AI model promises a significant leap in coding and cybersecurity, achieving top benchmark scores in those areas",
-      "url": "https://mastodon.social/@sipirtu/117523684226782305",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:18:27.479000+00:00",
-      "summary": "Google's Gemini 4 Carbon AI model promises a significant leap in coding and cybersecurity, achieving top benchmark scores in those areas. Source: Engadget https://www. engadget.com/2300677/google-ge mini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/ # AI # Google # Gemini",
-      "engagement": 0.0,
-      "score": 32.58,
-      "niche_hits": [],
-      "meta": {
-        "account": "sipirtu",
-        "taste": 0.2421
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.242,
-      "ar": "يعد نموذج Gemini 4 Carbon من Google بتحسينات كبيرة في قدرات البرمجة والأمن السيبراني، حيث حقق نتائج متقدمة في اختبارات الأداء المعيارية."
-    },
-    {
-      "id": "3b58da4073b7cc31",
-      "title": "Prioritise understanding AI security threats, even before productivity: OpenAI's Sam Altman to cos - People Matters",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUkM5RzF6b3A4NVZVbVh5V3l0ckdTNlFud21YRk9ieWs2LVJVOVBSTHM4dmRhd0lId0p5bHZNZHJZaEVlUDlLRDBicUNxNVVySFZLN09abzBRT1NQZm4zZ2lXcGhETVdRVVFuWG9lZUpHcVg0Yi0tc0FDcVlCX292Ni1RSGxHbVFGNXVOTFNXcW8wOGdNejhGSjlTbkJmZURLSGxJdjcteE9weXZ3eEkwRDZmc1VfR092UkRraERKVV90NndBS2RtVk1HajdNZnNHREZSZVJhV1dxcDdRS3JuQjRMY3R1eElKVV9Edw?oc=5",
-      "source": "news",
-      "topic": "tools",
-      "published": "2026-10-29T02:46:51+00:00",
-      "summary": "Prioritise understanding AI security threats, even before productivity: OpenAI's Sam Altman to cos People Matters - HR News",
-      "engagement": 0.0,
-      "score": 31.64,
-      "niche_hits": [],
-      "meta": {
-        "query": "AI tool launch OR productivity software when:7d",
-        "taste": 0.4496
-      },
-      "sources": [
-        "news"
-      ],
-      "taste": 0.45,
-      "ar": "يؤكد سام ألتمان من OpenAI على ضرورة أولوية فهم تهديدات أمن الذكاء الاصطناعي قبل التركيز على الإنتاجية، تحذيراً من المخاطر الأمنية المتزايدة."
-    },
-    {
-      "id": "a64117163f5514a7",
-      "title": "📰 AI fan wikis riddled with errors are muddying the waters of an already contested part of games culture Recently, I was writing a piece…",
-      "url": "https://igeek.gamer-geek-news.com/@feed/statuses/01M63JW82XAEDRS4CW0GF4XPQ2",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:21:49+00:00",
-      "summary": "📰 AI fan wikis riddled with errors are muddying the waters of an already contested part of games culture Recently, I was writing a piece about Nighthawks and wanted to remind myself of some basic information about the companion characters. As I have a thousand times before, I put the question into Goo... 📰 Source: Eurogamer.net Latest Articles Feed 🔗 Link: https://www.eurogamer.net/ai-fan-wikis-er",
-      "engagement": 0.0,
-      "score": 31.35,
-      "niche_hits": [],
-      "meta": {
-        "account": "feed@igeek.gamer-geek-news.com",
-        "taste": 0.209
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.209,
-      "ar": "تنتشر ويكيات مدعومة بالذكاء الاصطناعي مليئة بالأخطاء في ثقافة الألعاب، مما يخلق معلومات مضللة ويصعب التحقق من الحقائق التاريخية للمشاريع."
-    },
-    {
-      "id": "d06dac6bd78fec5d",
-      "title": "Artificial Intelligence, Media and Information Integrity in Bosnia and Herzegovina",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1otRG9mUmdtWGhmZzFrZjlETTBsS19DcXZrZ1BCRmVONml0aXNNeEgwTHpfczU3S0VxOTlxbVBpUWZZazRwa3lmX2tNYlQwZ3VPdzF2U2IxQ19BeUMxdFRHYmdCanJJOGlFdmRySDJCdXFMV213cVYzM25CZThEeXM3bWRNVEZpUndOZDFVNGxMTHpId05QS0JxY1NpV0lmOGFhM1NBbXM1TTg2azRDcUZ6blJHaXQzbFR3WXJBcVJyVERjQ2JOMA?oc=5",
-      "source": "news",
+      "id": "6054d204613c158d",
+      "title": "GPT-6.1 Terra is also coming to the API and Codex. Use Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04SkU0RGRwSVFjWFYtcUhsMVQ0eDVxOF9fa0tCZjd2TklVT0lkSnZEUXNDRjgwOFNSdmlWaXgycWtpUS1Zbno5YVJua01tVUNCRVhVUjNXcUF0ZTR4RFBrOQ?oc=5",
+      "source": "x",
       "topic": "ai",
-      "published": "2026-10-29T09:22:10+00:00",
-      "summary": "Artificial Intelligence, Media and Information Integrity in Bosnia and Herzegovina www.coe.int",
+      "published": "2026-10-26T18:07:32+00:00",
+      "summary": "GPT-6.1 Terra is also coming to the API and Codex. Use Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. X",
       "engagement": 0.0,
-      "score": 29.59,
+      "score": 35.4,
       "niche_hits": [],
       "meta": {
-        "query": "artificial intelligence OR LLM when:3d",
-        "taste": 0.1681
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.9369
       },
       "sources": [
-        "news"
+        "x"
       ],
-      "taste": 0.168,
-      "ar": "تدرس البوسنة والهرسك تأثير الذكاء الاصطناعي على سلامة الإعلام والمعلومات، سعياً لوضع أطر تنظيمية تحمي الجمهور من التضليل الرقمي."
+      "taste": 0.937,
+      "ar": "نموذج GPT-6.1 Terra يصل للـ API وCodex، موفراً استخداماً سريعاً ومخفض التكلفة للكمبيوتر، مما يجعله مثالياً لبناء تطبيقات ووكلاء أذكياء."
     },
     {
-      "id": "eec94134840b3497",
-      "title": "DLSS Updater 5.2 released with AMD FSR 4.1.2 support https://www",
-      "url": "https://mastodon.social/@gamingonlinux/117523677018991214",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:16:37.498000+00:00",
-      "summary": "DLSS Updater 5.2 released with AMD FSR 4.1.2 support https://www. gamingonlinux.com/2026/10/dlss -updater-5-2-released-with-amd-fsr-4-1-2-support/ # OpenSource # Apps # NewRelease # AMD # NVIDIA # Intel",
+      "id": "4f9a0e5088374850",
+      "title": "Orca is a free, open-source app that runs Claude, Codex, and any coding agent side by side in one window, plus a mobile app.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wM1AtZUJBVUNIS1FPTXplQWFGd2hDMExwTDR6dDg3X0Z6aWVVX0hfdFAyaDdxeVFDNlZQTDhQOFc3dENZUnptb2VZeWlNem90TF9WRE56UGVwNEtZbXJ4Q2I0Z00xT3lNeTFrdmNyVQ?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-26T11:32:57+00:00",
+      "summary": "Orca is a free, open-source app that runs Claude, Codex, and any coding agent side by side in one window, plus a mobile app. X",
       "engagement": 0.0,
-      "score": 28.81,
+      "score": 34.42,
       "niche_hits": [],
       "meta": {
-        "account": "gamingonlinux",
-        "taste": 0.1492
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.9335
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.933,
+      "ar": "تطبيق Orca مفتوح المصدر يتيح تشغيل Claude وCodex ووكلاء برمجة آخرين جنباً إلى جنب في نافذة واحدة، مع دعم كامل لتطبيق الجوال."
+    },
+    {
+      "id": "a72a059248aaed82",
+      "title": "CISA warnt vor aktiv ausgenutzter Sicherheitslücke im Linux-Kernel Die US-amerikanische Cybersicherheitsbehörde CISA hat zwei weitere…",
+      "url": "https://social.linux-magazin.de/@redaktion/117523707305029611",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:24:19+00:00",
+      "summary": "CISA warnt vor aktiv ausgenutzter Sicherheitslücke im Linux-Kernel Die US-amerikanische Cybersicherheitsbehörde CISA hat zwei weitere Sicherheitslücken in ihren Katalog bekanntermaßen ausgenutzter Schwachstellen (Known Exploited Vulnerabilities, KEV)… https://www. linux-magazin.de/news/cisa-war nt-vor-aktiv-ausgenutzter-sicherheitsluecke-im-linux-kernel/ # linux # opensource # LinuxKernel # CVE202",
+      "engagement": 4.0,
+      "score": 32.61,
+      "niche_hits": [],
+      "meta": {
+        "account": "redaktion@social.linux-magazin.de",
+        "taste": 0.1404
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.149,
-      "ar": "أطلقت NVIDIA النسخة 5.2 من DLSS Updater مع دعم AMD FSR 4.1.2، مما يوفر أداة موحدة لإدارة تحديثات تقنيات تحسين الرسوميات."
+      "taste": 0.14,
+      "ar": "CISA تحذر من ثغرات أمنية نشطة في Linux Kernel، مما يستوجب تحديث الأنظمة فوراً لتجنب استغلالها من قبل المهاجمين السيبرانيين."
     },
     {
-      "id": "f609db8d385eb399",
-      "title": "holy sht.. I built a film crew out of AI agents and my script supervisor rejected the whole film here's how it went inside @Teamily_AI ↓ planning even a 3-minute short usually means the story in one doc, the shot list in another, color notes somewhere else, and e",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yaVNxaXk1MDZaOVFzWFlucTlUWVJYR0swMVJyVmRrcXNXMl9pR3BsMDczUXhFU0J1UVYtYnVFX2ZyZ00yRHMzejJXWXpRcVlJeHN2d1RjNVZFRFNWNzBNTVUzTXJ1dw?oc=5",
+      "id": "a13971c29ffeb828",
+      "title": "YouTube insists on repeatedly showing me the idiotic commercials from T-Mobile starring Billy Bob Thornton",
+      "url": "https://curmudgeon.cafe/@BillSaysThis/117523700523883659",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:22:36+00:00",
+      "summary": "YouTube insists on repeatedly showing me the idiotic commercials from T-Mobile starring Billy Bob Thornton. Did they fire all the copywriters? Because if these were not written by an # AI the writers should quit and go to work at Trader Joe’s, that’s how bad they are.",
+      "engagement": 0.0,
+      "score": 30.71,
+      "niche_hits": [],
+      "meta": {
+        "account": "BillSaysThis@curmudgeon.cafe",
+        "taste": 0.1948
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.195,
+      "ar": ""
+    },
+    {
+      "id": "3204541f872ed917",
+      "title": "DLSS Updater enables you to scan your system for games, and then replace their upscaling and frame-generation with updated versions or…",
+      "url": "https://mastodon.world/@gamingonlinux/117523702314527118",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:23:03+00:00",
+      "summary": "DLSS Updater enables you to scan your system for games, and then replace their upscaling and frame-generation with updated versions or something else entirely. https://www. gamingonlinux.com/2026/10/dlss -updater-5-2-released-with-amd-fsr-4-1-2-support/ # OpenSource # Apps # NewRelease # Misc",
+      "engagement": 2.0,
+      "score": 30.46,
+      "niche_hits": [],
+      "meta": {
+        "account": "gamingonlinux@mastodon.world",
+        "taste": 0.1194
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.119,
+      "ar": ""
+    },
+    {
+      "id": "d45ddeb13282914d",
+      "title": "Moving away from Google Workspace shouldn’t mean rebuilding the automations you rely on. Collabora Online is adding support for add-ons written in Google Apps Script, so existing workflows can move to a self-hosted, open-source office suite. Add-ons sit i",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02MWxHYi1uLVEyb3pFbmpNeXZCTkdWT190d1JSaFBIOTNUQXMwZjNxMzRiazZ1NVhQZFBIWG1OQ2x4Vl9MSjdxejF1ckZRN2xhZDFXMGxwb1g1QzVoZ0pxQzlENXdLQTA?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-28T16:05:27+00:00",
+      "summary": "Moving away from Google Workspace shouldn’t mean rebuilding the automations you rely on. Collabora Online is adding support for add-ons written in Google Apps Script, so existing workflows can move to a self-hosted, open-source office suite. Add-ons sit i X",
+      "engagement": 0.0,
+      "score": 28.9,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.3242
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.324,
+      "ar": ""
+    },
+    {
+      "id": "ccecec57f9d98d34",
+      "title": "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain re",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DZXN0NWJ4NW5fY1dWdzVpa1o3MDQ3SUV2RDJGc1RubDdSYjVNYnlBc1pUcy1xR1NONHhDREpsb21WZnVFUFlneWp4bG9XeEdPVTRBSFRvdUpZVnphNkhaTVVUUQ?oc=5",
       "source": "x",
       "topic": "agents",
-      "published": "2026-10-27T07:07:15+00:00",
-      "summary": "holy sht.. I built a film crew out of AI agents and my script supervisor rejected the whole film here's how it went inside @Teamily_AI ↓ planning even a 3-minute short usually means the story in one doc, the shot list in another, color notes somewhere else, and e X",
+      "published": "2026-10-28T13:58:00+00:00",
+      "summary": "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain re X",
       "engagement": 0.0,
-      "score": 14.35,
+      "score": 27.21,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.3469
+        "taste": 0.2727
       },
       "sources": [
         "x"
       ],
-      "taste": 0.347,
+      "taste": 0.273,
       "ar": ""
     },
     {
-      "id": "6935124d2b6c2220",
-      "title": "Agents can stay on task longer than ever (doubling every 7 months in length of time), but most enterprises are still reluctant to let them access systems of record. My take: Not just better guardrails are needed, but new database capabilities that can track the “re",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YV2JYV240RjZicHEwWjYwQ1pqUWVsczA4Si1iM1F3cndYUDZqX2ZhdGlsMmh1SXhkaDNkdTE0d21sMTRTREs3Vlo3ZEhNS0U2SENBN1JnYVJpYWZ0VE0wS2Utdw?oc=5",
+      "id": "9691f7d3b1524227",
+      "title": "Securing open-source software for the enterprise is a challenge @chainguard_dev is working to address. At Morgan Stanley’s Tech Week, Dan Lorenc discusses how engaging with organizations at scale can help strengthen software supply chains and meet",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rczd2dVR6VzYxQjhVNWZ0WnFJa0ZSc203Vl9kVWk0czNYOWhqQzJwZDJrVDRZc3FXanZCdXl6VFo0T21fcVhYUnhtRV9KdHVSelR2QkVjSFF0S0tzdmpXdGdtSENoMWN1TFlOR0dPbw?oc=5",
       "source": "x",
-      "topic": "agents",
-      "published": "2026-10-27T19:29:42+00:00",
-      "summary": "Agents can stay on task longer than ever (doubling every 7 months in length of time), but most enterprises are still reluctant to let them access systems of record. My take: Not just better guardrails are needed, but new database capabilities that can track the “re X",
+      "topic": "opensource",
+      "published": "2026-10-28T17:00:00+00:00",
+      "summary": "Securing open-source software for the enterprise is a challenge @chainguard_dev is working to address. At Morgan Stanley’s Tech Week, Dan Lorenc discusses how engaging with organizations at scale can help strengthen software supply chains and meet X",
       "engagement": 0.0,
-      "score": 13.31,
+      "score": 26.62,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.2186
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.2441
       },
       "sources": [
         "x"
       ],
-      "taste": 0.219,
-      "ar": ""
-    },
-    {
-      "id": "62aa462237e7573e",
-      "title": "Major banks are limiting third-party AI agents from customer accounts. The dilemma: knowing whether a request is human, and if not, whether that agent is truly authorized. CEO @andredurand broke down this emerging identity challenge with @USAToday: htt",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnRVJGeUxENXBwSUxqRWVIOFh2VDJlcmxTbXZnemFTTUZGaFlOcER1VnJiWlM1TzlpRXJvNjFQQnJYMXhVcGxwdmcwRlU3TGRhVXhQbC1ZYmprRXJYV1FYSzdaWQ?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-10-27T17:29:00+00:00",
-      "summary": "Major banks are limiting third-party AI agents from customer accounts. The dilemma: knowing whether a request is human, and if not, whether that agent is truly authorized. CEO @andredurand broke down this emerging identity challenge with @USAToday: htt X",
-      "engagement": 0.0,
-      "score": 11.91,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.2039
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.204,
-      "ar": ""
-    },
-    {
-      "id": "307df77daf71ba16",
-      "title": "Post all the negative AI related news recently, $SPCX revs beat by 14% w/ AI beating by 19%. Q4 capex guide almost 90% above consensus while Q1 revs guided 57% above. Also $SMCI +pre w/ revs 27% above consensus. My conviction of a near-term AI ral",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03U0syNU5Tc2dBbXpFUGpsQ0swcWwwdDctRm4xUzF6WWJjTlFFNmJoaXpKQVF6Q01iOEktV2Nob2RTQ2d1X2RWYnpOMnlFRDhEN1N2emJsemFBTzRuT09OLTNyVQ?oc=5",
-      "source": "x",
-      "topic": "research_tools",
-      "published": "2026-10-21T00:32:26+00:00",
-      "summary": "Post all the negative AI related news recently, $SPCX revs beat by 14% w/ AI beating by 19%. Q4 capex guide almost 90% above consensus while Q1 revs guided 57% above. Also $SMCI +pre w/ revs 27% above consensus. My conviction of a near-term AI ral X",
-      "engagement": 0.0,
-      "score": 11.84,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (Elicit OR Consensus OR SciSpace OR NotebookLM OR Zotero OR Overleaf OR \"literature review\") when:14d",
-        "taste": 0.2958
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.296,
-      "ar": ""
-    },
-    {
-      "id": "451e2701dbbd8606",
-      "title": "The consensus around AI may be starting to crack amid worries about valuations, financing, infrastructure costs, and the speed of adoption. #CEODaily",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CeXdhRkdTeWJVazZKMDdJamlHQVUzbjNKUVlRaHVQcGEtaUQtQ1BadXBoazJEMlBqRGIxWDhEWTZMVDdSRHRtUWwxSWxILWFiT0NtMmJYMjAyMEFmZlNkVE10bGlORGc?oc=5",
-      "source": "x",
-      "topic": "research_tools",
-      "published": "2026-10-22T15:03:01+00:00",
-      "summary": "The consensus around AI may be starting to crack amid worries about valuations, financing, infrastructure costs, and the speed of adoption. #CEODaily https://t.co/pKy0nhAaqv X",
-      "engagement": 0.0,
-      "score": 11.7,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (Elicit OR Consensus OR SciSpace OR NotebookLM OR Zotero OR Overleaf OR \"literature review\") when:14d",
-        "taste": 0.2912
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.291,
+      "taste": 0.244,
       "ar": ""
     }
   ]
