@@ -1,320 +1,320 @@
 {
-  "generated_at": "2026-10-29T10:02:46.472526+00:00",
+  "generated_at": "2026-10-29T10:16:33.582333+00:00",
   "fetched": 154,
   "stories": [
     {
-      "id": "fde89828e5428b0c",
-      "title": "noalloc proposes compile-time and test-time enforcement of zero heap allocations in Go, filling a gap the standard toolchain leaves open",
-      "url": "https://mastodon.social/@godaily/117523614015776913",
+      "id": "c98c0f6e2a864300",
+      "title": "agent-shell gets its first 2000 GitHub stars https:// github.com/xenodium/agent-shell 😊 # emacs # llm # ai # agent # foss # oss",
+      "url": "https://indieweb.social/@xenodium/117523638757111468",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T10:00:36.141000+00:00",
-      "summary": "noalloc proposes compile-time and test-time enforcement of zero heap allocations in Go, filling a gap the standard toolchain leaves open. Annotate functions, run the checks, get failures when allocations sneak in. https:// github.com/theconsensuslabs/no alloc # golang # go # programming",
-      "engagement": 0.0,
-      "score": 56.9,
+      "published": "2026-10-29T10:06:53+00:00",
+      "summary": "agent-shell gets its first 2000 GitHub stars https:// github.com/xenodium/agent-shell 😊 # emacs # llm # ai # agent # foss # oss",
+      "engagement": 2.0,
+      "score": 64.72,
       "niche_hits": [],
       "meta": {
-        "account": "godaily",
-        "taste": 0.849
+        "account": "xenodium@indieweb.social",
+        "taste": 0.9211
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.849,
-      "ar": "أداة noalloc تفرض صفر heap allocations وقت الترجمة والاختبار في Go، مما يسد فجوة مهمة في أدوات السلاسل القياسية."
+      "taste": 0.921,
+      "ar": "حصل مشروع agent-shell على 2000 نجمة في GitHub، مما يعكس اهتماماً متزايداً بواجهات LLMs المدمجة مع أدوات مثل Emacs."
     },
     {
-      "id": "24656ad7b06b3358",
-      "title": "Nomos Glashütte's most popular model is now available in a bigger size and features a new dial colour. And we reckon you'll be into it",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IVmhVdTJvMFRQdVlMaGJBNVU0NXFIbDAwdUdnV2RDVDl4U1UteWNxRmJyV3g3ZEl3b0JzRzd1ZmxWcHhSbVd4U0RRYXluQ3hsbC01OGk2T3M2V1ZkdnFB?oc=5",
+      "id": "5481a7b1d035321e",
+      "title": "The new Artificial Analysis index shows that closed-source AI is widening the gap with open-source models. The alpha in AI isn't in doing the pedestrian; it's in building products we can't yet imagine.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ca3JlM3RqaTQzZzFQYXJkbndNbFVEM01jdmZIdG1DOGVObHUtc0xTVVZES0ZhWXRKVmZ2ZDF3UTRTLXZSMEVNVmFtNWsyNFhIbzhCNVlIZmhXVFhtMi15dzY4YnY?oc=5",
       "source": "x",
-      "topic": "launch",
-      "published": "2026-10-29T09:15:24+00:00",
-      "summary": "Nomos Glashütte's most popular model is now available in a bigger size and features a new dial colour. And we reckon you'll be into it https://t.co/WZz9kCE4Sa X",
+      "topic": "opensource",
+      "published": "2026-10-29T09:56:40+00:00",
+      "summary": "The new Artificial Analysis index shows that closed-source AI is widening the gap with open-source models. The alpha in AI isn't in doing the pedestrian; it's in building products we can't yet imagine. X",
       "engagement": 0.0,
-      "score": 51.57,
+      "score": 57.47,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source alternative\" OR \"just launched\" OR \"now available\" OR \"v1.0\") when:3d",
-        "taste": 0.2893
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.6367
       },
       "sources": [
         "x"
       ],
-      "taste": 0.289,
-      "ar": "إطلاق إصدار أكبر بلون جديد من ساعة Nomos Glashütte، وهي تحديث تجميلي لا يحمل أي قيمة تقنية للمطورين."
+      "taste": 0.637,
+      "ar": "أظهر مؤشر Artificial Analysis اتساع الفجوة بين نماذج AI المغلقة والمفتوحة، مؤكداً أن القيمة الحقيقية تكمن في بناء منتجات مبتكرة."
     },
     {
-      "id": "5e180eb7872b3026",
-      "title": "About 10,000 AI agents produced a proof on a $1 million math problem",
-      "url": "https://aifueledculture.wordpress.com/2026/10/29/the-agents-built-on-a-human-idea/",
+      "id": "69da01165599eda9",
+      "title": "Today we're releasing Keila 0.40.0. We have revamped the form editor and you can now use HTML or MJML to design custom double opt-in and…",
+      "url": "https://fosstodon.org/@keila/117523641677253935",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "About 10,000 AI agents produced a proof on a $1 million math problem. A Princeton mathematician named two people as the heroes. Thousands of AI agents produced the proof. The mathematician who wrote the official problem said the heroes were two people whose idea the agents built on. https:// aifueledculture.wordpress.com/ 2026/10/29/the-agents-built-on-a-human-idea/",
-      "engagement": 12.0,
-      "score": 43.1,
+      "published": "2026-10-29T10:07:38+00:00",
+      "summary": "Today we're releasing Keila 0.40.0. We have revamped the form editor and you can now use HTML or MJML to design custom double opt-in and welcome emails. Plus a Swedish translation! Read the full changelog on GitHub https:// github.com/pentacent/keila/rel eases/tag/0.40.0 - or try it live on https://www. keila.io . This release also updates to Elixir 1.20 and Erlang/OTP 29. If you run a self-hosted",
+      "engagement": 2.0,
+      "score": 55.96,
       "niche_hits": [],
       "meta": {
-        "account": "aifueledculture.wordpress.com@aifueledculture.wordpress.com",
-        "taste": 0.2841
+        "account": "keila@fosstodon.org",
+        "taste": 0.7616
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.284,
-      "ar": "نجاح 10,000 وكيل ذكاء اصطناعي في إثبات مسألة رياضية بمليون دولار، مما يبرز قدرة النماذج المتوازية على حل المسائل المعقدة."
+      "taste": 0.762,
+      "ar": "أصدر فريق Keila الإصدار 0.40.0 مع محرر نماذج محسّن يدعم HTML وMJML لتصميم رسائل Double Opt-in مخصصة."
     },
     {
-      "id": "3c33f971caaeb344",
-      "title": "Overwhelmed about starting my master's. Any advice?",
-      "url": "https://www.reddit.com/r/AskAcademia/comments/1xidcsm/overwhelmed_about_starting_my_masters_any_advice/",
-      "source": "reddit",
-      "topic": "community",
-      "published": "2026-10-29T07:28:15+00:00",
-      "summary": "",
-      "engagement": 0.0,
-      "score": 42.48,
-      "niche_hits": [],
-      "meta": {
-        "subreddit": "r/AskAcademia",
-        "taste": 0.5763
-      },
-      "sources": [
-        "reddit"
-      ],
-      "taste": 0.576,
-      "ar": "استشارة شخصية حول بدء دراسة الماجستير، وهي محتوى اجتماعي لا يتضمن أي تحديث تقني أو أداة برمجية جديدة."
-    },
-    {
-      "id": "5f72ba0db2e6dcac",
-      "title": "Now available on Databricks: GPT-6.1 Terra. On our OfficeQA Pro v2 benchmark, it shows a large quality improvement and sits on the quality-cost pareto frontier. Use it, or any of 70+ other models, on the data already in your Lakehouse to build governed AI ap",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zN2lwbW1QXzQxV1VNR1RmelpSaXM3cEZaRTBnX3pyUzFtVWljdldtZnJXUVA1aEhyRE1WMmRJd3dIQVFwOE9hYU56c01CS0txU1ZNdUxzcHFxeEw2NUVSWA?oc=5",
-      "source": "x",
-      "topic": "launch",
-      "published": "2026-10-27T00:55:59+00:00",
-      "summary": "Now available on Databricks: GPT-6.1 Terra. On our OfficeQA Pro v2 benchmark, it shows a large quality improvement and sits on the quality-cost pareto frontier. Use it, or any of 70+ other models, on the data already in your Lakehouse to build governed AI ap X",
-      "engagement": 0.0,
-      "score": 42.21,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source alternative\" OR \"just launched\" OR \"now available\" OR \"v1.0\") when:3d",
-        "taste": 0.9365
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.936,
-      "ar": "إتاحة نموذج GPT-6.1 Terra على Databricks، حيث يتفوق في جودة التكلفة على المنافسين ضمن بيئة Lakehouse الحالية."
-    },
-    {
-      "id": "94b0b896ea99470f",
-      "title": "HRI2027 - Human-robot interaction conference reviews",
-      "url": "https://www.reddit.com/r/AskAcademia/comments/1xieznb/hri2027_humanrobot_interaction_conference_reviews/",
-      "source": "reddit",
-      "topic": "community",
-      "published": "2026-10-29T09:13:17+00:00",
-      "summary": "",
-      "engagement": 0.0,
-      "score": 41.55,
-      "niche_hits": [],
-      "meta": {
-        "subreddit": "r/AskAcademia",
-        "taste": 0.4849
-      },
-      "sources": [
-        "reddit"
-      ],
-      "taste": 0.485,
-      "ar": "مراجعة أوراق مؤتمر HRI2027 للتفاعل بين الإنسان والروبوت، وهي أخبار أكاديمية متخصصة لا تؤثر مباشرة على أدوات التطوير."
-    },
-    {
-      "id": "12f8d011bbdd8b09",
-      "title": "How do I maintain any will to live knowing my PhD was an utter waste and destroyed my life?",
-      "url": "https://www.reddit.com/r/AskAcademia/comments/1xi9pri/how_do_i_maintain_any_will_to_live_knowing_my_phd/",
-      "source": "reddit",
-      "topic": "community",
-      "published": "2026-10-29T03:52:56+00:00",
-      "summary": "",
-      "engagement": 0.0,
-      "score": 38.56,
-      "niche_hits": [],
-      "meta": {
-        "subreddit": "r/AskAcademia",
-        "taste": 0.6029
-      },
-      "sources": [
-        "reddit"
-      ],
-      "taste": 0.603,
-      "ar": "مناقشة شخصية حول ضياع سنوات الدكتوراه، وهي محتوى عاطفي لا يحمل أي قيمة تقنية أو معلوماتية للمطورين."
-    },
-    {
-      "id": "03445840ad765c93",
-      "title": "I think there's a skill here that's worth practicing too - as AI \"has the answer\" for a bigger and bigger subset of questions, it's worth keeping a discipline of NOT getting the answer immediately. Learn just enough, think things through yourself, THEN ask the Oracl",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhRmMwT3g0ZHJsckE0V2k3V0lwenZJLUJyVmxBanMwQ0dhUlNhV1hrS0ZjMzBQcURHTnQxc191N3htbjdWdEZDWW5pSUVpOS1uSUwwS1EtUXJlOXNUQTVFQ2F5TmY?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-10-28T14:49:25+00:00",
-      "summary": "I think there's a skill here that's worth practicing too - as AI \"has the answer\" for a bigger and bigger subset of questions, it's worth keeping a discipline of NOT getting the answer immediately. Learn just enough, think things through yourself, THEN ask the Oracl X",
-      "engagement": 0.0,
-      "score": 34.13,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.2769
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.277,
-      "ar": "توصية بممارسة التفكير المستقل قبل الاستعانة بالذكاء الاصطناعي، للحفاظ على المهارات التحليلية في ظل سهولة الوصول للإجابات."
-    },
-    {
-      "id": "7d0f721f7b00a951",
-      "title": "I built an AI skill called \"Curious Kid\" that explains ANY technical topic through a simple little story, like you're 5 years old, so you can understand it quickly. 👶🔥 I've been using it myself for the past few days, and it's genuinely helped me understand a lot of techni",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aRDJvVjFDUE54WUpwRkJjWHJEMHJ4OXd6OXVhRG5YSHpWWDFQQzVQcU9ub0Q3QVAwUGFEMy1FWTRzbTVFOHN6UGFNcFRZMEowaTI5MlBvdk1WMGFPOEFLSVZtaGQ0YklsQVE?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-10-26T11:05:09+00:00",
-      "summary": "I built an AI skill called \"Curious Kid\" that explains ANY technical topic through a simple little story, like you're 5 years old, so you can understand it quickly. 👶🔥 I've been using it myself for the past few days, and it's genuinely helped me understand a lot of techni X",
-      "engagement": 0.0,
-      "score": 34.12,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.7862
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.786,
-      "ar": "إطلاق مهارة AI تسمى Curious Kid تبسّط المفاهيم التقنية عبر القصص، وهي أداة تعليمية مساعدة لفهم التقنيات المعقدة بسرعة."
-    },
-    {
-      "id": "d9b3604781ad2eba",
-      "title": "Academic people of reddit, how do you write a paper for ArXiv?",
-      "url": "https://www.reddit.com/r/AskAcademia/comments/1xicnwf/academic_people_of_reddit_how_do_you_write_a/",
-      "source": "reddit",
-      "topic": "community",
-      "published": "2026-10-29T06:44:56+00:00",
-      "summary": "",
-      "engagement": 0.0,
-      "score": 33.76,
-      "niche_hits": [],
-      "meta": {
-        "subreddit": "r/AskAcademia",
-        "taste": 0.3849
-      },
-      "sources": [
-        "reddit"
-      ],
-      "taste": 0.385,
-      "ar": "سؤال حول كيفية كتابة ورقة بحثية لنشرها على ArXiv، وهو استفسار أكاديمي إجرائي لا يتضمن تحديثاً تقنياً جديداً."
-    },
-    {
-      "id": "16f058891727e610",
-      "title": "Trump pushes to rebrand AI as 'super intelligence' in bid to reshape tech narrative",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOanY5eUNGNEdsblNFNFdSaTZEaGJ1eElTUEp3WFlhYXdTMl9QT3E2M3hoMW13MWc3cGhSekJwY1JjNEF0eEJUVGpiV09HOG9qZ2p1SEdFQlpKaUVXelZ3cFAwb0V3V0xpMmlVRGVoa2gzRERycExOLTAtN1gxY1JNLTV3b25uZngwZ0d3X3N0N1E5WUJlOWp1Q0gwdVA4eVVKaFI5ZVp4cDhCWWhPUkJ0cjRqT1Z1dXhlWkh4RFh0OXJZbEt0VHBBMTBRUkN5QQ?oc=5",
-      "source": "news",
-      "topic": "ai",
-      "published": "2026-10-29T07:25:06+00:00",
-      "summary": "Trump pushes to rebrand AI as 'super intelligence' in bid to reshape tech narrative WZTV",
-      "engagement": 0.0,
-      "score": 32.51,
-      "niche_hits": [],
-      "meta": {
-        "query": "artificial intelligence OR LLM when:3d",
-        "taste": 0.3039
-      },
-      "sources": [
-        "news"
-      ],
-      "taste": 0.304,
-      "ar": ""
-    },
-    {
-      "id": "a094b8961b62a53e",
-      "title": "Academics with family, how do you balance between family and passion?",
-      "url": "https://www.reddit.com/r/AskAcademia/comments/1xibdwi/academics_with_family_how_do_you_balance_between/",
-      "source": "reddit",
-      "topic": "community",
-      "published": "2026-10-29T05:26:58+00:00",
-      "summary": "",
-      "engagement": 0.0,
-      "score": 31.95,
-      "niche_hits": [],
-      "meta": {
-        "subreddit": "r/AskAcademia",
-        "taste": 0.3856
-      },
-      "sources": [
-        "reddit"
-      ],
-      "taste": 0.386,
-      "ar": ""
-    },
-    {
-      "id": "ce719bf1e4caebe1",
-      "title": "Trigger.dev: Webhooks for your AI agents",
-      "url": "https://www.producthunt.com/products/trigger-dev",
-      "source": "producthunt",
-      "topic": "launch",
-      "published": "2026-10-16T02:30:22-07:00",
-      "summary": "",
-      "engagement": 0.0,
-      "score": 31.48,
-      "niche_hits": [],
-      "meta": {
-        "via": "Product Hunt",
-        "taste": 0.8894
-      },
-      "sources": [
-        "producthunt"
-      ],
-      "taste": 0.889,
-      "ar": ""
-    },
-    {
-      "id": "c8b15d7974692497",
-      "title": "Tracebit offers unlimited canary credentials to open source",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbllxR3d4OGNSaTM1UkNoTnE2M2VfbF9hNXlJcDlmUXVWeDI4NS1jaFFzTE5jTkdEYVVFRHI4TkUzdDd0MXpUOUtpZmx4dnRDbWhiRlpFYk9YWC1ubXRxZnNtNktNckFWRU1VMTlJbkgtVldmNFlGeHQ2OXozTF9sQjBIeFBIZnRwQVlmanU1UE5HQWlhTzZYLQ?oc=5",
-      "source": "news",
-      "topic": "dev",
-      "published": "2026-10-28T09:30:00+00:00",
-      "summary": "Tracebit offers unlimited canary credentials to open source SecurityBrief UK",
-      "engagement": 0.0,
-      "score": 31.2,
-      "niche_hits": [],
-      "meta": {
-        "query": "open source OR developer tools when:3d",
-        "taste": 0.763
-      },
-      "sources": [
-        "news"
-      ],
-      "taste": 0.763,
-      "ar": ""
-    },
-    {
-      "id": "4175c6ec61b3b0c2",
-      "title": "Daily Digest | 29 October 2026 Your daily dose of Privacy, Data Protection, AI & Cybersecurity news",
-      "url": "https://fosstodon.org/@nicfab/117523615287992818",
+      "id": "2c1ed81ba115331c",
+      "title": "Have an idea for a CSV validation rule or matrix transformation? I'd love to collaborate—open an issue on GitHub and help shape the…",
+      "url": "https://mastodon.social/@cbjr77/117523642347906010",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T10:00:55+00:00",
-      "summary": "Daily Digest | 29 October 2026 Your daily dose of Privacy, Data Protection, AI & Cybersecurity news. 5 stories you should not miss. Read more: https://www. nicfab.eu/daily-digest/ # Privacy # AI # GDPR # Cybersecurity # TechLaw",
+      "published": "2026-10-29T10:07:48.447000+00:00",
+      "summary": "Have an idea for a CSV validation rule or matrix transformation? I'd love to collaborate—open an issue on GitHub and help shape the roadmap: https:// github.com/CedricBonjour/nanoc ell-csv 🛠️ # OpenSource # DataEngineering # DevTools",
       "engagement": 0.0,
-      "score": 29.25,
+      "score": 54.67,
       "niche_hits": [],
       "meta": {
-        "account": "nicfab@fosstodon.org",
-        "taste": 0.1575
+        "account": "cbjr77",
+        "taste": 0.7979
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.158,
+      "taste": 0.798,
+      "ar": "دعوة للمطورين للمشاركة في تطوير قواعد التحقق من ملفات CSV والتحويلات المصفوفية عبر فتح Issues على GitHub."
+    },
+    {
+      "id": "c09e3d49ea0b343e",
+      "title": "Как сделать RAG по профессиональной документации Привет, Хабр! Хотелось бы начать статью с такого вопроса: кто из нас еще не использовал…",
+      "url": "https://zhub.link/@habr/117523659945632968",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:12:16+00:00",
+      "summary": "Как сделать RAG по профессиональной документации Привет, Хабр! Хотелось бы начать статью с такого вопроса: кто из нас еще не использовал чат ассистентов в своей работе и повседневной жизни? Вот и мы, команда https:// habr.com/ru/companies/haulmont /articles/1100862/ # java # архитектура # ai # архитектура_по # архитектура_приложений # проектирование_систем # jmix # chatgpt # rag",
+      "engagement": 0.0,
+      "score": 49.57,
+      "niche_hits": [],
+      "meta": {
+        "account": "habr@zhub.link",
+        "taste": 0.6671
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.667,
+      "ar": "مقال تقني يشرح كيفية بناء أنظمة RAG متخصصة للوثائق المهنية، مستهدفاً تحسين دقة استرجاع المعلومات في المجالات التقنية."
+    },
+    {
+      "id": "55f49ad1ae89268e",
+      "title": "Do you know how to typeset fractions and binomial coefficients in your maths document? Check out this article.  https:// overleaf.com/learn/latex/Fr actions_and_Binomials …",
+      "url": "https://x.com/overleaf/status/2115730384197415118",
+      "source": "x_account",
+      "topic": "research_tools",
+      "published": "2026-10-29T09:00:06+00:00",
+      "summary": "Do you know how to typeset fractions and binomial coefficients in your maths document? Check out this article.  https:// overleaf.com/learn/latex/Fr actions_and_Binomials …",
+      "engagement": 5.0,
+      "score": 49.23,
+      "niche_hits": [],
+      "meta": {
+        "author": "Overleaf @overleaf · 1h",
+        "taste": 0.283
+      },
+      "sources": [
+        "x_account"
+      ],
+      "taste": 0.283,
+      "ar": "دليل عملي من Overleaf يوضح كيفية تنسيق الكسور والمعاملات الثنائية في مستندات LaTeX، مفيد لمطوري الأدوات الأكاديمية."
+    },
+    {
+      "id": "118d3c5b1b31df20",
+      "title": "There’s more to System One decision models than Jev.  These 15 models are worth a closer look:   Jeva  Prism-1  Bongard  Verdict (multi-question)  VideoJev  MJev-Spatial  AudioJev  MetaEncoder  FastJE",
+      "url": "https://x.com/TheTuringPost/status/2114422040929489241",
+      "source": "x_account",
+      "topic": "research_tools",
+      "published": "2026-10-25T18:21:13+00:00",
+      "summary": "There’s more to System One decision models than Jev.  These 15 models are worth a closer look:   Jeva  Prism-1  Bongard  Verdict (multi-question)  VideoJev  MJev-Spatial  AudioJev  MetaEncoder  FastJEV  SanSi (looped)  StartLux-Decision  System X",
+      "engagement": 341.0,
+      "score": 47.27,
+      "niche_hits": [],
+      "meta": {
+        "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 25",
+        "taste": 0.784
+      },
+      "sources": [
+        "x_account"
+      ],
+      "taste": 0.784,
+      "ar": "عرض لمجموعة من نماذج System One decision models مثل Jeva وPrism-1، التي تتجاوز حدود النماذج التقليدية في معالجة البيانات."
+    },
+    {
+      "id": "08e0a934e7f9d0a5",
+      "title": "Using KiCad or Fusion through MCP or computer use is like sucking a pizza through a straw Your AI coding agent doesn’t write code by clicking around VS Code either. It works directly with files, compilers, and other tools. These MCP integrations are transition",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WX1IzcDhadXNhaTZSeVJmemVOV256T2VvaUo2V1RBRDlMQlh6ZllxdXZTQTRzNzhfMGVBV2ZMRnRoMGxQa1Q2Q2VXUnNjY0ZlZDZOdGpOd0pvbmFQNFgyRGJMS0x6UQ?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-28T19:17:16+00:00",
+      "summary": "Using KiCad or Fusion through MCP or computer use is like sucking a pizza through a straw Your AI coding agent doesn’t write code by clicking around VS Code either. It works directly with files, compilers, and other tools. These MCP integrations are transition X",
+      "engagement": 0.0,
+      "score": 46.89,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.5645
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.565,
+      "ar": "انتقاد لاستخدام MCP مع أدوات تصميم مثل KiCad، مشدداً على أن وكلاء البرمجة يعملون بكفاءة أعلى عبر الملفات والمترجمات مباشرة."
+    },
+    {
+      "id": "da6457ac69418ed5",
+      "title": "alphaXiv Mobile 2.0 is here   • Mobile friendly PDF reader • Library with sharable folders • Custom feeds with research curated to your interests • Al visual overviews for papers • Support for iPhone ",
+      "url": "https://x.com/askalphaxiv/status/2115131377641509259",
+      "source": "x_account",
+      "topic": "research_tools",
+      "published": "2026-10-27T17:19:52+00:00",
+      "summary": "alphaXiv Mobile 2.0 is here   • Mobile friendly PDF reader • Library with sharable folders • Custom feeds with research curated to your interests • Al visual overviews for papers • Support for iPhone Duo + iPad  iOS:  https:// apps.apple.com/us/app/alphaxi v/id6782411985 … Android:  https:// play.google.com/store/apps/det ails?id=org.alphaxiv.mobileapp …",
+      "engagement": 319.0,
+      "score": 46.88,
+      "niche_hits": [],
+      "meta": {
+        "author": "alphaXiv @askalphaxiv · Oct 27",
+        "taste": 0.7424
+      },
+      "sources": [
+        "x_account"
+      ],
+      "taste": 0.742,
+      "ar": "إطلاق alphaXiv Mobile 2.0 مع قارئ PDF متجاوب ومكتبة مشاركة، مما يسهل الوصول إلى الأبحاث العلمية على أجهزة iPhone."
+    },
+    {
+      "id": "e74c448d54c9ccae",
+      "title": "D7VK 2.4 released along with GXVK for Vulkan-based 3Dfx Glide #Vulkan #OpenSource #NewRelease #Wine #Proton #D7VK #GXVK D7VK 2.4 released…",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:m5dcinlrpxq6rm2uficksxp7/post/3myyzi5m6cw2m",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:08:24+00:00",
+      "summary": "D7VK 2.4 released along with GXVK for Vulkan-based 3Dfx Glide #Vulkan #OpenSource #NewRelease #Wine #Proton #D7VK #GXVK D7VK 2.4 released along with G...",
+      "engagement": 0.0,
+      "score": 44.41,
+      "niche_hits": [],
+      "meta": {
+        "account": "gamingonlinux.com@bsky.brid.gy",
+        "taste": 0.5409
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.541,
+      "ar": "إصدار D7VK 2.4 مع GXVK لدعم Vulkan في محاكاة 3Dfx Glide، مما يحسن أداء الألعاب القديمة على أنظمة Linux."
+    },
+    {
+      "id": "58c0ab1d8b83cce7",
+      "title": "OpenAI now lets you text your Dot agent The feature works with both iMessage and RCS messaging",
+      "url": "https://social.gamefan.net/@techwire/117523643516112907",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:08:06+00:00",
+      "summary": "OpenAI now lets you text your Dot agent The feature works with both iMessage and RCS messaging. https://www. engadget.com/2300235/openai-no w-lets-you-text-your-dot-agent/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # Engadget [Engadget]",
+      "engagement": 4.0,
+      "score": 44.2,
+      "niche_hits": [],
+      "meta": {
+        "account": "techwire@gamefan.net",
+        "taste": 0.3752
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.375,
+      "ar": ""
+    },
+    {
+      "id": "84f197c3c395da67",
+      "title": "We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights today! Introducing Flora, a suite of open models to parse the physical world and t",
+      "url": "https://x.com/DrJimFan/status/2112597587987689912",
+      "source": "x_account",
+      "topic": "research_tools",
+      "published": "2026-10-20T17:31:29+00:00",
+      "summary": "We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights today! Introducing Flora, a suite of open models to parse the physical world and turn raw footage into rich training signals.   Flora already powers our in-house",
+      "engagement": 1600.0,
+      "score": 42.5,
+      "niche_hits": [],
+      "meta": {
+        "author": "Jim Fan @DrJimFan · Oct 20",
+        "taste": 0.7998
+      },
+      "sources": [
+        "x_account"
+      ],
+      "taste": 0.8,
+      "ar": ""
+    },
+    {
+      "id": "db8eada6cb9ea7e1",
+      "title": "VideoJev  System One Model for Video Understanding and Interaction  paper:  https:// huggingface.co/papers/2610.18 615 …",
+      "url": "https://x.com/_akhaliq/status/2110423274413056230",
+      "source": "x_account",
+      "topic": "research_tools",
+      "published": "2026-10-14T17:31:33+00:00",
+      "summary": "VideoJev  System One Model for Video Understanding and Interaction  paper:  https:// huggingface.co/papers/2610.18 615 …",
+      "engagement": 522.0,
+      "score": 42.09,
+      "niche_hits": [],
+      "meta": {
+        "author": "AK @_akhaliq · Oct 14",
+        "taste": 0.7897
+      },
+      "sources": [
+        "x_account"
+      ],
+      "taste": 0.79,
+      "ar": ""
+    },
+    {
+      "id": "25763126b4056ab6",
+      "title": "If doomscrolling X is part of your research workflow, we built something for you.  Introducing Paperscrolling, now on iOS and Android   Follow the latest research with key ideas, figures, and audio ex",
+      "url": "https://x.com/askalphaxiv/status/2107486537206419769",
+      "source": "x_account",
+      "topic": "research_tools",
+      "published": "2026-10-06T15:02:00+00:00",
+      "summary": "If doomscrolling X is part of your research workflow, we built something for you.  Introducing Paperscrolling, now on iOS and Android   Follow the latest research with key ideas, figures, and audio explanations from alphaXiv Briefs  Check it out here!  https:// play.google.com/store/apps/det ails?id=org.alphaxiv.mobileapp …",
+      "engagement": 1200.0,
+      "score": 41.6,
+      "niche_hits": [],
+      "meta": {
+        "author": "alphaXiv @askalphaxiv · Oct 6",
+        "taste": 0.7776
+      },
+      "sources": [
+        "x_account"
+      ],
+      "taste": 0.778,
+      "ar": ""
+    },
+    {
+      "id": "82ec214d4a76ed5f",
+      "title": "The same model, with the same weights, scores 62% in one agent harness and 33% in another.   @adithya_s_k  and the  @huggingface  team just released the ultimate guide to multi-harness RL, and it's on",
+      "url": "https://x.com/huggingface/status/2106034221005312448",
+      "source": "x_account",
+      "topic": "research_tools",
+      "published": "2026-10-02T14:51:01+00:00",
+      "summary": "The same model, with the same weights, scores 62% in one agent harness and 33% in another.   @adithya_s_k  and the  @huggingface  team just released the ultimate guide to multi-harness RL, and it's one of the most practical RL write-ups this year, and everything open!  The trick is",
+      "engagement": 1200.0,
+      "score": 39.79,
+      "niche_hits": [],
+      "meta": {
+        "author": "Hugging Face @huggingface · Oct 2",
+        "taste": 0.6723
+      },
+      "sources": [
+        "x_account"
+      ],
+      "taste": 0.672,
       "ar": ""
     }
   ]
