@@ -16,6 +16,7 @@ except Exception:
     pass
 
 days = int(sys.argv[1]) if len(sys.argv) > 1 else 30
+source_filter = sys.argv[2] if len(sys.argv) > 2 else None
 rows = archive.load_range(days)
 topics: Counter = Counter()
 sources: Counter = Counter()
@@ -33,3 +34,9 @@ for row in sorted(
     key=lambda r: -r.get("score", 0),
 )[:15]:
     print(f"  {row.get('score', 0):5.1f} {row.get('topic'):10} {row['title'][:90]}")
+
+if source_filter:
+    print(f"\n{source_filter} rows:")
+    picked = [r for r in rows if source_filter in (r.get("sources") or [])]
+    for row in sorted(picked, key=lambda r: -r.get("score", 0))[:15]:
+        print(f"  {row.get('score', 0):5.1f} taste={row.get('taste', 0):.2f} {row['title'][:90]}")

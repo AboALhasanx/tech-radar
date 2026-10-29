@@ -16,6 +16,7 @@ from . import (
     hackernews,
     hf_papers,
     mastodon,
+    newsletters,
     producthunt,
     reddit,
     semantic_scholar,
@@ -41,6 +42,7 @@ def collect_all(*, include_x: bool = True, include_news: bool = True) -> list[Si
     )
     signals += github_tools.fetch()
     signals += producthunt.fetch()
+    signals += newsletters.fetch()
     signals += mastodon.fetch(config.MASTODON_TAGS)
 
     # Papers are opt-in: the point of this radar is the tooling around

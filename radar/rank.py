@@ -27,6 +27,7 @@ _STOPWORDS = {
 SOURCE_WEIGHT = {
     "x": 1.0,
     "hackernews": 1.0,
+    "newsletter": 0.95,
     "github": 0.9,
     "producthunt": 0.9,
     "paper": 0.9,
@@ -41,6 +42,7 @@ SOURCE_WEIGHT = {
 SOURCE_PRIORITY = {
     "x": 8.0,
     "hackernews": 6.0,
+    "newsletter": 6.0,
     "github": 5.5,
     "producthunt": 5.5,
     "paper": 5.5,
@@ -124,9 +126,12 @@ def cluster(signals: list[Signal], threshold: float = 0.5) -> list[Story]:
 def score_story(story: Story) -> None:
     age = story.age_hours
     # Google News indexes public X posts with a lag, so a 10-hour-old X post is
-    # not the same as a 10-hour-old Mastodon post.
+    # not the same as a 10-hour-old Mastodon post. Newsletters are weekly, so a
+    # two-day-old issue is still current.
     if "x" in story.sources:
         age = max(0.0, age - 6.0)
+    if "newsletter" in story.sources:
+        age = max(0.0, age - 48.0)
     recency = math.exp(-age / config.RECENCY_HALF_LIFE_HOURS) * 40.0
 
     # Comparable across sources only because it is tightly capped.
@@ -154,6 +159,7 @@ def score_story(story: Story) -> None:
     research_boost = (
         config.RESEARCH_BOOST if story.topics & config.RESEARCH_TOPICS else 0.0
     )
+    newsletter_boost = 6.0 if "newsletter" in story.sources else 0.0
 
     # The taste model was trained on this account's likes; a story it dislikes
     # should sink even if it is fresh and cross-confirmed.

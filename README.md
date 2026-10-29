@@ -38,6 +38,7 @@ only, nothing leaves the machine.
 | X posts | Google News `site:x.com` | free | the primary signal |
 | X (personal) | Playwright + your profile | free, local | your following list and timeline |
 | Product Hunt | public RSS | free | launches before the press |
+| Newsletters | curated RSS | free | Import AI, Interconnects, Ahead of AI, One Useful Thing |
 | GitHub tooling | topic search API | free | research tools people actually install |
 | Hacker News | Algolia API | free | builder-grade filtering |
 | GitHub | search API (new + starred) | free | what people are actually shipping |
@@ -59,6 +60,10 @@ work** — the thing a researcher installs, pays for, or gets for free:
 
 These four are ranked first and carry an 8-point boost. Papers still exist as
 an opt-in (`PAPERS_ENABLED=1`) but they are not the point.
+
+**The full directory — platforms, newsletters, X accounts, communities — is in
+[`docs/SOURCES.md`](docs/SOURCES.md).** It is generated from
+`radar/curated.json`, so adding a source is a one-line edit.
 
 ## How ranking works
 

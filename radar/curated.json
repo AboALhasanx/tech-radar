@@ -1,0 +1,85 @@
+{
+  "newsletters": [
+    {
+      "name": "Import AI",
+      "url": "https://importai.substack.com/feed",
+      "focus": "research",
+      "why": "Jack Clark's weekly policy + research briefing; the closest thing to a research weather report."
+    },
+    {
+      "name": "Interconnects",
+      "url": "https://www.interconnects.ai/feed",
+      "focus": "research",
+      "why": "Nathan Lambert on post-training, evals and open models — the technical layer under research tooling."
+    },
+    {
+      "name": "Ahead of AI",
+      "url": "https://magazine.sebastianraschka.com/feed",
+      "focus": "research",
+      "why": "Sebastian Raschka's long-form explanations of new architectures and training methods."
+    },
+    {
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/feed",
+      "focus": "research_tools",
+      "why": "Ethan Mollick on how researchers and students actually use these tools day to day."
+    },
+    {
+      "name": "The Gradient",
+      "url": "https://thegradient.pub/rss/",
+      "focus": "research",
+      "why": "Research commentary and interviews from people inside the field."
+    }
+  ],
+  "subreddits": [
+    "AskAcademia",
+    "PhD",
+    "GradSchool",
+    "MachineLearning",
+    "LocalLLaMA",
+    "academia"
+  ],
+  "mastodon_tags": [
+    "academicchatter",
+    "openscience",
+    "phd",
+    "research"
+  ],
+  "x_accounts": [
+    {"handle": "@askalphaxiv", "why": "alphaXiv / OpenResearch — turns coding agents into research agents"},
+    {"handle": "@_akhaliq", "why": "fastest paper-to-tweet account in the field"},
+    {"handle": "@huggingface", "why": "models, papers and tooling, first"},
+    {"handle": "@allen_ai", "why": "Ai2: Semantic Scholar, OLMo, research tooling"},
+    {"handle": "@OpenReview", "why": "peer review and venue announcements"},
+    {"handle": "@arxiv", "why": "official arXiv announcements"},
+    {"handle": "@owainevans_uk", "why": "AI and academic assessment, education policy"},
+    {"handle": "@emollick", "why": "how academics actually adopt AI"},
+    {"handle": "@omarsar0", "why": "DAIR.AI — research summaries and tooling"},
+    {"handle": "@cwolferesearch", "why": "research paper walkthroughs and study notes"},
+    {"handle": "@TheTuringPost", "why": "research explainers and tool roundups"},
+    {"handle": "@_jasonwei", "why": "reasoning and post-training research"},
+    {"handle": "@drjimfan", "why": "embodied AI and research practice"},
+    {"handle": "@karpathy", "why": "teaching and building, rarely but densely"},
+    {"handle": "@zotero", "why": "reference management releases"},
+    {"handle": "@overleaf", "why": "LaTeX collaboration releases"},
+    {"handle": "@typst", "why": "the modern typesetting alternative"}
+  ],
+  "platforms": [
+    {"name": "alphaXiv / OpenResearch", "url": "https://www.alphaxiv.org", "why": "paper discussion plus an open research-agent app"},
+    {"name": "Hugging Face Papers", "url": "https://huggingface.co/papers", "why": "daily papers with code and discussion"},
+    {"name": "Semantic Scholar", "url": "https://www.semanticscholar.org", "why": "the reference graph researchers actually query"},
+    {"name": "Connected Papers", "url": "https://www.connectedpapers.com", "why": "visual literature mapping"},
+    {"name": "Elicit", "url": "https://elicit.com", "why": "structured literature review"},
+    {"name": "Consensus", "url": "https://consensus.app", "why": "claim-level answers from papers"},
+    {"name": "SciSpace", "url": "https://scispace.com", "why": "read, annotate and explain papers"},
+    {"name": "Undermind", "url": "https://www.undermind.ai", "why": "deep literature search"},
+    {"name": "NotebookLM", "url": "https://notebooklm.google.com", "why": "source-grounded notes and audio overviews"},
+    {"name": "Zotero", "url": "https://www.zotero.org", "why": "reference manager with a plugin ecosystem"},
+    {"name": "Overleaf", "url": "https://www.overleaf.com", "why": "collaborative LaTeX"},
+    {"name": "Typst", "url": "https://typst.app", "why": "fast modern typesetting, strong RTL story"},
+    {"name": "OpenReview", "url": "https://openreview.net", "why": "peer review in the open"},
+    {"name": "ResearchRabbit", "url": "https://www.researchrabbit.ai", "why": "citation-network discovery"},
+    {"name": "Litmaps", "url": "https://www.litmaps.com", "why": "literature maps that update"},
+    {"name": "Papers with Code", "url": "https://paperswithcode.com", "why": "benchmarks and implementations"}
+  ]
+}

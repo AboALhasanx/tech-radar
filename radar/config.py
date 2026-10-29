@@ -40,10 +40,12 @@ REDDIT_SUBS = [
     "programming",
     "MachineLearning",
     "FlutterDev",
-    "Arabic",
+    "AskAcademia",
+    "PhD",
+    "academia",
 ]
 
-MASTODON_TAGS = ["ai", "opensource", "programming"]
+MASTODON_TAGS = ["ai", "opensource", "programming", "academicchatter", "openscience"]
 
 HN_MIN_POINTS = 80
 GITHUB_MIN_STARS = 40
@@ -67,7 +69,7 @@ ARXIV_FEEDS = [
 ]
 
 # The academic lane is about tooling, so these topics get the ranking boost.
-RESEARCH_TOPICS = {"research_tools", "harness", "free", "launch", "writing"}
+RESEARCH_TOPICS = {"research_tools", "harness", "free", "launch", "writing", "research"}
 RESEARCH_BOOST = 8.0
 
 # ---------------------------------------------------------------- ranking

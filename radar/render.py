@@ -18,6 +18,7 @@ SOURCE_LABEL = {
     "mastodon": "Mastodon",
     "paper": "ورقة بحثية",
     "producthunt": "Product Hunt",
+    "newsletter": "نشرة",
 }
 
 TOPIC_LABEL = {

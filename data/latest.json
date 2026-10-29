@@ -1,322 +1,320 @@
 {
-  "generated_at": "2026-10-29T09:52:37.886319+00:00",
-  "fetched": 495,
+  "generated_at": "2026-10-29T10:00:32.701169+00:00",
+  "fetched": 257,
   "stories": [
     {
-      "id": "c36a9567b1e5fd74",
-      "title": "Harness Engineering — Assuring Code Quality and Safety When Programming with AI Agents:",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96RXJSN3NOVzZTV3o1M2JGQ0lNRjVJbHB4MkFteXdlaC10Y1NSUjl1QjFiMjRaR3J5SngwR1cyMHR3QWZNVW5RWWg3LWx6LXpQWHhHSGViOUducmVOM2I4Xw?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-10-29T04:25:07+00:00",
-      "summary": "Harness Engineering — Assuring Code Quality and Safety When Programming with AI Agents: https://t.co/BAgTl16t9U X",
-      "engagement": 0.0,
-      "score": 62.68,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.507
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.507,
-      "ar": ""
-    },
-    {
-      "id": "a2e0db279c9a1545",
-      "title": "Layers of observability in AI systems, explained visually: If an LLM app is serving real users, its input and output are not enough to debug it. Consider a RAG pipeline where a query passes through embedding, retrieval, context assembly, and generation. Every",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55eno2T0ZXYXNYaExObE42bEprUWpuZzZPMS1HTjVCS0l3bGRMQ1Jubng4UmU0c0JnNUItYnZCSXJhX0kwQ1YxV3NUcHI5UDZpdDFfblI5eFdOeVdFZEFJVWtmcF84UQ?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T09:30:04+00:00",
-      "summary": "Layers of observability in AI systems, explained visually: If an LLM app is serving real users, its input and output are not enough to debug it. Consider a RAG pipeline where a query passes through embedding, retrieval, context assembly, and generation. Every X",
-      "engagement": 0.0,
-      "score": 60.51,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7128
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.713,
-      "ar": ""
-    },
-    {
-      "id": "b6bab7d3c4d8e150",
-      "title": "One screen. Personal to you. Powered by Bybit AI that knows how you trade, tracks what you follow, and never forgets your preferences.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4VGI4WHgtakNyNHFvbWJkYUVXalVkV25Gd29OaXp0UV9vWjUybGJFaHp0TU5WcHF2RDdzaV9kYzZtTThlNW1kcWFXajdyeWRsc0VFUUlSZWNZQmFDWWZlWnlEa2J3UQ?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T08:00:00+00:00",
-      "summary": "One screen. Personal to you. Powered by Bybit AI that knows how you trade, tracks what you follow, and never forgets your preferences. X",
-      "engagement": 0.0,
-      "score": 58.55,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.6637
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.664,
-      "ar": ""
-    },
-    {
-      "id": "b8555af4ee516b5f",
-      "title": "Should we take on more \"harness configuration\" type stuff in T3 Code? Skill manager, MCP marketplace, global agentmd/claudemd management type stuff?",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaMUJiR0VoLTF2Mm5xYU9oZGRSSnNXdzBYNXJSZFZybVJwcHgtZ2NRdGJ5UUhYLXJWeHdBS0tMRGFzUEJOZVVlNWs0NkliU2duUXVaWTdNOW8?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-10-29T07:02:17+00:00",
-      "summary": "Should we take on more \"harness configuration\" type stuff in T3 Code? Skill manager, MCP marketplace, global agentmd/claudemd management type stuff? X",
-      "engagement": 0.0,
-      "score": 57.54,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.3186
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.319,
-      "ar": ""
-    },
-    {
-      "id": "c2f55a5b28f656b3",
-      "title": "40 projects. One day. Gemma running 100% on-device. Hundreds of builders joined us for the Google Gemma Hardware Hackathon with @GoogleDeepMind, the builder finale to Open Source AI Week. $60K in cash prizes. Here’s what they built: 🧵",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04VzhIOGtTU0hScGdpdDJEcUNWZ1FOd19vS0dQckNSWG1PYTVWY0ExelRQVUdiZkl2eUQ2UUl3NEtodVpJbDBNb09PMW91Z0FhOE5XdG50b1U1MlRLMjFZRXhDdw?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-29T01:39:36+00:00",
-      "summary": "40 projects. One day. Gemma running 100% on-device. Hundreds of builders joined us for the Google Gemma Hardware Hackathon with @GoogleDeepMind, the builder finale to Open Source AI Week. $60K in cash prizes. Here’s what they built: 🧵 X",
-      "engagement": 0.0,
-      "score": 55.05,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.552
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.552,
-      "ar": ""
-    },
-    {
-      "id": "d4866fdb7aa2cfae",
-      "title": "Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFNkRkh3WU5iV1c3dkY2RFNGWEhWaGg3bVgwMGFLUElud2FDUWVuNXZSRXlvMUc1N2k1RmRRQmNtS0Y4c3VLRTNpYUI3eFdJdFlvWGQzMGZWNWJzdFlBRTlMZlFMb2lHWTQxR2dGWHoxLXlLT3pjbXlJTGZ5SmR0M09CZTZmekllV3RVLTdwajBqaDlGZTg3NkZucEZEbVFHUnFPbXVVQldaZ3Va?oc=5",
+      "id": "c0732ee03e218664",
+      "title": "Oracle & Snowflake launch native OCI AI as a new service",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjVHMXh1eFExek80WHRFWlI1aFJLSE5mbWNseU9PS0lIX0Z2RnVLMkNJcG1LNUY0NndKZEZSQ0pXY2dzSVhld0phaERJSTg0OVNWcXhQT1dRSXlIZmIwNV84SWdGWDhCUU5XNkY1TkZFSUNkWXF1RTFSc0xvVzZFdlJvNTRERnNQSGtUUGtBTQ?oc=5",
       "source": "news",
-      "topic": "hardware",
-      "published": "2026-10-29T09:47:00+00:00",
-      "summary": "Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even. WSJ",
+      "topic": "tools",
+      "published": "2026-10-29T07:51:07+00:00",
+      "summary": "Oracle & Snowflake launch native OCI AI as a new service ChannelLife UK",
       "engagement": 0.0,
-      "score": 53.1,
+      "score": 48.65,
       "niche_hits": [],
       "meta": {
-        "query": "chip OR GPU OR semiconductor when:3d",
-        "taste": 0.7189
+        "query": "AI tool launch OR productivity software when:7d",
+        "taste": 0.6898
       },
       "sources": [
         "news"
       ],
-      "taste": 0.719,
+      "taste": 0.69,
       "ar": ""
     },
     {
-      "id": "33f77f4f6ea607a2",
-      "title": "Microsoft released the Copilot harness, a managed layer for building AI agents that routes tasks across more than 20 frontier models.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDMEJjZUdJaFlMMnNMdXplRjZWd3N3WU11VE0yem1RMHdhLTJQNjRBVFhsMGZYQzZUcEp3VXh0TXNDVVhCOHZ1VG9ZN3dsMUQyeHYxSENjOHM4dHpRQnJPRHBiaFhxQQ?oc=5",
+      "id": "11b52a8ddaa141b6",
+      "title": "Trust for AI agents won’t be solved by software alone. Love seeing hardware interlocks in the conversation. Thanks for submitting to the Ledger N3XT Research Competition 🔐",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yTkRQNW5lNzJGT1JoSGNUS0hnUTdmRzBneFp2VVVvX3BaMnRqeVNuenhremRyOXlWY0ZwdDhpVnNPdS1pSC1obUpTdmsya01NUXZYRlEyNW5YdVU?oc=5",
       "source": "x",
-      "topic": "harness",
-      "published": "2026-10-28T22:10:00+00:00",
-      "summary": "Microsoft released the Copilot harness, a managed layer for building AI agents that routes tasks across more than 20 frontier models. X",
+      "topic": "agents",
+      "published": "2026-10-29T09:27:57+00:00",
+      "summary": "Trust for AI agents won’t be solved by software alone. Love seeing hardware interlocks in the conversation. Thanks for submitting to the Ledger N3XT Research Competition 🔐 X",
       "engagement": 0.0,
-      "score": 52.93,
+      "score": 46.93,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.475
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.3133
       },
       "sources": [
         "x"
       ],
-      "taste": 0.475,
+      "taste": 0.313,
       "ar": ""
     },
     {
-      "id": "81226c048fdcc0b1",
-      "title": "grok bot already lives in x chat. you don't text it, it texts you mine ping me before a free trial charges and when i'm at 75% of my weekly usage chatgpt just got imessage. cool, but would you rather text your ai or have it text you first?",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1seWRrTmJLUktaWWZJQWZWdjNtOW00VU15MXJ2M3lXV3RGZWozQnZ3QVY0Z1FoSks0MWhTTXRlVEtsOVVFUEF0M0NpVHIwSlNBN3ZiNkZtY3RSZDBoQ3c?oc=5",
-      "source": "x",
-      "topic": "free",
-      "published": "2026-10-28T20:08:35+00:00",
-      "summary": "grok bot already lives in x chat. you don't text it, it texts you mine ping me before a free trial charges and when i'm at 75% of my weekly usage chatgpt just got imessage. cool, but would you rather text your ai or have it text you first? https://t.co/t0psTducjR X",
-      "engagement": 0.0,
-      "score": 52.29,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"free tier\" OR \"free credits\" OR \"free trial\" OR \"no API key\" OR \"free plan\") when:7d",
-        "taste": 0.5828
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.583,
-      "ar": ""
-    },
-    {
-      "id": "b1c8a3e8cda0215f",
-      "title": "From @qwinsi0x — how an AI Self-improving Trading Machine runs a Hedge Fund…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MZEhMYmRTNE1OT0VuVXM0cVlaT19xZml3WWhZVDNiOGhBVnFHZUlIc1UtSEtaNjdKaWxEYjBteWtVUGNjQ0NpUUhuLS1HUjhUYkZESXQ0RXkxRkNGVU5TSw?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T06:43:07+00:00",
-      "summary": "From @qwinsi0x — how an AI Self-improving Trading Machine runs a Hedge Fund… X",
-      "engagement": 0.0,
-      "score": 51.98,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.4996
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.5,
-      "ar": ""
-    },
-    {
-      "id": "5189fca24db1edd8",
-      "title": "We cut nearly 2 MB of compressed JavaScript across 𝚟𝟶.𝚊𝚙𝚙 and 𝚟𝚎𝚛𝚌𝚎𝚕.𝚌𝚘𝚖 using coding agents and the Next.js Bundle Analyzer. See how to trace imports, compare snapshots, and use our optimizer skill to reduce your bundles.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lNUh6SGhpbUhwNldLU3EweGdwTEFPbERJaVhsTFN5ano1VGJLc2I1bjJVYnE4eFBUdGZ3NEhDTUJodEsyOUhjd2RCeG9MRmI0a0MzMXJxc2w5bmc?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-10-28T17:54:00+00:00",
-      "summary": "We cut nearly 2 MB of compressed JavaScript across 𝚟𝟶.𝚊𝚙𝚙 and 𝚟𝚎𝚛𝚌𝚎𝚕.𝚌𝚘𝚖 using coding agents and the Next.js Bundle Analyzer. See how to trace imports, compare snapshots, and use our optimizer skill to reduce your bundles. https://t.co/t0dMyNxA2f X",
-      "engagement": 0.0,
-      "score": 51.45,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.5664
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.566,
-      "ar": ""
-    },
-    {
-      "id": "23ba5bb3f33937dc",
-      "title": "Giving $10 free credits. Can get 10,000 decisions. You can use out of the box decision API along with cli you can connect claude code, codex, cursor and any harness with your API key and create dataset for your own use case, then fit and calibrate. It will incre",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrM1RSQWh0LThUTHIwaTdSeG1jZmJ0SWNjMTUyYXg4VHhKcDYzQnR2Y19iUWxDZkt1bFRCblZwVlppZmhZUnB2UE9HREx4VTB0OEpoQk1BcXFSTWdvWnRNUXl6Sjk?oc=5",
-      "source": "x",
-      "topic": "free",
-      "published": "2026-10-29T07:05:31+00:00",
-      "summary": "Giving $10 free credits. Can get 10,000 decisions. You can use out of the box decision API along with cli you can connect claude code, codex, cursor and any harness with your API key and create dataset for your own use case, then fit and calibrate. It will incre X",
-      "engagement": 0.0,
-      "score": 51.34,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"free tier\" OR \"free credits\" OR \"free trial\" OR \"no API key\" OR \"free plan\") when:7d",
-        "taste": 0.2836
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.284,
-      "ar": ""
-    },
-    {
-      "id": "3d649df24185641f",
-      "title": "Companion-Inc/feynman — The open source AI research agent.",
-      "url": "https://github.com/Companion-Inc/feynman",
-      "source": "github",
-      "topic": "research_tools",
-      "published": "2026-03-19T18:53:05+00:00",
-      "summary": "",
-      "engagement": 10038.0,
-      "score": 51.25,
-      "niche_hits": [],
-      "meta": {
-        "repo": "Companion-Inc/feynman",
-        "stars": 10038,
-        "language": "TypeScript",
-        "taste": 0.9637
-      },
-      "sources": [
-        "github"
-      ],
-      "taste": 0.964,
-      "ar": ""
-    },
-    {
-      "id": "d5629d54a83d8485",
-      "title": "IFTTT.ai",
-      "url": "https://www.producthunt.com/products/ifttt",
-      "source": "producthunt",
-      "topic": "launch",
-      "published": "2026-10-28T11:26:21-07:00",
-      "summary": "",
-      "engagement": 0.0,
-      "score": 50.6,
-      "niche_hits": [],
-      "meta": {
-        "via": "Product Hunt",
-        "taste": 0.9018
-      },
-      "sources": [
-        "producthunt"
-      ],
-      "taste": 0.902,
-      "ar": ""
-    },
-    {
-      "id": "843a00aba76b52e4",
-      "title": "RE: https:// mastodon.social/@ECHOLOT_Proje ct/117523470243601972 This is huge! NeoWiki is a modern metadata management system for # MediaWiki ",
-      "url": "https://mastodon.social/@RichardHeigl/117523582500371426",
+      "id": "975edb5d37b1c7dd",
+      "title": "Can AI improve a real WordPress website? 🤖 I tested AI for troubleshooting, SEO, plugin decisions, and performance improvements on TechEduCareer",
+      "url": "https://mastodon.social/@techeducareer/117523605260576411",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T09:52:35.247000+00:00",
-      "summary": "RE: https:// mastodon.social/@ECHOLOT_Proje ct/117523470243601972 This is huge! NeoWiki is a modern metadata management system for # MediaWiki . It is funded by an # EU project and, to a lesser extent, by Hallo Welt. This underscores MediaWiki's leadership in the field of open source knowledge solutions. And it is already built into @ bluespice Galaxy, which will be launched in just a few days. # ",
-      "engagement": 0.0,
-      "score": 50.1,
+      "published": "2026-10-29T09:58:22.538000+00:00",
+      "summary": "Can AI improve a real WordPress website? 🤖 I tested AI for troubleshooting, SEO, plugin decisions, and performance improvements on TechEduCareer. The key lesson: AI helps, but human verification matters. 🔗 https:// techeducareer.com/how-to-use-a i-to-improve-wordpress-website/ # WordPress # AI # WebDevelopment",
+      "engagement": 1.0,
+      "score": 44.61,
       "niche_hits": [],
       "meta": {
-        "account": "RichardHeigl",
-        "taste": 0.6326
+        "account": "techeducareer",
+        "taste": 0.4985
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.633,
+      "taste": 0.498,
       "ar": ""
     },
     {
-      "id": "d55a2b8f140f768d",
-      "title": "Can we create a \"hug your local open source person today\" day. But, ask first?",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JZldwV3cyWmdnZkdNR1lNYzNKdkRHY0toNHFaTV9aSENMSU9qN08ya2UyY29HbFJfdzFacEdVaVpPQ3JSLWNRWXRLdXZLQ3M3ck1KVDczNUlKUTYwY2c?oc=5",
+      "id": "8dc4b313d0cfe5df",
+      "title": "In Hong Kong for FinTech Week 2026? Keep Wednesday night free for us! 🇭🇰 We will co-host an evening of panels and networking, focused on agentic AI and round-the-clock treasury operations. And our @hellominds_ team will cover how AI agents establis",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XcjNtU1lwVmJmMVVYMlVTR2pmUnNyXzhoM2duVEpzeEdyc25YZFhnb0Q5cjgwQ18xUVZMNXphOHpGZ2pZSTF1R3I4bkJCMHB3N1ZnbDc4QUlqLUtScF9fRGRKZ2Q?oc=5",
       "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-29T09:25:30+00:00",
-      "summary": "Can we create a \"hug your local open source person today\" day. But, ask first? X",
+      "topic": "agents",
+      "published": "2026-10-29T09:27:01+00:00",
+      "summary": "In Hong Kong for FinTech Week 2026? Keep Wednesday night free for us! 🇭🇰 We will co-host an evening of panels and networking, focused on agentic AI and round-the-clock treasury operations. And our @hellominds_ team will cover how AI agents establis X",
       "engagement": 0.0,
-      "score": 50.08,
+      "score": 42.77,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.3844
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.2093
       },
       "sources": [
         "x"
       ],
-      "taste": 0.384,
+      "taste": 0.209,
+      "ar": ""
+    },
+    {
+      "id": "27d17aeed6864911",
+      "title": "📰 Graphics/NPU Driver Changes Already Begin Queuing Up For What Will Be Linux 7.5 Since last week drm-misc-next pull requests have already…",
+      "url": "https://igeek.gamer-geek-news.com/@feed/statuses/01M63HJST94MMWW840FNJHBDZT",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T09:59:11+00:00",
+      "summary": "📰 Graphics/NPU Driver Changes Already Begin Queuing Up For What Will Be Linux 7.5 Since last week drm-misc-next pull requests have already been sent out to DRM-Next to begin staging new feature code for what's intended for the Linux 7.5 kernel cycle kicking off at the end of the... 📰 Source: Phoronix 🔗 Link: https://www.phoronix.com/news/Linux-7.5-drm-misc-next # Linux # OpenSource",
+      "engagement": 0.0,
+      "score": 31.35,
+      "niche_hits": [],
+      "meta": {
+        "account": "feed@igeek.gamer-geek-news.com",
+        "taste": 0.2096
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.21,
+      "ar": ""
+    },
+    {
+      "id": "43db79287c3a014a",
+      "title": "O tânără din 🇺🇸#SUA a fost găsită moartă după ce 🧠#ChatGPT „ar fi convins-o” să renunțe la medicamentele pentru epilepsie",
+      "url": "https://mstdn.social/@RomaniaTeIubesc/117523611721700897",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:00:01+00:00",
+      "summary": "O tânără din 🇺🇸#SUA a fost găsită moartă după ce 🧠#ChatGPT „ar fi convins-o” să renunțe la medicamentele pentru epilepsie. 🔗 https:// stirileprotv.ro/divers/o-tanar a-din-sua-a-fost-gasita-moarta-dupa-ce-chatgpt-ar-fi-convins-o-sa-renunte-la-medicamentele-pentru-epilepsie.html # Știri # România # Tehnologie # InteligențaArtificială # AI # OpenAI",
+      "engagement": 0.0,
+      "score": 30.6,
+      "niche_hits": [],
+      "meta": {
+        "account": "RomaniaTeIubesc@mstdn.social",
+        "taste": 0.1904
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.19,
+      "ar": ""
+    },
+    {
+      "id": "1dff13daa4e6aea5",
+      "title": "#BharatGPT models are now available for download on AIKosh! Explore the models and discover new possibilities for India’s sovereign AI ecosystem. Explore now: #BharatGPT #AIKosh #IndiaAI #SovereignAI @AshwiniVaishnaw @Jit",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43UGdkVzNNLWxzTDdUY3ctRi00emtJR2ZpU3VSN0E1Q1JEYUdmSW1iUFNKbTlMeV9CWm01c2hVM0lBSTFWWEI4QXpOY0dYWG80V0lYQzJrejBweHJ4amxaVVo2ckxOYWVybmkxdU5LNTFhZw?oc=5",
+      "source": "x",
+      "topic": "launch",
+      "published": "2026-10-27T05:21:32+00:00",
+      "summary": "#BharatGPT models are now available for download on AIKosh! Explore the models and discover new possibilities for India’s sovereign AI ecosystem. Explore now: https://t.co/3u2D03g8as #BharatGPT #AIKosh #IndiaAI #SovereignAI @AshwiniVaishnaw @Jit X",
+      "engagement": 0.0,
+      "score": 29.52,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source alternative\" OR \"just launched\" OR \"now available\" OR \"v1.0\") when:3d",
+        "taste": 0.5949
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.595,
+      "ar": ""
+    },
+    {
+      "id": "c4fb3739ab0139af",
+      "title": "GPT-6.1-Terra on my LLM coding leaderboard. - Pretty average, but VERY fast (except Max). - Cost is a bit more expensive than Luna, but not by much. So, if you care about SPEED, you may choose Terra over Luna. Otherwise, \"meh\" model. Full table:",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZWFlfUjYyQU9ZLWFkZF9Sd2U3TzhIOUpHX09qT0NtLV9HRVhpMHhVako2d1czS2t6SXBiWm1INkcyVTdjYnpqSlI5TDc1bndfX3dZRjQwWWxaRVZnRzE5Q1hTTQ?oc=5",
+      "source": "x",
+      "topic": "devtools",
+      "published": "2026-10-27T16:10:02+00:00",
+      "summary": "GPT-6.1-Terra on my LLM coding leaderboard. - Pretty average, but VERY fast (except Max). - Cost is a bit more expensive than Luna, but not by much. So, if you care about SPEED, you may choose Terra over Luna. Otherwise, \"meh\" model. Full table: https://t. X",
+      "engagement": 0.0,
+      "score": 28.72,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
+        "taste": 0.6934
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.693,
+      "ar": ""
+    },
+    {
+      "id": "be0608c8bd07e45c",
+      "title": "Most AI coding demos stop at “here’s the code.” MiniMax Code kept going with its latest M3.1 Flash model: it built the game, tested the gameplay, fixed bugs, and iterated inside the same workflow. I gave it one simple idea: Build me a playable adveranturous pi",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IbGpoUWFaM2h6Wk5VQm5VYjMtY3dDcTFodTNIbzRwVHhCbFIxMmM1VHNEcEpOdWVHTWpqLTYyUTcycjY4V1Z4QXJBU21pNTUyZldYT1IwNFlLNmdFak1sbk1JQTBLZw?oc=5",
+      "source": "x",
+      "topic": "devtools",
+      "published": "2026-10-27T11:32:40+00:00",
+      "summary": "Most AI coding demos stop at “here’s the code.” MiniMax Code kept going with its latest M3.1 Flash model: it built the game, tested the gameplay, fixed bugs, and iterated inside the same workflow. I gave it one simple idea: Build me a playable adveranturous pi X",
+      "engagement": 0.0,
+      "score": 28.69,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
+        "taste": 0.7321
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.732,
+      "ar": ""
+    },
+    {
+      "id": "2bd3854906482aae",
+      "title": "Day 33 of 100 Days of AI 🤖 Binance Intelligence isn’t just one AI tool. It’s three, each built for different needs. Binance AI, Binance AI Pro, and Agent OS. Discover which one is right for you. 👇",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JQ3NMNS1CdEFfU0thX2xMNGV6eHpjdTlxTEU3ZkVvQ1U2dVJ1NE1iZG5kb1VnLWlZQkQtU2dCdnJSV2RsUFcyQ2FGczdTcXBaMWozWE9OZk55Zlpa?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-28T16:19:38+00:00",
+      "summary": "Day 33 of 100 Days of AI 🤖 Binance Intelligence isn’t just one AI tool. It’s three, each built for different needs. Binance AI, Binance AI Pro, and Agent OS. Discover which one is right for you. 👇 https://t.co/GonDxn7qgE X",
+      "engagement": 0.0,
+      "score": 28.38,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.235
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.235,
+      "ar": ""
+    },
+    {
+      "id": "79115472d0314f29",
+      "title": "🛠️🧭 I went down the Agentic AI research rabbit hole. If you want to master Agentic AI Engineering, there is much more to understand than prompts, LLMs, and agent frameworks. You need to understand how agents reason, plan, use tools, remember, collabor",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MYms5WnFpcG5YdFZDYkN2dU5lRmNSekUyeEdGRldHbGV1TzZjTTlsOExnWGxwSkxfOTY1MUg1WnJzOGl2NnJjWE5HUzc4WEVuOVByY0tRUzhVbkhqVFRTWl91VQ?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-26T21:00:15+00:00",
+      "summary": "🛠️🧭 I went down the Agentic AI research rabbit hole. If you want to master Agentic AI Engineering, there is much more to understand than prompts, LLMs, and agent frameworks. You need to understand how agents reason, plan, use tools, remember, collabor X",
+      "engagement": 0.0,
+      "score": 27.29,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.7211
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.721,
+      "ar": ""
+    },
+    {
+      "id": "756467e2aea31f38",
+      "title": "Rob shared that Boom already has an MCP server live, along with a cloud connector, with more still to come. The goal is to let people build the workflows they actually want. As AI agents take on more work, I think property managers will need software partners",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4eF9tU21fLU01cFlXNWpUajhlMU53cXRoRHZQaHppak1MMjJwWXJEMTZfc0NvQm5sNnNRYmxKaTg1eVhaMzRaSTQ5dkNEN2F0QlhGMFBkYUZraW9OLTUwbkUxMWpMaENzNHc?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-27T14:02:46+00:00",
+      "summary": "Rob shared that Boom already has an MCP server live, along with a cloud connector, with more still to come. The goal is to let people build the workflows they actually want. As AI agents take on more work, I think property managers will need software partners X",
+      "engagement": 0.0,
+      "score": 26.4,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.5343
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.534,
+      "ar": ""
+    },
+    {
+      "id": "f5e18e699cab78d7",
+      "title": "GPT-6.1 Terra is rolling out now and is available to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex. Developers can also access it through the OpenAI API as gpt-6.1-terra.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5INHdMaU9wSTMxLW9seFZqTnQ0MTdfeUZBRlBQMU00UmJZVlpVZG8tWnZiUnNEYmpMRFg3WXJZTkxxQlc5Mkd0RHVmbGQyUHBhbW96M19BQURWWlE?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-26T18:06:29+00:00",
+      "summary": "GPT-6.1 Terra is rolling out now and is available to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex. Developers can also access it through the OpenAI API as gpt-6.1-terra. https://t.co/TVsi7lEeX9 X",
+      "engagement": 0.0,
+      "score": 25.47,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.7472
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.747,
+      "ar": ""
+    },
+    {
+      "id": "7467243d4583501b",
+      "title": "ChatGPT | Artificial Intelligence | App for AI Assistance, Content Creation & Productivity",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbDdkV3BvV0JIbUtNTUtkSFJEZUJNQjNXa2hBa2lEVi1ZNGN5RzVYd0tWSkd6TnhKekFLc3hOYkhsUVBLZHdjOF8wRG05YTM2UldQdXowLVdscWlFSFMtRGxsVmMtcmc1SzBVSnMtN2NEd2I1Y3FOTndBYjJOemtzejBWUTNTMl9aeTJVR0JKQzVZWVVUQnlDUGpoUdIBqAFBVV95cUxPLWVmZUtxdERYVzJQMkpoWnd1cGdoS0d2eXQ2RmEwakJwZExPSVlpYnA1bk9JTkNGbVkyQXBiQm1NbkFXTEtPT2NJVlpnUmRSNEpULVNUQ1RkRFgzZXl3bC1mMmJRU0xVYVQtanozUnBqRU5OQjRKWjB6SlFWQXY3QWZTaFQ5WWd1RlJDMkFJYWRXeVFDX29ZT2lNbEREcFlwa1hKeFU5ODU?oc=5",
+      "source": "news",
+      "topic": "free",
+      "published": "2026-10-22T12:30:00+00:00",
+      "summary": "ChatGPT | Artificial Intelligence | App for AI Assistance, Content Creation & Productivity Analytics Insight",
+      "engagement": 0.0,
+      "score": 25.26,
+      "niche_hits": [],
+      "meta": {
+        "query": "\"free tier\" OR \"free plan\" OR \"open source alternative\" when:7d",
+        "taste": 0.8181
+      },
+      "sources": [
+        "news"
+      ],
+      "taste": 0.818,
+      "ar": ""
+    },
+    {
+      "id": "1839810099bf0936",
+      "title": "Proceedings from the 2026 Stata Conference are now available, with presentations spanning AI-assisted workflows, DID, treatment effects, survey automation, new Stata commands, and more. Explore ↓",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mNlM2VGN3T0l3cmxNbkxiWkxZZEpzUTRucmhxZmp5UWp0LVUxcFNXQjM2ek9kMDFRY1RpcnphRzBDcFZONWdLWEdrN3B0NzROWHpmQzhZZjR2dw?oc=5",
+      "source": "x",
+      "topic": "launch",
+      "published": "2026-10-26T14:05:31+00:00",
+      "summary": "Proceedings from the 2026 Stata Conference are now available, with presentations spanning AI-assisted workflows, DID, treatment effects, survey automation, new Stata commands, and more. Explore ↓ https://t.co/JwQtR5cg3Q X",
+      "engagement": 0.0,
+      "score": 24.39,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source alternative\" OR \"just launched\" OR \"now available\" OR \"v1.0\") when:3d",
+        "taste": 0.534
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.534,
       "ar": ""
     }
   ]

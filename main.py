@@ -114,7 +114,19 @@ def run(*, include_x: bool = True, use_ai: bool = True, do_publish: bool = False
 
     # durable history for catch-up mode
     if ranked:
-        archive.append(ranked[:60])
+        extras = []
+        for source, n in (("newsletter", 8), ("producthunt", 5)):
+            subset = [s for s in signals if s.source == source]
+            if subset:
+                extras += rank(subset, top_n=n)
+        merged: list[Story] = []
+        seen_ids: set[str] = set()
+        for story in ranked[:60] + extras:
+            if story.lead.id in seen_ids:
+                continue
+            seen_ids.add(story.lead.id)
+            merged.append(story)
+        archive.append(merged)
         archive.prune()
 
     for story in ranked:

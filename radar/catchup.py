@@ -87,7 +87,8 @@ class Item:
         taste = self.taste
         if "paper" in self.sources and taste < 0.5:
             taste = 0.5
-        return self.longevity + cross + research + (taste - 0.5) * 20
+        newsletter = 6.0 if "newsletter" in self.sources else 0.0
+        return self.longevity + cross + research + newsletter + (taste - 0.5) * 20
 
 
 def _cluster(rows: list[dict], threshold: float = 0.5) -> list[Item]:
@@ -187,6 +188,16 @@ def render_report(days: int = 30, top: int = 25, headline: str = "") -> str:
         for item in bucket[:7]:
             mark = f" · {len(item.days)}ي" if len(item.days) > 1 else ""
             out.append(f"- [{item.title[:110]}]({item.url}){mark}")
+        out.append("")
+
+    # The writers the reader chose to follow are not ranked like news; give
+    # them a fixed shelf so a quiet newsletter is still seen.
+    letters = [i for i in items if "newsletter" in i.sources][:6]
+    if letters:
+        out += ["## من النشرات", ""]
+        for item in letters:
+            outlet = (item.meta or {}).get("outlet") or "نشرة"
+            out.append(f"- **{outlet}** — [{item.title[:120]}]({item.url})")
         out.append("")
 
     sources_all: dict[str, int] = {}
