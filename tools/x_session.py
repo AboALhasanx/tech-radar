@@ -132,14 +132,20 @@ def scrape_trends(page) -> list[str]:
             if txt and len(txt) > 3:
                 out.append(txt.replace("\n", " | ")[:200])
         if out:
-            break
+            return out
 
-    if not out:
-        # last resort: pull hashtags / "Trending" rows out of the visible column
-        main = page.query_selector('main') or page.query_selector('body')
-        body = _text(main) if main else ""
-        lines = [ln.strip() for ln in body.splitlines() if ln.strip()]
-        out = [ln for ln in lines if ln.startswith("#") or "Trending" in ln][:40]
+    # 2026 layout: the trend name is the line after "Category · Trending".
+    main = page.query_selector("main") or page.query_selector("body")
+    lines = [ln.strip() for ln in (_text(main) if main else "").splitlines() if ln.strip()]
+    for i, line in enumerate(lines):
+        if "·" in line and line.rstrip().endswith("Trending") and i + 1 < len(lines):
+            name = lines[i + 1]
+            if name in ("Trending", "Explore", "See new posts"):
+                continue
+            category = line.split("·")[0].strip()
+            entry = f"{category}: {name}"
+            if entry not in out:
+                out.append(entry[:200])
     return out
 
 
