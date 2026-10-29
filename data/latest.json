@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-10-29T08:32:52.552221+00:00",
-  "fetched": 586,
+  "generated_at": "2026-10-29T09:14:46.609308+00:00",
+  "fetched": 574,
   "stories": [
+    {
+      "id": "f4f57e984abe7451",
+      "title": "JUST IN: DeepSeek and Moonshot used OpenAI’s GPT-6 Astra to train new models",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13WWw2d1dfUDhMYlJxYlVPUGRIcEVjTnhEZDRBLTRLWVBkZHU2cnhXTklTUExFWHlHSGJnY3BCZjBkQm84U0xuUm5qV0c5TWxnMnFIRkN1X1oxRjQ?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T07:31:56+00:00",
+      "summary": "JUST IN: DeepSeek and Moonshot used OpenAI’s GPT-6 Astra to train new models X",
+      "engagement": 0.0,
+      "score": 66.42,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d",
+        "taste": 0.8604
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.86,
+      "ar": ""
+    },
     {
       "id": "7dbb44d674522f97",
       "title": "Google’s Search business is being CANNIBALIZED by AI. Alphabet shares plunged nearly -10% after hours as Search revenue missed expectations, even as people asked Google more questions. The reason is that more searches don’t automatically mean m",
@@ -24,24 +45,24 @@
       "ar": ""
     },
     {
-      "id": "3f818892b3cba658",
-      "title": "Browser Use Arrives on Unsloth, Qwen3.8-27B Browses the Web Locally",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOG01Tkd1YjZmLW1QZ3Qyd2g4YjhCMmxsYjFkVktERS1FYlZqSVVsTFpFVl92NnVka2tqVjE3RzNXb2hXb3ExYmZHM3ROTUxjSnJTZVg2NEFlSWxlNHBwaXQ5ZlRCOC1paG4wZXNHTUE0T05jTDkwSXFEZTROLUpvdHN6YV8zX2x0R3Y4bTBXWWN2alE?oc=5",
-      "source": "news",
-      "topic": "dev",
-      "published": "2026-10-29T08:10:47+00:00",
-      "summary": "Browser Use Arrives on Unsloth, Qwen3.8-27B Browses the Web Locally Pasquale Pillitteri",
+      "id": "fb83705153db54ef",
+      "title": "New Apple paper finds that, as training data grows, tool-use agents gain more from diverse apps and database states than from more tasks. that the mix of synthetic training data, not just its size, decides how well tool-use agents generalize to new benchmarks.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02c2psR1g2ZnJlVm0zNURKQlUzQU1nVVE3bkNpQUY3TzhJUkNkWmRya3pXcWNuY0VocGNHNmxsZnJLYUdoZXRVcW1zS0tWRG9uU0QtNFd6SUExUUxsSVFQOS1pdw?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-29T04:11:26+00:00",
+      "summary": "New Apple paper finds that, as training data grows, tool-use agents gain more from diverse apps and database states than from more tasks. that the mix of synthetic training data, not just its size, decides how well tool-use agents generalize to new benchmarks. X",
       "engagement": 0.0,
-      "score": 63.47,
+      "score": 65.28,
       "niche_hits": [],
       "meta": {
-        "query": "open source OR developer tools when:2d",
-        "taste": 0.967
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
+        "taste": 0.7721
       },
       "sources": [
-        "news"
+        "x"
       ],
-      "taste": 0.967,
+      "taste": 0.772,
       "ar": ""
     },
     {
@@ -66,6 +87,27 @@
       "ar": ""
     },
     {
+      "id": "3f818892b3cba658",
+      "title": "Browser Use Arrives on Unsloth, Qwen3.8-27B Browses the Web Locally",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOG01Tkd1YjZmLW1QZ3Qyd2g4YjhCMmxsYjFkVktERS1FYlZqSVVsTFpFVl92NnVka2tqVjE3RzNXb2hXb3ExYmZHM3ROTUxjSnJTZVg2NEFlSWxlNHBwaXQ5ZlRCOC1paG4wZXNHTUE0T05jTDkwSXFEZTROLUpvdHN6YV8zX2x0R3Y4bTBXWWN2alE?oc=5",
+      "source": "news",
+      "topic": "dev",
+      "published": "2026-10-29T08:10:47+00:00",
+      "summary": "Browser Use Arrives on Unsloth, Qwen3.8-27B Browses the Web Locally Pasquale Pillitteri",
+      "engagement": 0.0,
+      "score": 62.34,
+      "niche_hits": [],
+      "meta": {
+        "query": "open source OR developer tools when:2d",
+        "taste": 0.967
+      },
+      "sources": [
+        "news"
+      ],
+      "taste": 0.967,
+      "ar": ""
+    },
+    {
       "id": "1de121df03589911",
       "title": "🚀 Fastest-growing AI projects today 1. Among these, the logo-design skill by kaankiziltug stands out for its comprehensive app... 2.…",
       "url": "https://mastodon.social/@Pulrepo/117523258037022806",
@@ -74,7 +116,7 @@
       "published": "2026-10-29T08:30:04.327000+00:00",
       "summary": "🚀 Fastest-growing AI projects today 1. Among these, the logo-design skill by kaankiziltug stands out for its comprehensive app... 2. kaankiziltug's `logo-design-skill` a detailed framework for designing logos with princi... 3. With over 3,852 stars and a high growth score of 98.04, it evident that developers find... Full report → https:// pullrepo.com/report/todays-ai- agent-fastest-growing-projec",
       "engagement": 0.0,
-      "score": 62.36,
+      "score": 61.21,
       "niche_hits": [],
       "meta": {
         "account": "Pulrepo",
@@ -94,12 +136,12 @@
       "topic": "dev",
       "published": "2026-10-29T03:33:42+00:00",
       "summary": "",
-      "engagement": 319.0,
-      "score": 61.73,
+      "engagement": 352.0,
+      "score": 61.04,
       "niche_hits": [],
       "meta": {
-        "points": 319,
-        "comments": 98,
+        "points": 352,
+        "comments": 106,
         "hn_url": "https://news.ycombinator.com/item?id=50284255",
         "taste": 0.6603
       },
@@ -110,27 +152,6 @@
       "ar": ""
     },
     {
-      "id": "fa3e3581ae16a5a2",
-      "title": "Ever heard of an AI harness? They're everywhere, and you're probably already working with one, even if you don't recognize it yet",
-      "url": "https://mastodon.social/@datafrosch/117523264088215375",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T08:31:36.671000+00:00",
-      "summary": "Ever heard of an AI harness? They're everywhere, and you're probably already working with one, even if you don't recognize it yet. Together with our in-house robot-whisperer @ monneyboi we took agent harnesses inside out. And then we built one. Live. Get your knitting out and Join us on this fast ride. 🎢🧶 https:// datafrosch.fun/events/agent-ha rnesses.html # AI # DYI # video # smallTech # Sharing",
-      "engagement": 0.0,
-      "score": 58.92,
-      "niche_hits": [],
-      "meta": {
-        "account": "datafrosch",
-        "taste": 0.839
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.839,
-      "ar": ""
-    },
-    {
       "id": "44e3e5f137f8038b",
       "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
       "url": "https://divagr.com/blog/qwenputer",
@@ -138,12 +159,12 @@
       "topic": "dev",
       "published": "2026-10-29T00:25:45+00:00",
       "summary": "",
-      "engagement": 398.0,
-      "score": 58.91,
+      "engagement": 428.0,
+      "score": 58.12,
       "niche_hits": [],
       "meta": {
-        "points": 398,
-        "comments": 83,
+        "points": 428,
+        "comments": 92,
         "hn_url": "https://news.ycombinator.com/item?id=50282838",
         "taste": 0.7355
       },
@@ -151,6 +172,30 @@
         "hackernews"
       ],
       "taste": 0.736,
+      "ar": ""
+    },
+    {
+      "id": "d76d59f8ae2e3cb2",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "source": "hackernews",
+      "topic": "dev",
+      "published": "2026-10-28T17:10:37+00:00",
+      "summary": "",
+      "engagement": 575.0,
+      "score": 57.79,
+      "niche_hits": [],
+      "meta": {
+        "points": 575,
+        "comments": 969,
+        "hn_url": "https://news.ycombinator.com/item?id=50276940",
+        "taste": 0.4827
+      },
+      "sources": [
+        "hackernews",
+        "mastodon"
+      ],
+      "taste": 0.483,
       "ar": ""
     },
     {
@@ -183,7 +228,7 @@
       "published": "2026-10-28T16:11:23+00:00",
       "summary": "Look for Expo Mode. We built it with Google’s new HTML-in-Canvas API. I think we’re one of the first to use it. X",
       "engagement": 0.0,
-      "score": 56.64,
+      "score": 55.89,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (Flutter OR \"React Native\" OR Expo OR Android) when:7d",
@@ -196,66 +241,66 @@
       "ar": ""
     },
     {
-      "id": "c5ad40d11c270b05",
-      "title": "What Robinhood's CFO found interesting about Anthropic's IPO prospectus Everyone is digging into Anthropic's S-1, even other C-suite execs",
-      "url": "https://mastodon.social/@top_news/117523219539444465",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T08:20:16.911000+00:00",
-      "summary": "What Robinhood's CFO found interesting about Anthropic's IPO prospectus Everyone is digging into Anthropic's S-1, even other C-suite execs. https:// finance.yahoo.com/markets/arti cle/what-robinhoods-cfo-found-interesting-about-anthropics-ipo-prospectus-223910657.html # TopNews # News # AI # Robinhood # Verma",
-      "engagement": 0.0,
-      "score": 55.52,
-      "niche_hits": [],
-      "meta": {
-        "account": "top_news",
-        "taste": 0.8217
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.822,
-      "ar": ""
-    },
-    {
-      "id": "486df32afe5b9749",
-      "title": "SITUATION DETECTED: Moonshot AI and DeepSeek both distilled OpenAI’s GPT-6 Astra for their latest models. Kimi K3.1 Pro and DeepSeek’s V4.1-Flash both benefited, per The Information.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CVGFxRVUyVXJhdWxwbEV3ajd2MUtoa2R2dFhtMGVkUUVCVVk1NE9uZll1bzBhOW1yRUl0X3dtUmZGclZGRjdaOWJTeDhNTWpIbDdTcDBtZzdxSDFN?oc=5",
+      "id": "fa93e6f2e17b6f08",
+      "title": "Big moment for Voice AI. A typical voice-agent pipeline has three model stages. Speech-to-text converts the caller’s audio into text. The LLM processes that text and generates a response. Text-to-speech converts the response back into audio. For speech accu",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hdjVmQm9TRjIyMTVqdWdlZFRCblNaUzd5TWVfZlU0bTFIRmRSR2FVdjNoaDRrVnRYbklBVVB4c0Z2dS1oMnRYb0RKaUxsNUVVQlF6TVhpQk5GU0lUak8yb0MzMUtmdw?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T03:05:33+00:00",
-      "summary": "SITUATION DETECTED: Moonshot AI and DeepSeek both distilled OpenAI’s GPT-6 Astra for their latest models. Kimi K3.1 Pro and DeepSeek’s V4.1-Flash both benefited, per The Information. X",
+      "topic": "agents",
+      "published": "2026-10-29T07:42:08+00:00",
+      "summary": "Big moment for Voice AI. A typical voice-agent pipeline has three model stages. Speech-to-text converts the caller’s audio into text. The LLM processes that text and generates a response. Text-to-speech converts the response back into audio. For speech accu X",
       "engagement": 0.0,
-      "score": 54.86,
+      "score": 54.21,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d",
-        "taste": 0.5716
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
+        "taste": 0.4952
       },
       "sources": [
         "x"
       ],
-      "taste": 0.572,
+      "taste": 0.495,
       "ar": ""
     },
     {
-      "id": "3bb4d53e51892aa0",
-      "title": "Beyond Atlassian: A European open source alternative to Confluence and Jira Join OpenProject and @ xwiki for a free webinar! Wieland…",
-      "url": "https://fosstodon.org/@openproject/117523107915187230",
+      "id": "8f1e2c23f85a96b4",
+      "title": "🚀 AbraFlexi API Doc v1.2.1 released! The REST API docs now cover password reset (send-email, set-password) and a fuller authentication…",
+      "url": "https://f.cz/@vitexsoftware/117523336164926036",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T07:51:53+00:00",
-      "summary": "Beyond Atlassian: A European open source alternative to Confluence and Jira Join OpenProject and @ xwiki for a free webinar! Wieland Lindenthal ( @ wielinde ) CTO & Co-founder of OpenProject, and Ștefana Nazare from XWiki will show: 🔹 Migration tools for Jira and Confluence 🔹 Our bidirectional integration 🔹 Live demos and Q&A 📅 Nov 12 | 2 PM CET Register: https://www. openproject.org/webinars/beyo",
-      "engagement": 6.0,
-      "score": 54.79,
+      "published": "2026-10-29T08:49:56+00:00",
+      "summary": "🚀 AbraFlexi API Doc v1.2.1 released! The REST API docs now cover password reset (send-email, set-password) and a fuller authentication chapter, in Czech and English. https:// github.com/VitexSoftware/abraf lexi-api-doc/releases/tag/v1.2.1 # release # AbraFlexiAPIDoc # Debian # opensource # API # documentation",
+      "engagement": 0.0,
+      "score": 54.1,
       "niche_hits": [],
       "meta": {
-        "account": "openproject@fosstodon.org",
-        "taste": 0.5513
+        "account": "vitexsoftware@f.cz",
+        "taste": 0.7947
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.551,
+      "taste": 0.795,
+      "ar": ""
+    },
+    {
+      "id": "e944dcd536bd37ea",
+      "title": "How do people use AI for news and for other purposes? This is the question at the heart of our new report Authored by @_FelixSimon_ @rasmus_kleis @richrdfletcher, the report looks at this issue with fresh data from 9 countries 7 findings in thread",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKZHAyTVY1X2hDMGltaUFPNXo1eU5yb1A4WVFyajhSTlJ2RTRoMWhwTk1naW9FSWVMeEpWNVNKVGdETDAydWFoN2JTWk9PRzJ5dllEbmozVk9nb2ctNlpISTVR?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T08:34:21+00:00",
+      "summary": "How do people use AI for news and for other purposes? This is the question at the heart of our new report Authored by @_FelixSimon_ @rasmus_kleis @richrdfletcher, the report looks at this issue with fresh data from 9 countries 7 findings in thread https://t.co/I X",
+      "engagement": 0.0,
+      "score": 53.66,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d",
+        "taste": 0.5416
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.542,
       "ar": ""
     },
     {
@@ -267,7 +312,7 @@
       "published": "2026-10-28T19:13:14+00:00",
       "summary": "GitHub is an interconnected community. You are GitHub, and GitHub is you. X",
       "engagement": 0.0,
-      "score": 54.34,
+      "score": 53.5,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d",
@@ -277,52 +322,6 @@
         "x"
       ],
       "taste": 0.822,
-      "ar": ""
-    },
-    {
-      "id": "f40066880a48ed2f",
-      "title": "The Agent SDK",
-      "url": "https://cursor.com/blog/agent-sdk",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-10-28T14:02:20+00:00",
-      "summary": "",
-      "engagement": 122.0,
-      "score": 52.52,
-      "niche_hits": [],
-      "meta": {
-        "points": 122,
-        "comments": 119,
-        "hn_url": "https://news.ycombinator.com/item?id=50273731",
-        "taste": 0.8398
-      },
-      "sources": [
-        "hackernews"
-      ],
-      "taste": 0.84,
-      "ar": ""
-    },
-    {
-      "id": "efddadad9dd209c6",
-      "title": "A Health Update",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-10-28T21:13:21+00:00",
-      "summary": "",
-      "engagement": 229.0,
-      "score": 50.72,
-      "niche_hits": [],
-      "meta": {
-        "points": 229,
-        "comments": 35,
-        "hn_url": "https://news.ycombinator.com/item?id=50280974",
-        "taste": 0.6544
-      },
-      "sources": [
-        "hackernews"
-      ],
-      "taste": 0.654,
       "ar": ""
     }
   ]

@@ -76,6 +76,10 @@ TASTE_MODEL_PATH = "data/taste_model.json"
 TASTE_MIN_PROB = 0.15  # hard floor for X items
 TASTE_WEIGHT = 40.0  # (p - 0.5) * weight, so the range is -20..+20
 
+# ---------------------------------------------------------------- persistence
+SEEN_PATH = "data/seen.json"
+ARCHIVE_KEEP_MONTHS = 12
+
 # ---------------------------------------------------------------- output
 TOP_N = 15
 DIGEST_DIR = "digest"

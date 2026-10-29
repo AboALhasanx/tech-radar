@@ -109,6 +109,19 @@ data/radar.db          what has already been shown (SQLite)
 optionally posts to Telegram. Add `GROQ_API_KEY` for Arabic summaries and
 `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHANNEL_ID` for delivery. Neither is required.
 
+## If you disappear for two months
+
+The radar is built for absence, not for live monitoring:
+
+- every run archives the top 60 stories to `data/archive/YYYY-MM.jsonl.gz`
+- a Sunday job writes `digest/weekly/2026-W44.md` and refreshes **`CATCHUP.md`**
+- `CATCHUP.md` ranks by **longevity** — how many separate days a story kept
+  surfacing — so a three-week thread everyone kept talking about beats a
+  one-day spike
+- `radar/watchlist.json` decides what is worth a Telegram ping while you are away
+
+Read `docs/RETURNING.md` for the exact list of what to open first.
+
 ## Retrospective mode
 
 `--retro 60` samples the last two months in weekly windows and ranks terms by

@@ -16,15 +16,17 @@ import os
 import sys
 from pathlib import Path
 
-from radar import config
+from radar import archive, config
 from radar.models import Signal
 from radar.publish import enabled as telegram_enabled
 from radar.publish import publish as telegram_publish
+from radar.publish import publish_alert
 from radar.rank import Story, rank
 from radar.render import write_outputs
+from radar.seen import SeenSet
 from radar.sources import collect_all
-from radar.store import Store
 from radar.summarize import summarize
+from radar.watchlist import check as watch_check
 
 
 def _load_dotenv() -> None:
@@ -79,7 +81,7 @@ def _apply_taste(signals: list[Signal], min_taste: float | None = None) -> list[
 
 def run(*, include_x: bool = True, use_ai: bool = True, do_publish: bool = False,
         top: int | None = None, fresh_only: bool = True, use_taste: bool = True,
-        min_taste: float | None = None) -> list[Story]:
+        min_taste: float | None = None, do_alerts: bool = False) -> list[Story]:
     print("[radar] collecting…")
     signals = _dedupe(collect_all(include_x=include_x))
     print(f"[radar] {len(signals)} signals")
@@ -87,14 +89,17 @@ def run(*, include_x: bool = True, use_ai: bool = True, do_publish: bool = False
     if use_taste:
         signals = _apply_taste(signals, min_taste)
 
-    store = Store(config.DB_PATH)
+    seen = SeenSet(config.SEEN_PATH)
     if fresh_only:
         before = len(signals)
-        signals = [s for s in signals if not store.is_seen(s)]
+        signals = [s for s in signals if not seen.is_seen(s)]
         print(f"[radar] {len(signals)} new ({before - len(signals)} already shown)")
 
-    stories = rank(signals, top_n=top or config.TOP_N)
-    print(f"[radar] {len(stories)} stories")
+    # Rank deeper than the digest needs: the extra stories feed the archive and
+    # the seen-set, so tomorrow's run does not serve the same fifteen links.
+    ranked = rank(signals, top_n=max(120, top or 0))
+    stories = ranked[: (top or config.TOP_N)]
+    print(f"[radar] {len(stories)} stories ({len(ranked)} ranked)")
 
     summaries = summarize(stories) if use_ai else {}
     md_path, json_path = write_outputs(
@@ -106,13 +111,26 @@ def run(*, include_x: bool = True, use_ai: bool = True, do_publish: bool = False
     )
     print(f"[radar] wrote {md_path} and {json_path}")
 
-    for story in stories:
+    # durable history for catch-up mode
+    if ranked:
+        archive.append(ranked[:60])
+        archive.prune()
+
+    for story in ranked:
         for member in story.members:
-            store.mark_seen(member)
-    store.log_run(
-        len(signals), len(stories), stories[0].score if stories else 0.0
-    )
-    store.close()
+            seen.mark(member)
+    seen.save()
+    print(f"[radar] seen set: {len(seen)} ids")
+
+    if do_alerts:
+        hits = watch_check(stories)
+        if hits:
+            for story, matched in hits[:4]:
+                print(f"[alert] {story.lead.title[:60]} ({', '.join(matched[:3])})")
+            if telegram_enabled():
+                publish_alert(hits)
+        else:
+            print("[alert] no watchlist matches")
 
     if do_publish:
         if telegram_enabled():
@@ -135,12 +153,26 @@ def main(argv: list[str] | None = None) -> int:
         help="drop X posts below this probability (default: config)",
     )
     parser.add_argument("--publish", action="store_true", help="send to Telegram")
+    parser.add_argument(
+        "--alerts", action="store_true", help="ping Telegram on watchlist matches"
+    )
     parser.add_argument("--top", type=int, default=config.TOP_N)
     parser.add_argument(
         "--all", action="store_true", help="include stories already shown before"
     )
     parser.add_argument(
         "--retro", type=int, metavar="DAYS", help="retrospective mode (see radar.retro)"
+    )
+    parser.add_argument(
+        "--catchup",
+        type=int,
+        metavar="DAYS",
+        help="what you missed over the last N days (from the archive)",
+    )
+    parser.add_argument(
+        "--weekly",
+        action="store_true",
+        help="weekly rollup + refresh CATCHUP.md",
     )
     args = parser.parse_args(argv)
 
@@ -152,6 +184,33 @@ def main(argv: list[str] | None = None) -> int:
         retro_report(days=args.retro)
         return 0
 
+    if args.catchup:
+        from radar.catchup import write_report
+
+        path = write_report(args.catchup, top=args.top, use_ai=not args.no_ai)
+        print(f"[radar] catch-up written to {path}")
+        return 0
+
+    if args.weekly:
+        from datetime import datetime, timezone
+
+        from radar.catchup import write_report, write_rolling
+        from radar.publish import publish_catchup
+
+        now = datetime.now(timezone.utc)
+        year, week, _ = now.isocalendar()
+        path = write_report(
+            7,
+            top=12,
+            use_ai=not args.no_ai,
+            out_path=f"{config.DIGEST_DIR}/weekly/{year}-W{week:02d}.md",
+        )
+        write_rolling(30, 30)
+        if args.publish and telegram_enabled():
+            publish_catchup(path.read_text("utf-8"))
+        print(f"[radar] weekly written to {path}")
+        return 0
+
     stories = run(
         include_x=not args.no_x,
         use_ai=not args.no_ai,
@@ -160,6 +219,7 @@ def main(argv: list[str] | None = None) -> int:
         fresh_only=not args.all,
         use_taste=not args.no_taste,
         min_taste=args.min_taste,
+        do_alerts=args.alerts,
     )
     if not stories:
         print("[radar] nothing new — try --all")

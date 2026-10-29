@@ -63,3 +63,33 @@ def publish(stories: list[Story], *, top: int = 8) -> bool:
     ok = _send(text, token, chat_id)
     print(f"[telegram] {'sent' if ok else 'failed'}")
     return ok
+
+
+def publish_alert(items, *, top: int = 4) -> bool:
+    """Short, rare, high-signal message for watchlist matches."""
+    token = os.getenv("TELEGRAM_BOT_TOKEN", "")
+    chat_id = os.getenv("TELEGRAM_CHANNEL_ID", "")
+    if not (token and chat_id) or not items:
+        return False
+
+    lines = ["<b>⚡ تنبيه رادار</b>", ""]
+    for story, hits in items[:top]:
+        title = story.lead.title.replace("<", "&lt;").replace(">", "&gt;")
+        lines.append(f"• <a href=\"{story.lead.url}\">{title}</a>")
+        lines.append(f"  <i>{' · '.join(hits[:3])}</i>")
+    text = "\n".join(lines)[:_LIMIT]
+    ok = _send(text, token, chat_id)
+    print(f"[telegram] alert {'sent' if ok else 'failed'} ({len(items)} matches)")
+    return ok
+
+
+def publish_catchup(text: str, *, top: int = 6) -> bool:
+    """Send the head of a catch-up report (Telegram caps at 4096 chars)."""
+    token = os.getenv("TELEGRAM_BOT_TOKEN", "")
+    chat_id = os.getenv("TELEGRAM_CHANNEL_ID", "")
+    if not (token and chat_id):
+        return False
+    body = text[: _LIMIT - 100]
+    ok = _send(body, token, chat_id)
+    print(f"[telegram] catch-up {'sent' if ok else 'failed'}")
+    return ok
