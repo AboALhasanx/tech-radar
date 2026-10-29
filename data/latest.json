@@ -1,320 +1,320 @@
 {
-  "generated_at": "2026-10-29T10:16:33.582333+00:00",
-  "fetched": 154,
+  "generated_at": "2026-10-29T10:22:11.877247+00:00",
+  "fetched": 44,
   "stories": [
     {
-      "id": "c98c0f6e2a864300",
-      "title": "agent-shell gets its first 2000 GitHub stars https:// github.com/xenodium/agent-shell 😊 # emacs # llm # ai # agent # foss # oss",
-      "url": "https://indieweb.social/@xenodium/117523638757111468",
+      "id": "0f292a090ca103f0",
+      "title": "DLSS Updater 5.2 released with AMD FSR 4.1.2 support #OpenSource #Apps #NewRelease #AMD #NVIDIA #Intel DLSS Updater 5.2 released with...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:m5dcinlrpxq6rm2uficksxp7/post/3myyzwskbvr2i",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T10:06:53+00:00",
-      "summary": "agent-shell gets its first 2000 GitHub stars https:// github.com/xenodium/agent-shell 😊 # emacs # llm # ai # agent # foss # oss",
-      "engagement": 2.0,
-      "score": 64.72,
-      "niche_hits": [],
-      "meta": {
-        "account": "xenodium@indieweb.social",
-        "taste": 0.9211
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.921,
-      "ar": "حصل مشروع agent-shell على 2000 نجمة في GitHub، مما يعكس اهتماماً متزايداً بواجهات LLMs المدمجة مع أدوات مثل Emacs."
-    },
-    {
-      "id": "5481a7b1d035321e",
-      "title": "The new Artificial Analysis index shows that closed-source AI is widening the gap with open-source models. The alpha in AI isn't in doing the pedestrian; it's in building products we can't yet imagine.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ca3JlM3RqaTQzZzFQYXJkbndNbFVEM01jdmZIdG1DOGVObHUtc0xTVVZES0ZhWXRKVmZ2ZDF3UTRTLXZSMEVNVmFtNWsyNFhIbzhCNVlIZmhXVFhtMi15dzY4YnY?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-29T09:56:40+00:00",
-      "summary": "The new Artificial Analysis index shows that closed-source AI is widening the gap with open-source models. The alpha in AI isn't in doing the pedestrian; it's in building products we can't yet imagine. X",
+      "published": "2026-10-29T10:16:35+00:00",
+      "summary": "DLSS Updater 5.2 released with AMD FSR 4.1.2 support #OpenSource #Apps #NewRelease #AMD #NVIDIA #Intel DLSS Updater 5.2 released with...",
       "engagement": 0.0,
-      "score": 57.47,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.6367
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.637,
-      "ar": "أظهر مؤشر Artificial Analysis اتساع الفجوة بين نماذج AI المغلقة والمفتوحة، مؤكداً أن القيمة الحقيقية تكمن في بناء منتجات مبتكرة."
-    },
-    {
-      "id": "69da01165599eda9",
-      "title": "Today we're releasing Keila 0.40.0. We have revamped the form editor and you can now use HTML or MJML to design custom double opt-in and…",
-      "url": "https://fosstodon.org/@keila/117523641677253935",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:07:38+00:00",
-      "summary": "Today we're releasing Keila 0.40.0. We have revamped the form editor and you can now use HTML or MJML to design custom double opt-in and welcome emails. Plus a Swedish translation! Read the full changelog on GitHub https:// github.com/pentacent/keila/rel eases/tag/0.40.0 - or try it live on https://www. keila.io . This release also updates to Elixir 1.20 and Erlang/OTP 29. If you run a self-hosted",
-      "engagement": 2.0,
-      "score": 55.96,
-      "niche_hits": [],
-      "meta": {
-        "account": "keila@fosstodon.org",
-        "taste": 0.7616
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.762,
-      "ar": "أصدر فريق Keila الإصدار 0.40.0 مع محرر نماذج محسّن يدعم HTML وMJML لتصميم رسائل Double Opt-in مخصصة."
-    },
-    {
-      "id": "2c1ed81ba115331c",
-      "title": "Have an idea for a CSV validation rule or matrix transformation? I'd love to collaborate—open an issue on GitHub and help shape the…",
-      "url": "https://mastodon.social/@cbjr77/117523642347906010",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:07:48.447000+00:00",
-      "summary": "Have an idea for a CSV validation rule or matrix transformation? I'd love to collaborate—open an issue on GitHub and help shape the roadmap: https:// github.com/CedricBonjour/nanoc ell-csv 🛠️ # OpenSource # DataEngineering # DevTools",
-      "engagement": 0.0,
-      "score": 54.67,
-      "niche_hits": [],
-      "meta": {
-        "account": "cbjr77",
-        "taste": 0.7979
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.798,
-      "ar": "دعوة للمطورين للمشاركة في تطوير قواعد التحقق من ملفات CSV والتحويلات المصفوفية عبر فتح Issues على GitHub."
-    },
-    {
-      "id": "c09e3d49ea0b343e",
-      "title": "Как сделать RAG по профессиональной документации Привет, Хабр! Хотелось бы начать статью с такого вопроса: кто из нас еще не использовал…",
-      "url": "https://zhub.link/@habr/117523659945632968",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:12:16+00:00",
-      "summary": "Как сделать RAG по профессиональной документации Привет, Хабр! Хотелось бы начать статью с такого вопроса: кто из нас еще не использовал чат ассистентов в своей работе и повседневной жизни? Вот и мы, команда https:// habr.com/ru/companies/haulmont /articles/1100862/ # java # архитектура # ai # архитектура_по # архитектура_приложений # проектирование_систем # jmix # chatgpt # rag",
-      "engagement": 0.0,
-      "score": 49.57,
-      "niche_hits": [],
-      "meta": {
-        "account": "habr@zhub.link",
-        "taste": 0.6671
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.667,
-      "ar": "مقال تقني يشرح كيفية بناء أنظمة RAG متخصصة للوثائق المهنية، مستهدفاً تحسين دقة استرجاع المعلومات في المجالات التقنية."
-    },
-    {
-      "id": "55f49ad1ae89268e",
-      "title": "Do you know how to typeset fractions and binomial coefficients in your maths document? Check out this article.  https:// overleaf.com/learn/latex/Fr actions_and_Binomials …",
-      "url": "https://x.com/overleaf/status/2115730384197415118",
-      "source": "x_account",
-      "topic": "research_tools",
-      "published": "2026-10-29T09:00:06+00:00",
-      "summary": "Do you know how to typeset fractions and binomial coefficients in your maths document? Check out this article.  https:// overleaf.com/learn/latex/Fr actions_and_Binomials …",
-      "engagement": 5.0,
-      "score": 49.23,
-      "niche_hits": [],
-      "meta": {
-        "author": "Overleaf @overleaf · 1h",
-        "taste": 0.283
-      },
-      "sources": [
-        "x_account"
-      ],
-      "taste": 0.283,
-      "ar": "دليل عملي من Overleaf يوضح كيفية تنسيق الكسور والمعاملات الثنائية في مستندات LaTeX، مفيد لمطوري الأدوات الأكاديمية."
-    },
-    {
-      "id": "118d3c5b1b31df20",
-      "title": "There’s more to System One decision models than Jev.  These 15 models are worth a closer look:   Jeva  Prism-1  Bongard  Verdict (multi-question)  VideoJev  MJev-Spatial  AudioJev  MetaEncoder  FastJE",
-      "url": "https://x.com/TheTuringPost/status/2114422040929489241",
-      "source": "x_account",
-      "topic": "research_tools",
-      "published": "2026-10-25T18:21:13+00:00",
-      "summary": "There’s more to System One decision models than Jev.  These 15 models are worth a closer look:   Jeva  Prism-1  Bongard  Verdict (multi-question)  VideoJev  MJev-Spatial  AudioJev  MetaEncoder  FastJEV  SanSi (looped)  StartLux-Decision  System X",
-      "engagement": 341.0,
-      "score": 47.27,
-      "niche_hits": [],
-      "meta": {
-        "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 25",
-        "taste": 0.784
-      },
-      "sources": [
-        "x_account"
-      ],
-      "taste": 0.784,
-      "ar": "عرض لمجموعة من نماذج System One decision models مثل Jeva وPrism-1، التي تتجاوز حدود النماذج التقليدية في معالجة البيانات."
-    },
-    {
-      "id": "08e0a934e7f9d0a5",
-      "title": "Using KiCad or Fusion through MCP or computer use is like sucking a pizza through a straw Your AI coding agent doesn’t write code by clicking around VS Code either. It works directly with files, compilers, and other tools. These MCP integrations are transition",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WX1IzcDhadXNhaTZSeVJmemVOV256T2VvaUo2V1RBRDlMQlh6ZllxdXZTQTRzNzhfMGVBV2ZMRnRoMGxQa1Q2Q2VXUnNjY0ZlZDZOdGpOd0pvbmFQNFgyRGJMS0x6UQ?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-10-28T19:17:16+00:00",
-      "summary": "Using KiCad or Fusion through MCP or computer use is like sucking a pizza through a straw Your AI coding agent doesn’t write code by clicking around VS Code either. It works directly with files, compilers, and other tools. These MCP integrations are transition X",
-      "engagement": 0.0,
-      "score": 46.89,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.5645
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.565,
-      "ar": "انتقاد لاستخدام MCP مع أدوات تصميم مثل KiCad، مشدداً على أن وكلاء البرمجة يعملون بكفاءة أعلى عبر الملفات والمترجمات مباشرة."
-    },
-    {
-      "id": "da6457ac69418ed5",
-      "title": "alphaXiv Mobile 2.0 is here   • Mobile friendly PDF reader • Library with sharable folders • Custom feeds with research curated to your interests • Al visual overviews for papers • Support for iPhone ",
-      "url": "https://x.com/askalphaxiv/status/2115131377641509259",
-      "source": "x_account",
-      "topic": "research_tools",
-      "published": "2026-10-27T17:19:52+00:00",
-      "summary": "alphaXiv Mobile 2.0 is here   • Mobile friendly PDF reader • Library with sharable folders • Custom feeds with research curated to your interests • Al visual overviews for papers • Support for iPhone Duo + iPad  iOS:  https:// apps.apple.com/us/app/alphaxi v/id6782411985 … Android:  https:// play.google.com/store/apps/det ails?id=org.alphaxiv.mobileapp …",
-      "engagement": 319.0,
-      "score": 46.88,
-      "niche_hits": [],
-      "meta": {
-        "author": "alphaXiv @askalphaxiv · Oct 27",
-        "taste": 0.7424
-      },
-      "sources": [
-        "x_account"
-      ],
-      "taste": 0.742,
-      "ar": "إطلاق alphaXiv Mobile 2.0 مع قارئ PDF متجاوب ومكتبة مشاركة، مما يسهل الوصول إلى الأبحاث العلمية على أجهزة iPhone."
-    },
-    {
-      "id": "e74c448d54c9ccae",
-      "title": "D7VK 2.4 released along with GXVK for Vulkan-based 3Dfx Glide #Vulkan #OpenSource #NewRelease #Wine #Proton #D7VK #GXVK D7VK 2.4 released…",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:m5dcinlrpxq6rm2uficksxp7/post/3myyzi5m6cw2m",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:08:24+00:00",
-      "summary": "D7VK 2.4 released along with GXVK for Vulkan-based 3Dfx Glide #Vulkan #OpenSource #NewRelease #Wine #Proton #D7VK #GXVK D7VK 2.4 released along with G...",
-      "engagement": 0.0,
-      "score": 44.41,
+      "score": 44.44,
       "niche_hits": [],
       "meta": {
         "account": "gamingonlinux.com@bsky.brid.gy",
-        "taste": 0.5409
+        "taste": 0.5398
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.541,
-      "ar": "إصدار D7VK 2.4 مع GXVK لدعم Vulkan في محاكاة 3Dfx Glide، مما يحسن أداء الألعاب القديمة على أنظمة Linux."
+      "taste": 0.54,
+      "ar": "أصدرت NVIDIA تحديث DLSS Updater 5.2 بدعم رسمي لتقنية AMD FSR 4.1.2، مما يسهّل إدارة التحديثات عبر منصة موحدة لجميع المستخدمين."
     },
     {
-      "id": "58c0ab1d8b83cce7",
-      "title": "OpenAI now lets you text your Dot agent The feature works with both iMessage and RCS messaging",
-      "url": "https://social.gamefan.net/@techwire/117523643516112907",
+      "id": "d54a5cb98c7f16c0",
+      "title": "Small Language Models (SLMs) vs. Large Language Models (LLMs): Use Cases & Trade-offs in 2026 For a while, it felt like the AI world had…",
+      "url": "https://mastodon.world/@razi93/117523693190947052",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T10:08:06+00:00",
-      "summary": "OpenAI now lets you text your Dot agent The feature works with both iMessage and RCS messaging. https://www. engadget.com/2300235/openai-no w-lets-you-text-your-dot-agent/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # Engadget [Engadget]",
+      "published": "2026-10-29T10:20:44+00:00",
+      "summary": "Small Language Models (SLMs) vs. Large Language Models (LLMs): Use Cases & Trade-offs in 2026 For a while, it felt like the AI world had one rule: bigger is better. The drumbeat of headlines celebrated models with hundreds of https:// wpfrank.com/slms-vs-large-lang uage-models-llms-use-cases/ # LLMs # SLMs # AI # AImodels",
+      "engagement": 2.0,
+      "score": 42.29,
+      "niche_hits": [],
+      "meta": {
+        "account": "razi93@mastodon.world",
+        "taste": 0.4146
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.415,
+      "ar": "تبرز مزايا النماذج اللغوية الصغيرة SLMs مقابل الكبيرة LLMs في كفاءة التشغيل والتكلفة، مما يجعلها خياراً عملياً للتطبيقات المتخصصة في عام 2026."
+    },
+    {
+      "id": "48f9415c0168d04f",
+      "title": "Claude Code CLI finally has the /restart built into it",
+      "url": "https://mstdn.social/@tekkie/117523694983824140",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:21:11+00:00",
+      "summary": "Claude Code CLI finally has the /restart built into it. Also keeps the session. Good change! # AI # Programming",
+      "engagement": 0.0,
+      "score": 41.08,
+      "niche_hits": [],
+      "meta": {
+        "account": "tekkie@mstdn.social",
+        "taste": 0.4526
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.453,
+      "ar": "أضافت Anthropic أمر /restart المدمج في واجهة Claude Code CLI، مما يحسن استقرار الجلسة ويقلل الحاجة لإعادة تشغيل الأداة يدوياً."
+    },
+    {
+      "id": "ad0751d6781edd78",
+      "title": "Engadget is hiring writers! We're looking for freelance journalists who know their way around a tech blog",
+      "url": "https://social.gamefan.net/@techwire/117523682837791461",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:18:06+00:00",
+      "summary": "Engadget is hiring writers! We're looking for freelance journalists who know their way around a tech blog. https://www. engadget.com/2300216/engadget- is-hiring-writers-october-2026/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # Engadget [Engadget]",
       "engagement": 4.0,
-      "score": 44.2,
+      "score": 33.62,
       "niche_hits": [],
       "meta": {
         "account": "techwire@gamefan.net",
-        "taste": 0.3752
+        "taste": 0.1676
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.375,
+      "taste": 0.168,
+      "ar": "تعلن Engadget عن توظيف كتاب مستقلين لتغطية أخبار التقنية، مما يعكس استمرار الطلب على المحتوى الصحفي المتخصص في قطاع التكنولوجيا."
+    },
+    {
+      "id": "e43f6c2067750d31",
+      "title": "We chose ArgoCD for our GitOps controller after a neutral comparison with Flux CD, proving our sovereign cloud is ready for scalable,…",
+      "url": "https://mastodon.social/@graphwiz_ai/117523691874080059",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:20:24.155000+00:00",
+      "summary": "We chose ArgoCD for our GitOps controller after a neutral comparison with Flux CD, proving our sovereign cloud is ready for scalable, secure Kubernetes deployments. Read the full comparison at https:// openedusuite.org/en/blog/argoc d-vs-flux 🚀 Read the latest at https:// openedusuite.org/en/blog — open-source digital workplace for universities. # opendesk # digitalsovereignty # education # univer",
+      "engagement": 0.0,
+      "score": 33.28,
+      "niche_hits": [],
+      "meta": {
+        "account": "graphwiz_ai",
+        "taste": 0.2582
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.258,
+      "ar": "اختار فريق السحابة السيادية ArgoCD كمتحكم GitOps بعد مقارنة محايدة مع Flux CD، مؤكداً جاهزيتهم لتوسيع البنية التحتية بشكل مرن وآمن."
+    },
+    {
+      "id": "9f0650a40db6bb12",
+      "title": "Google's Gemini 4 Carbon AI model promises a significant leap in coding and cybersecurity, achieving top benchmark scores in those areas",
+      "url": "https://mastodon.social/@sipirtu/117523684226782305",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:18:27.479000+00:00",
+      "summary": "Google's Gemini 4 Carbon AI model promises a significant leap in coding and cybersecurity, achieving top benchmark scores in those areas. Source: Engadget https://www. engadget.com/2300677/google-ge mini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/ # AI # Google # Gemini",
+      "engagement": 0.0,
+      "score": 32.58,
+      "niche_hits": [],
+      "meta": {
+        "account": "sipirtu",
+        "taste": 0.2421
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.242,
+      "ar": "يعد نموذج Gemini 4 Carbon من Google بتحسينات كبيرة في قدرات البرمجة والأمن السيبراني، حيث حقق نتائج متقدمة في اختبارات الأداء المعيارية."
+    },
+    {
+      "id": "3b58da4073b7cc31",
+      "title": "Prioritise understanding AI security threats, even before productivity: OpenAI's Sam Altman to cos - People Matters",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUkM5RzF6b3A4NVZVbVh5V3l0ckdTNlFud21YRk9ieWs2LVJVOVBSTHM4dmRhd0lId0p5bHZNZHJZaEVlUDlLRDBicUNxNVVySFZLN09abzBRT1NQZm4zZ2lXcGhETVdRVVFuWG9lZUpHcVg0Yi0tc0FDcVlCX292Ni1RSGxHbVFGNXVOTFNXcW8wOGdNejhGSjlTbkJmZURLSGxJdjcteE9weXZ3eEkwRDZmc1VfR092UkRraERKVV90NndBS2RtVk1HajdNZnNHREZSZVJhV1dxcDdRS3JuQjRMY3R1eElKVV9Edw?oc=5",
+      "source": "news",
+      "topic": "tools",
+      "published": "2026-10-29T02:46:51+00:00",
+      "summary": "Prioritise understanding AI security threats, even before productivity: OpenAI's Sam Altman to cos People Matters - HR News",
+      "engagement": 0.0,
+      "score": 31.64,
+      "niche_hits": [],
+      "meta": {
+        "query": "AI tool launch OR productivity software when:7d",
+        "taste": 0.4496
+      },
+      "sources": [
+        "news"
+      ],
+      "taste": 0.45,
+      "ar": "يؤكد سام ألتمان من OpenAI على ضرورة أولوية فهم تهديدات أمن الذكاء الاصطناعي قبل التركيز على الإنتاجية، تحذيراً من المخاطر الأمنية المتزايدة."
+    },
+    {
+      "id": "a64117163f5514a7",
+      "title": "📰 AI fan wikis riddled with errors are muddying the waters of an already contested part of games culture Recently, I was writing a piece…",
+      "url": "https://igeek.gamer-geek-news.com/@feed/statuses/01M63JW82XAEDRS4CW0GF4XPQ2",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:21:49+00:00",
+      "summary": "📰 AI fan wikis riddled with errors are muddying the waters of an already contested part of games culture Recently, I was writing a piece about Nighthawks and wanted to remind myself of some basic information about the companion characters. As I have a thousand times before, I put the question into Goo... 📰 Source: Eurogamer.net Latest Articles Feed 🔗 Link: https://www.eurogamer.net/ai-fan-wikis-er",
+      "engagement": 0.0,
+      "score": 31.35,
+      "niche_hits": [],
+      "meta": {
+        "account": "feed@igeek.gamer-geek-news.com",
+        "taste": 0.209
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.209,
+      "ar": "تنتشر ويكيات مدعومة بالذكاء الاصطناعي مليئة بالأخطاء في ثقافة الألعاب، مما يخلق معلومات مضللة ويصعب التحقق من الحقائق التاريخية للمشاريع."
+    },
+    {
+      "id": "d06dac6bd78fec5d",
+      "title": "Artificial Intelligence, Media and Information Integrity in Bosnia and Herzegovina",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1otRG9mUmdtWGhmZzFrZjlETTBsS19DcXZrZ1BCRmVONml0aXNNeEgwTHpfczU3S0VxOTlxbVBpUWZZazRwa3lmX2tNYlQwZ3VPdzF2U2IxQ19BeUMxdFRHYmdCanJJOGlFdmRySDJCdXFMV213cVYzM25CZThEeXM3bWRNVEZpUndOZDFVNGxMTHpId05QS0JxY1NpV0lmOGFhM1NBbXM1TTg2azRDcUZ6blJHaXQzbFR3WXJBcVJyVERjQ2JOMA?oc=5",
+      "source": "news",
+      "topic": "ai",
+      "published": "2026-10-29T09:22:10+00:00",
+      "summary": "Artificial Intelligence, Media and Information Integrity in Bosnia and Herzegovina www.coe.int",
+      "engagement": 0.0,
+      "score": 29.59,
+      "niche_hits": [],
+      "meta": {
+        "query": "artificial intelligence OR LLM when:3d",
+        "taste": 0.1681
+      },
+      "sources": [
+        "news"
+      ],
+      "taste": 0.168,
+      "ar": "تدرس البوسنة والهرسك تأثير الذكاء الاصطناعي على سلامة الإعلام والمعلومات، سعياً لوضع أطر تنظيمية تحمي الجمهور من التضليل الرقمي."
+    },
+    {
+      "id": "eec94134840b3497",
+      "title": "DLSS Updater 5.2 released with AMD FSR 4.1.2 support https://www",
+      "url": "https://mastodon.social/@gamingonlinux/117523677018991214",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:16:37.498000+00:00",
+      "summary": "DLSS Updater 5.2 released with AMD FSR 4.1.2 support https://www. gamingonlinux.com/2026/10/dlss -updater-5-2-released-with-amd-fsr-4-1-2-support/ # OpenSource # Apps # NewRelease # AMD # NVIDIA # Intel",
+      "engagement": 0.0,
+      "score": 28.81,
+      "niche_hits": [],
+      "meta": {
+        "account": "gamingonlinux",
+        "taste": 0.1492
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.149,
+      "ar": "أطلقت NVIDIA النسخة 5.2 من DLSS Updater مع دعم AMD FSR 4.1.2، مما يوفر أداة موحدة لإدارة تحديثات تقنيات تحسين الرسوميات."
+    },
+    {
+      "id": "f609db8d385eb399",
+      "title": "holy sht.. I built a film crew out of AI agents and my script supervisor rejected the whole film here's how it went inside @Teamily_AI ↓ planning even a 3-minute short usually means the story in one doc, the shot list in another, color notes somewhere else, and e",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yaVNxaXk1MDZaOVFzWFlucTlUWVJYR0swMVJyVmRrcXNXMl9pR3BsMDczUXhFU0J1UVYtYnVFX2ZyZ00yRHMzejJXWXpRcVlJeHN2d1RjNVZFRFNWNzBNTVUzTXJ1dw?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-27T07:07:15+00:00",
+      "summary": "holy sht.. I built a film crew out of AI agents and my script supervisor rejected the whole film here's how it went inside @Teamily_AI ↓ planning even a 3-minute short usually means the story in one doc, the shot list in another, color notes somewhere else, and e X",
+      "engagement": 0.0,
+      "score": 14.35,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.3469
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.347,
       "ar": ""
     },
     {
-      "id": "84f197c3c395da67",
-      "title": "We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights today! Introducing Flora, a suite of open models to parse the physical world and t",
-      "url": "https://x.com/DrJimFan/status/2112597587987689912",
-      "source": "x_account",
-      "topic": "research_tools",
-      "published": "2026-10-20T17:31:29+00:00",
-      "summary": "We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights today! Introducing Flora, a suite of open models to parse the physical world and turn raw footage into rich training signals.   Flora already powers our in-house",
-      "engagement": 1600.0,
-      "score": 42.5,
+      "id": "6935124d2b6c2220",
+      "title": "Agents can stay on task longer than ever (doubling every 7 months in length of time), but most enterprises are still reluctant to let them access systems of record. My take: Not just better guardrails are needed, but new database capabilities that can track the “re",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YV2JYV240RjZicHEwWjYwQ1pqUWVsczA4Si1iM1F3cndYUDZqX2ZhdGlsMmh1SXhkaDNkdTE0d21sMTRTREs3Vlo3ZEhNS0U2SENBN1JnYVJpYWZ0VE0wS2Utdw?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-27T19:29:42+00:00",
+      "summary": "Agents can stay on task longer than ever (doubling every 7 months in length of time), but most enterprises are still reluctant to let them access systems of record. My take: Not just better guardrails are needed, but new database capabilities that can track the “re X",
+      "engagement": 0.0,
+      "score": 13.31,
       "niche_hits": [],
       "meta": {
-        "author": "Jim Fan @DrJimFan · Oct 20",
-        "taste": 0.7998
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.2186
       },
       "sources": [
-        "x_account"
+        "x"
       ],
-      "taste": 0.8,
+      "taste": 0.219,
       "ar": ""
     },
     {
-      "id": "db8eada6cb9ea7e1",
-      "title": "VideoJev  System One Model for Video Understanding and Interaction  paper:  https:// huggingface.co/papers/2610.18 615 …",
-      "url": "https://x.com/_akhaliq/status/2110423274413056230",
-      "source": "x_account",
-      "topic": "research_tools",
-      "published": "2026-10-14T17:31:33+00:00",
-      "summary": "VideoJev  System One Model for Video Understanding and Interaction  paper:  https:// huggingface.co/papers/2610.18 615 …",
-      "engagement": 522.0,
-      "score": 42.09,
+      "id": "62aa462237e7573e",
+      "title": "Major banks are limiting third-party AI agents from customer accounts. The dilemma: knowing whether a request is human, and if not, whether that agent is truly authorized. CEO @andredurand broke down this emerging identity challenge with @USAToday: htt",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnRVJGeUxENXBwSUxqRWVIOFh2VDJlcmxTbXZnemFTTUZGaFlOcER1VnJiWlM1TzlpRXJvNjFQQnJYMXhVcGxwdmcwRlU3TGRhVXhQbC1ZYmprRXJYV1FYSzdaWQ?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-27T17:29:00+00:00",
+      "summary": "Major banks are limiting third-party AI agents from customer accounts. The dilemma: knowing whether a request is human, and if not, whether that agent is truly authorized. CEO @andredurand broke down this emerging identity challenge with @USAToday: htt X",
+      "engagement": 0.0,
+      "score": 11.91,
       "niche_hits": [],
       "meta": {
-        "author": "AK @_akhaliq · Oct 14",
-        "taste": 0.7897
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.2039
       },
       "sources": [
-        "x_account"
+        "x"
       ],
-      "taste": 0.79,
+      "taste": 0.204,
       "ar": ""
     },
     {
-      "id": "25763126b4056ab6",
-      "title": "If doomscrolling X is part of your research workflow, we built something for you.  Introducing Paperscrolling, now on iOS and Android   Follow the latest research with key ideas, figures, and audio ex",
-      "url": "https://x.com/askalphaxiv/status/2107486537206419769",
-      "source": "x_account",
+      "id": "307df77daf71ba16",
+      "title": "Post all the negative AI related news recently, $SPCX revs beat by 14% w/ AI beating by 19%. Q4 capex guide almost 90% above consensus while Q1 revs guided 57% above. Also $SMCI +pre w/ revs 27% above consensus. My conviction of a near-term AI ral",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03U0syNU5Tc2dBbXpFUGpsQ0swcWwwdDctRm4xUzF6WWJjTlFFNmJoaXpKQVF6Q01iOEktV2Nob2RTQ2d1X2RWYnpOMnlFRDhEN1N2emJsemFBTzRuT09OLTNyVQ?oc=5",
+      "source": "x",
       "topic": "research_tools",
-      "published": "2026-10-06T15:02:00+00:00",
-      "summary": "If doomscrolling X is part of your research workflow, we built something for you.  Introducing Paperscrolling, now on iOS and Android   Follow the latest research with key ideas, figures, and audio explanations from alphaXiv Briefs  Check it out here!  https:// play.google.com/store/apps/det ails?id=org.alphaxiv.mobileapp …",
-      "engagement": 1200.0,
-      "score": 41.6,
+      "published": "2026-10-21T00:32:26+00:00",
+      "summary": "Post all the negative AI related news recently, $SPCX revs beat by 14% w/ AI beating by 19%. Q4 capex guide almost 90% above consensus while Q1 revs guided 57% above. Also $SMCI +pre w/ revs 27% above consensus. My conviction of a near-term AI ral X",
+      "engagement": 0.0,
+      "score": 11.84,
       "niche_hits": [],
       "meta": {
-        "author": "alphaXiv @askalphaxiv · Oct 6",
-        "taste": 0.7776
+        "query": "site:x.com (Elicit OR Consensus OR SciSpace OR NotebookLM OR Zotero OR Overleaf OR \"literature review\") when:14d",
+        "taste": 0.2958
       },
       "sources": [
-        "x_account"
+        "x"
       ],
-      "taste": 0.778,
+      "taste": 0.296,
       "ar": ""
     },
     {
-      "id": "82ec214d4a76ed5f",
-      "title": "The same model, with the same weights, scores 62% in one agent harness and 33% in another.   @adithya_s_k  and the  @huggingface  team just released the ultimate guide to multi-harness RL, and it's on",
-      "url": "https://x.com/huggingface/status/2106034221005312448",
-      "source": "x_account",
+      "id": "451e2701dbbd8606",
+      "title": "The consensus around AI may be starting to crack amid worries about valuations, financing, infrastructure costs, and the speed of adoption. #CEODaily",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CeXdhRkdTeWJVazZKMDdJamlHQVUzbjNKUVlRaHVQcGEtaUQtQ1BadXBoazJEMlBqRGIxWDhEWTZMVDdSRHRtUWwxSWxILWFiT0NtMmJYMjAyMEFmZlNkVE10bGlORGc?oc=5",
+      "source": "x",
       "topic": "research_tools",
-      "published": "2026-10-02T14:51:01+00:00",
-      "summary": "The same model, with the same weights, scores 62% in one agent harness and 33% in another.   @adithya_s_k  and the  @huggingface  team just released the ultimate guide to multi-harness RL, and it's one of the most practical RL write-ups this year, and everything open!  The trick is",
-      "engagement": 1200.0,
-      "score": 39.79,
+      "published": "2026-10-22T15:03:01+00:00",
+      "summary": "The consensus around AI may be starting to crack amid worries about valuations, financing, infrastructure costs, and the speed of adoption. #CEODaily https://t.co/pKy0nhAaqv X",
+      "engagement": 0.0,
+      "score": 11.7,
       "niche_hits": [],
       "meta": {
-        "author": "Hugging Face @huggingface · Oct 2",
-        "taste": 0.6723
+        "query": "site:x.com (Elicit OR Consensus OR SciSpace OR NotebookLM OR Zotero OR Overleaf OR \"literature review\") when:14d",
+        "taste": 0.2912
       },
       "sources": [
-        "x_account"
+        "x"
       ],
-      "taste": 0.672,
+      "taste": 0.291,
       "ar": ""
     }
   ]
