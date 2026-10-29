@@ -45,6 +45,8 @@ def _story_block(idx: int, story: Story, summary: str | None) -> str:
         lines += [summary, ""]
     lines.append(f"- **المصادر:** {sources}")
     lines.append(f"- **النقاط:** {story.score:.1f} · **التفاعل:** {int(story.total_engagement)}")
+    if story.taste:
+        lines.append(f"- **تطابق مع ذوقك:** {story.taste:.0%}")
     if story.niche_hits:
         lines.append(f"- **صلة بتخصصك:** {', '.join(story.niche_hits)}")
     if story.lead.meta.get("repo"):
@@ -120,7 +122,7 @@ def write_outputs(
         "fetched": fetched,
         "stories": [
             {**s.lead.to_dict(), "sources": sorted(s.sources), "score": s.score,
-             "ar": (summaries or {}).get(s.lead.id, "")}
+             "taste": s.taste, "ar": (summaries or {}).get(s.lead.id, "")}
             for s in stories
         ],
     }

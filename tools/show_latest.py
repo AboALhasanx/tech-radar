@@ -21,7 +21,9 @@ for story in stories:
 
 print(f"generated: {data['generated_at']}  fetched: {data['fetched']}")
 print(f"sources: {dict(counts)}")
-print("-" * 100)
+print("-" * 110)
 for story in stories:
     src = ",".join(story.get("sources", []))
-    print(f"{story['score']:5.1f} | {src:<16} | {story['title'][:110]}")
+    taste = story.get("taste")
+    taste_s = f"{taste:.2f}" if taste else "  - "
+    print(f"{story['score']:5.1f}  p={taste_s}  {src:<16} {story['title'][:90]}")

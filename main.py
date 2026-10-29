@@ -51,11 +51,41 @@ def _dedupe(signals: list[Signal]) -> list[Signal]:
     return out
 
 
+def _apply_taste(signals: list[Signal], min_taste: float | None = None) -> list[Signal]:
+    from radar.ml.serve import TasteModel
+
+    model = TasteModel.load(config.TASTE_MODEL_PATH)
+    if model is None:
+        print("[taste] no model found — running without it")
+        return signals
+
+    floor = config.TASTE_MIN_PROB if min_taste is None else min_taste
+    kept: list[Signal] = []
+    dropped = 0
+    for sig in signals:
+        p = model.score(f"{sig.title}. {sig.summary or ''}")
+        sig.meta["taste"] = round(p, 4)
+        # X gets the hard floor; other sources are only filtered when they are
+        # clearly off-topic, because the model was trained on this account.
+        limit = floor if sig.source == "x" else floor * 0.6
+        if p < limit:
+            dropped += 1
+            continue
+        kept.append(sig)
+
+    print(f"[taste] scored {len(signals)}, dropped {dropped} below p={floor:.2f}")
+    return kept
+
+
 def run(*, include_x: bool = True, use_ai: bool = True, do_publish: bool = False,
-        top: int | None = None, fresh_only: bool = True) -> list[Story]:
+        top: int | None = None, fresh_only: bool = True, use_taste: bool = True,
+        min_taste: float | None = None) -> list[Story]:
     print("[radar] collecting…")
     signals = _dedupe(collect_all(include_x=include_x))
     print(f"[radar] {len(signals)} signals")
+
+    if use_taste:
+        signals = _apply_taste(signals, min_taste)
 
     store = Store(config.DB_PATH)
     if fresh_only:
@@ -97,6 +127,13 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Free tech trend radar")
     parser.add_argument("--no-x", action="store_true", help="skip the X queries")
     parser.add_argument("--no-ai", action="store_true", help="skip Groq summaries")
+    parser.add_argument("--no-taste", action="store_true", help="ignore the taste model")
+    parser.add_argument(
+        "--min-taste",
+        type=float,
+        default=None,
+        help="drop X posts below this probability (default: config)",
+    )
     parser.add_argument("--publish", action="store_true", help="send to Telegram")
     parser.add_argument("--top", type=int, default=config.TOP_N)
     parser.add_argument(
@@ -121,6 +158,8 @@ def main(argv: list[str] | None = None) -> int:
         do_publish=args.publish,
         top=args.top,
         fresh_only=not args.all,
+        use_taste=not args.no_taste,
+        min_taste=args.min_taste,
     )
     if not stories:
         print("[radar] nothing new — try --all")

@@ -172,7 +172,7 @@ def scrape_timeline(page, max_posts: int = 60) -> list[dict]:
     return posts[:max_posts]
 
 
-def _collect_posts(page, max_posts: int, scrolls: int) -> list[dict]:
+def _collect_posts(page, max_posts: int, scrolls: int, pause_ms: int = 1400) -> list[dict]:
     posts: list[dict] = []
     seen: set[str] = set()
     for _ in range(scrolls):
@@ -209,8 +209,8 @@ def _collect_posts(page, max_posts: int, scrolls: int) -> list[dict]:
             )
             if len(posts) >= max_posts:
                 return posts
-        page.mouse.wheel(0, 2200)
-        page.wait_for_timeout(1400)
+        page.mouse.wheel(0, 3200)
+        page.wait_for_timeout(pause_ms)
     return posts
 
 
@@ -323,6 +323,16 @@ def main() -> int:
             print(f"[x] {len(data)} posts -> {path}")
             for post in data[:10]:
                 print("   " + post["text"][:160])
+
+        elif mode == "likes":
+            page.goto(f"https://x.com/{HANDLE}/likes", wait_until="domcontentloaded")
+            page.wait_for_timeout(6000)
+            data = _collect_posts(page, max_posts=800, scrolls=140, pause_ms=2200)
+            path = OUT / "x_likes.json"
+            path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+            print(f"[x] {len(data)} liked posts -> {path}")
+            for post in data[:8]:
+                print("   " + (post["text"] or "")[:140])
 
         elif mode == "history":
             days = 60

@@ -57,6 +57,41 @@ cluster is scored:
 Engagement is deliberately capped at 15 points. Without that cap, Hacker News
 swallows the digest and X — the reason the tool exists — never surfaces.
 
+## Taste model — learned from your own likes
+
+The radar can rank by *your* taste instead of a generic notion of importance.
+`radar/ml` trains a linear model on the posts you actually liked:
+
+```bash
+python tools/x_session.py likes     # pull your likes through the local session
+python tools/collect_negatives.py   # easy negatives (sports, celebrity, politics)
+python -m radar.ml.train            # fit + evaluate + export
+```
+
+Model:
+
+```
+p(liked | post) = sigmoid( w · tfidf(post) + u · shape(post) + b )
+```
+
+- **tf-idf** — sublinear `1 + log(tf)`, smoothed `log((1+N)/(1+df)) + 1`, L2 norm
+- **shape** — structural signals (code fences, version numbers, benchmarks, links)
+- **logistic regression** — balanced class weights, because likes are a minority
+- **fit on 80%, evaluated on 20%**, plus 5-fold cross-validation
+
+Reference run on 1,690 examples (682 liked, 1,008 not):
+
+| metric | value |
+|---|---|
+| ROC-AUC | 0.860 |
+| Average precision | 0.804 |
+| Precision@20 | 1.000 |
+| 5-fold AUC | 0.813 ± 0.015 |
+
+Inference is pure Python: the export is a term→weight table, and a parity test
+confirms it matches scikit-learn to 2e-16. A tweet is dropped from the digest
+when `p < 0.15`; every story shows its match score.
+
 ## Output
 
 ```

@@ -63,9 +63,18 @@ NICHE_TERMS: dict[str, float] = {
     "local": 0.3,
 }
 
-RECENCY_HALF_LIFE_HOURS = 18.0
+RECENCY_HALF_LIFE_HOURS = 24.0
 CROSS_SOURCE_BONUS = 14.0  # points per extra independent source
 NICHE_BONUS_CAP = 20.0
+# No single source may take more than this share of the digest.
+MAX_SOURCE_SHARE = 0.4
+
+# ---------------------------------------------------------------- taste model
+# Trained from the account's own likes (radar/ml). When the export is missing
+# the radar simply runs without it.
+TASTE_MODEL_PATH = "data/taste_model.json"
+TASTE_MIN_PROB = 0.15  # hard floor for X items
+TASTE_WEIGHT = 40.0  # (p - 0.5) * weight, so the range is -20..+20
 
 # ---------------------------------------------------------------- output
 TOP_N = 15
