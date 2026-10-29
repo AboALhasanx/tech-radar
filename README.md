@@ -39,6 +39,7 @@ only, nothing leaves the machine.
 | X (personal) | Playwright + your profile | free, local | your following list and timeline |
 | Product Hunt | public RSS | free | launches before the press |
 | Newsletters | curated RSS | free | Import AI, Interconnects, Ahead of AI, One Useful Thing |
+| Researcher accounts | local scrape of `curated.json` | free | the 17 voices that surface tooling first |
 | GitHub tooling | topic search API | free | research tools people actually install |
 | Hacker News | Algolia API | free | builder-grade filtering |
 | GitHub | search API (new + starred) | free | what people are actually shipping |

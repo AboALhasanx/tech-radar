@@ -70,7 +70,7 @@ def _apply_taste(signals: list[Signal], min_taste: float | None = None) -> list[
         sig.meta["taste"] = round(p, 4)
         # X gets the hard floor; other sources are only filtered when they are
         # clearly off-topic, because the model was trained on this account.
-        limit = floor if sig.source == "x" else floor * 0.6
+        limit = floor if sig.source in ("x", "x_account") else floor * 0.6
         if p < limit:
             dropped += 1
             continue
@@ -115,7 +115,7 @@ def run(*, include_x: bool = True, use_ai: bool = True, do_publish: bool = False
     # durable history for catch-up mode
     if ranked:
         extras = []
-        for source, n in (("newsletter", 8), ("producthunt", 5)):
+        for source, n in (("newsletter", 8), ("producthunt", 5), ("x_account", 8)):
             subset = [s for s in signals if s.source == source]
             if subset:
                 extras += rank(subset, top_n=n)

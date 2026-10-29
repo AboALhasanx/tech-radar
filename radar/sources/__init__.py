@@ -20,6 +20,7 @@ from . import (
     producthunt,
     reddit,
     semantic_scholar,
+    x_accounts,
 )
 
 __all__ = ["collect_all"]
@@ -32,6 +33,8 @@ def collect_all(*, include_x: bool = True, include_news: bool = True) -> list[Si
 
     if include_x:
         signals += google_news.fetch_x(config.X_QUERIES)
+    # curated researcher accounts, refreshed locally
+    signals += x_accounts.fetch()
     if include_news:
         signals += google_news.fetch_news(config.NEWS_QUERIES)
 

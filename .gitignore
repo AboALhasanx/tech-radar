@@ -1,12 +1,14 @@
-__pycache__/
+﻿__pycache__/
 *.pyc
 .venv/
 venv/
 .env
 data/*.db
 data/x_*.json
+!data/x_accounts.json
 .pytest_cache/
 
 # the digest and data/latest.json are committed on purpose
 
 site/
+

@@ -1,0 +1,418 @@
+[
+  {
+    "url": "https://x.com/overleaf/status/2115730384197415118",
+    "author": "Overleaf @overleaf · 1h",
+    "text": "Do you know how to typeset fractions and binomial coefficients in your maths document? Check out this article. \nhttps://\noverleaf.com/learn/latex/Fr\nactions_and_Binomials\n…",
+    "when": "2026-10-29T09:00:06.000Z",
+    "likes": "5",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2115454036690510133",
+    "author": "alphaXiv @askalphaxiv · 19h",
+    "text": "Introducing NotebookLM for arXiv Papers \n\nTransform dense AI research into engaging convos you can hear on the go\n\nWith context from thousands of related papers, it captures motivations, draws connections to SOTA, and explains key ideas like a prof who's read the entire field",
+    "when": "2026-10-28T14:42:00.000Z",
+    "likes": "421",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2115131377641509259",
+    "author": "alphaXiv @askalphaxiv · Oct 27",
+    "text": "alphaXiv Mobile 2.0 is here \n\n• Mobile friendly PDF reader\n• Library with sharable folders\n• Custom feeds with research curated to your interests\n• Al visual overviews for papers\n• Support for iPhone Duo + iPad\n\niOS: \nhttps://\napps.apple.com/us/app/alphaxi\nv/id6782411985\n…\nAndroid: \nhttps://\nplay.google.com/store/apps/det\nails?id=org.alphaxiv.mobileapp\n…",
+    "when": "2026-10-27T17:19:52.000Z",
+    "likes": "319",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/TheTuringPost/status/2114914123964363239",
+    "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 27",
+    "text": "Must-read papers of the week\n\n Learning from Fleet Experience\n Agent World Model in the Wild\n VerifierBench\n LaLa-World\n Ropedia W0\n ALPS\n Learning the 4D World through Point Trajectory Forecasting\n Self-Distilling Future Video Representations\n OpenVLHarness",
+    "when": "2026-10-27T02:56:35.000Z",
+    "likes": "61",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/_akhaliq/status/2114730846426890689",
+    "author": "AK @_akhaliq · Oct 26",
+    "text": "Building Auditable AI Text Detectors with Sparse Autoencoders\n\npaper: \nhttps://\nhuggingface.co/papers/2610.30\n006\n…",
+    "when": "2026-10-26T14:48:18.000Z",
+    "likes": "232",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/TheTuringPost/status/2114422040929489241",
+    "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 25",
+    "text": "There’s more to System One decision models than Jev.\n\nThese 15 models are worth a closer look:\n\n Jeva\n Prism-1\n Bongard\n Verdict (multi-question)\n VideoJev\n MJev-Spatial\n AudioJev\n MetaEncoder\n FastJEV\n SanSi (looped)\n StartLux-Decision\n System X",
+    "when": "2026-10-25T18:21:13.000Z",
+    "likes": "341",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2113885174673133971",
+    "author": "alphaXiv @askalphaxiv · Oct 24",
+    "text": "\"A Fix for Softmax and Cross-Entropy\"\n\nTurns out two of the most fundamental functions in deep learning have numerical bugs that can actually destabilize training.\n\nThis paper proposes simple fixes to softmax and cross-entropy that prevent tiny gradients from incorrectly rounding",
+    "when": "2026-10-24T06:47:54.000Z",
+    "likes": "1.2K",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/_akhaliq/status/2113280305301971067",
+    "author": "AK @_akhaliq · Oct 22",
+    "text": "Looking Ahead\n\nModeling Future Evolution in Autoregressive Video Generation\n\npaper: \nhttps://\nhuggingface.co/papers/2610.29\n989\n…",
+    "when": "2026-10-22T14:44:22.000Z",
+    "likes": "80",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/DrJimFan/status/2112597587987689912",
+    "author": "Jim Fan @DrJimFan · Oct 20",
+    "text": "We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights today! Introducing Flora, a suite of open models to parse the physical world and turn raw footage into rich training signals. \n\nFlora already powers our in-house",
+    "when": "2026-10-20T17:31:29.000Z",
+    "likes": "1.6K",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/_akhaliq/status/2112566784343876081",
+    "author": "AK @_akhaliq · Oct 20",
+    "text": "OpenVLHarness\n\nReal World Visual Agentic Tool-Use with Multimodal Memory\n\npaper: \nhttps://\nhuggingface.co/papers/2610.26\n860\n…",
+    "when": "2026-10-20T15:29:05.000Z",
+    "likes": "164",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/overleaf/status/2112468898343714961",
+    "author": "Overleaf @overleaf · Oct 20",
+    "text": "Want to learn LaTeX in 30 minutes? We've got you! We have an introductory tutorial that will help you get started. \nhttps://\noverleaf.com/learn/latex/Le\narn_LaTeX_in_30_minutes\n…",
+    "when": "2026-10-20T09:00:07.000Z",
+    "likes": "23",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/huggingface/status/2112214753980612886",
+    "author": "Hugging Face @huggingface · Oct 19",
+    "text": "Local AI 202: Get Massive Speed-ups with Speculative Decoding",
+    "when": "2026-10-19T16:10:15.000Z",
+    "likes": "172",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/overleaf/status/2112106495689056324",
+    "author": "Overleaf @overleaf · Oct 19",
+    "text": "Do you know the difference between packages and class files? Check out this guide and find out. \nhttps://\noverleaf.com/learn/latex/Un\nderstanding_packages_and_class_files\n…",
+    "when": "2026-10-19T09:00:04.000Z",
+    "likes": "22",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/TheTuringPost/status/2112098054837002526",
+    "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 19",
+    "text": "Looped Transformers are a hot topic these days\n\nAnd these 10 new papers are really worth your attention.\n\n Recurrent Looped Transformer\n Looped Prediction Transformer (LPT)\n Recursive Multi-Agent Systems (based on looped transformer)\n Loop Flow Transformers (LiFT)",
+    "when": "2026-10-19T08:26:31.000Z",
+    "likes": "510",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/TheTuringPost/status/2111999858517373336",
+    "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 19",
+    "text": "I recommend joining an upcoming session from \n@Rubrik\n on October 21 → When Agents Go Off-Script\n\nIt's a technical deep dive for security, IT and AI platform teams that need to know how to get agents back on track when they violate policy.\n\nYou’ll learn how to:\n\n- Detect an agent",
+    "when": "2026-10-19T01:56:19.000Z",
+    "likes": "1",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/overleaf/status/2111381718615592990",
+    "author": "Overleaf @overleaf · Oct 17",
+    "text": "In this guide, we explain how to write integrals, sums and limits. \nhttps://\noverleaf.com/learn/latex/In\ntegrals%2C_sums_and_limits\n…",
+    "when": "2026-10-17T09:00:03.000Z",
+    "likes": "9",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/_akhaliq/status/2111017984462602438",
+    "author": "AK @_akhaliq · Oct 16",
+    "text": "Hybrid Reasoning Agents\n\npaper: \nhttps://\nhuggingface.co/papers/2610.18\n861\n…",
+    "when": "2026-10-16T08:54:42.000Z",
+    "likes": "136",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/TheTuringPost/status/2110902466569261348",
+    "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 16",
+    "text": "Top 14 open-source tools for LLM monitoring in 2026\n\n Langfuse\n Opik\n Overmind\n MLflow\n LangWatch\n AgentOps\n Helicone\n OpenLIT\n OpenLLMetry\n Evidently\n Weave\n OpenTelemetry Collector\n Grafana OSS stack\n Laminar\n\nBookmark the list to keep it handy!",
+    "when": "2026-10-16T01:15:41.000Z",
+    "likes": "131",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/_akhaliq/status/2110784877629202507",
+    "author": "AK @_akhaliq · Oct 15",
+    "text": "From Failures to Learnable Worlds\n\nPolicy-Conditioned Environment Generation for Navigation Agents\n\npaper: \nhttps://\nhuggingface.co/papers/2610.19\n420\n…",
+    "when": "2026-10-15T17:28:25.000Z",
+    "likes": "53",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/_akhaliq/status/2110423274413056230",
+    "author": "AK @_akhaliq · Oct 14",
+    "text": "VideoJev\n\nSystem One Model for Video Understanding and Interaction\n\npaper: \nhttps://\nhuggingface.co/papers/2610.18\n615\n…",
+    "when": "2026-10-14T17:31:33.000Z",
+    "likes": "522",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2110387401445245292",
+    "author": "alphaXiv @askalphaxiv · Oct 14",
+    "text": "Where is research attention moving according to arXiv papers?\n\nWe mapped 10,000 of the most-read papers on alphaXiv, weighted by readership, to see how interest shifted from 2025 to 2026. Here’s what we found:\n\n1) Traditional RL post-training is getting less attention. As the",
+    "when": "2026-10-14T15:09:00.000Z",
+    "likes": "469",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/overleaf/status/2110294561142571429",
+    "author": "Overleaf @overleaf · Oct 14",
+    "text": "Have you ever created a document with knitting patterns and pictures? LaTeX makes it easy, check it out. \nhttps://\noverleaf.com/learn/latex/Kn\nitting_patterns\n…",
+    "when": "2026-10-14T09:00:05.000Z",
+    "likes": "8",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/overleaf/status/2109932177714536528",
+    "author": "Overleaf @overleaf · Oct 13",
+    "text": "Did you know: you can use R, a statistics-oriented programming language, in your document! Check out our guide and learn how. \nhttps://\noverleaf.com/learn/latex/Kn\nitr\n…",
+    "when": "2026-10-13T09:00:06.000Z",
+    "likes": "62",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2109920072378863832",
+    "author": "alphaXiv @askalphaxiv · Oct 13",
+    "text": "\"Stateless Language Agents: Scaling Long-Horizon Automated Research\"\n\nLong-running AI research agents waste tokens revisiting old ideas or repeating experiments.\n\nStateless Language Agents (SLA) instead store research progress externally, giving each agent a fresh, focused",
+    "when": "2026-10-13T08:12:00.000Z",
+    "likes": "192",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/_akhaliq/status/2109711696944300535",
+    "author": "AK @_akhaliq · Oct 12",
+    "text": "BudgetPix\n\nCompute-Adaptive Tokenization for Pixel-Space Image Diffusion\n\npaper: \nhttps://\nhuggingface.co/papers/2610.12\n307\n…",
+    "when": "2026-10-12T18:23:59.000Z",
+    "likes": "173",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/TheTuringPost/status/2109708751565705525",
+    "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 12",
+    "text": "Paper: \nhttps://\narxiv.org/abs/2610.12176\nv1\n…\nCode: \nhttps://\ngithub.com/SakanaAI/mass",
+    "when": "2026-10-12T18:12:17.000Z",
+    "likes": "",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/overleaf/status/2109569790738104359",
+    "author": "Overleaf @overleaf · Oct 12",
+    "text": "You can easily create exam papers with LaTeX, including ways to write and compute grades! Check out our guide and learn how. \nhttps://\noverleaf.com/learn/latex/Ty\npesetting_exams_in_LaTeX\n…",
+    "when": "2026-10-12T09:00:06.000Z",
+    "likes": "29",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/karpathy/status/2109361546505966046",
+    "author": "Andrej Karpathy @karpathy · Oct 11",
+    "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
+    "when": "2026-10-11T19:12:37.000Z",
+    "likes": "43K",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/overleaf/status/2109207392432934967",
+    "author": "Overleaf @overleaf · Oct 11",
+    "text": "Want to create scientific or technical graphics in your document? Check out or guide on how to use the pgfplots package. \nhttps://\noverleaf.com/learn/latex/Pg\nfplots_package\n…",
+    "when": "2026-10-11T09:00:04.000Z",
+    "likes": "26",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/TheTuringPost/status/2108888331027407227",
+    "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 10",
+    "text": "What does the world look like inside an AI model?\n\nHere are 3 world model architectures based on how they represent the world (+ the subtypes) ↓\n\n1. A generated observation – a model predicts what comes next: an image, video frame, or token sequence.\n• Visual tokens (Dreamer 4,",
+    "when": "2026-10-10T11:52:14.000Z",
+    "likes": "347",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/overleaf/status/2108845008707002503",
+    "author": "Overleaf @overleaf · Oct 10",
+    "text": "The CircuiTikZ package can be used to draw electrical networks with LaTeX! Check it out. \nhttps://\noverleaf.com/learn/latex/Ci\nrcuiTikz_package\n…",
+    "when": "2026-10-10T09:00:05.000Z",
+    "likes": "56",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/overleaf/status/2108482625555853385",
+    "author": "Overleaf @overleaf · Oct 9",
+    "text": "Checkmate! Did you know LaTeX can typeset chess games? We've written this comprehensive guide to get you started. \nhttps://\noverleaf.com/learn/latex/Ch\ness_notation\n…",
+    "when": "2026-10-09T09:00:06.000Z",
+    "likes": "34",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/TheTuringPost/status/2108320464913481986",
+    "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 9",
+    "text": "Why don’t they go and f*** themselves? \nSeriously. \nAnthropic is a dangerous company with overblown ego and the leaders who is not in any way connected with reality.\nI’m canceling my subscription.",
+    "when": "2026-10-08T22:15:44.000Z",
+    "likes": "26",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/overleaf/status/2108120231423992314",
+    "author": "Overleaf @overleaf · Oct 8",
+    "text": "You can create molecular orbital diagrams in LaTeX! Check out this article. \nhttps://\noverleaf.com/learn/latex/Mo\nlecular_orbital_diagrams\n…",
+    "when": "2026-10-08T09:00:04.000Z",
+    "likes": "19",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/overleaf/status/2107757853167563236",
+    "author": "Overleaf @overleaf · Oct 7",
+    "text": "A Feynman diagram is a very compact and intuitive way of representing interactions between particles. And you can draw it in LaTeX too! Check out this article and learn now. \nhttps://\noverleaf.com/learn/latex/Fe\nynman_diagrams\n…",
+    "when": "2026-10-07T09:00:07.000Z",
+    "likes": "18",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2107486537206419769",
+    "author": "alphaXiv @askalphaxiv · Oct 6",
+    "text": "If doomscrolling X is part of your research workflow, we built something for you.\n\nIntroducing Paperscrolling, now on iOS and Android \n\nFollow the latest research with key ideas, figures, and audio explanations from alphaXiv Briefs\n\nCheck it out here!\n\nhttps://\nplay.google.com/store/apps/det\nails?id=org.alphaxiv.mobileapp\n…",
+    "when": "2026-10-06T15:02:00.000Z",
+    "likes": "1.2K",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/overleaf/status/2107395457320095981",
+    "author": "Overleaf @overleaf · Oct 6",
+    "text": "You can create chemistry formulae in LaTeX! Check out our guide and learn how. \nhttps://\noverleaf.com/learn/latex/Ch\nemistry_formulae\n…",
+    "when": "2026-10-06T09:00:05.000Z",
+    "likes": "16",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/overleaf/status/2107033082184269947",
+    "author": "Overleaf @overleaf · Oct 5",
+    "text": "Do you write theorems, definitions, propositions, etc. in your documents? This article explains how to define these environments in LaTeX. \nhttps://\noverleaf.com/learn/latex/Th\neorems_and_proofs\n…",
+    "when": "2026-10-05T09:00:08.000Z",
+    "likes": "31",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/overleaf/status/2106670692531839258",
+    "author": "Overleaf @overleaf · Oct 4",
+    "text": "Do you typically share information about your research at conferences or presentations? Then you'll love this article that explains the basics of typesetting a poster in LaTeX. \nhttps://\noverleaf.com/learn/latex/Po\nsters\n…",
+    "when": "2026-10-04T09:00:07.000Z",
+    "likes": "43",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/overleaf/status/2106308324132000065",
+    "author": "Overleaf @overleaf · Oct 3",
+    "text": "Presentations in LaTeX? Yes! We've written this comprehensive on how to create great looking presentations. \nhttps://\noverleaf.com/learn/latex/Be\namer\n…",
+    "when": "2026-10-03T09:00:12.000Z",
+    "likes": "74",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/_akhaliq/status/2106063986664075749",
+    "author": "AK @_akhaliq · Oct 2",
+    "text": "EgoTools\n\nTowards Tool-Centric Reasoning in Real-World Egocentric Videos\n\npaper: \nhttps://\nhuggingface.co/papers/2609.39\n378\n…",
+    "when": "2026-10-02T16:49:17.000Z",
+    "likes": "108",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/huggingface/status/2106034221005312448",
+    "author": "Hugging Face @huggingface · Oct 2",
+    "text": "The same model, with the same weights, scores 62% in one agent harness and 33% in another.\n\n\n@adithya_s_k\n and the \n@huggingface\n team just released the ultimate guide to multi-harness RL, and it's one of the most practical RL write-ups this year, and everything open!\n\nThe trick is",
+    "when": "2026-10-02T14:51:01.000Z",
+    "likes": "1.2K",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/overleaf/status/2105945918008606802",
+    "author": "Overleaf @overleaf · Oct 2",
+    "text": "Do you want to change fonts in your document? We've compiled a reference guide to help. \nhttps://\noverleaf.com/learn/latex/Fo\nnt_typefaces\n…",
+    "when": "2026-10-02T09:00:08.000Z",
+    "likes": "18",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/karpathy/status/2105909609487872075",
+    "author": "Andrej Karpathy @karpathy · Oct 2",
+    "text": "Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet.",
+    "when": "2026-10-02T06:35:51.000Z",
+    "likes": "19K",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/karpathy/status/2105819303471976479",
+    "author": "Andrej Karpathy @karpathy · Oct 2",
+    "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
+    "when": "2026-10-02T00:37:00.000Z",
+    "likes": "56K",
+    "batch": 49
+  },
+  {
+    "url": "https://x.com/overleaf/status/2105583550216949800",
+    "author": "Overleaf @overleaf · Oct 1",
+    "text": "Do you want to modify the font size or style in your document? We've written this comprehensive to get you started. \nhttps://\noverleaf.com/learn/latex/Fo\nnt_sizes%2C_families%2C_and_styles\n…",
+    "when": "2026-10-01T09:00:12.000Z",
+    "likes": "15",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/overleaf/status/2105221145884598642",
+    "author": "Overleaf @overleaf · Sep 30",
+    "text": "A margin note is a short message or comment written in the margins (the empty spaces on the sides) of a page, and it's an alternative to a footnote. Check out this guide on how to create a margin note: \nhttps://\noverleaf.com/learn/latex/Ma\nrgin_notes\n…",
+    "when": "2026-09-30T09:00:08.000Z",
+    "likes": "30",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2104947053642047521",
+    "author": "alphaXiv @askalphaxiv · Sep 29",
+    "text": "OpenResearch is now available as a desktop app \n\nNative builds for:\n• macOS (Apple Silicon + Intel)\n• Windows (x64)\n• Linux (x64 + ARM)\n\nTurn your coding agents into research agents, and own your stack end-to-end. Check it out: \nhttps://\ngithub.com/alphaXiv/OpenR\nesearch\n…",
+    "when": "2026-09-29T14:51:00.000Z",
+    "likes": "1K",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/overleaf/status/2104858760204144774",
+    "author": "Overleaf @overleaf · Sep 29",
+    "text": "A footnote is like a little note at the bottom of a page that gives extra information or explains something in what you're reading. It's easy to create footnotes with LaTeX. \nhttps://\noverleaf.com/learn/latex/Fo\notnotes\n…",
+    "when": "2026-09-29T09:00:09.000Z",
+    "likes": "17",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2102815024087802129",
+    "author": "alphaXiv @askalphaxiv · Sep 23",
+    "text": "PubMed is now supported on OpenResearch \n\nSearch more than 40 million biomedical papers with the brand new literature search experience, including figures and in-line citations.\n\nTurn your coding agents into research agents. Try it out now: \nhttps://\ngithub.com/alphaXiv/OpenR\nesearch\n…",
+    "when": "2026-09-23T17:39:04.000Z",
+    "likes": "0",
+    "batch": 7
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2102464761141346483",
+    "author": "alphaXiv @askalphaxiv · Sep 22",
+    "text": "We are now using Claude Opus 5.5 to create blog-style overviews for every arXiv paper \n\nEvery claim is backed up with the corresponding evidence highlighted from the paper \n\nGenerate beautiful research blogs with figures, key insights, and clear explanations with just one click",
+    "when": "2026-09-22T18:27:15.000Z",
+    "likes": "353",
+    "batch": 7
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2099565997053403430",
+    "author": "alphaXiv @askalphaxiv · Sep 14",
+    "text": "OpenResearch was the #1 trending GitHub repo on Friday \n\nWith OpenResearch, you can turn any coding agent into a research agent that reviews literature, develops hypotheses, runs experiments, and produces research artifacts.\n\nOwn and automate your research stack end-to-end. Now",
+    "when": "2026-09-14T18:28:36.000Z",
+    "likes": "1.5K",
+    "batch": 7
+  }
+]

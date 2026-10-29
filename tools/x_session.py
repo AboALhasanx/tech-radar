@@ -72,9 +72,10 @@ def _copy_locked(src: Path, dst: Path) -> None:
         k32.CloseHandle(handle)
 
 
-def clone_profile() -> Path:
+def clone_profile(wait_seconds: int = 0) -> Path:
     tmp = Path(tempfile.mkdtemp(prefix="x-profile-"))
     (tmp / "Default" / "Network").mkdir(parents=True, exist_ok=True)
+    deadline = time.time() + max(0, wait_seconds)
     for rel in (
         "Local State",
         "Default/Network/Cookies",
@@ -82,11 +83,21 @@ def clone_profile() -> Path:
         "Default/Preferences",
     ):
         src = SRC / rel
-        if src.exists():
+        if not src.exists():
+            continue
+        while True:
             try:
                 _copy_locked(src, tmp / rel)
+                break
             except OSError as exc:
-                print(f"[x] could not copy {rel}: {exc}")
+                if time.time() >= deadline:
+                    print(
+                        f"[x] could not copy {rel}: {exc}\n"
+                        "    Thorium is running and locks its cookie jar.\n"
+                        "    Close Thorium (or start another profile) and run again."
+                    )
+                    break
+                time.sleep(2)
     return tmp
 
 
@@ -266,7 +277,10 @@ def scrape_history(page, handles: list[str], days: int = 60, batch: int = 6) -> 
 def main() -> int:
     mode = sys.argv[1] if len(sys.argv) > 1 else "following"
     headed = "--headed" in sys.argv
-    tmp = clone_profile()
+    wait = 0
+    if "--wait" in sys.argv:
+        wait = int(sys.argv[sys.argv.index("--wait") + 1])
+    tmp = clone_profile(wait_seconds=wait)
     OUT.mkdir(parents=True, exist_ok=True)
 
     with sync_playwright() as p:
@@ -333,6 +347,41 @@ def main() -> int:
             print(f"[x] {len(data)} liked posts -> {path}")
             for post in data[:8]:
                 print("   " + (post["text"] or "")[:140])
+
+        elif mode == "accounts":
+            days = 30
+            if "--days" in sys.argv:
+                days = int(sys.argv[sys.argv.index("--days") + 1])
+
+            curated_path = Path(__file__).resolve().parent.parent / "radar" / "curated.json"
+            curated = json.loads(curated_path.read_text("utf-8"))
+            handles = [
+                a["handle"].lstrip("@") for a in curated.get("x_accounts", [])
+            ]
+            if not handles:
+                print("[x] no curated accounts")
+                ctx.close()
+                return 5
+
+            fresh = scrape_history(page, handles, days=days, batch=5)
+
+            target = OUT / "x_accounts.json"
+            existing: list[dict] = []
+            if target.exists():
+                try:
+                    existing = json.loads(target.read_text("utf-8"))
+                except json.JSONDecodeError:
+                    existing = []
+            merged = {p.get("url"): p for p in existing if p.get("url")}
+            for post in fresh:
+                if post.get("url"):
+                    merged[post["url"]] = post
+
+            rows = sorted(
+                merged.values(), key=lambda p: p.get("when") or "", reverse=True
+            )
+            target.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+            print(f"[x] {len(fresh)} new · {len(rows)} total -> {target}")
 
         elif mode == "history":
             days = 60

@@ -200,6 +200,14 @@ def render_report(days: int = 30, top: int = 25, headline: str = "") -> str:
             out.append(f"- **{outlet}** — [{item.title[:120]}]({item.url})")
         out.append("")
 
+    people = [i for i in items if "x_account" in i.sources][:6]
+    if people:
+        out += ["## من الباحثين على X", ""]
+        for item in people:
+            author = (item.meta or {}).get("author") or ""
+            out.append(f"- {author} — [{item.title[:120]}]({item.url})")
+        out.append("")
+
     sources_all: dict[str, int] = {}
     for item in items:
         for s in item.sources:

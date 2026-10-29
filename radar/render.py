@@ -19,6 +19,7 @@ SOURCE_LABEL = {
     "paper": "ورقة بحثية",
     "producthunt": "Product Hunt",
     "newsletter": "نشرة",
+    "x_account": "X · باحثون",
 }
 
 TOPIC_LABEL = {

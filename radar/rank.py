@@ -28,6 +28,7 @@ SOURCE_WEIGHT = {
     "x": 1.0,
     "hackernews": 1.0,
     "newsletter": 0.95,
+    "x_account": 0.95,
     "github": 0.9,
     "producthunt": 0.9,
     "paper": 0.9,
@@ -41,6 +42,7 @@ SOURCE_WEIGHT = {
 # source priority only breaks ties.
 SOURCE_PRIORITY = {
     "x": 8.0,
+    "x_account": 7.5,
     "hackernews": 6.0,
     "newsletter": 6.0,
     "github": 5.5,
