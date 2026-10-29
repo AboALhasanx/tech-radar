@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T07:45:31.294519+00:00",
-  "fetched": 675,
+  "generated_at": "2026-10-29T07:49:42.000243+00:00",
+  "fetched": 681,
   "stories": [
     {
       "id": "271134257c4af766",
@@ -10,37 +10,18 @@
       "topic": "dev",
       "published": "2026-10-29T03:33:42+00:00",
       "summary": "",
-      "engagement": 290.0,
-      "score": 54.26,
+      "engagement": 295.0,
+      "score": 54.19,
       "niche_hits": [],
       "meta": {
-        "points": 290,
-        "comments": 87,
+        "points": 295,
+        "comments": 89,
         "hn_url": "https://news.ycombinator.com/item?id=50284255"
       },
       "sources": [
         "hackernews"
       ],
-      "ar": ""
-    },
-    {
-      "id": "26b522a53e6a7bc1",
-      "title": "Lively discussion at #Villa Europa🇪🇺 on the challenges of international cooperation on artificial intelligence. As part of the #FestivaldellaDiplomazia 2026 @DiplomacyinRome, the European Union hosted the Head of our 🇪🇺AI Office Lucilla Sioli @DigitalEU, t",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oU3lYZmgxdHl0a3lkR2VDZDlYTWN3WDlWMjEyMXEweGNjNzRSZzhWamktYkxKSFhmX0VYYXNPNWtzTUlTWWpUY3RuUEptbW9uRmFfWE5ISmQyOHlmSmpFSHpXRzI?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T07:11:17+00:00",
-      "summary": "Lively discussion at #Villa Europa🇪🇺 on the challenges of international cooperation on artificial intelligence. As part of the #FestivaldellaDiplomazia 2026 @DiplomacyinRome, the European Union hosted the Head of our 🇪🇺AI Office Lucilla Sioli @DigitalEU, t X",
-      "engagement": 0.0,
-      "score": 50.75,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
-      },
-      "sources": [
-        "x"
-      ],
-      "ar": ""
+      "ar": "Claude Code يرسل سجلات الوكلاء الخلفيين للنموذج دورياً، مما يثير تساؤلات حول خصوصية البيانات وكفاءة استخدام الـ tokens في بيئة التطوير."
     },
     {
       "id": "3be8be0dc42c8f48",
@@ -51,7 +32,7 @@
       "published": "2026-10-29T07:00:03+00:00",
       "summary": "GitHub Launches Copilot Fusion, Claims To Offer Cheaper AI Coding https://t.co/TSJQlZaI9l X",
       "engagement": 0.0,
-      "score": 50.35,
+      "score": 50.2,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d"
@@ -59,7 +40,7 @@
       "sources": [
         "x"
       ],
-      "ar": ""
+      "ar": "GitHub أطلق Copilot Fusion مدعياً توفير تكاليف البرمجة بالذكاء الاصطناعي، وهو تحرك تنافسي مباشر قد يعيد تشكيل أسعار أدوات التطوير المدعومة بالـ AI."
     },
     {
       "id": "1b6f8627fe01e01e",
@@ -70,7 +51,7 @@
       "published": "2026-10-29T06:42:54+00:00",
       "summary": "RevenueCat Android SDK 11.0.0 has been released. This release updates the SDK to Google Play Billing Library 9.1.0. The RevenueCat API is unchanged, but the new dependencies raise the build requirements. https://t.co/Vej80y8bZG X",
       "engagement": 0.0,
-      "score": 49.75,
+      "score": 49.6,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (Flutter OR \"React Native\" OR Expo OR Android) when:7d"
@@ -78,7 +59,26 @@
       "sources": [
         "x"
       ],
-      "ar": ""
+      "ar": "إصدار RevenueCat SDK 11.0.0 يحدّث مكتبة Google Play Billing، مما يفرض على المطورين ترقية متطلبات البناء دون تغيير الـ API."
+    },
+    {
+      "id": "46ec9c527a26f04b",
+      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team",
+      "url": "https://social.gamefan.net/@techwire/117523093014537295",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T07:48:06+00:00",
+      "summary": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways. https://www. wired.com/story/i-put-ai-agent s-in-charge-of-a-fantasy-team/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cy",
+      "engagement": 4.0,
+      "score": 49.37,
+      "niche_hits": [],
+      "meta": {
+        "account": "techwire@gamefan.net"
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "ar": "تجربة عملية لوضع وكلاء ذكاء اصطناعي لإدارة فريق كرة قدم خيالي، توضح حدود قدرات الـ Agents في اتخاذ القرارات المعقدة والتكتيكية."
     },
     {
       "id": "042828d502a67adc",
@@ -89,7 +89,7 @@
       "published": "2026-10-29T04:58:38+00:00",
       "summary": "Slack is an especially good form factor for interacting with AI agents. Channels, threaded replies, notifications - all the features that make it work well for a team of humans work just as well for a team of agents. X",
       "engagement": 0.0,
-      "score": 48.67,
+      "score": 48.54,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d"
@@ -97,7 +97,64 @@
       "sources": [
         "x"
       ],
-      "ar": ""
+      "ar": "Slack يُعد واجهة مثالية للتفاعل مع وكلاء الذكاء الاصطناعي بفضل قنواته وإشعاراته، مما يسهل دمج الـ Agents في سير عمل الفرق البشرية."
+    },
+    {
+      "id": "7dbb44d674522f97",
+      "title": "Google’s Search business is being CANNIBALIZED by AI. Alphabet shares plunged nearly -10% after hours as Search revenue missed expectations, even as people asked Google more questions. The reason is that more searches don’t automatically mean m",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZMjBKbTlUbzZPemtBOFRpTkdJVnJkajVLeTJodjc5THBGdTN3RFFMMy1yVjlOczdPX1dXeXR1SS1qMVlyRUpGWTdRakRwVkZobm5pX3B5ZWVHTThuQ0N5dQ?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T05:48:25+00:00",
+      "summary": "Google’s Search business is being CANNIBALIZED by AI. Alphabet shares plunged nearly -10% after hours as Search revenue missed expectations, even as people asked Google more questions. The reason is that more searches don’t automatically mean m X",
+      "engagement": 0.0,
+      "score": 47.75,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      },
+      "sources": [
+        "x"
+      ],
+      "ar": "أسهم Alphabet هبطت 10% بعد نتائج أرباح مخيبة للآمال رغم زيادة البحث، مما يؤكد أن الـ AI يستهلك إيرادات البحث التقليدية بشكل متسارع."
+    },
+    {
+      "id": "68b30f52f0b88fee",
+      "title": "AI connected to your company knowledge should come with an off switch",
+      "url": "https://social.xwiki.com/@xwiki/117523078682605038",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T07:44:27+00:00",
+      "summary": "AI connected to your company knowledge should come with an off switch. And a choice of provider. And a choice of where it runs. That was part of the thinking behind the XWiki MCP Server (Beta) from the beginning. Today, Gabriel will guide you through connecting an AI agent to XWiki, working with the knowledge already there, and configuring the setup around your own choices. 👉Last chance to registe",
+      "engagement": 0.0,
+      "score": 47.61,
+      "niche_hits": [],
+      "meta": {
+        "account": "xwiki@xwiki.com"
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "ar": "يجب تزويد أنظمة الذكاء الاصطناعي المرتبطة بمعرفة الشركة بمفتاح إيقاف، لضمان التحكم الكامل ومنع تسرب البيانات الحساسة أو الأخطاء غير المرغوبة."
+    },
+    {
+      "id": "e1a248fdfb16b1bc",
+      "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners Florida county claims it lacks resources to find owners of…",
+      "url": "https://social.gamefan.net/@techwire/117523034031205351",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T07:33:06+00:00",
+      "summary": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners Florida county claims it lacks resources to find owners of unpermitted Flock cameras. https:// arstechnica.com/tech-policy/20 26/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # St",
+      "engagement": 6.0,
+      "score": 47.26,
+      "niche_hits": [],
+      "meta": {
+        "account": "techwire@gamefan.net"
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "ar": "مقاطعة فلوريدا ترفض التحقيق في كاميرات Flock المشبوهة المزالة، مما يكشف عن فجوة رقابية خطيرة في مراقبة الأجهزة الأمنية الخاصة."
     },
     {
       "id": "44e3e5f137f8038b",
@@ -107,56 +164,37 @@
       "topic": "dev",
       "published": "2026-10-29T00:25:45+00:00",
       "summary": "",
-      "engagement": 348.0,
-      "score": 47.26,
+      "engagement": 351.0,
+      "score": 47.18,
       "niche_hits": [],
       "meta": {
-        "points": 348,
-        "comments": 77,
+        "points": 351,
+        "comments": 78,
         "hn_url": "https://news.ycombinator.com/item?id=50282838"
       },
       "sources": [
         "hackernews"
       ],
-      "ar": ""
+      "ar": "نموذج Qwen3.5 يحتوي على معالج RISC-V حتمي وظيفي، وهو تطور غير متوقع يدمج قدرات معالجة مباشرة داخل بنية النموذج اللغوي."
     },
     {
-      "id": "61176011919cdb99",
-      "title": "For much of Asia, getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible. Abhishek Vishnoi looks at how investors are getting creative through proxy trades",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1VnZXb09KS2hHU3FQbkhXX3FtM0tQRzZCYnBOWGNneU5DSWxQc1VpSllOVzZwSkd4OEdiaTBKdENUWGl5bXRpRXAxRUVvbzhyZW04anQ3Tndqc0Q4V1E?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T05:28:25+00:00",
-      "summary": "For much of Asia, getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible. Abhishek Vishnoi looks at how investors are getting creative through proxy trades https://t.co/Pyf0C55gtm X",
-      "engagement": 0.0,
-      "score": 47.23,
+      "id": "5991b31911d2f3d5",
+      "title": "Apple announces touchscreen MacBook Pro with OLED display The OLED display is the main draw, but the price is a lot to reckon with",
+      "url": "https://social.gamefan.net/@techwire/117523053691748516",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T07:38:06+00:00",
+      "summary": "Apple announces touchscreen MacBook Pro with OLED display The OLED display is the main draw, but the price is a lot to reckon with. https:// arstechnica.com/apple/2026/10/ apple-announces-touchscreen-macbook-pro-with-oled-display/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # ArsTechnica [Ars Technica]",
+      "engagement": 4.0,
+      "score": 46.6,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+        "account": "techwire@gamefan.net"
       },
       "sources": [
-        "x"
+        "mastodon"
       ],
-      "ar": ""
-    },
-    {
-      "id": "2dbf9788ef1401b6",
-      "title": "When Pony Ma called Tencent’s AI endeavor “a leaky ship” this summer, the billionaire founder sent ripples through the company. One of his key lieutenants, Dowson Tong, came up with a surprising answer: let’s retool to focus on businesses.",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rUmVWYjRsUGt4U05qcUlHZkZxemFwbDhrN3I4REJqRUFsUUMxX0loRHZ3MENWc1FiektSSG5laXJKZHNFRjVPNmgtSlVkeUxGSXpRTjRPa1ZWWHZ5SXc?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T05:10:08+00:00",
-      "summary": "When Pony Ma called Tencent’s AI endeavor “a leaky ship” this summer, the billionaire founder sent ripples through the company. One of his key lieutenants, Dowson Tong, came up with a surprising answer: let’s retool to focus on businesses. https://t.co/dj0pZ X",
-      "engagement": 0.0,
-      "score": 46.64,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
-      },
-      "sources": [
-        "x"
-      ],
-      "ar": ""
+      "ar": "Apple أعلنت عن MacBook Pro بشاشة لمس وOLED، حيث يمثل العرض الجديد نقطة البيع الأساسية رغم السعر المرتفع الذي قد يحد من انتشاره."
     },
     {
       "id": "46ff991ea061aaa4",
@@ -167,10 +205,29 @@
       "published": "2026-10-29T07:24:02+00:00",
       "summary": "Omicron is now listed on @ fedidb See at: https:// fedidb.com/software/omicron # Fediverse # ActivityPub # OpenSource # Blogging # omicron",
       "engagement": 4.0,
-      "score": 46.24,
+      "score": 46.09,
       "niche_hits": [],
       "meta": {
         "account": "OmicronHQ@fosstodon.org"
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "ar": ""
+    },
+    {
+      "id": "600a3d68ee256a27",
+      "title": "📢 Découvrez le 3ème numéro de notre veille sécuritaire 🛡️ ! 💡 Dans cette série de billets, nous communiquons sur les alertes de sécurité…",
+      "url": "https://pouet.chapril.org/@arawa/117522906303583271",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T07:00:37+00:00",
+      "summary": "📢 Découvrez le 3ème numéro de notre veille sécuritaire 🛡️ ! 💡 Dans cette série de billets, nous communiquons sur les alertes de sécurité (#CVE...) qui concernent les solutions que nous intégrons. 🔗 C'est par ici : https://www. arawa.fr/2026/10/28/veille-sec uritaire-collaboration-open-source-3/ 🛜 Flux RSS : https://www. arawa.fr/category/veille-techn ique/feed/ #️⃣ # OpenSource # LogicielsLibres #",
+      "engagement": 6.0,
+      "score": 46.09,
+      "niche_hits": [],
+      "meta": {
+        "account": "arawa@pouet.chapril.org"
       },
       "sources": [
         "mastodon"
@@ -186,7 +243,7 @@
       "published": "2026-10-29T07:00:02+00:00",
       "summary": "OpenMBEE: Der lange Weg von der NASA’s JPL zu Kotar Kotar ist ein kostenloser SysML-v2-Editor, der im Browser läuft. Mein erster Eindruck: Extrem beeindruckend. Insbesondere steckt wesentlich mehr als nur ein Editor allerdings: ein SysML-v2-Service, ein Model Management System namens Flexo und eine RDF-Date https://www. se-trends.de/openmbee-der-lang e-weg-von-der-nasa-zu-kotar/ # LuftRaumfahrt # ",
       "engagement": 6.0,
-      "score": 46.22,
+      "score": 46.07,
       "niche_hits": [],
       "meta": {
         "account": "jastram@mastodon.world"
@@ -205,7 +262,7 @@
       "published": "2026-10-29T07:23:06+00:00",
       "summary": "Google AI gets cagey when asked who won the 2020 elections But the AI responses get more forthright when asked outside the US. https:// arstechnica.com/ai/2026/10/goo gle-ai-gets-cagey-when-asked-who-won-the-2020-elections/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # ArsTechnica [Ars Technica]",
       "engagement": 4.0,
-      "score": 46.2,
+      "score": 46.05,
       "niche_hits": [],
       "meta": {
         "account": "techwire@gamefan.net"
@@ -216,77 +273,18 @@
       "ar": ""
     },
     {
-      "id": "e61a4522e61adff7",
-      "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV With more than 200 kWh, this luxury three-row can go 460 miles on a charge",
-      "url": "https://social.gamefan.net/@techwire/117522975049745708",
+      "id": "ef9d79a7acc9a063",
+      "title": "From worker surveillance to warfare, the risks of the widespread adoption of AI are increasingly clear",
+      "url": "https://mastodon.online/@pernillet/117523048416897416",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T07:18:06+00:00",
-      "summary": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV With more than 200 kWh, this luxury three-row can go 460 miles on a charge. https:// arstechnica.com/cars/2026/10/c adillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # ArsTechnica [Ars Technica]",
-      "engagement": 4.0,
-      "score": 46.02,
+      "published": "2026-10-29T07:36:45+00:00",
+      "summary": "From worker surveillance to warfare, the risks of the widespread adoption of AI are increasingly clear. According to polls, large majorities of Europeans are in favour of regulating # ai But while citizens support government actions to regulate AI, the Council’s text goes in the opposite direction. Under the guise of “winning the global AI race” the EU has embarked on a radical deregulation progra",
+      "engagement": 3.0,
+      "score": 45.99,
       "niche_hits": [],
       "meta": {
-        "account": "techwire@gamefan.net"
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "34bccb07b60f34df",
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-10-28T23:35:02+00:00",
-      "summary": "",
-      "engagement": 337.0,
-      "score": 45.96,
-      "niche_hits": [],
-      "meta": {
-        "points": 337,
-        "comments": 280,
-        "hn_url": "https://news.ycombinator.com/item?id=50282454"
-      },
-      "sources": [
-        "hackernews"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "a34b2b772d0daec3",
-      "title": "Amazon blocks most third-party AI shopping agents. Walmart is opening its doors with spending limits, approval controls, and dedicated agent profiles. This disruption will heavily favor the latter.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSQm0zaklWQU9UWWZyOFExTFp4bkE2dDk3cFFsS1VGRWM4MzlRT05keVhLMDcwSHg4ZGdzbWdoX3RNTkxfREdKU1pMTWM2eEM2UkI4RkE1OG9pUVdQNHVxTw?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T03:26:09+00:00",
-      "summary": "Amazon blocks most third-party AI shopping agents. Walmart is opening its doors with spending limits, approval controls, and dedicated agent profiles. This disruption will heavily favor the latter. X",
-      "engagement": 0.0,
-      "score": 45.86,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
-      },
-      "sources": [
-        "x"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "923f6beff6f5e4af",
-      "title": "Amazon turns its most capable smart speaker into a smart camera, too The Echo Studio with Home Camera can \"see and understand what's in…",
-      "url": "https://social.gamefan.net/@techwire/117522935727631845",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T07:08:06+00:00",
-      "summary": "Amazon turns its most capable smart speaker into a smart camera, too The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\" https:// arstechnica.com/gadgets/2026/1 0/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # ArsTechnica [Ars",
-      "engagement": 4.0,
-      "score": 45.66,
-      "niche_hits": [],
-      "meta": {
-        "account": "techwire@gamefan.net"
+        "account": "pernillet@mastodon.online"
       },
       "sources": [
         "mastodon"

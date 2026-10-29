@@ -15,7 +15,7 @@ from .http import get_json
 from .rank import Story
 
 _API = "https://api.groq.com/openai/v1/chat/completions"
-_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+_MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3.8-27b")
 
 _PROMPT = """أنت محرر تقني عراقي. عندك قائمة إشارات تقنية من آخر يومين.
 لكل واحدة اكتب سطراً عربياً واحداً (١٥-٣٠ كلمة) يوضح:
@@ -32,6 +32,7 @@ def _key() -> str:
 
 
 def _post(url: str, payload: dict, key: str) -> dict:
+    import urllib.error
     import urllib.request
 
     body = json.dumps(payload).encode("utf-8")
@@ -45,8 +46,12 @@ def _post(url: str, payload: dict, key: str) -> dict:
         },
         method="POST",
     )
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError as exc:
+        detail = exc.read().decode("utf-8", "replace")[:300]
+        raise RuntimeError(f"HTTP {exc.code}: {detail}") from exc
 
 
 def summarize(stories: list[Story], limit: int = 10) -> dict[str, str]:
@@ -65,6 +70,7 @@ def summarize(stories: list[Story], limit: int = 10) -> dict[str, str]:
         "model": _MODEL,
         "temperature": 0.2,
         "max_tokens": 1400,
+        "response_format": {"type": "json_object"},
         "messages": [
             {
                 "role": "user",
@@ -86,8 +92,15 @@ def summarize(stories: list[Story], limit: int = 10) -> dict[str, str]:
     try:
         parsed = json.loads(text)
     except json.JSONDecodeError:
-        print("[summarize] model did not return JSON")
-        return {}
+        match = re.search(r"\{.*\}", text, re.S)
+        if not match:
+            print(f"[summarize] non-JSON response: {text[:160]!r}")
+            return {}
+        try:
+            parsed = json.loads(match.group(0))
+        except json.JSONDecodeError:
+            print(f"[summarize] non-JSON response: {text[:160]!r}")
+            return {}
 
     out: dict[str, str] = {}
     for item in parsed.get("items", []):

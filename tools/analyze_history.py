@@ -138,6 +138,8 @@ def main(days: int = 60) -> int:
     out += ["", "## أعلى المنشورات تفاعلاً", ""]
     for post in top_posts:
         text = (post.get("text") or "").replace("\n", " ").strip()
+        if not text:
+            text = "[منشور بلا نص — صورة أو رابط مرفق]"
         out.append(
             f"- **{parse_likes(post.get('likes','0')):,}** — {text[:220]}  \n"
             f"  {post.get('author','')} · {post.get('when','')[:10]} · {post.get('url','')}"
