@@ -1,327 +1,320 @@
 {
-  "generated_at": "2026-10-29T09:14:46.609308+00:00",
-  "fetched": 574,
+  "generated_at": "2026-10-29T09:16:32.320245+00:00",
+  "fetched": 483,
   "stories": [
     {
-      "id": "f4f57e984abe7451",
-      "title": "JUST IN: DeepSeek and Moonshot used OpenAI’s GPT-6 Astra to train new models",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13WWw2d1dfUDhMYlJxYlVPUGRIcEVjTnhEZDRBLTRLWVBkZHU2cnhXTklTUExFWHlHSGJnY3BCZjBkQm84U0xuUm5qV0c5TWxnMnFIRkN1X1oxRjQ?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T07:31:56+00:00",
-      "summary": "JUST IN: DeepSeek and Moonshot used OpenAI’s GPT-6 Astra to train new models X",
-      "engagement": 0.0,
-      "score": 66.42,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d",
-        "taste": 0.8604
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.86,
-      "ar": ""
-    },
-    {
-      "id": "7dbb44d674522f97",
-      "title": "Google’s Search business is being CANNIBALIZED by AI. Alphabet shares plunged nearly -10% after hours as Search revenue missed expectations, even as people asked Google more questions. The reason is that more searches don’t automatically mean m",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZMjBKbTlUbzZPemtBOFRpTkdJVnJkajVLeTJodjc5THBGdTN3RFFMMy1yVjlOczdPX1dXeXR1SS1qMVlyRUpGWTdRakRwVkZobm5pX3B5ZWVHTThuQ0N5dQ?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T05:48:25+00:00",
-      "summary": "Google’s Search business is being CANNIBALIZED by AI. Alphabet shares plunged nearly -10% after hours as Search revenue missed expectations, even as people asked Google more questions. The reason is that more searches don’t automatically mean m X",
-      "engagement": 0.0,
-      "score": 66.18,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d",
-        "taste": 0.8545
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.855,
-      "ar": ""
-    },
-    {
-      "id": "fb83705153db54ef",
-      "title": "New Apple paper finds that, as training data grows, tool-use agents gain more from diverse apps and database states than from more tasks. that the mix of synthetic training data, not just its size, decides how well tool-use agents generalize to new benchmarks.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02c2psR1g2ZnJlVm0zNURKQlUzQU1nVVE3bkNpQUY3TzhJUkNkWmRya3pXcWNuY0VocGNHNmxsZnJLYUdoZXRVcW1zS0tWRG9uU0QtNFd6SUExUUxsSVFQOS1pdw?oc=5",
+      "id": "5116c4807ea2f206",
+      "title": "AI agents don't go rogue out of malice. They go rogue because they're built to get the job done, with whatever tool works. We documented 15 real-world agent risks, from credential harvesting to a production database wiped in nine seconds, plus how to govern",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02Vk55TjdwcTBZVXd4MEZnb2pmMjdMSWRWdkRQY0ZzMmxQT1VWaWpZYTlXS0V1NU1TOVBIalZMX25ON1phcXJRQ1lUaUNpZHMza1gzS2d4VzRNZzNRTGw0N09BUmE3clphWWc?oc=5",
       "source": "x",
       "topic": "agents",
-      "published": "2026-10-29T04:11:26+00:00",
-      "summary": "New Apple paper finds that, as training data grows, tool-use agents gain more from diverse apps and database states than from more tasks. that the mix of synthetic training data, not just its size, decides how well tool-use agents generalize to new benchmarks. X",
+      "published": "2026-10-28T16:07:05+00:00",
+      "summary": "AI agents don't go rogue out of malice. They go rogue because they're built to get the job done, with whatever tool works. We documented 15 real-world agent risks, from credential harvesting to a production database wiped in nine seconds, plus how to govern X",
       "engagement": 0.0,
-      "score": 65.28,
+      "score": 52.88,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
-        "taste": 0.7721
+        "taste": 0.8337
       },
       "sources": [
         "x"
       ],
-      "taste": 0.772,
-      "ar": ""
+      "taste": 0.834,
+      "ar": "وثّق باحثون 15 خطراً واقعياً لـ AI agents، منها مسح قاعدة بيانات إنتاجية في 9 ثوانٍ، مما يستدعي حوكمة صارمة للأدوات."
     },
     {
-      "id": "9bb9c5925c2f453d",
-      "title": "Google AI Mode is getting more ads, whether you like it or not",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzMDlsSE9fcEtmQmEzRHRXVjVlMmw4bHlfU0VnRy1XeE1PSjZPQXVWUWZ4TmFlYWVYMERTbDljRkhqa3U4QkQ0MWhqOFh6RDZKRFlsYWNCMTJLcFE5ZXlQc0VB?oc=5",
+      "id": "1a16d536a42e2c45",
+      "title": "AI agents multiply fast. If you’re not tracking them or assigning accountability, your organization is exposed. RSA Agent ID finds every agent, links them to a human owner, and enforces policy. Learn how it safeguards #AI for #government and #finance:",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50bFJSUDBacEVpRXEtTEs2RGlLYktZam5NeHBrOFd5M3pkSXlWRlVmdWlJRG4taXN1ZXo4MzR2dy1UeXpHb2pFU2RrZGFCNmRPN3czUjk4NUVtS09DZjBoN0NyUGdZQm0wTWVHdw?oc=5",
       "source": "x",
-      "topic": "mobile",
-      "published": "2026-10-29T07:05:00+00:00",
-      "summary": "Google AI Mode is getting more ads, whether you like it or not https://t.co/dD37wSmjhx X",
+      "topic": "agents",
+      "published": "2026-10-28T20:00:08+00:00",
+      "summary": "AI agents multiply fast. If you’re not tracking them or assigning accountability, your organization is exposed. RSA Agent ID finds every agent, links them to a human owner, and enforces policy. Learn how it safeguards #AI for #government and #finance: https://t. X",
       "engagement": 0.0,
-      "score": 63.25,
+      "score": 47.01,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (Flutter OR \"React Native\" OR Expo OR Android) when:7d",
-        "taste": 0.7813
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
+        "taste": 0.5242
       },
       "sources": [
         "x"
       ],
-      "taste": 0.781,
+      "taste": 0.524,
       "ar": ""
     },
     {
-      "id": "3f818892b3cba658",
-      "title": "Browser Use Arrives on Unsloth, Qwen3.8-27B Browses the Web Locally",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOG01Tkd1YjZmLW1QZ3Qyd2g4YjhCMmxsYjFkVktERS1FYlZqSVVsTFpFVl92NnVka2tqVjE3RzNXb2hXb3ExYmZHM3ROTUxjSnJTZVg2NEFlSWxlNHBwaXQ5ZlRCOC1paG4wZXNHTUE0T05jTDkwSXFEZTROLUpvdHN6YV8zX2x0R3Y4bTBXWWN2alE?oc=5",
-      "source": "news",
-      "topic": "dev",
-      "published": "2026-10-29T08:10:47+00:00",
-      "summary": "Browser Use Arrives on Unsloth, Qwen3.8-27B Browses the Web Locally Pasquale Pillitteri",
+      "id": "0e6448d9b8453510",
+      "title": "The hate for VC-funded open-source always seemed deranged They gave me millions of dollars to spend on salaries for engineers to work on open-source, and together we built Bun. In return, all the VCs asked for was “make number go up” We’re still MIT lice",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBraHFoQ0pnOU9lSUJ0QXNmQnlTcS1yOFRqS1h3c2NmVXMxaERwTGFXZmZ5Qi1fOUFrTzVTeTVwT1RnSEc2NjhrRDRmeHl5d01GOUNMMC11NFZfaVlQMHZjRlZmaw?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-28T09:42:36+00:00",
+      "summary": "The hate for VC-funded open-source always seemed deranged They gave me millions of dollars to spend on salaries for engineers to work on open-source, and together we built Bun. In return, all the VCs asked for was “make number go up” We’re still MIT lice X",
       "engagement": 0.0,
-      "score": 62.34,
+      "score": 44.06,
       "niche_hits": [],
       "meta": {
-        "query": "open source OR developer tools when:2d",
-        "taste": 0.967
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d",
+        "taste": 0.8206
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.821,
+      "ar": "دافع مطوّر Bun عن تمويل الشركات الاستثمارية، مؤكداً أنها ساعدت في بناء المشروع مع الحفاظ على رخصة MIT المفتوحة."
+    },
+    {
+      "id": "f8ae98acb20d4222",
+      "title": "JUST IN: Democrats propose letting AI companies go bankrupt rather than bailing them out if AI bubble bursts",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLcVhkb1hORWc2aTJLOW5waUtLNVMzc1h2Q2hVcFRudHRSeWRJWVZSVDhIYWZGdFQtYVgtQmtnRWh4Y3p2VWdrWHhIdFdmZFluRGZPU0xWUXMwY2s?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T00:00:00+00:00",
+      "summary": "JUST IN: Democrats propose letting AI companies go bankrupt rather than bailing them out if AI bubble bursts X",
+      "engagement": 0.0,
+      "score": 42.69,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d",
+        "taste": 0.3948
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.395,
+      "ar": "اقترح ديمقراطيون أمريكيون السماح لشركات الذكاء الاصطناعي بالإفلاس بدلاً من إنقاذها مالياً، تحسباً لانفجار فقاعة الاستثمار التقنية."
+    },
+    {
+      "id": "bf0697fd950d0bf3",
+      "title": "Drag a video into the Vimo desktop app and ask questions about it in plain language, even hundreds of hours long on one GPU.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5d0FrdHVHNnJjZU9KMEtUcXotQUtkZnZMMm0yYVRONEZZSEk0MEdZT25yMlB2dnd0cTZKQkgyNGFIeEtxTURFRlFlRHM0WU4wSzA4dGdmRk1PTU0ycjJvQTE3RzFvMUp5enY3SHlPZnI?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-28T04:48:01+00:00",
+      "summary": "Drag a video into the Vimo desktop app and ask questions about it in plain language, even hundreds of hours long on one GPU. X",
+      "engagement": 0.0,
+      "score": 41.5,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d",
+        "taste": 0.8454
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.845,
+      "ar": "أطلقت تطبيق Vimo سطح المكتب الذي يتيح طرح أسئلة نصية على مقاطع فيديو طويلة تصل لمئات الساعات باستخدام GPU واحد."
+    },
+    {
+      "id": "7e8b3f58eac47880",
+      "title": "🚀 Discover what’s new in GitHub Copilot in @code! From running agents across devices to comparing model results and customizing your agent workflows, explore the latest updates from @github Universe 2026. Checkout what's new:",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTNFMyS2drWHNNc09wMEhpbGZKcHdNdnhLTUp1LVBiZG1Da05JdEt1MlJ1anRCd2VILVh4NFAxdUVTeXdEVmg5TWdMVkVjcVp3ZzVkRFBCWkI?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-28T17:04:29+00:00",
+      "summary": "🚀 Discover what’s new in GitHub Copilot in @code! From running agents across devices to comparing model results and customizing your agent workflows, explore the latest updates from @github Universe 2026. Checkout what's new: https://t.co/Jv2SUfQ0UA X",
+      "engagement": 0.0,
+      "score": 41.15,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d",
+        "taste": 0.5149
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.515,
+      "ar": "أضاف GitHub Copilot ميزات جديدة لتشغيل الوكلاء عبر أجهزة متعددة ومقارنة نتائج النماذج، ضمن تحديثات مؤتمر Universe 2026."
+    },
+    {
+      "id": "a6ef49218fced90a",
+      "title": "We’re also now serving two fast, low-cost models: - DeepSeek V4.1 Flash, in public preview. Great for long-context coding and agentic tasks. - GLM 5.3 Flash, now generally available. Great for subagents, tool calls and coding tasks.",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DbUZEaVNwZFdEaFVDWnlmU1ZKUG1VUUFWdHZpMkdrUWlhSVVHMnZmay1EQ2hPSjVwY1lUVEN5cUJIOG5WU3ZBX2ZrcGhhLUFJb0xmdEtQZ3VBN3lxU0tR?oc=5",
+      "source": "x",
+      "topic": "devtools",
+      "published": "2026-10-28T14:01:00+00:00",
+      "summary": "We’re also now serving two fast, low-cost models: - DeepSeek V4.1 Flash, in public preview. Great for long-context coding and agentic tasks. - GLM 5.3 Flash, now generally available. Great for subagents, tool calls and coding tasks. X",
+      "engagement": 0.0,
+      "score": 41.05,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:2d",
+        "taste": 0.5908
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.591,
+      "ar": "أصبحت نماذج DeepSeek V4.1 Flash وGLM 5.3 Flash متاحة بتكلفة منخفضة، وهي مثالية للمهام البرمجية الطويلة والاستدعاءات الفرعية."
+    },
+    {
+      "id": "5b83e78e72b358d6",
+      "title": "AI coding agents accelerate development, but legacy security is falling behind. That’s why we’ve built a playbook for security leaders who need to govern AI agents without blocking engineering velocity. Download our new eBook and get four principles of effect",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aeEZjVllSbHRQOElxTmJEeWFVZmRncFE4d1IxUmpuT2J5Q1Bpek9ldVVwcGJpeGhuRGRyMVRLVXZaM1Judy02R19nVERoMW50V0VXamRicVBfRm1iUUk0?oc=5",
+      "source": "x",
+      "topic": "devtools",
+      "published": "2026-10-29T00:48:01+00:00",
+      "summary": "AI coding agents accelerate development, but legacy security is falling behind. That’s why we’ve built a playbook for security leaders who need to govern AI agents without blocking engineering velocity. Download our new eBook and get four principles of effect X",
+      "engagement": 0.0,
+      "score": 40.87,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:2d",
+        "taste": 0.2597
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.26,
+      "ar": "أصدرت شركة أمنية دليل عملي لحوكمة وكلاء الذكاء الاصطناعي، بهدف تعزيز الأمان دون إبطاء سرعة تطوير فرق الهندسة."
+    },
+    {
+      "id": "98ea8cbe0e682c0e",
+      "title": "In AA-PersonalityBench, Meta AI’s Muse models are the most Friendly of all models The Friendly trait measures whether a response conveys warmth and approachability without feeling performative. ➤ Most Friendly: Muse Spark 1.3 (100), Muse Spark Open (9",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81N05uNXdoVzhmNTYxSlhkNGpGb1h3ekNmS1JOQWZ1dG5tVGFUT1NjSzdQUVJXQ2x1d0ZrVXFLYkNmYVRFY1daVW5nblpNbTd0eGJoN1FFUkI1Qk10ZzB4RlNZLS1Fdnc?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-28T21:38:06+00:00",
+      "summary": "In AA-PersonalityBench, Meta AI’s Muse models are the most Friendly of all models The Friendly trait measures whether a response conveys warmth and approachability without feeling performative. ➤ Most Friendly: Muse Spark 1.3 (100), Muse Spark Open (9 X",
+      "engagement": 0.0,
+      "score": 40.83,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d",
+        "taste": 0.4302
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.43,
+      "ar": "تصدرت نماذج Muse من Meta تصنيف AA-PersonalityBench في سمة الود، لكونها توفر استجابات دافئة وغير مصطنعة للمستخدمين."
+    },
+    {
+      "id": "c3ad5e51adeddc61",
+      "title": "things moved so fast, AI agents are enrolling in courses now. a few years ago saying that would've made you sound like you were hallucinating.",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQlRWclZycm43SkJrdy1XblRLVXNwNWt4dEVGa2h1WGhxU05ZV3IwbmktR2RCVW1SMEZUVjBYenFjcGwtcUVNazBxSk9UVnIxR1MwWHFxVGJRY1RIblQ0?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-28T17:39:10+00:00",
+      "summary": "things moved so fast, AI agents are enrolling in courses now. a few years ago saying that would've made you sound like you were hallucinating. X",
+      "engagement": 0.0,
+      "score": 40.63,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
+        "taste": 0.4861
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.486,
+      "ar": "بدأت وكلاء الذكاء الاصطناعي بالتسجيل في الدورات التعليمية بشكل مستقل، مما يعكس تسارعاً غير متوقع في قدرات التعلم الذاتي."
+    },
+    {
+      "id": "bba0faca93e9abf5",
+      "title": "We're redefining the SDLC for the agentic era. Lots of GitHub updates this morning at Universe: • GitHub Copilot Fusion delivers frontier-level quality, 40% faster and at up to 77% lower cost • Our unified Copilot harness is now in Foundry, a managed service fo",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ydnoyWFkxNmRQU1h0a012elpySGVqTFptREpXWHI0b0ZtRXo3Yzh6VTZKbTFEWVZzbjlPYUlWZWh4MFdPZUVpNU1qb2lkSEZSODZSWnNxenlodmtlbGlRa043OA?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-28T17:08:18+00:00",
+      "summary": "We're redefining the SDLC for the agentic era. Lots of GitHub updates this morning at Universe: • GitHub Copilot Fusion delivers frontier-level quality, 40% faster and at up to 77% lower cost • Our unified Copilot harness is now in Foundry, a managed service fo X",
+      "engagement": 0.0,
+      "score": 40.27,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
+        "taste": 0.4163
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.416,
+      "ar": ""
+    },
+    {
+      "id": "66b0867b9026ab69",
+      "title": "Every agent. Every copilot. Every model. They all share one critical resource: your data. Join @OmdiaHQ & Veeam to learn why lifecycle security, including recovery, is the foundation of Data & AI trust.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5US0FaRml4RUdiM2p3UkhQdEdXVmNJMko4YVhuLS1HSE5JZDMta2J3bV9FTVFESEMxZGtpV3k5Y3dISmY1a3lrZThVQjVuRnJuZzA3XzQxRzRmQQ?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-28T16:47:05+00:00",
+      "summary": "Every agent. Every copilot. Every model. They all share one critical resource: your data. Join @OmdiaHQ & Veeam to learn why lifecycle security, including recovery, is the foundation of Data & AI trust. https://t.co/7VKP66N4qA X",
+      "engagement": 0.0,
+      "score": 40.19,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
+        "taste": 0.4989
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.499,
+      "ar": ""
+    },
+    {
+      "id": "19d7ce401518294c",
+      "title": "Meet Lor. We’re building Lor to do the work of an entire AI lab. Today, its agents write our code, run experiments, and iterate on the results for days, on any machine, hundreds at a time. Now in private beta ↓",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81UlZoXzlBWDJiMGJKNHBxYmRhYU1XS0RkMWZKdkduSmY2ZzBabGRxcFBrTlJlNkZWekxSc2d1Z0RxTTFHbVVjOXVSU0JaSmZrUFZldVA4dm9BRUN3RGc?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-28T16:58:00+00:00",
+      "summary": "Meet Lor. We’re building Lor to do the work of an entire AI lab. Today, its agents write our code, run experiments, and iterate on the results for days, on any machine, hundreds at a time. Now in private beta ↓ X",
+      "engagement": 0.0,
+      "score": 39.94,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
+        "taste": 0.4877
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.488,
+      "ar": ""
+    },
+    {
+      "id": "d7df028b06dd4438",
+      "title": "Okay, sorry, GitHub was nice to invite me but I can't hold back... Complaining incoming.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DeE9mbzhWSEVERDJ1X0hsZkVyS3lSLTV4UTYwLTRFQnkwXzlWVnFydXIyUlpXVnhiUDM5UEtBN0ZtazJiODdrazJybWVFa0dMdlVSUG9pMGVVenZMUjhHcE5FUmI4Zw?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-28T16:19:09+00:00",
+      "summary": "Okay, sorry, GitHub was nice to invite me but I can't hold back... Complaining incoming. X",
+      "engagement": 0.0,
+      "score": 39.94,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d",
+        "taste": 0.5651
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.565,
+      "ar": ""
+    },
+    {
+      "id": "197a54e04e59c3fe",
+      "title": "Contemporary accomplices? Considering the potential liability of AI targeting system providers under the Rome Statute",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOU3FvdnphbFVlZThMcGZZd2x5cFUwanZEWEMwQVgyYUhJWGQ2RkFoVWdzRUhEem1pNjB3RzBTV09DSDFfM0x2dXRUbHVUTTA4T2dZZE1vT0hHLS16UHdCOUdWR2NTa1VhV004UFROWWRwaWFXR3k3aFp3ZnJLZVEtRzdkMTFaNFpVamZrUXFhY3BXRUVvWWc4dzVzVVluUklKeDlyZWVhaU96UzFpZ290NGRudXZPc2hkNkdacV9IUWVtRnVSUUxzdEdvZnZxYUg5dTU5SEcyMDVWQzloU0c2a1c2VFpSTXNXZi1KXzNoT1ZWcUhRcDltUnVR?oc=5",
+      "source": "news",
+      "topic": "ai",
+      "published": "2026-10-29T06:41:05+00:00",
+      "summary": "Contemporary accomplices? Considering the potential liability of AI targeting system providers under the Rome Statute ICRC",
+      "engagement": 0.0,
+      "score": 39.84,
+      "niche_hits": [],
+      "meta": {
+        "query": "artificial intelligence OR LLM when:2d",
+        "taste": 0.4859
       },
       "sources": [
         "news"
       ],
-      "taste": 0.967,
-      "ar": ""
-    },
-    {
-      "id": "1de121df03589911",
-      "title": "🚀 Fastest-growing AI projects today 1. Among these, the logo-design skill by kaankiziltug stands out for its comprehensive app... 2.…",
-      "url": "https://mastodon.social/@Pulrepo/117523258037022806",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T08:30:04.327000+00:00",
-      "summary": "🚀 Fastest-growing AI projects today 1. Among these, the logo-design skill by kaankiziltug stands out for its comprehensive app... 2. kaankiziltug's `logo-design-skill` a detailed framework for designing logos with princi... 3. With over 3,852 stars and a high growth score of 98.04, it evident that developers find... Full report → https:// pullrepo.com/report/todays-ai- agent-fastest-growing-projec",
-      "engagement": 0.0,
-      "score": 61.21,
-      "niche_hits": [],
-      "meta": {
-        "account": "Pulrepo",
-        "taste": 0.9259
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.926,
-      "ar": ""
-    },
-    {
-      "id": "271134257c4af766",
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-10-29T03:33:42+00:00",
-      "summary": "",
-      "engagement": 352.0,
-      "score": 61.04,
-      "niche_hits": [],
-      "meta": {
-        "points": 352,
-        "comments": 106,
-        "hn_url": "https://news.ycombinator.com/item?id=50284255",
-        "taste": 0.6603
-      },
-      "sources": [
-        "hackernews"
-      ],
-      "taste": 0.66,
-      "ar": ""
-    },
-    {
-      "id": "44e3e5f137f8038b",
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-10-29T00:25:45+00:00",
-      "summary": "",
-      "engagement": 428.0,
-      "score": 58.12,
-      "niche_hits": [],
-      "meta": {
-        "points": 428,
-        "comments": 92,
-        "hn_url": "https://news.ycombinator.com/item?id=50282838",
-        "taste": 0.7355
-      },
-      "sources": [
-        "hackernews"
-      ],
-      "taste": 0.736,
-      "ar": ""
-    },
-    {
-      "id": "d76d59f8ae2e3cb2",
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-10-28T17:10:37+00:00",
-      "summary": "",
-      "engagement": 575.0,
-      "score": 57.79,
-      "niche_hits": [],
-      "meta": {
-        "points": 575,
-        "comments": 969,
-        "hn_url": "https://news.ycombinator.com/item?id=50276940",
-        "taste": 0.4827
-      },
-      "sources": [
-        "hackernews",
-        "mastodon"
-      ],
-      "taste": 0.483,
-      "ar": ""
-    },
-    {
-      "id": "3be8be0dc42c8f48",
-      "title": "GitHub Launches Copilot Fusion, Claims To Offer Cheaper AI Coding",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GLWFsR0dlN1dXcnNlTXJNU1N0QTJERWhrS1I0a09kMkZnalhSenA4Ync1MWg2TU14SnZiYWE4NGVLSk16a2lrVHJvcmJNSGtGcWhKVG9oQ3A0ZmR4TGc?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-29T07:00:03+00:00",
-      "summary": "GitHub Launches Copilot Fusion, Claims To Offer Cheaper AI Coding https://t.co/TSJQlZaI9l X",
-      "engagement": 0.0,
-      "score": 57.43,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d",
-        "taste": 0.6357
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.636,
-      "ar": ""
-    },
-    {
-      "id": "bb57513de44d89b2",
-      "title": "Look for Expo Mode. We built it with Google’s new HTML-in-Canvas API. I think we’re one of the first to use it.",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1SFpseW9xNjZEUEpJeTlybHFfQUlzdExBMUNtTFIza29vMWJBUGZpRmZmUVhPWmFQa2QtWnBZYlNCeWpFbElRV3FIek5CTHBNN1h3bTN0WGs?oc=5",
-      "source": "x",
-      "topic": "mobile",
-      "published": "2026-10-28T16:11:23+00:00",
-      "summary": "Look for Expo Mode. We built it with Google’s new HTML-in-Canvas API. I think we’re one of the first to use it. X",
-      "engagement": 0.0,
-      "score": 55.89,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (Flutter OR \"React Native\" OR Expo OR Android) when:7d",
-        "taste": 0.914
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.914,
-      "ar": ""
-    },
-    {
-      "id": "fa93e6f2e17b6f08",
-      "title": "Big moment for Voice AI. A typical voice-agent pipeline has three model stages. Speech-to-text converts the caller’s audio into text. The LLM processes that text and generates a response. Text-to-speech converts the response back into audio. For speech accu",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hdjVmQm9TRjIyMTVqdWdlZFRCblNaUzd5TWVfZlU0bTFIRmRSR2FVdjNoaDRrVnRYbklBVVB4c0Z2dS1oMnRYb0RKaUxsNUVVQlF6TVhpQk5GU0lUak8yb0MzMUtmdw?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-10-29T07:42:08+00:00",
-      "summary": "Big moment for Voice AI. A typical voice-agent pipeline has three model stages. Speech-to-text converts the caller’s audio into text. The LLM processes that text and generates a response. Text-to-speech converts the response back into audio. For speech accu X",
-      "engagement": 0.0,
-      "score": 54.21,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
-        "taste": 0.4952
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.495,
-      "ar": ""
-    },
-    {
-      "id": "8f1e2c23f85a96b4",
-      "title": "🚀 AbraFlexi API Doc v1.2.1 released! The REST API docs now cover password reset (send-email, set-password) and a fuller authentication…",
-      "url": "https://f.cz/@vitexsoftware/117523336164926036",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T08:49:56+00:00",
-      "summary": "🚀 AbraFlexi API Doc v1.2.1 released! The REST API docs now cover password reset (send-email, set-password) and a fuller authentication chapter, in Czech and English. https:// github.com/VitexSoftware/abraf lexi-api-doc/releases/tag/v1.2.1 # release # AbraFlexiAPIDoc # Debian # opensource # API # documentation",
-      "engagement": 0.0,
-      "score": 54.1,
-      "niche_hits": [],
-      "meta": {
-        "account": "vitexsoftware@f.cz",
-        "taste": 0.7947
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.795,
-      "ar": ""
-    },
-    {
-      "id": "e944dcd536bd37ea",
-      "title": "How do people use AI for news and for other purposes? This is the question at the heart of our new report Authored by @_FelixSimon_ @rasmus_kleis @richrdfletcher, the report looks at this issue with fresh data from 9 countries 7 findings in thread",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKZHAyTVY1X2hDMGltaUFPNXo1eU5yb1A4WVFyajhSTlJ2RTRoMWhwTk1naW9FSWVMeEpWNVNKVGdETDAydWFoN2JTWk9PRzJ5dllEbmozVk9nb2ctNlpISTVR?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T08:34:21+00:00",
-      "summary": "How do people use AI for news and for other purposes? This is the question at the heart of our new report Authored by @_FelixSimon_ @rasmus_kleis @richrdfletcher, the report looks at this issue with fresh data from 9 countries 7 findings in thread https://t.co/I X",
-      "engagement": 0.0,
-      "score": 53.66,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d",
-        "taste": 0.5416
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.542,
-      "ar": ""
-    },
-    {
-      "id": "bb4089e069056d25",
-      "title": "GitHub is an interconnected community. You are GitHub, and GitHub is you.",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GYTBTd3F4Sk83VFhQT1RaYXVhZXAwWGlsYWVRRkgxdjRkYmxHR3hxckFKT0l6clBOS0YtTWlNOWNmeDBrSzhLZThSZDdLWTFfTXhqYW9NSk5QSTJLenc4?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-28T19:13:14+00:00",
-      "summary": "GitHub is an interconnected community. You are GitHub, and GitHub is you. X",
-      "engagement": 0.0,
-      "score": 53.5,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d",
-        "taste": 0.8217
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.822,
+      "taste": 0.486,
       "ar": ""
     }
   ]
