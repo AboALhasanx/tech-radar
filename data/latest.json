@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-10-29T07:30:39.461746+00:00",
-  "fetched": 684,
+  "generated_at": "2026-10-29T07:45:31.294519+00:00",
+  "fetched": 675,
   "stories": [
-    {
-      "id": "908e684061c0e2c6",
-      "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vZldaMHNjVk1uZW9KS2pXQVBVTTVXbjQzN2N5bmVtMkc3eUdpNV9pc0czc2dSUHBwM0dZcFNFYnh3TW5QQW5LYThLalRVM2pha0U2a2VDdDFVOE02elo5Nm1n?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T05:00:31+00:00",
-      "summary": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say https://t.co/pCEPYXfPOt X",
-      "engagement": 0.0,
-      "score": 60.81,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
-      },
-      "sources": [
-        "news",
-        "x"
-      ],
-      "ar": ""
-    },
     {
       "id": "271134257c4af766",
       "title": "Claude Code regularly sends each background agent’s transcript to its model",
@@ -30,12 +10,12 @@
       "topic": "dev",
       "published": "2026-10-29T03:33:42+00:00",
       "summary": "",
-      "engagement": 276.0,
-      "score": 54.58,
+      "engagement": 290.0,
+      "score": 54.26,
       "niche_hits": [],
       "meta": {
-        "points": 276,
-        "comments": 85,
+        "points": 290,
+        "comments": 87,
         "hn_url": "https://news.ycombinator.com/item?id=50284255"
       },
       "sources": [
@@ -52,7 +32,7 @@
       "published": "2026-10-29T07:11:17+00:00",
       "summary": "Lively discussion at #Villa Europa🇪🇺 on the challenges of international cooperation on artificial intelligence. As part of the #FestivaldellaDiplomazia 2026 @DiplomacyinRome, the European Union hosted the Head of our 🇪🇺AI Office Lucilla Sioli @DigitalEU, t X",
       "engagement": 0.0,
-      "score": 51.29,
+      "score": 50.75,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
@@ -63,18 +43,18 @@
       "ar": ""
     },
     {
-      "id": "9bb9c5925c2f453d",
-      "title": "Google AI Mode is getting more ads, whether you like it or not",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzMDlsSE9fcEtmQmEzRHRXVjVlMmw4bHlfU0VnRy1XeE1PSjZPQXVWUWZ4TmFlYWVYMERTbDljRkhqa3U4QkQ0MWhqOFh6RDZKRFlsYWNCMTJLcFE5ZXlQc0VB?oc=5",
+      "id": "3be8be0dc42c8f48",
+      "title": "GitHub Launches Copilot Fusion, Claims To Offer Cheaper AI Coding",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GLWFsR0dlN1dXcnNlTXJNU1N0QTJERWhrS1I0a09kMkZnalhSenA4Ync1MWg2TU14SnZiYWE4NGVLSk16a2lrVHJvcmJNSGtGcWhKVG9oQ3A0ZmR4TGc?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T07:05:00+00:00",
-      "summary": "Google AI Mode is getting more ads, whether you like it or not https://t.co/dD37wSmjhx X",
+      "topic": "opensource",
+      "published": "2026-10-29T07:00:03+00:00",
+      "summary": "GitHub Launches Copilot Fusion, Claims To Offer Cheaper AI Coding https://t.co/TSJQlZaI9l X",
       "engagement": 0.0,
-      "score": 51.06,
+      "score": 50.35,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d"
       },
       "sources": [
         "x"
@@ -90,7 +70,7 @@
       "published": "2026-10-29T06:42:54+00:00",
       "summary": "RevenueCat Android SDK 11.0.0 has been released. This release updates the SDK to Google Play Billing Library 9.1.0. The RevenueCat API is unchanged, but the new dependencies raise the build requirements. https://t.co/Vej80y8bZG X",
       "engagement": 0.0,
-      "score": 50.27,
+      "score": 49.75,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (Flutter OR \"React Native\" OR Expo OR Android) when:7d"
@@ -109,102 +89,7 @@
       "published": "2026-10-29T04:58:38+00:00",
       "summary": "Slack is an especially good form factor for interacting with AI agents. Channels, threaded replies, notifications - all the features that make it work well for a team of humans work just as well for a team of agents. X",
       "engagement": 0.0,
-      "score": 49.15,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d"
-      },
-      "sources": [
-        "x"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "db6a317bf0ef589c",
-      "title": "Morning Bid: In the AI alphabet, cash is king. As AI reshapes markets, cash flow and disciplined funding remain central to the investment story. Read more: #AI #Markets #Finance:",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ObzR1NEdPSXk0UVdJNGZiTGE3RlYxNWRFbDh3RlhTWHJsNUt5c2tQTjRHNDdlZVQ0WEJmSTV3SEo4c2t1NEhpWXJHVXBtWnUwTlpOdS1kUkw5OWdSRlVQUg?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T05:49:35+00:00",
-      "summary": "Morning Bid: In the AI alphabet, cash is king. As AI reshapes markets, cash flow and disciplined funding remain central to the investment story. Read more: https://t.co/xCG3pTU316 #AI #Markets #Finance: https://t.co/JdG65XX70D X",
-      "engagement": 0.0,
-      "score": 48.43,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
-      },
-      "sources": [
-        "x"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "e7166eaa5cdd7f4c",
-      "title": "\"The frontier AI labs could end up creating enormous value without capturing most of it themselves.\"",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iY3FCaGprbUE5TEdwSzBuWE9EMzFEZ3Z1ZXB4ZEdKYWdlWkRCRzRDclNJREhoRkUyV3hRdTBtYmJGMFkyNEFzYU1LMmxrdDczdEFwM0JZODVuYkpFOVdkVUhR?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T05:40:53+00:00",
-      "summary": "\"The frontier AI labs could end up creating enormous value without capturing most of it themselves.\" https://t.co/Kvjl0o5uLA X",
-      "engagement": 0.0,
-      "score": 48.13,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
-      },
-      "sources": [
-        "x"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "0806a8eb6bcfa758",
-      "title": "Are small language models the future? Some AI leaders say “yes”. See quoted post below. \"How to Build and Fine‐Tune a Small Language Model: A Step-by-Step Guide for Beginners, Researchers, and Non-Programmers\" Available at",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vN0dIU2hDczB0bFJ6bjhzVUl4bUxWME9ZS1NxT24wUElqTGt0c2Y4Y2JPSDJTaGp1ZXVwcWp2eWNZU3FZLW5iRHVEdzZaa3VTV0M3dXZQYk13NVpUWTVCUw?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T05:40:41+00:00",
-      "summary": "Are small language models the future? Some AI leaders say “yes”. See quoted post below. \"How to Build and Fine‐Tune a Small Language Model: A Step-by-Step Guide for Beginners, Researchers, and Non-Programmers\" Available at https://t.co/msIjZw2arK X",
-      "engagement": 0.0,
-      "score": 48.13,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
-      },
-      "sources": [
-        "x"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "61176011919cdb99",
-      "title": "For much of Asia, getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible. Abhishek Vishnoi looks at how investors are getting creative through proxy trades",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1VnZXb09KS2hHU3FQbkhXX3FtM0tQRzZCYnBOWGNneU5DSWxQc1VpSllOVzZwSkd4OEdiaTBKdENUWGl5bXRpRXAxRUVvbzhyZW04anQ3Tndqc0Q4V1E?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T05:28:25+00:00",
-      "summary": "For much of Asia, getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible. Abhishek Vishnoi looks at how investors are getting creative through proxy trades https://t.co/Pyf0C55gtm X",
-      "engagement": 0.0,
-      "score": 47.72,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
-      },
-      "sources": [
-        "x"
-      ],
-      "ar": ""
-    },
-    {
-      "id": "fb83705153db54ef",
-      "title": "New Apple paper finds that, as training data grows, tool-use agents gain more from diverse apps and database states than from more tasks. that the mix of synthetic training data, not just its size, decides how well tool-use agents generalize to new benchmarks.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02c2psR1g2ZnJlVm0zNURKQlUzQU1nVVE3bkNpQUY3TzhJUkNkWmRya3pXcWNuY0VocGNHNmxsZnJLYUdoZXRVcW1zS0tWRG9uU0QtNFd6SUExUUxsSVFQOS1pdw?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-10-29T04:11:26+00:00",
-      "summary": "New Apple paper finds that, as training data grows, tool-use agents gain more from diverse apps and database states than from more tasks. that the mix of synthetic training data, not just its size, decides how well tool-use agents generalize to new benchmarks. X",
-      "engagement": 0.0,
-      "score": 47.66,
+      "score": 48.67,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d"
@@ -222,12 +107,12 @@
       "topic": "dev",
       "published": "2026-10-29T00:25:45+00:00",
       "summary": "",
-      "engagement": 337.0,
-      "score": 47.55,
+      "engagement": 348.0,
+      "score": 47.26,
       "niche_hits": [],
       "meta": {
-        "points": 337,
-        "comments": 76,
+        "points": 348,
+        "comments": 77,
         "hn_url": "https://news.ycombinator.com/item?id=50282838"
       },
       "sources": [
@@ -236,15 +121,15 @@
       "ar": ""
     },
     {
-      "id": "92b42fd5985f2c3d",
-      "title": "OpenAI now trains its frontier #AI models with no internet access by Emma Roth @verge Learn more: #ArtificialIntelligence #MachineLearning #AIAgents #CyberSecurity",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55bUQtSExwYjBscHpZeWFRZ2lhMFp2LVVFQ3U4SUVGSHpSbTBTVDZBQ0s5bU1rNDgyUFJRVkVfeWMwLV9ad1RiLUUwVVloLUNwbng3RHhUcXZyNDFWUE81STJsSTA4Zw?oc=5",
+      "id": "61176011919cdb99",
+      "title": "For much of Asia, getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible. Abhishek Vishnoi looks at how investors are getting creative through proxy trades",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1VnZXb09KS2hHU3FQbkhXX3FtM0tQRzZCYnBOWGNneU5DSWxQc1VpSllOVzZwSkd4OEdiaTBKdENUWGl5bXRpRXAxRUVvbzhyZW04anQ3Tndqc0Q4V1E?oc=5",
       "source": "x",
       "topic": "ai",
-      "published": "2026-10-29T03:58:01+00:00",
-      "summary": "OpenAI now trains its frontier #AI models with no internet access by Emma Roth @verge Learn more: https://t.co/mmyD1umiTr #ArtificialIntelligence #MachineLearning #AIAgents #CyberSecurity X",
+      "published": "2026-10-29T05:28:25+00:00",
+      "summary": "For much of Asia, getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible. Abhishek Vishnoi looks at how investors are getting creative through proxy trades https://t.co/Pyf0C55gtm X",
       "engagement": 0.0,
-      "score": 47.25,
+      "score": 47.23,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
@@ -263,7 +148,7 @@
       "published": "2026-10-29T05:10:08+00:00",
       "summary": "When Pony Ma called Tencent’s AI endeavor “a leaky ship” this summer, the billionaire founder sent ripples through the company. One of his key lieutenants, Dowson Tong, came up with a surprising answer: let’s retool to focus on businesses. https://t.co/dj0pZ X",
       "engagement": 0.0,
-      "score": 47.12,
+      "score": 46.64,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
@@ -282,10 +167,126 @@
       "published": "2026-10-29T07:24:02+00:00",
       "summary": "Omicron is now listed on @ fedidb See at: https:// fedidb.com/software/omicron # Fediverse # ActivityPub # OpenSource # Blogging # omicron",
       "engagement": 4.0,
-      "score": 46.78,
+      "score": 46.24,
       "niche_hits": [],
       "meta": {
         "account": "OmicronHQ@fosstodon.org"
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "ar": ""
+    },
+    {
+      "id": "4d0280c5458a74eb",
+      "title": "OpenMBEE: Der lange Weg von der NASA’s JPL zu Kotar Kotar ist ein kostenloser SysML-v2-Editor, der im Browser läuft",
+      "url": "https://mastodon.world/@jastram/117522904052988732",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T07:00:02+00:00",
+      "summary": "OpenMBEE: Der lange Weg von der NASA’s JPL zu Kotar Kotar ist ein kostenloser SysML-v2-Editor, der im Browser läuft. Mein erster Eindruck: Extrem beeindruckend. Insbesondere steckt wesentlich mehr als nur ein Editor allerdings: ein SysML-v2-Service, ein Model Management System namens Flexo und eine RDF-Date https://www. se-trends.de/openmbee-der-lang e-weg-von-der-nasa-zu-kotar/ # LuftRaumfahrt # ",
+      "engagement": 6.0,
+      "score": 46.22,
+      "niche_hits": [],
+      "meta": {
+        "account": "jastram@mastodon.world"
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "ar": ""
+    },
+    {
+      "id": "33356f5a7ed55328",
+      "title": "Google AI gets cagey when asked who won the 2020 elections But the AI responses get more forthright when asked outside the US",
+      "url": "https://social.gamefan.net/@techwire/117522994709456207",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T07:23:06+00:00",
+      "summary": "Google AI gets cagey when asked who won the 2020 elections But the AI responses get more forthright when asked outside the US. https:// arstechnica.com/ai/2026/10/goo gle-ai-gets-cagey-when-asked-who-won-the-2020-elections/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # ArsTechnica [Ars Technica]",
+      "engagement": 4.0,
+      "score": 46.2,
+      "niche_hits": [],
+      "meta": {
+        "account": "techwire@gamefan.net"
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "ar": ""
+    },
+    {
+      "id": "e61a4522e61adff7",
+      "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV With more than 200 kWh, this luxury three-row can go 460 miles on a charge",
+      "url": "https://social.gamefan.net/@techwire/117522975049745708",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T07:18:06+00:00",
+      "summary": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV With more than 200 kWh, this luxury three-row can go 460 miles on a charge. https:// arstechnica.com/cars/2026/10/c adillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # ArsTechnica [Ars Technica]",
+      "engagement": 4.0,
+      "score": 46.02,
+      "niche_hits": [],
+      "meta": {
+        "account": "techwire@gamefan.net"
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "ar": ""
+    },
+    {
+      "id": "34bccb07b60f34df",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "source": "hackernews",
+      "topic": "dev",
+      "published": "2026-10-28T23:35:02+00:00",
+      "summary": "",
+      "engagement": 337.0,
+      "score": 45.96,
+      "niche_hits": [],
+      "meta": {
+        "points": 337,
+        "comments": 280,
+        "hn_url": "https://news.ycombinator.com/item?id=50282454"
+      },
+      "sources": [
+        "hackernews"
+      ],
+      "ar": ""
+    },
+    {
+      "id": "a34b2b772d0daec3",
+      "title": "Amazon blocks most third-party AI shopping agents. Walmart is opening its doors with spending limits, approval controls, and dedicated agent profiles. This disruption will heavily favor the latter.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSQm0zaklWQU9UWWZyOFExTFp4bkE2dDk3cFFsS1VGRWM4MzlRT05keVhLMDcwSHg4ZGdzbWdoX3RNTkxfREdKU1pMTWM2eEM2UkI4RkE1OG9pUVdQNHVxTw?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T03:26:09+00:00",
+      "summary": "Amazon blocks most third-party AI shopping agents. Walmart is opening its doors with spending limits, approval controls, and dedicated agent profiles. This disruption will heavily favor the latter. X",
+      "engagement": 0.0,
+      "score": 45.86,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d"
+      },
+      "sources": [
+        "x"
+      ],
+      "ar": ""
+    },
+    {
+      "id": "923f6beff6f5e4af",
+      "title": "Amazon turns its most capable smart speaker into a smart camera, too The Echo Studio with Home Camera can \"see and understand what's in…",
+      "url": "https://social.gamefan.net/@techwire/117522935727631845",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T07:08:06+00:00",
+      "summary": "Amazon turns its most capable smart speaker into a smart camera, too The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\" https:// arstechnica.com/gadgets/2026/1 0/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/ # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # ArsTechnica [Ars",
+      "engagement": 4.0,
+      "score": 45.66,
+      "niche_hits": [],
+      "meta": {
+        "account": "techwire@gamefan.net"
       },
       "sources": [
         "mastodon"
