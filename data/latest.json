@@ -1,320 +1,322 @@
 {
-  "generated_at": "2026-10-29T10:25:25.212385+00:00",
-  "fetched": 54,
+  "generated_at": "2026-10-29T10:49:01.030782+00:00",
+  "fetched": 96,
   "stories": [
     {
-      "id": "b4a203f9c681d60a",
-      "title": "Open source prosthetics! 🦿 A powered prosthetic leg runs its control loop at a few hundred hertz, on a battery computer strapped to someone’s shin, and the failure mode is literally a person falling over. The Neurobionics Lab at Michigan says it plainly about th",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11Y0dKSlZPWnV2UVZoeEd1TGNhcGtCVnpFemh6WUlBQXhPa2h3WXIwLXFENUp6LU9jbzczcnlsVUczeFgtT0pRU0VUMkZod2xHSXhKU3J5QTR0YkM3SVB2RTZiWTlQVEU?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-29T03:37:57+00:00",
-      "summary": "Open source prosthetics! 🦿 A powered prosthetic leg runs its control loop at a few hundred hertz, on a battery computer strapped to someone’s shin, and the failure mode is literally a person falling over. The Neurobionics Lab at Michigan says it plainly about th X",
-      "engagement": 0.0,
-      "score": 53.46,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.524
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.524,
-      "ar": "مختبر في ميشيغان يطور ساقاً صناعية مفتوحة المصدر تعمل بحلقة تحكم عالية التردد، مما يبرز تحدي الموثوقية في أنظمة الروبوتات الطبية الحرجة."
-    },
-    {
-      "id": "fda9c6785a6d7762",
-      "title": "Open-source LLM doesn't mean free LLM. Here's why:",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wd2gzZklFY3VkcHlpNUxBNWRsaDV2WlU0M25jZ0FwdTRISWZLOTdjQW0xdnZvdG96UDVPcFc3Q0syU2J3SHMzZERvY1ktNVdzeGU5OHR0UDRjOHBrT2VmdE84UklhSFEt?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-28T19:00:46+00:00",
-      "summary": "Open-source LLM doesn't mean free LLM. Here's why: X",
-      "engagement": 0.0,
-      "score": 50.82,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.7949
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.795,
-      "ar": "مفهوم Open-source LLM لا يعني بالضرورة مجانية الاستخدام، بل يشير فقط إلى إتاحة الكود، مما يتطلب فهم التكاليف التشغيلية الحقيقية للنماذج."
-    },
-    {
-      "id": "e2493e18c0f11ceb",
-      "title": "50th birthday of # gnu # emacs What a piece of software! 🎉 🤓 # foss # opensource # freesoftware",
-      "url": "https://mastodon.social/@rauldux/117523709058772219",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:24:46.374000+00:00",
-      "summary": "50th birthday of # gnu # emacs What a piece of software! 🎉 🤓 # foss # opensource # freesoftware",
-      "engagement": 1.0,
-      "score": 48.36,
-      "niche_hits": [],
-      "meta": {
-        "account": "rauldux",
-        "taste": 0.591
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.591,
-      "ar": "احتفال بمرور خمسين عاماً على إطلاق GNU Emacs، وهو محرر نصوص أسطوري لا يزال يثبت متانته وقدرته على التخصيص في عالم البرمجيات الحرة."
-    },
-    {
-      "id": "21348c6c25612dab",
-      "title": "Ask a coding agent to speed up a slow pandas job and you often get pandas back: correct, confident, and still on the CPU. 🖥️ Join Allison Ding, Senior Developer Advocate at NVIDIA, for the hands-on tutorial “Teaching Coding Agents to Think in GPU: Writing,",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5b2RsUkMzVDFKNUk5Q24yazJHcXZ2MU9xU0lmTWlaNDFLNFpRSUs2NjlsMGVhTmJIeU93VHFRTjZoZ1o3TUwyU3VBUWpEelJSQk1SUUU2OWhzRTdpQXZDSGxsMkptdTQ?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-10-28T14:01:15+00:00",
-      "summary": "Ask a coding agent to speed up a slow pandas job and you often get pandas back: correct, confident, and still on the CPU. 🖥️ Join Allison Ding, Senior Developer Advocate at NVIDIA, for the hands-on tutorial “Teaching Coding Agents to Think in GPU: Writing, X",
-      "engagement": 0.0,
-      "score": 40.45,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.4024
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.402,
-      "ar": "وكلاء البرمجة غالباً ما يعيدون استخدام pandas على المعالج المركزي، لذا تحتاج لتدريبهم على التفكير بـ GPU لتحقيق تسريع حقيقي في معالجة البيانات."
-    },
-    {
-      "id": "22f85207885e5db4",
-      "title": "Mesa 26.2.6 brings fixes for The Witcher 3 Remastered and various other Linux driver issues #Drivers #OpenSource #Linux #LinuxGaming #Mesa…",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:m5dcinlrpxq6rm2uficksxp7/post/3myz2damqcb2x",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:23:33+00:00",
-      "summary": "Mesa 26.2.6 brings fixes for The Witcher 3 Remastered and various other Linux driver issues #Drivers #OpenSource #Linux #LinuxGaming #Mesa Mesa 26.2.6 brings fixes for T...",
-      "engagement": 0.0,
-      "score": 37.36,
-      "niche_hits": [],
-      "meta": {
-        "account": "gamingonlinux.com@bsky.brid.gy",
-        "taste": 0.3604
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.36,
-      "ar": "إصدار Mesa 26.2.6 يحسن أداء The Witcher 3 Remastered ويصلح أخطاء متنوعة في دوافع Linux، مما يعزز تجربة الألعاب على لينكس."
-    },
-    {
-      "id": "0ae4fd27efb4b915",
-      "title": "At least 68 killed in Spanish high-speed train crash Article URL: https://www",
-      "url": "https://social.gamefan.net/@techwire/117523702500197200",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:23:06+00:00",
-      "summary": "At least 68 killed in Spanish high-speed train crash Article URL: https://www. bbc.com/news/live/cv1j309d4g98t Comments URL: https:// news.ycombinator.com/item?id=5 0278970 Points: 6 # Comments: 1 https://www. bbc.com/news/live/cv1j309d4g98t # Tech # Technology # TechNews # AI # Gadgets # Software # Cybersecurity # Apple # Google # Microsoft # Startup # HackerNews [Hacker News]",
-      "engagement": 4.0,
-      "score": 37.16,
-      "niche_hits": [],
-      "meta": {
-        "account": "techwire@gamefan.net",
-        "taste": 0.2551
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.255,
-      "ar": "حادث قطار سريع في إسبانيا أسفر عن مقتل 68 شخصاً، وهو كارثة نقل جماعي تثير تساؤلات حول معايير السلامة في شبكات السكك الحديدية الأوروبية."
-    },
-    {
-      "id": "ad310af9d3d6f896",
-      "title": "LFM3 by Liquid AI",
-      "url": "https://www.producthunt.com/products/lfm2",
-      "source": "producthunt",
-      "topic": "launch",
-      "published": "2026-10-27T10:20:52-07:00",
-      "summary": "",
-      "engagement": 0.0,
-      "score": 35.62,
-      "niche_hits": [],
-      "meta": {
-        "via": "Product Hunt",
-        "taste": 0.8723
-      },
-      "sources": [
-        "producthunt"
-      ],
-      "taste": 0.872,
-      "ar": "إطلاق LFM3 من Liquid AI، وهو نموذج لغوي مصمم لتقديم أداء قوي وكفاءة عالية في المهام المعقدة ضمن إطار عمل مرن للمطورين."
-    },
-    {
-      "id": "6054d204613c158d",
-      "title": "GPT-6.1 Terra is also coming to the API and Codex. Use Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04SkU0RGRwSVFjWFYtcUhsMVQ0eDVxOF9fa0tCZjd2TklVT0lkSnZEUXNDRjgwOFNSdmlWaXgycWtpUS1Zbno5YVJua01tVUNCRVhVUjNXcUF0ZTR4RFBrOQ?oc=5",
+      "id": "c847e01fc8ca64ed",
+      "title": "Fully automated AI-powered port in China Cargo moves without a single human via @_fluxfeeds #AIPort RT!",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90STlRVG5zeEpBOUtsZnVaSDlFdWFDV3ZjWVl2ZHRfal9xRXVFMDBxVmhhQVBUWVk2UXVBOW9wQWx2ajByaWhPeEJPcG1BbW1fT3BVcFFYTmMtWjg3OVgyZnZQRUNUemw4by1oQi1lcno?oc=5",
       "source": "x",
       "topic": "ai",
-      "published": "2026-10-26T18:07:32+00:00",
-      "summary": "GPT-6.1 Terra is also coming to the API and Codex. Use Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. X",
+      "published": "2026-10-29T10:10:00+00:00",
+      "summary": "Fully automated AI-powered port in China Cargo moves without a single human via @_fluxfeeds #AIPort RT! X",
       "engagement": 0.0,
-      "score": 35.4,
+      "score": 62.34,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.9369
+        "taste": 0.7586
       },
       "sources": [
         "x"
       ],
-      "taste": 0.937,
-      "ar": "نموذج GPT-6.1 Terra يصل للـ API وCodex، موفراً استخداماً سريعاً ومخفض التكلفة للكمبيوتر، مما يجعله مثالياً لبناء تطبيقات ووكلاء أذكياء."
+      "taste": 0.759,
+      "ar": "ميناء صيني يعمل بالكامل بالذكاء الاصطناعي ينقل البضائع دون تدخل بشري، مما يعيد تعريف كفاءة سلاسل الإمداد اللوجستية."
     },
     {
-      "id": "4f9a0e5088374850",
-      "title": "Orca is a free, open-source app that runs Claude, Codex, and any coding agent side by side in one window, plus a mobile app.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wM1AtZUJBVUNIS1FPTXplQWFGd2hDMExwTDR6dDg3X0Z6aWVVX0hfdFAyaDdxeVFDNlZQTDhQOFc3dENZUnptb2VZeWlNem90TF9WRE56UGVwNEtZbXJ4Q2I0Z00xT3lNeTFrdmNyVQ?oc=5",
+      "id": "bf88a69a8d8c8c67",
+      "title": "RE: https:// social.sciences.re/@ffigon/117 514611802481382 «Open source is impressive, but tries to be apolitical and therefore does not…",
+      "url": "https://mamot.fr/@matiu_bidule/117523736266179872",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:31:41+00:00",
+      "summary": "RE: https:// social.sciences.re/@ffigon/117 514611802481382 «Open source is impressive, but tries to be apolitical and therefore does not help us fight back fascism. It wants to stay neutral. But there is no neutrality when standing in a wildfire.» Voilà. Pas mieux. # OpenSource # ia # ai # NightmareOnLLMstreet # Politics # IfyouDontCareAboutPoliticsPoliticsWillCareAboutYou (Be # Antifa always) 🌍$",
+      "engagement": 7.0,
+      "score": 58.19,
+      "niche_hits": [],
+      "meta": {
+        "account": "matiu_bidule@mamot.fr",
+        "taste": 0.7168
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.717,
+      "ar": "نقاش حول حدود الحياد السياسي في البرمجيات مفتوحة المصدر وتأثير ذلك على استقلالية المطورين والمجتمعات التقنية."
+    },
+    {
+      "id": "fdf5c75d4a409d61",
+      "title": "Zero click, silent, remote Android DoS",
+      "url": "https://smsofdeath.com/",
+      "source": "hackernews",
+      "topic": "dev",
+      "published": "2026-10-29T07:08:50+00:00",
+      "summary": "",
+      "engagement": 90.0,
+      "score": 57.44,
+      "niche_hits": [],
+      "meta": {
+        "points": 90,
+        "comments": 46,
+        "hn_url": "https://news.ycombinator.com/item?id=50285452",
+        "taste": 0.6458
+      },
+      "sources": [
+        "hackernews"
+      ],
+      "taste": 0.646,
+      "ar": "ثغرة أمنية جديدة في أندرويد تسمح بهجوم انقطاع خدمة عن بُعد دون أي تفاعل من المستخدم، مما يهدد خصوصية الأجهزة."
+    },
+    {
+      "id": "c93f51352e21c077",
+      "title": "🎧 TODAY: How are CFOs navigating the AI boom, interest rates and C-suite shake-ups? Bloomberg journalists will answer your questions in an interactive Live Q&A. Join the livestream:",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84T080dV9vR09MYUdWQXlDaDRRTUJ5MHVseEVjdWxUOFFiNHdEM2ZQenZpNWhDLWdYTk5NRG1TNjB6dXpSdUFIdW1wVXVKajRvRHppNFFKR3hjMmp5ZWc?oc=5",
       "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-26T11:32:57+00:00",
-      "summary": "Orca is a free, open-source app that runs Claude, Codex, and any coding agent side by side in one window, plus a mobile app. X",
+      "topic": "ai",
+      "published": "2026-10-29T10:30:11+00:00",
+      "summary": "🎧 TODAY: How are CFOs navigating the AI boom, interest rates and C-suite shake-ups? Bloomberg journalists will answer your questions in an interactive Live Q&A. Join the livestream: https://t.co/ZsNmt7thZl X",
       "engagement": 0.0,
-      "score": 34.42,
+      "score": 55.82,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.9335
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.5955
       },
       "sources": [
         "x"
       ],
-      "taste": 0.933,
-      "ar": "تطبيق Orca مفتوح المصدر يتيح تشغيل Claude وCodex ووكلاء برمجة آخرين جنباً إلى جنب في نافذة واحدة، مع دعم كامل لتطبيق الجوال."
+      "taste": 0.596,
+      "ar": "بث مباشر من بلومبرج يجيب عن استفسارات المدراء الماليين حول إدارة التكاليف في عصر الذكاء الاصطناعي وتقلبات أسعار الفائدة."
     },
     {
-      "id": "a72a059248aaed82",
-      "title": "CISA warnt vor aktiv ausgenutzter Sicherheitslücke im Linux-Kernel Die US-amerikanische Cybersicherheitsbehörde CISA hat zwei weitere…",
-      "url": "https://social.linux-magazin.de/@redaktion/117523707305029611",
+      "id": "9eff53673819e9ef",
+      "title": "Survival LLM Puts 930,000 Wikipedia Articles, a Medical Encyclopedia and Military Survival Manuals in a Free 9 GB Offline AI That Picks Its…",
+      "url": "https://mastodon.social/@ChrisPirillo/117523769682730079",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T10:24:19+00:00",
-      "summary": "CISA warnt vor aktiv ausgenutzter Sicherheitslücke im Linux-Kernel Die US-amerikanische Cybersicherheitsbehörde CISA hat zwei weitere Sicherheitslücken in ihren Katalog bekanntermaßen ausgenutzter Schwachstellen (Known Exploited Vulnerabilities, KEV)… https://www. linux-magazin.de/news/cisa-war nt-vor-aktiv-ausgenutzter-sicherheitsluecke-im-linux-kernel/ # linux # opensource # LinuxKernel # CVE202",
-      "engagement": 4.0,
-      "score": 32.61,
-      "niche_hits": [],
-      "meta": {
-        "account": "redaktion@social.linux-magazin.de",
-        "taste": 0.1404
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.14,
-      "ar": "CISA تحذر من ثغرات أمنية نشطة في Linux Kernel، مما يستوجب تحديث الأنظمة فوراً لتجنب استغلالها من قبل المهاجمين السيبرانيين."
-    },
-    {
-      "id": "a13971c29ffeb828",
-      "title": "YouTube insists on repeatedly showing me the idiotic commercials from T-Mobile starring Billy Bob Thornton",
-      "url": "https://curmudgeon.cafe/@BillSaysThis/117523700523883659",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:22:36+00:00",
-      "summary": "YouTube insists on repeatedly showing me the idiotic commercials from T-Mobile starring Billy Bob Thornton. Did they fire all the copywriters? Because if these were not written by an # AI the writers should quit and go to work at Trader Joe’s, that’s how bad they are.",
+      "published": "2026-10-29T10:40:11.420000+00:00",
+      "summary": "Survival LLM Puts 930,000 Wikipedia Articles, a Medical Encyclopedia and Military Survival Manuals in a Free 9 GB Offline AI That Picks Its Model by Your RAM https:// lockergnome.com/survival-llm-o ffline-930000-wikipedia-articles-9-gb/ # offline # LocalLlm # preparedness # ai # OpenSource",
       "engagement": 0.0,
-      "score": 30.71,
+      "score": 53.98,
       "niche_hits": [],
       "meta": {
-        "account": "BillSaysThis@curmudgeon.cafe",
-        "taste": 0.1948
+        "account": "ChrisPirillo",
+        "taste": 0.6981
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.195,
-      "ar": ""
+      "taste": 0.698,
+      "ar": "نموذج LLM مجاني يعمل دون إنترنت بحجم 9GB، يدمج موسوعات طبية وعسكرية ومقالات ويكيبيديا لدعم قرارات البقاء في الميدان."
     },
     {
-      "id": "3204541f872ed917",
-      "title": "DLSS Updater enables you to scan your system for games, and then replace their upscaling and frame-generation with updated versions or…",
-      "url": "https://mastodon.world/@gamingonlinux/117523702314527118",
+      "id": "760a77d09c01b2f0",
+      "title": "Here are 7 video effects you can use in Claude Check the first comment if you want the skill!",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11c3lFM1NMZ19MUmx1bDdUVkR5c0JwWHlNQURvREI1TzVrTG1WTWtVYk0yRzhwWC02NmR1dDRzbHYyRS1ybEhDWHFDQjFDN1VqLWxWRFJuVkFpRi1oc0hiVGthcWhzZDA?oc=5",
+      "source": "x",
+      "topic": "harness",
+      "published": "2026-10-29T06:17:28+00:00",
+      "summary": "Here are 7 video effects you can use in Claude Check the first comment if you want the skill! X",
+      "engagement": 0.0,
+      "score": 52.13,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.3032
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.303,
+      "ar": "طرق عملية لاستخدام Claude في إنشاء تأثيرات فيديو احترافية، مما يوسع قدرات أدوات الذكاء الاصطناعي في مجال المونتاج."
+    },
+    {
+      "id": "bf5732c8d1535ae3",
+      "title": "Mesa 26.2.6 is out now as the latest upgrade for Linux open source graphics drivers, focused on fixing up some bugs reported",
+      "url": "https://mastodon.world/@gamingonlinux/117523741706814984",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-10-29T10:23:03+00:00",
-      "summary": "DLSS Updater enables you to scan your system for games, and then replace their upscaling and frame-generation with updated versions or something else entirely. https://www. gamingonlinux.com/2026/10/dlss -updater-5-2-released-with-amd-fsr-4-1-2-support/ # OpenSource # Apps # NewRelease # Misc",
-      "engagement": 2.0,
-      "score": 30.46,
+      "published": "2026-10-29T10:33:04+00:00",
+      "summary": "Mesa 26.2.6 is out now as the latest upgrade for Linux open source graphics drivers, focused on fixing up some bugs reported. https://www. gamingonlinux.com/2026/10/mesa -26-2-6-brings-fixes-for-the-witcher-3-remastered-and-various-other-linux-driver-issues/ # OpenSource # Drivers # Mesa # NewRelease # Misc",
+      "engagement": 5.0,
+      "score": 49.04,
       "niche_hits": [],
       "meta": {
         "account": "gamingonlinux@mastodon.world",
-        "taste": 0.1194
+        "taste": 0.5051
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.119,
-      "ar": ""
+      "taste": 0.505,
+      "ar": "إصدار Mesa 26.2.6 يحسن أداء الرسوميات في لينكس عبر إصلاح أخطاء برمجية، مما يعزز استقرار الألعاب والتطبيقات المرئية."
     },
     {
-      "id": "d45ddeb13282914d",
-      "title": "Moving away from Google Workspace shouldn’t mean rebuilding the automations you rely on. Collabora Online is adding support for add-ons written in Google Apps Script, so existing workflows can move to a self-hosted, open-source office suite. Add-ons sit i",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02MWxHYi1uLVEyb3pFbmpNeXZCTkdWT190d1JSaFBIOTNUQXMwZjNxMzRiazZ1NVhQZFBIWG1OQ2x4Vl9MSjdxejF1ckZRN2xhZDFXMGxwb1g1QzVoZ0pxQzlENXdLQTA?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-28T16:05:27+00:00",
-      "summary": "Moving away from Google Workspace shouldn’t mean rebuilding the automations you rely on. Collabora Online is adding support for add-ons written in Google Apps Script, so existing workflows can move to a self-hosted, open-source office suite. Add-ons sit i X",
-      "engagement": 0.0,
-      "score": 28.9,
+      "id": "ba2a5a3afe57c659",
+      "title": "\"Scaling Laws for Looped Mixture of Experts\"  Looped Transformers eventually hit diminishing returns when you loop too much, but MoE sparsity lets models benefit from more loops before performance pla",
+      "url": "https://x.com/askalphaxiv/status/2115406473656451216",
+      "source": "x_account",
+      "topic": "research_tools",
+      "published": "2026-10-28T11:33:00+00:00",
+      "summary": "\"Scaling Laws for Looped Mixture of Experts\"  Looped Transformers eventually hit diminishing returns when you loop too much, but MoE sparsity lets models benefit from more loops before performance plateaus.  So Meta researchers introduce Loop Scaling Laws to predict the optimal",
+      "engagement": 300.0,
+      "score": 48.51,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.3242
+        "author": "alphaXiv @askalphaxiv · 23h",
+        "taste": 0.5892
+      },
+      "sources": [
+        "x_account"
+      ],
+      "taste": 0.589,
+      "ar": "ورقة بحثية توضح كيف تتيح تقنية Mixture of Experts للـ Looped Transformers الاستفادة من تكرار الحلقات دون تدهور الأداء."
+    },
+    {
+      "id": "b8f0a2a90cd699e0",
+      "title": "Representing the Unseen  Rethinking Visual Imagination for Spatial Reasoning  paper:  https:// huggingface.co/papers/2610.37 437 …",
+      "url": "https://x.com/_akhaliq/status/2115479847598195150",
+      "source": "x_account",
+      "topic": "research_tools",
+      "published": "2026-10-28T16:24:34+00:00",
+      "summary": "Representing the Unseen  Rethinking Visual Imagination for Spatial Reasoning  paper:  https:// huggingface.co/papers/2610.37 437 …",
+      "engagement": 71.0,
+      "score": 48.06,
+      "niche_hits": [],
+      "meta": {
+        "author": "AK @_akhaliq · 18h",
+        "taste": 0.5822
+      },
+      "sources": [
+        "x_account"
+      ],
+      "taste": 0.582,
+      "ar": "دراسة جديدة تعيد النظر في كيفية تمثيل النماذج للصور غير المرئية لتحسين قدرتها على الاستدلال المكاني المعقد."
+    },
+    {
+      "id": "f631236e785d220e",
+      "title": "📰 Mesa 26.2.6 brings fixes for The Witcher 3 Remastered and various other Linux driver issues Mesa 26.2.6 is out now as the latest upgrade…",
+      "url": "https://igeek.gamer-geek-news.com/@feed/statuses/01M63KP8HC7ZTTRFJ5JXB3MW1B",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:36:01+00:00",
+      "summary": "📰 Mesa 26.2.6 brings fixes for The Witcher 3 Remastered and various other Linux driver issues Mesa 26.2.6 is out now as the latest upgrade for Linux open source graphics drivers, focused on fixing up some bugs reported.Read the full article on GamingOnLinux. 📰 Source: GamingOnLinux Latest Articles 🔗 Link: https://www.gamingonlinux.com/2026/10/mesa-26-2-6-brings-fixes-for-the-witcher-3-remastered-a",
+      "engagement": 0.0,
+      "score": 46.05,
+      "niche_hits": [],
+      "meta": {
+        "account": "feed@igeek.gamer-geek-news.com",
+        "taste": 0.5403
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.54,
+      "ar": "تحديث Mesa 26.2.6 يحل مشاكل توافقية في لعبة The Witcher 3 Remastered على لينكس، مما يحسن تجربة اللاعبين."
+    },
+    {
+      "id": "7782f425bc50007d",
+      "title": "AI gives every single person the ability to create software. That's why Steve Lucas thinks the SaaSpocalypse is overrated.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82enBWLXFLUU1ZMWlGaUNlQnZrSlZYMVdQZ2RfVEdaQWM2YXE1NVhvM1phMEF5VWJZQWlueTd4TlE3Q3BSaDY0U2s0eFpuMGdzSjkxMXByZkEzOGFNV2lPZg?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T09:59:59+00:00",
+      "summary": "AI gives every single person the ability to create software. That's why Steve Lucas thinks the SaaSpocalypse is overrated. https://t.co/vXNSmJxahy X",
+      "engagement": 0.0,
+      "score": 45.2,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.33
       },
       "sources": [
         "x"
       ],
-      "taste": 0.324,
+      "taste": 0.33,
       "ar": ""
     },
     {
-      "id": "ccecec57f9d98d34",
-      "title": "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain re",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DZXN0NWJ4NW5fY1dWdzVpa1o3MDQ3SUV2RDJGc1RubDdSYjVNYnlBc1pUcy1xR1NONHhDREpsb21WZnVFUFlneWp4bG9XeEdPVTRBSFRvdUpZVnphNkhaTVVUUQ?oc=5",
+      "id": "06bef1b615299f61",
+      "title": "U.S. stocks fell (SPX -0.3%, NDX -1.0%) after weak results from $GOOG (-10%, AI search eroding adv revs) and Samsung (-4%, chip miss and high capex) revived doubts about AI returns. The Fed held rates steady but Chair Warsh flagged further hikes on a st",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1alBhV2I0cXJvbHZTR0tfcHZieHZQR1NrSTFaeUtpVTRtTW9TTVREbXEwY3V3MC13S2Y0bGp3enZPZDVrOXR3emc5SnkxNlp3VmRRS1EzdEFSajVBUWRtM1VB?oc=5",
       "source": "x",
-      "topic": "agents",
-      "published": "2026-10-28T13:58:00+00:00",
-      "summary": "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain re X",
+      "topic": "ai",
+      "published": "2026-10-29T10:28:31+00:00",
+      "summary": "U.S. stocks fell (SPX -0.3%, NDX -1.0%) after weak results from $GOOG (-10%, AI search eroding adv revs) and Samsung (-4%, chip miss and high capex) revived doubts about AI returns. The Fed held rates steady but Chair Warsh flagged further hikes on a st X",
       "engagement": 0.0,
-      "score": 27.21,
+      "score": 44.44,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.2727
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.311
       },
       "sources": [
         "x"
       ],
-      "taste": 0.273,
+      "taste": 0.311,
       "ar": ""
     },
     {
-      "id": "9691f7d3b1524227",
-      "title": "Securing open-source software for the enterprise is a challenge @chainguard_dev is working to address. At Morgan Stanley’s Tech Week, Dan Lorenc discusses how engaging with organizations at scale can help strengthen software supply chains and meet",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rczd2dVR6VzYxQjhVNWZ0WnFJa0ZSc203Vl9kVWk0czNYOWhqQzJwZDJrVDRZc3FXanZCdXl6VFo0T21fcVhYUnhtRV9KdHVSelR2QkVjSFF0S0tzdmpXdGdtSENoMWN1TFlOR0dPbw?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-28T17:00:00+00:00",
-      "summary": "Securing open-source software for the enterprise is a challenge @chainguard_dev is working to address. At Morgan Stanley’s Tech Week, Dan Lorenc discusses how engaging with organizations at scale can help strengthen software supply chains and meet X",
+      "id": "c07811ccb9960f82",
+      "title": "\"Organizational Incompetence\" or \"Organizational Intelligence\" 🤣 https://www",
+      "url": "https://hachyderm.io/@fgraf/117523783179448477",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:43:37+00:00",
+      "summary": "\"Organizational Incompetence\" or \"Organizational Intelligence\" 🤣 https://www. netlight.com/stories/your-ai-i s-only-as-good-as-the-organisation-running-it # netlight # ai",
       "engagement": 0.0,
-      "score": 26.62,
+      "score": 43.66,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.2441
+        "account": "fgraf@hachyderm.io",
+        "taste": 0.5202
       },
       "sources": [
-        "x"
+        "mastodon"
       ],
-      "taste": 0.244,
+      "taste": 0.52,
+      "ar": ""
+    },
+    {
+      "id": "1cde9903f00cfe05",
+      "title": "Building a stdio MCP server? Put the restart in your update instructions, and put it in bold",
+      "url": "https://mastodon.social/@Considus/117523789083758169",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:45:07.471000+00:00",
+      "summary": "Building a stdio MCP server? Put the restart in your update instructions, and put it in bold. It reads its file once, when the app starts it. Change the file underneath and nothing happens until the app is properly quit and reopened, and on macOS closing the window isn't enough. My PageSpeed Insights MCP is standard library only, no package and no installer, so an update is a git pull and a restar",
+      "engagement": 0.0,
+      "score": 42.93,
+      "niche_hits": [],
+      "meta": {
+        "account": "Considus",
+        "taste": 0.4409
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.441,
+      "ar": ""
+    },
+    {
+      "id": "5b75167fdf52b77b",
+      "title": "📰 Linux's Modern NTFS Driver Now Supports Alternate Data Streams (ADS) Merged back in Linux 7.1 was the new NTFS kernel driver…",
+      "url": "https://igeek.gamer-geek-news.com/@feed/statuses/01M63K9B5K55RTCSQNQD71SV7T",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-10-29T10:28:58+00:00",
+      "summary": "📰 Linux's Modern NTFS Driver Now Supports Alternate Data Streams (ADS) Merged back in Linux 7.1 was the new NTFS kernel driver implementation for better supporting Microsoft's NTFS file-system on Linux. Since then new features and improvements have continued to land f... 📰 Source: Phoronix 🔗 Link: https://www.phoronix.com/news/NTFS-Linux-7.4-Improvements # DataScience # Linux # OpenSource",
+      "engagement": 0.0,
+      "score": 42.89,
+      "niche_hits": [],
+      "meta": {
+        "account": "feed@igeek.gamer-geek-news.com",
+        "taste": 0.511
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.511,
       "ar": ""
     }
   ]
