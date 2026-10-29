@@ -31,10 +31,13 @@ for n in CURATED.get("newsletters", []):
 
 OUT += ["", "## X accounts", "",
         "Follow these; the local scraper can pull their timelines with",
-        "`python tools/x_session.py history` once they are in your following list.", "",
-        "| Account | Why |", "|---|---|"]
+        "`python tools/x_session.py accounts` once they are in your following list.", "",
+        "| Account | Type | Followers | Why |", "|---|---|---|---|"]
 for a in CURATED.get("x_accounts", []):
-    OUT.append(f"| `{a['handle']}` | {a['why']} |")
+    followers = f"{a['followers']:,}" if a.get("followers") else "—"
+    OUT.append(
+        f"| `{a['handle']}` | {a.get('category', 'researcher')} | {followers} | {a['why']} |"
+    )
 
 OUT += ["", "## Communities", "",
         "Subreddits and Mastodon tags the radar already reads:", ""]

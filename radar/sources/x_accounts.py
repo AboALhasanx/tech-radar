@@ -32,6 +32,22 @@ def _likes(value: str) -> int:
         return 0
 
 
+def _category_topic(author: str) -> str:
+    """Aggregators cover the whole field; researchers and tools are the niche."""
+    try:
+        curated = json.loads(
+            (Path(__file__).resolve().parent.parent / "curated.json").read_text("utf-8")
+        )
+    except (json.JSONDecodeError, OSError):
+        return "research_tools"
+    low = (author or "").lower()
+    for account in curated.get("x_accounts", []):
+        handle = account["handle"].lstrip("@").lower()
+        if handle and handle in low:
+            return "ai" if account.get("category") == "aggregator" else "research_tools"
+    return "research_tools"
+
+
 def fetch(path: Path = PATH) -> list[Signal]:
     if not path.exists():
         return []
@@ -51,7 +67,7 @@ def fetch(path: Path = PATH) -> list[Signal]:
                 title=text[:200],
                 url=row.get("url") or "",
                 source="x_account",
-                topic="research_tools",
+                topic=_category_topic(author),
                 published=parse_date(row.get("when")),
                 summary=text[:400],
                 engagement=float(_likes(row.get("likes", "0"))),

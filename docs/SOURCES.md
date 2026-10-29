@@ -40,27 +40,38 @@ Fetched by `radar/sources/newsletters.py` (RSS, free).
 ## X accounts
 
 Follow these; the local scraper can pull their timelines with
-`python tools/x_session.py history` once they are in your following list.
+`python tools/x_session.py accounts` once they are in your following list.
 
-| Account | Why |
-|---|---|
-| `@askalphaxiv` | alphaXiv / OpenResearch — turns coding agents into research agents |
-| `@_akhaliq` | fastest paper-to-tweet account in the field |
-| `@huggingface` | models, papers and tooling, first |
-| `@allen_ai` | Ai2: Semantic Scholar, OLMo, research tooling |
-| `@OpenReview` | peer review and venue announcements |
-| `@arxiv` | official arXiv announcements |
-| `@owainevans_uk` | AI and academic assessment, education policy |
-| `@emollick` | how academics actually adopt AI |
-| `@omarsar0` | DAIR.AI — research summaries and tooling |
-| `@cwolferesearch` | research paper walkthroughs and study notes |
-| `@TheTuringPost` | research explainers and tool roundups |
-| `@_jasonwei` | reasoning and post-training research |
-| `@drjimfan` | embodied AI and research practice |
-| `@karpathy` | teaching and building, rarely but densely |
-| `@zotero` | reference management releases |
-| `@overleaf` | LaTeX collaboration releases |
-| `@typst` | the modern typesetting alternative |
+| Account | Type | Followers | Why |
+|---|---|---|---|
+| `@TheRundownAI` | aggregator | 230,801 | Daily AI news roundup, 2M+ newsletter readers — the widest net |
+| `@AIHighlight` | aggregator | 626,250 | Curates the day's AI and tech posts; highest reach in the list |
+| `@HeyBarsee` | aggregator | 268,281 | Daily AI/tech developments and tool finds |
+| `@aibreakfast` | aggregator | 242,740 | Rumors and launches, earlier than the press |
+| `@mreflow` | aggregator | 121,538 | Matt Wolfe — FutureTools database and weekly tool roundups |
+| `@bentossell` | aggregator | 202,588 | Ben's Bites — dev tools and infra, builder lens |
+| `@DeepLearningAI` | aggregator | 355,664 | Andrew Ng's team: courses, The Batch, applied AI news |
+| `@ArtificialAnlys` | aggregator | 172,634 | Independent model benchmarks and price/performance analysis |
+| `@toolfolio` | aggregator | 18,217 | Tool discovery feed, high signal per post |
+| `@paperswithcode` | aggregator | 112,651 | Benchmarks and implementations behind new papers |
+| `@aidailybrief` | aggregator | 5,035 | The AI Daily Brief podcast — one short daily analysis |
+| `@TheTuringPost` | aggregator | 89,084 | Research explainers and tool roundups, strong on System-1 |
+| `@askalphaxiv` | researcher | — | alphaXiv / OpenResearch — turns coding agents into research agents |
+| `@_akhaliq` | researcher | — | fastest paper-to-tweet account in the field |
+| `@omarsar0` | researcher | 326,665 | DAIR.AI — research summaries and tooling |
+| `@cwolferesearch` | researcher | 42,760 | research paper walkthroughs and study notes |
+| `@emollick` | researcher | — | how academics actually adopt AI |
+| `@owainevans_uk` | researcher | — | AI and academic assessment, education policy |
+| `@_jasonwei` | researcher | — | reasoning and post-training research |
+| `@drjimfan` | researcher | — | embodied AI and research practice |
+| `@karpathy` | researcher | — | teaching and building, rarely but densely |
+| `@huggingface` | lab | — | models, papers and tooling, first |
+| `@allen_ai` | lab | — | Ai2: Semantic Scholar, OLMo, research tooling |
+| `@OpenReview` | lab | — | peer review and venue announcements |
+| `@arxiv` | lab | — | official arXiv announcements |
+| `@zotero` | tool | — | reference management releases |
+| `@overleaf` | tool | — | LaTeX collaboration releases |
+| `@typst` | tool | — | the modern typesetting alternative |
 
 ## Communities
 

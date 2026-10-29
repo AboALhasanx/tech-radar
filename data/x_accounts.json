@@ -8,12 +8,156 @@
     "batch": 4
   },
   {
+    "url": "https://x.com/AIDailyBrief/status/2115611076306055280",
+    "author": "The AI Daily Brief - Formerly The AI Breakdown @AIDailyBrief · 9h",
+    "text": "Buried in 90+ pages of risk factors: Anthropic may be effectively uninsurable, because the insurance industry may lack the capacity to cover it.",
+    "when": "2026-10-29T01:06:01.000Z",
+    "likes": "",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/emollick/status/2115594672471195779",
+    "author": "Ethan Mollick @emollick · 10h",
+    "text": "Academics have to invest tremendous effort into a single paper, so we often work on papers that we suspect will yield interesting & significant results. But that also pushes us to predictable work.\n\nAI has no such constraints, forcing us to rethink a lot of how science is done.",
+    "when": "2026-10-29T00:00:50.000Z",
+    "likes": "266",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2115567357506748492",
+    "author": "Artificial Analysis @ArtificialAnlys · 12h",
+    "text": "Same robot, same task, two models with very different writing styles\n\n➤ On the left, Claude Opus 5.5 dabs out \"hello world\" dot by dot: 3,270 arm moves over 34 minutes\n\n➤ On the right, GPT-6 Astra writes in continuous strokes: 514 moves in 13 minutes\n\nFrom AA-Robotics v0.1,",
+    "when": "2026-10-28T22:12:18.000Z",
+    "likes": "507",
+    "batch": 2
+  },
+  {
+    "url": "https://x.com/AIDailyBrief/status/2115552944032776647",
+    "author": "The AI Daily Brief - Formerly The AI Breakdown @AIDailyBrief · 13h",
+    "text": "Customers spending $100K+ a year with Anthropic: about 1,500 last December. Now 11,900+.",
+    "when": "2026-10-28T21:15:01.000Z",
+    "likes": "",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/AIDailyBrief/status/2115535076234785097",
+    "author": "The AI Daily Brief - Formerly The AI Breakdown @AIDailyBrief · 14h",
+    "text": "Anonymous accounts claiming to be inside AI labs or the NSA are posting about cover-ups. Hardening systems fast is a better use of everyone's attention.",
+    "when": "2026-10-28T20:04:01.000Z",
+    "likes": "",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/mreflow/status/2115512433204973661",
+    "author": "Matt Wolfe @mreflow · 16h",
+    "text": "Google's latest model (which is announced but not publicly available yet) just jumped into the lead. Everyone talks about Google dropping the ball. I keep saying over and over again, never count out Google.",
+    "when": "2026-10-28T18:34:03.000Z",
+    "likes": "88",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/_akhaliq/status/2115479847598195150",
+    "author": "AK @_akhaliq · 18h",
+    "text": "Representing the Unseen\n\nRethinking Visual Imagination for Spatial Reasoning\n\npaper: \nhttps://\nhuggingface.co/papers/2610.37\n437\n…",
+    "when": "2026-10-28T16:24:34.000Z",
+    "likes": "71",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2115477376981508419",
+    "author": "Artificial Analysis @ArtificialAnlys · 18h",
+    "text": "GitHub has released Copilot Fusion in GitHub Copilot, which orchestrates between Anthropic and OpenAI models. It scores 2 points below Opus 5.5 in Claude Code at half the Cost per Task in the Coding Agent Index\n\nGitHub describes Copilot Fusion as a runtime orchestration system,",
+    "when": "2026-10-28T16:14:44.000Z",
+    "likes": "516",
+    "batch": 2
+  },
+  {
+    "url": "https://x.com/AiBreakfast/status/2115467941844299941",
+    "author": "AI Breakfast @AiBreakfast · 19h",
+    "text": "This is insane - Drex Max 1.1 makes agent decisions in 172ms for $0.03 per 1,000.\n\nClaude Opus 5.5 runs $10.17 per 1,000 on Nace's chart.\n\nThat's ~170x cheaper. And faster.",
+    "when": "2026-10-28T15:37:15.000Z",
+    "likes": "17",
+    "batch": 1
+  },
+  {
     "url": "https://x.com/askalphaxiv/status/2115454036690510133",
-    "author": "alphaXiv @askalphaxiv · 19h",
+    "author": "alphaXiv @askalphaxiv · 20h",
     "text": "Introducing NotebookLM for arXiv Papers \n\nTransform dense AI research into engaging convos you can hear on the go\n\nWith context from thousands of related papers, it captures motivations, draws connections to SOTA, and explains key ideas like a prof who's read the entire field",
     "when": "2026-10-28T14:42:00.000Z",
-    "likes": "421",
+    "likes": "426",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2115406473656451216",
+    "author": "alphaXiv @askalphaxiv · 23h",
+    "text": "\"Scaling Laws for Looped Mixture of Experts\"\n\nLooped Transformers eventually hit diminishing returns when you loop too much, but MoE sparsity lets models benefit from more loops before performance plateaus.\n\nSo Meta researchers introduce Loop Scaling Laws to predict the optimal",
+    "when": "2026-10-28T11:33:00.000Z",
+    "likes": "300",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/AIHighlight/status/2115403486955286863",
+    "author": "AI Highlight @AIHighlight · 23h",
+    "text": "10. Give Claude tools to inspect difficult images\n\nUse high-resolution files for dense charts, diagrams, screenshots and technical drawings.\n\nFor harder tasks, give Claude access to cropping and zooming tools.\n\nAnthropic recommends image-processing libraries such as PIL and",
+    "when": "2026-10-28T11:21:08.000Z",
+    "likes": "3",
     "batch": 1
+  },
+  {
+    "url": "https://x.com/AIHighlight/status/2115403482014330930",
+    "author": "AI Highlight @AIHighlight · 23h",
+    "text": "9. Separate pasted content from your instructions\n\nEmails and webpages can contain instructions Claude should not follow.\n\nPlace copied material inside clearly labelled tags such as:\n\n\"<pasted_content>...</pasted_content>\"\n\nThen tell Claude to treat everything inside as external",
+    "when": "2026-10-28T11:21:07.000Z",
+    "likes": "3",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/AIHighlight/status/2115403448845807791",
+    "author": "AI Highlight @AIHighlight · 23h",
+    "text": "Anthropic just released the official Claude Opus 5.5 prompt guide.\n\nHere are 11 things you should do differently:",
+    "when": "2026-10-28T11:20:59.000Z",
+    "likes": "151",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/AIHighlight/status/2115381450069467238",
+    "author": "AI Highlight @AIHighlight · Oct 28",
+    "text": "We just made a new hire at AI Highlight.\n\nOur banner says \"We read papers so you don't have to.\" That promise has a cost. Every launch we highlight has a paper, a model card or a changelog behind it, and the headline number is only as good as the page it came from.\n\nSo we hired",
+    "when": "2026-10-28T09:53:34.000Z",
+    "likes": "33",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/overleaf/status/2115368003239809048",
+    "author": "Overleaf @overleaf · Oct 28",
+    "text": "LaTeX error messages can sometimes be tricky to understand and fix. We've put together a list of common errors below, along with more information about what they mean and how to solve them. \nhttps://\noverleaf.com/learn/latex/Er\nrors\n…",
+    "when": "2026-10-28T09:00:08.000Z",
+    "likes": "26",
+    "batch": 6
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2115361048652058962",
+    "author": "alphaXiv @askalphaxiv · Oct 28",
+    "text": "OpenAI just claimed to disprove one of computer science's most fundamental assumptions. But why is this such a big deal? Here's our quick breakdown. \n\nImagine you have a bunch of switches, each either ON or OFF, and rules like:\n\nSwitch A must be ON, OR switch B must be OFF\nSwitch",
+    "when": "2026-10-28T08:32:30.000Z",
+    "likes": "184",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2115204127013929072",
+    "author": "Artificial Analysis @ArtificialAnlys · Oct 28",
+    "text": "Cartesia Managed Agents scores an Elo of 1115 on the Artificial Analysis Speech Agent Arena, 98 points above Cartesia's earlier voice agent product, Cartesia Line, with Task Success Rate up from 77.5% to 91.7%\n\nManaged Agents is @CartesiaAI's fully managed platform for building",
+    "when": "2026-10-27T22:08:57.000Z",
+    "likes": "229",
+    "batch": 2
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2115155299334246584",
+    "author": "Artificial Analysis @ArtificialAnlys · Oct 27",
+    "text": "Ling 3.1 Flash 1019, an open weights model and successor to Ling 3.1 Flash, scores 44 on the Artificial Analysis Intelligence Index v4.3, up from 41\n\n\n@AntLingAGI\n has released Ling 3.1 Flash 1019, an update to Ling 3.1 Flash, their reasoning model with 560B total parameters, 25B",
+    "when": "2026-10-27T18:54:55.000Z",
+    "likes": "415",
+    "batch": 2
   },
   {
     "url": "https://x.com/askalphaxiv/status/2115131377641509259",
@@ -22,6 +166,14 @@
     "when": "2026-10-27T17:19:52.000Z",
     "likes": "319",
     "batch": 1
+  },
+  {
+    "url": "https://x.com/emollick/status/2114942007533515261",
+    "author": "Ethan Mollick @emollick · Oct 27",
+    "text": "The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation & for UX) has made being a human in the loop challenging. It pushes us towards automation, rather than augmentation, as it has become much harder to weigh in on in-process AI work",
+    "when": "2026-10-27T04:47:22.000Z",
+    "likes": "774",
+    "batch": 4
   },
   {
     "url": "https://x.com/TheTuringPost/status/2114914123964363239",
@@ -37,7 +189,31 @@
     "text": "Building Auditable AI Text Detectors with Sparse Autoencoders\n\npaper: \nhttps://\nhuggingface.co/papers/2610.30\n006\n…",
     "when": "2026-10-26T14:48:18.000Z",
     "likes": "232",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/_akhaliq/status/2114730501626015880",
+    "author": "AK @_akhaliq · Oct 26",
+    "text": "On-Policy Self-Training\n\nData-Free Self-Improvement in Large Language Models\n\npaper: \nhttps://\nhuggingface.co/papers/2610.32\n770\n…",
+    "when": "2026-10-26T14:46:56.000Z",
+    "likes": "401",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/TheRundownAI/status/2114665921763508475",
+    "author": "The Rundown AI @TheRundownAI · Oct 26",
+    "text": "Top stories in AI today:\n\n- Kimi continues to challenge the frontier with K3.1 Pro\n- The Rundown Roundtable: Our AI use cases\n- Let AI sign in without sharing your passwords\n- Canva’s first in-house image model climbs the ranks",
+    "when": "2026-10-26T10:30:18.000Z",
+    "likes": "33",
     "batch": 1
+  },
+  {
+    "url": "https://x.com/emollick/status/2114503849826549842",
+    "author": "Ethan Mollick @emollick · Oct 26",
+    "text": "My general advice for using AI for any purpose is to ask yourself: \"how do I make what I am doing even more ambitious?\"\n\nYou do this until you either hit a wall and then you know the shape of the frontier (useful!) or you find out that the AI can do more than you think (common!)",
+    "when": "2026-10-25T23:46:18.000Z",
+    "likes": "2.2K",
+    "batch": 4
   },
   {
     "url": "https://x.com/TheTuringPost/status/2114422040929489241",
@@ -48,6 +224,30 @@
     "batch": 3
   },
   {
+    "url": "https://x.com/emollick/status/2114337256865493250",
+    "author": "Ethan Mollick @emollick · Oct 25",
+    "text": "A thing I see happening at large organizations as a result of AI is the expansion of the role and span of control of senior management who can directly monitor the whole firm. It vastly changes company operations. It also is straightforward to implement compared to firm redesign.",
+    "when": "2026-10-25T12:44:19.000Z",
+    "likes": "1K",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/mreflow/status/2114061786404307119",
+    "author": "Matt Wolfe @mreflow · Oct 24",
+    "text": "This is the second video where I let AI edit the entire thing. I recorded my A-roll, gave it to the Claude, gave it ZERO instructions, and it used the skill from my previous video to edit the whole thing (now with music from ElevenLabs). This was one prompt. And the prompt was me",
+    "when": "2026-10-24T18:29:41.000Z",
+    "likes": "157",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/overleaf/status/2113918438355648981",
+    "author": "Overleaf @overleaf · Oct 24",
+    "text": "Writing maths with LaTeX is very easy! Check out the most basic commands to get started and write your technical documents in no time. \nhttps://\noverleaf.com/learn/latex/Ma\nthematical_expressions\n…",
+    "when": "2026-10-24T09:00:05.000Z",
+    "likes": "15",
+    "batch": 6
+  },
+  {
     "url": "https://x.com/askalphaxiv/status/2113885174673133971",
     "author": "alphaXiv @askalphaxiv · Oct 24",
     "text": "\"A Fix for Softmax and Cross-Entropy\"\n\nTurns out two of the most fundamental functions in deep learning have numerical bugs that can actually destabilize training.\n\nThis paper proposes simple fixes to softmax and cross-entropy that prevent tiny gradients from incorrectly rounding",
@@ -56,12 +256,68 @@
     "batch": 1
   },
   {
+    "url": "https://x.com/emollick/status/2113681838611087572",
+    "author": "Ethan Mollick @emollick · Oct 23",
+    "text": "As the gap between the internal models at the AI labs and the ones they release grow (due to safety concerns & research advantages), it will be increasingly tempting for OpenAI & Anthropic to exploit that advantage directly by entering new markets, especially in finance & biotech",
+    "when": "2026-10-23T17:19:55.000Z",
+    "likes": "870",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2113424551396934134",
+    "author": "Artificial Analysis @ArtificialAnlys · Oct 23",
+    "text": "Announcing Artificial Analysis Coding Agent Index v2.0: FrontierCode v1.1 from Cognition replaces DeepSWE, SWE-Atlas-QnA grading is revised, and Claude Opus 5.5 in Claude Code leads at 61.7\n\nToday we are launching v2.0 of the Coding Agent Index. The Index evaluates models",
+    "when": "2026-10-23T00:17:33.000Z",
+    "likes": "882",
+    "batch": 2
+  },
+  {
+    "url": "https://x.com/DeepLearningAI/status/2113345903775842361",
+    "author": "DeepLearning.AI @DeepLearningAI · Oct 22",
+    "text": "Missed a few days of AI news? Here's what happened this week in Data Points, our twice-weekly newsletter. \n\n PHP2Shell: GPT-5.6 Sol helped find a memory bug in software running up to 70% of sites. Patch is out. Update now.\n MiniMax M3.1 Flash: 428B total / ~23B active,",
+    "when": "2026-10-22T19:05:02.000Z",
+    "likes": "79",
+    "batch": 2
+  },
+  {
+    "url": "https://x.com/AIHighlight/status/2113286310018318561",
+    "author": "AI Highlight @AIHighlight · Oct 22",
+    "text": "Did you know that showing up five days in a row on The AI Library doubles your points?\n\nVote daily for 5 days and 2x points unlock. Same rule on the daily games, which already pay up to 12 points a day.\n\nStart your streak today at \nhttps://\ntheailibrary.co",
+    "when": "2026-10-22T15:08:13.000Z",
+    "likes": "37",
+    "batch": 1
+  },
+  {
     "url": "https://x.com/_akhaliq/status/2113280305301971067",
     "author": "AK @_akhaliq · Oct 22",
     "text": "Looking Ahead\n\nModeling Future Evolution in Autoregressive Video Generation\n\npaper: \nhttps://\nhuggingface.co/papers/2610.29\n989\n…",
     "when": "2026-10-22T14:44:22.000Z",
     "likes": "80",
-    "batch": 1
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2113124084410425362",
+    "author": "Artificial Analysis @ArtificialAnlys · Oct 22",
+    "text": "DeepSeek Search debuts on the Artificial Analysis Search Index at 69, 17th of 27 search products, at the lowest price of any paid Search API on the board\n\n\n@deepseek_ai\n launched its Search API on 17 October. We benchmarked it in our Stirrup agent harness, where GPT-5.6 Luna",
+    "when": "2026-10-22T04:23:36.000Z",
+    "likes": "485",
+    "batch": 2
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2112935427422527584",
+    "author": "Artificial Analysis @ArtificialAnlys · Oct 21",
+    "text": "We've updated MLCR-AA, our leaderboard for Wisedocs' Medical Long Context Reasoning benchmark, with Claude Sonnet 5.5 and GPT-6 Astra now tied for the #1 score\n\nWe've updated how MLCR-AA prompts and grades models on \n@wisedocsai\n's benchmark, to better reflect how medical record",
+    "when": "2026-10-21T15:53:56.000Z",
+    "likes": "226",
+    "batch": 2
+  },
+  {
+    "url": "https://x.com/emollick/status/2112656453685367004",
+    "author": "Ethan Mollick @emollick · Oct 21",
+    "text": "I wrote about the exponential curve of the last 30 months of AI development: \nhttps://\noneusefulthing.org/p/30-months-on\n-the-exponential-in-charts\n…\n\nAnd I asked Opus 5.5 to create the ultimate response to the test I use for all AI image generation models (make a picture of \"an otter on a plane using wifi\"), it made this video",
+    "when": "2026-10-20T21:25:24.000Z",
+    "likes": "825",
+    "batch": 4
   },
   {
     "url": "https://x.com/DrJimFan/status/2112597587987689912",
@@ -72,6 +328,22 @@
     "batch": 3
   },
   {
+    "url": "https://x.com/emollick/status/2112590249033687078",
+    "author": "Ethan Mollick @emollick · Oct 20",
+    "text": "My new book, Co-Existence, is out today.  It is a guide to how to live & work in a world where AI is sometimes, but not always, better than you.\n\n(And, for the release, I worked with Opus 5.5 to make a quite interesting experience for the book's website: \nhttps://\nco-existence.ai)",
+    "when": "2026-10-20T17:02:20.000Z",
+    "likes": "947",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/cwolferesearch/status/2112574194336538772",
+    "author": "Cameron R. Wolfe, Ph.D. @cwolferesearch · Oct 20",
+    "text": "Tomorrow morning, I’ll release a blog that outlines a detailed roadmap for setting up evals on subjective / open-ended tasks. The blog also covers a variety of stats / ML tricks for reducing noise and increasing confidence in your evals. \n\nHere is a list of blogs, papers, and",
+    "when": "2026-10-20T15:58:32.000Z",
+    "likes": "693",
+    "batch": 4
+  },
+  {
     "url": "https://x.com/_akhaliq/status/2112566784343876081",
     "author": "AK @_akhaliq · Oct 20",
     "text": "OpenVLHarness\n\nReal World Visual Agentic Tool-Use with Multimodal Memory\n\npaper: \nhttps://\nhuggingface.co/papers/2610.26\n860\n…",
@@ -80,12 +352,20 @@
     "batch": 1
   },
   {
+    "url": "https://x.com/AiBreakfast/status/2112553516950864250",
+    "author": "AI Breakfast @AiBreakfast · Oct 20",
+    "text": "This is sick - \n\nYou shouldn’t lose session data forever or keep it locked inside OpenAI or Anthropic → Beacon is open-source and lets you keep your session data so your agents become smarter over time.",
+    "when": "2026-10-20T14:36:22.000Z",
+    "likes": "33",
+    "batch": 1
+  },
+  {
     "url": "https://x.com/overleaf/status/2112468898343714961",
     "author": "Overleaf @overleaf · Oct 20",
     "text": "Want to learn LaTeX in 30 minutes? We've got you! We have an introductory tutorial that will help you get started. \nhttps://\noverleaf.com/learn/latex/Le\narn_LaTeX_in_30_minutes\n…",
     "when": "2026-10-20T09:00:07.000Z",
     "likes": "23",
-    "batch": 4
+    "batch": 6
   },
   {
     "url": "https://x.com/huggingface/status/2112214753980612886",
@@ -96,12 +376,28 @@
     "batch": 1
   },
   {
+    "url": "https://x.com/ArtificialAnlys/status/2112211865128608002",
+    "author": "Artificial Analysis @ArtificialAnlys · Oct 19",
+    "text": "MiniMax-M3.1-Flash scores 42 on the Artificial Analysis Intelligence Index, 13 points higher than MiniMax-M3 and less than half the cost per task. It scores level with GLM-5.3-Flash but behind DeepSeek V4.1 Flash 1017\n\nMiniMax-M3.1-Flash is \n@MiniMax_AI\n's new Flash reasoning",
+    "when": "2026-10-19T15:58:46.000Z",
+    "likes": "703",
+    "batch": 2
+  },
+  {
+    "url": "https://x.com/emollick/status/2112165213202157907",
+    "author": "Ethan Mollick @emollick · Oct 19",
+    "text": "Writing good STATA code was very important for my academic career. It looks like that skill is largely becoming obsolete. (Also take this is as a notice to academics who still think of AI in terms of chatbots, not agents, that a lot has changed in a year) \nhttps://\ncepr.org/voxeu/columns/\nletting-ai-agents-write-econometric-code\n…",
+    "when": "2026-10-19T12:53:23.000Z",
+    "likes": "441",
+    "batch": 4
+  },
+  {
     "url": "https://x.com/overleaf/status/2112106495689056324",
     "author": "Overleaf @overleaf · Oct 19",
     "text": "Do you know the difference between packages and class files? Check out this guide and find out. \nhttps://\noverleaf.com/learn/latex/Un\nderstanding_packages_and_class_files\n…",
     "when": "2026-10-19T09:00:04.000Z",
     "likes": "22",
-    "batch": 4
+    "batch": 6
   },
   {
     "url": "https://x.com/TheTuringPost/status/2112098054837002526",
@@ -125,6 +421,14 @@
     "text": "In this guide, we explain how to write integrals, sums and limits. \nhttps://\noverleaf.com/learn/latex/In\ntegrals%2C_sums_and_limits\n…",
     "when": "2026-10-17T09:00:03.000Z",
     "likes": "9",
+    "batch": 6
+  },
+  {
+    "url": "https://x.com/emollick/status/2111171225418408236",
+    "author": "Ethan Mollick @emollick · Oct 16",
+    "text": "The paper on how a team of Gemini 4 agents beat Minecraft is worth a look.\n\nIt is accessible example (partially because it is AI written) of spontaneous coordination among agents to accomplish a complicated goal & how their approach differs from humans/ \nhttps://\narxiv.org/pdf/2610.22319",
+    "when": "2026-10-16T19:03:38.000Z",
+    "likes": "532",
     "batch": 4
   },
   {
@@ -133,7 +437,15 @@
     "text": "Hybrid Reasoning Agents\n\npaper: \nhttps://\nhuggingface.co/papers/2610.18\n861\n…",
     "when": "2026-10-16T08:54:42.000Z",
     "likes": "136",
-    "batch": 1
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2110903253013762365",
+    "author": "Artificial Analysis @ArtificialAnlys · Oct 16",
+    "text": "Initial results for NVIDIA's Vera Rubin NVL72 are now live on AA-AgentPerf, with up to ~5.7x the total throughput per megawatt of its predecessor GB300 NVL72 on DeepSeek V4 Pro, ~5.4x on DeepSeek V4.1 Flash, ~3.0x on GLM-5.2 and ~2.8x on Kimi K3\n\nVera Rubin is NVIDIA's successor",
+    "when": "2026-10-16T01:18:48.000Z",
+    "likes": "289",
+    "batch": 2
   },
   {
     "url": "https://x.com/TheTuringPost/status/2110902466569261348",
@@ -152,6 +464,22 @@
     "batch": 1
   },
   {
+    "url": "https://x.com/AiBreakfast/status/2110780249885851997",
+    "author": "AI Breakfast @AiBreakfast · Oct 15",
+    "text": "Headless SaaS is the future.\n\nFor 25 years, software has been built on one assumption: a human is the one clicking. Dashboards, forms, menus, onboarding flows, per-seat pricing. All of it exists for people.\n\nAgents don’t need any of that. They need:\n• Clean APIs and structured",
+    "when": "2026-10-15T17:10:02.000Z",
+    "likes": "17",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2110500262628806787",
+    "author": "Artificial Analysis @ArtificialAnlys · Oct 15",
+    "text": "Welcome to the era of embodied AI.\n\nWe are launching AA-Robotics v0.1, our research preview that measures frontier language model performance on understanding, planning, and acting in the physical world. In v0.1, each model is given control of a 6-axis robot arm (5 joints and a",
+    "when": "2026-10-14T22:37:28.000Z",
+    "likes": "452",
+    "batch": 2
+  },
+  {
     "url": "https://x.com/_akhaliq/status/2110423274413056230",
     "author": "AK @_akhaliq · Oct 14",
     "text": "VideoJev\n\nSystem One Model for Video Understanding and Interaction\n\npaper: \nhttps://\nhuggingface.co/papers/2610.18\n615\n…",
@@ -165,6 +493,14 @@
     "text": "Where is research attention moving according to arXiv papers?\n\nWe mapped 10,000 of the most-read papers on alphaXiv, weighted by readership, to see how interest shifted from 2025 to 2026. Here’s what we found:\n\n1) Traditional RL post-training is getting less attention. As the",
     "when": "2026-10-14T15:09:00.000Z",
     "likes": "469",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/AIHighlight/status/2110294999162048661",
+    "author": "AI Highlight @AIHighlight · Oct 14",
+    "text": "This new Apple device can search your security footage.\n\nApple's HomeView can find specific moments in your camera recordings just by describing what you're looking for.\n\nNo need to scroll through hours of footage.\n\nHere are 5 security features you shouldn't miss:\n\n1. AI video",
+    "when": "2026-10-14T09:01:49.000Z",
+    "likes": "39",
     "batch": 1
   },
   {
@@ -176,12 +512,28 @@
     "batch": 4
   },
   {
+    "url": "https://x.com/emollick/status/2110008451866710221",
+    "author": "Ethan Mollick @emollick · Oct 13",
+    "text": "A worthwhile (and unnerving) reminder from Anthropic that we should be paying attention to AI ability thresholds, not just steady climbs\n\nIn this case, the threshold is the capability needed for a self-replicating AI worm on IoT devices like off-brand TVs \nhttps://\nanthropic.com/research/self-\nreplicating-ai\n…",
+    "when": "2026-10-13T14:03:11.000Z",
+    "likes": "564",
+    "batch": 4
+  },
+  {
+    "url": "https://x.com/AiBreakfast/status/2109999789144457223",
+    "author": "AI Breakfast @AiBreakfast · Oct 13",
+    "text": "Nearly one million hours of egocentric human data: hands, scenes, and how each interaction unfolds.\n\nRobotics has long been bottlenecked by teleoperation data. \n@naturewill\n takes a different approach by learning from how people use their hands to interact with the real world.",
+    "when": "2026-10-13T13:28:46.000Z",
+    "likes": "14",
+    "batch": 1
+  },
+  {
     "url": "https://x.com/overleaf/status/2109932177714536528",
     "author": "Overleaf @overleaf · Oct 13",
     "text": "Did you know: you can use R, a statistics-oriented programming language, in your document! Check out our guide and learn how. \nhttps://\noverleaf.com/learn/latex/Kn\nitr\n…",
     "when": "2026-10-13T09:00:06.000Z",
     "likes": "62",
-    "batch": 4
+    "batch": 6
   },
   {
     "url": "https://x.com/askalphaxiv/status/2109920072378863832",
@@ -213,7 +565,7 @@
     "text": "You can easily create exam papers with LaTeX, including ways to write and compute grades! Check out our guide and learn how. \nhttps://\noverleaf.com/learn/latex/Ty\npesetting_exams_in_LaTeX\n…",
     "when": "2026-10-12T09:00:06.000Z",
     "likes": "29",
-    "batch": 4
+    "batch": 6
   },
   {
     "url": "https://x.com/karpathy/status/2109361546505966046",
@@ -229,7 +581,7 @@
     "text": "Want to create scientific or technical graphics in your document? Check out or guide on how to use the pgfplots package. \nhttps://\noverleaf.com/learn/latex/Pg\nfplots_package\n…",
     "when": "2026-10-11T09:00:04.000Z",
     "likes": "26",
-    "batch": 4
+    "batch": 6
   },
   {
     "url": "https://x.com/TheTuringPost/status/2108888331027407227",
@@ -245,7 +597,31 @@
     "text": "The CircuiTikZ package can be used to draw electrical networks with LaTeX! Check it out. \nhttps://\noverleaf.com/learn/latex/Ci\nrcuiTikz_package\n…",
     "when": "2026-10-10T09:00:05.000Z",
     "likes": "56",
+    "batch": 6
+  },
+  {
+    "url": "https://x.com/DeepLearningAI/status/2108648572451221787",
+    "author": "DeepLearning.AI @DeepLearningAI · Oct 9",
+    "text": "In this week’s letter from Andrew Ng in The Batch: One of his agents makes 5,000 to 10,000 web searches a day. Agents will need far more data centers.\n\nAlso inside:\n\n GPT-6.1 Sol\n Gemini 4 Argon\n FLUX 3 Action\n HYSET\n\n \nhttps://\nhubs.la/Q04zPZP60\n\n#DeepLearningAI",
+    "when": "2026-10-09T19:59:31.000Z",
+    "likes": "58",
+    "batch": 2
+  },
+  {
+    "url": "https://x.com/cwolferesearch/status/2108586446755926091",
+    "author": "Cameron R. Wolfe, Ph.D. @cwolferesearch · Oct 9",
+    "text": "Datology is one of the best (if not the best) data research labs. Their tech reports are packed with practical details and tricks for curating data properly across pre / post-training and evals. Some of my favorite resources and write ups from them:\n\n- DatBench:",
+    "when": "2026-10-09T15:52:39.000Z",
+    "likes": "147",
     "batch": 4
+  },
+  {
+    "url": "https://x.com/AiBreakfast/status/2108532134696903162",
+    "author": "AI Breakfast @AiBreakfast · Oct 9",
+    "text": "I asked Opus 5.5 to make a video about whether or not it was conscious. The ending of this video is insane.",
+    "when": "2026-10-09T12:16:50.000Z",
+    "likes": "3.2K",
+    "batch": 1
   },
   {
     "url": "https://x.com/overleaf/status/2108482625555853385",
@@ -253,6 +629,14 @@
     "text": "Checkmate! Did you know LaTeX can typeset chess games? We've written this comprehensive guide to get you started. \nhttps://\noverleaf.com/learn/latex/Ch\ness_notation\n…",
     "when": "2026-10-09T09:00:06.000Z",
     "likes": "34",
+    "batch": 6
+  },
+  {
+    "url": "https://x.com/emollick/status/2108414247558316508",
+    "author": "Ethan Mollick @emollick · Oct 9",
+    "text": "In an urgent care setting, the advice of the obsolete Gemini 2.5 Pro & Gemini 2.5 Flash (without access to patient medical records) were rated of similar quality to doctors by other physicians. There was no safety issues spotted.\n\nModels have gotten significantly better since.",
+    "when": "2026-10-09T04:28:23.000Z",
+    "likes": "782",
     "batch": 4
   },
   {
@@ -264,12 +648,44 @@
     "batch": 3
   },
   {
+    "url": "https://x.com/ArtificialAnlys/status/2108258926680813846",
+    "author": "Artificial Analysis @ArtificialAnlys · Oct 8",
+    "text": "Announcing that Artificial Analysis Intelligence Index v5 will come in late October\n\nIntelligence Index v5 will be a significant leap in benchmarking the frontier of AI. Changes include adding Terminal-Bench Science and a new coding benchmark with a private dataset.\n\nStay tuned",
+    "when": "2026-10-08T18:11:12.000Z",
+    "likes": "1.7K",
+    "batch": 2
+  },
+  {
+    "url": "https://x.com/emollick/status/2108248166210720107",
+    "author": "Ethan Mollick @emollick · Oct 8",
+    "text": "This document is going to be an assigned reading in college classes that cover this moment in time, there's a lot happening in a few paragraphs... \nhttps://\nahmath.org/statements",
+    "when": "2026-10-08T17:28:26.000Z",
+    "likes": "1.7K",
+    "batch": 4
+  },
+  {
     "url": "https://x.com/overleaf/status/2108120231423992314",
     "author": "Overleaf @overleaf · Oct 8",
     "text": "You can create molecular orbital diagrams in LaTeX! Check out this article. \nhttps://\noverleaf.com/learn/latex/Mo\nlecular_orbital_diagrams\n…",
     "when": "2026-10-08T09:00:04.000Z",
     "likes": "19",
+    "batch": 6
+  },
+  {
+    "url": "https://x.com/emollick/status/2107964764316209326",
+    "author": "Ethan Mollick @emollick · Oct 8",
+    "text": "Some early first-hand accounts of encountering a narrow superhuman intelligence as mathematicians grapple with the hundreds of big AI proofs released by OpenAI.\n\nProblems solved in inhuman ways that make us wonder what it means to actually know things... \nhttps://\nscottaaronson.blog/?p=10169",
+    "when": "2026-10-07T22:42:18.000Z",
+    "likes": "1.1K",
     "batch": 4
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2107911905822351609",
+    "author": "Artificial Analysis @ArtificialAnlys · Oct 7",
+    "text": "Anthropic has released Claude Haiku 5.5, scoring 43 on the Artificial Analysis Intelligence Index - up 26 points one year after the last Haiku release\n\nHaiku 5.5 is the first Haiku model with Anthropic’s effort settings and adaptive thinking, and Anthropic has introduced tiered",
+    "when": "2026-10-07T19:12:16.000Z",
+    "likes": "2K",
+    "batch": 2
   },
   {
     "url": "https://x.com/overleaf/status/2107757853167563236",
@@ -277,7 +693,7 @@
     "text": "A Feynman diagram is a very compact and intuitive way of representing interactions between particles. And you can draw it in LaTeX too! Check out this article and learn now. \nhttps://\noverleaf.com/learn/latex/Fe\nynman_diagrams\n…",
     "when": "2026-10-07T09:00:07.000Z",
     "likes": "18",
-    "batch": 4
+    "batch": 6
   },
   {
     "url": "https://x.com/askalphaxiv/status/2107486537206419769",
@@ -285,7 +701,15 @@
     "text": "If doomscrolling X is part of your research workflow, we built something for you.\n\nIntroducing Paperscrolling, now on iOS and Android \n\nFollow the latest research with key ideas, figures, and audio explanations from alphaXiv Briefs\n\nCheck it out here!\n\nhttps://\nplay.google.com/store/apps/det\nails?id=org.alphaxiv.mobileapp\n…",
     "when": "2026-10-06T15:02:00.000Z",
     "likes": "1.2K",
-    "batch": 1
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2107467221421420919",
+    "author": "Artificial Analysis @ArtificialAnlys · Oct 6",
+    "text": "Mistral has released Mistral Large 4, scoring 38 on the Artificial Analysis Intelligence Index; France is back to having the most intelligent model from outside the US and China\n\n\n@MistralAI\n has released Mistral Large 4 in Research Public Preview, with plans to release the weights",
+    "when": "2026-10-06T13:45:15.000Z",
+    "likes": "1.8K",
+    "batch": 2
   },
   {
     "url": "https://x.com/overleaf/status/2107395457320095981",
@@ -293,7 +717,23 @@
     "text": "You can create chemistry formulae in LaTeX! Check out our guide and learn how. \nhttps://\noverleaf.com/learn/latex/Ch\nemistry_formulae\n…",
     "when": "2026-10-06T09:00:05.000Z",
     "likes": "16",
-    "batch": 4
+    "batch": 6
+  },
+  {
+    "url": "https://x.com/AIHighlight/status/2107140920755786085",
+    "author": "AI Highlight @AIHighlight · Oct 5",
+    "text": "Someone finally made a web crawler that actually crawls the web.",
+    "when": "2026-10-05T16:08:38.000Z",
+    "likes": "634",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/AiBreakfast/status/2107097162865913962",
+    "author": "AI Breakfast @AiBreakfast · Oct 5",
+    "text": "Wow - OpenAI is testing image-based ads that will show up during ChatGPT image generation.",
+    "when": "2026-10-05T13:14:46.000Z",
+    "likes": "13",
+    "batch": 1
   },
   {
     "url": "https://x.com/overleaf/status/2107033082184269947",
@@ -301,7 +741,23 @@
     "text": "Do you write theorems, definitions, propositions, etc. in your documents? This article explains how to define these environments in LaTeX. \nhttps://\noverleaf.com/learn/latex/Th\neorems_and_proofs\n…",
     "when": "2026-10-05T09:00:08.000Z",
     "likes": "31",
-    "batch": 4
+    "batch": 6
+  },
+  {
+    "url": "https://x.com/AIHighlight/status/2107014070477914275",
+    "author": "AI Highlight @AIHighlight · Oct 5",
+    "text": "Someone just turned a single photo into a full explorable 3D world with physics, depth and ambient audio in about five minutes.\n\nRepo in the comments.",
+    "when": "2026-10-05T07:44:35.000Z",
+    "likes": "117",
+    "batch": 1
+  },
+  {
+    "url": "https://x.com/AiBreakfast/status/2106729758285529164",
+    "author": "AI Breakfast @AiBreakfast · Oct 4",
+    "text": "People forget o1-pro launched in March 2025 at $150/$600 per million tokens.\n\nBy the end of 2027, we’ll have leaderboard frontiers models in the $0.40-0.80 range.",
+    "when": "2026-10-04T12:54:50.000Z",
+    "likes": "45",
+    "batch": 1
   },
   {
     "url": "https://x.com/overleaf/status/2106670692531839258",
@@ -309,7 +765,7 @@
     "text": "Do you typically share information about your research at conferences or presentations? Then you'll love this article that explains the basics of typesetting a poster in LaTeX. \nhttps://\noverleaf.com/learn/latex/Po\nsters\n…",
     "when": "2026-10-04T09:00:07.000Z",
     "likes": "43",
-    "batch": 4
+    "batch": 6
   },
   {
     "url": "https://x.com/overleaf/status/2106308324132000065",
@@ -317,7 +773,7 @@
     "text": "Presentations in LaTeX? Yes! We've written this comprehensive on how to create great looking presentations. \nhttps://\noverleaf.com/learn/latex/Be\namer\n…",
     "when": "2026-10-03T09:00:12.000Z",
     "likes": "74",
-    "batch": 4
+    "batch": 6
   },
   {
     "url": "https://x.com/_akhaliq/status/2106063986664075749",
@@ -341,7 +797,15 @@
     "text": "Do you want to change fonts in your document? We've compiled a reference guide to help. \nhttps://\noverleaf.com/learn/latex/Fo\nnt_typefaces\n…",
     "when": "2026-10-02T09:00:08.000Z",
     "likes": "18",
-    "batch": 4
+    "batch": 6
+  },
+  {
+    "url": "https://x.com/askalphaxiv/status/2105942026432684469",
+    "author": "alphaXiv @askalphaxiv · Oct 2",
+    "text": "\"Decoding Looped Transformers Better for (Almost) Free\"\n\nThis paper treats an early loop from a looped transformer as a rough draft and the final loop as the refined answer. It then uses the difference between them to push the final prediction further in the direction the model",
+    "when": "2026-10-02T08:44:40.000Z",
+    "likes": "662",
+    "batch": 3
   },
   {
     "url": "https://x.com/karpathy/status/2105909609487872075",
@@ -352,6 +816,14 @@
     "batch": 3
   },
   {
+    "url": "https://x.com/emollick/status/2105842740533596201",
+    "author": "Ethan Mollick @emollick · Oct 2",
+    "text": "“We find that on medium-length, well-defined accounting tasks, frontier AI models are now faster and more accurate than junior accountants, even the best one in our study.” Eighteen months ago they scored well below human accountants\n\nGood discussion here: \nhttps://\nmercor.com/blog/human-bas\nelines-for-benchmarks-ai-now-outperforms-junior-accountants/\n…",
+    "when": "2026-10-02T02:10:08.000Z",
+    "likes": "1.9K",
+    "batch": 4
+  },
+  {
     "url": "https://x.com/karpathy/status/2105819303471976479",
     "author": "Andrej Karpathy @karpathy · Oct 2",
     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
@@ -360,12 +832,20 @@
     "batch": 49
   },
   {
+    "url": "https://x.com/emollick/status/2105618164944146786",
+    "author": "Ethan Mollick @emollick · Oct 1",
+    "text": "I wrote about the thing I underestimated most about progress in AI: its ability to self-organize to accomplish tasks. Also, what that means for agents like Muse and Dots, along with a music video explaining why we keep relearning The Bitter Lesson.",
+    "when": "2026-10-01T11:17:45.000Z",
+    "likes": "634",
+    "batch": 4
+  },
+  {
     "url": "https://x.com/overleaf/status/2105583550216949800",
     "author": "Overleaf @overleaf · Oct 1",
     "text": "Do you want to modify the font size or style in your document? We've written this comprehensive to get you started. \nhttps://\noverleaf.com/learn/latex/Fo\nnt_sizes%2C_families%2C_and_styles\n…",
     "when": "2026-10-01T09:00:12.000Z",
     "likes": "15",
-    "batch": 4
+    "batch": 6
   },
   {
     "url": "https://x.com/overleaf/status/2105221145884598642",
@@ -373,6 +853,14 @@
     "text": "A margin note is a short message or comment written in the margins (the empty spaces on the sides) of a page, and it's an alternative to a footnote. Check out this guide on how to create a margin note: \nhttps://\noverleaf.com/learn/latex/Ma\nrgin_notes\n…",
     "when": "2026-09-30T09:00:08.000Z",
     "likes": "30",
+    "batch": 6
+  },
+  {
+    "url": "https://x.com/emollick/status/2104965679971709108",
+    "author": "Ethan Mollick @emollick · Sep 29",
+    "text": "As least year's DevDay, this is what OpenAI said agents would look like. This is before OpenClaw & self-organizing swarms, so this entire approach was scraped soon after:\n1) AI is evolving quite quickly\n2) The AI labs aren't always anticipating how fast in the products they make",
+    "when": "2026-09-29T16:05:01.000Z",
+    "likes": "518",
     "batch": 4
   },
   {
@@ -381,6 +869,14 @@
     "text": "OpenResearch is now available as a desktop app \n\nNative builds for:\n• macOS (Apple Silicon + Intel)\n• Windows (x64)\n• Linux (x64 + ARM)\n\nTurn your coding agents into research agents, and own your stack end-to-end. Check it out: \nhttps://\ngithub.com/alphaXiv/OpenR\nesearch\n…",
     "when": "2026-09-29T14:51:00.000Z",
     "likes": "1K",
+    "batch": 3
+  },
+  {
+    "url": "https://x.com/AIHighlight/status/2104923901063020932",
+    "author": "AI Highlight @AIHighlight · Sep 29",
+    "text": "These Sam Altman and Dario Amodei videos are getting ridiculous",
+    "when": "2026-09-29T13:19:00.000Z",
+    "likes": "82",
     "batch": 1
   },
   {
@@ -389,6 +885,14 @@
     "text": "A footnote is like a little note at the bottom of a page that gives extra information or explains something in what you're reading. It's easy to create footnotes with LaTeX. \nhttps://\noverleaf.com/learn/latex/Fo\notnotes\n…",
     "when": "2026-09-29T09:00:09.000Z",
     "likes": "17",
+    "batch": 6
+  },
+  {
+    "url": "https://x.com/emollick/status/2104737094073729440",
+    "author": "Ethan Mollick @emollick · Sep 29",
+    "text": "The AI buildout in terms of percent of GDP is greater than the height of railroads, yet AI does not dominate  the economy anywhere near as much as rail.\n\nIn 1890, 1 out of every 12 men in America was employed in the railways, which used 56% of all horsepower across all machines!",
+    "when": "2026-09-29T00:56:42.000Z",
+    "likes": "322",
     "batch": 4
   },
   {
