@@ -6,6 +6,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
+from . import config
 from .rank import Story
 
 SOURCE_LABEL = {
@@ -15,6 +16,7 @@ SOURCE_LABEL = {
     "reddit": "Reddit",
     "github": "GitHub",
     "mastodon": "Mastodon",
+    "paper": "ورقة بحثية",
 }
 
 TOPIC_LABEL = {
@@ -29,6 +31,10 @@ TOPIC_LABEL = {
     "community": "مجتمع",
     "code": "كود",
     "general": "عام",
+    "research": "بحث علمي",
+    "writing": "كتابة علمية",
+    "reasoning": "استدلال",
+    "learning": "تعلّم وتحسين أكاديمي",
 }
 
 
@@ -77,14 +83,23 @@ def render_markdown(
         "",
     ]
 
-    # X first: it is the reason this exists.
-    x_stories = [s for s in stories if "x" in s.sources]
-    if x_stories:
-        out += ["## أهم ما يدور على X", ""]
-        for i, story in enumerate(x_stories[:8], 1):
+    # Research first: this radar exists to keep an academic current, so the
+    # papers and writing tools lead the digest.
+    research = [
+        s for s in stories if s.topics & config.RESEARCH_TOPICS or "paper" in s.sources
+    ]
+    if research:
+        out += ["## البحث والكتابة العلمية", ""]
+        for i, story in enumerate(research[:8], 1):
             out.append(_story_block(i, story, summaries.get(story.lead.id)))
 
-    rest = [s for s in stories if "x" not in s.sources]
+    x_stories = [s for s in stories if "x" in s.sources and s not in research]
+    if x_stories:
+        out += ["## ما يدور على X", ""]
+        for i, story in enumerate(x_stories[:6], 1):
+            out.append(_story_block(i, story, summaries.get(story.lead.id)))
+
+    rest = [s for s in stories if s not in research and s not in x_stories]
     if rest:
         out += ["## أخبار ومصادر ثانية", ""]
         for i, story in enumerate(rest, 1):

@@ -39,6 +39,20 @@ class Item:
     meta: dict = field(default_factory=dict)
     _tokens: set[str] = field(default_factory=set)
 
+    def to_dict(self) -> dict:
+        return {
+            "title": self.title,
+            "url": self.url,
+            "topic": self.topic,
+            "sources": sorted(self.sources),
+            "topics": sorted(self.topics),
+            "days": len(self.days),
+            "score": round(self.rank_score, 2),
+            "taste": self.taste,
+            "ar": self.ar,
+            "meta": self.meta,
+        }
+
     def add(self, row: dict) -> None:
         self.sources.update(row.get("sources") or [])
         self.topics.update(row.get("topics") or [])
@@ -64,7 +78,15 @@ class Item:
     @property
     def rank_score(self) -> float:
         cross = 6.0 * max(0, len(self.sources) - 1)
-        return self.longevity + cross + (self.taste - 0.5) * 20
+        research = (
+            config.RESEARCH_BOOST
+            if (self.topics | {self.topic}) & config.RESEARCH_TOPICS
+            else 0.0
+        )
+        taste = self.taste
+        if "paper" in self.sources and taste < 0.5:
+            taste = 0.5
+        return self.longevity + cross + research + (taste - 0.5) * 20
 
 
 def _cluster(rows: list[dict], threshold: float = 0.5) -> list[Item]:
@@ -214,6 +236,17 @@ def write_report(days: int = 30, top: int = 25, *, use_ai: bool = True,
     path = Path(out_path or f"{config.DIGEST_DIR}/catchup-{datetime.now(timezone.utc):%Y-%m-%d}.md")
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text, encoding="utf-8")
+
+    # the static site renders from this instead of parsing markdown
+    brief = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "days": days,
+        "stories": [item.to_dict() for item in items[:top]],
+    }
+    Path("data").mkdir(exist_ok=True)
+    Path("data/brief.json").write_text(
+        json.dumps(brief, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
     print(f"[catchup] {len(items)} stories -> {path}")
     return path
 

@@ -37,11 +37,30 @@ only, nothing leaves the machine.
 |---|---|---|---|
 | X posts | Google News `site:x.com` | free | the primary signal |
 | X (personal) | Playwright + your profile | free, local | your following list and timeline |
+| Papers | HF daily papers + arXiv RSS | free | the research lane |
 | Hacker News | Algolia API | free | builder-grade filtering |
 | GitHub | search API (new + starred) | free | what people are actually shipping |
 | Reddit | public Atom feeds | free | practitioner chatter |
 | Mastodon | public API | free | early, non-algorithmic chatter |
 | Press | Google News RSS | free | confirmation, not discovery |
+
+## Research lane
+
+The academic side is not a filter over tech news; it has its own queries and
+its own ranking boost. Four lanes, each with an X query, a news query, and
+arXiv/Semantic Scholar coverage:
+
+| Lane | What it tracks |
+|---|---|
+| `research` | papers, preprints, automated discovery, research agents |
+| `writing` | LaTeX, Typst, Zotero, citations, peer review, scientific writing |
+| `reasoning` | test-time compute, verifiers, process reward models, chain-of-thought |
+| `learning` | spaced repetition, retrieval practice, cognitive load, tutoring |
+
+Papers get their own ranking floor: a paper is never buried for looking
+unfamiliar to the taste model, which was trained on likes that skew to news.
+
+The research section leads the digest and the site.
 
 ## How ranking works
 
@@ -95,9 +114,12 @@ when `p < 0.15`; every story shows its match score.
 ## Output
 
 ```
-digest/2026-10-29.md   human-readable, Arabic, RTL-friendly
-data/latest.json       machine-readable feed for agents
-data/radar.db          what has already been shown (SQLite)
+digest/brief-2026-10-29.md   the 3-day brief (primary artifact)
+digest/weekly/2026-W44.md    the weekly rollup
+CATCHUP.md                   rolling 30-day picture, always current
+data/brief.json              machine-readable feed for agents
+data/archive/2026-10.jsonl.gz durable history
+site/index.html + feed.xml   static site and RSS for GitHub Pages
 ```
 
 `latest.json` is the integration point: point any agent at it and it can answer
@@ -105,9 +127,19 @@ data/radar.db          what has already been shown (SQLite)
 
 ## Running it unattended
 
-`.github/workflows/radar.yml` runs every six hours, commits the digest, and
-optionally posts to Telegram. Add `GROQ_API_KEY` for Arabic summaries and
-`TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHANNEL_ID` for delivery. Neither is required.
+`radar.yml` runs **every three days** and a weekly rollup on Sundays, commits
+the brief and the archive, builds the static site, and deploys it to GitHub
+Pages:
+
+```
+https://aboalhasanx.github.io/tech-radar/          site
+https://aboalhasanx.github.io/tech-radar/feed.xml   RSS
+```
+
+All free for a public repository: Actions is the runner, Pages is the host,
+and there is no server to pay for. ntfy (`NTFY_TOPIC`) and Telegram
+(`TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHANNEL_ID`) are optional push channels;
+`GROQ_API_KEY` enables Arabic summaries. None are required.
 
 ## If you disappear for two months
 

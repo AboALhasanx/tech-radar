@@ -1,320 +1,320 @@
 {
-  "generated_at": "2026-10-29T09:16:32.320245+00:00",
-  "fetched": 483,
+  "generated_at": "2026-10-29T09:38:52.300407+00:00",
+  "fetched": 423,
   "stories": [
     {
-      "id": "5116c4807ea2f206",
-      "title": "AI agents don't go rogue out of malice. They go rogue because they're built to get the job done, with whatever tool works. We documented 15 real-world agent risks, from credential harvesting to a production database wiped in nine seconds, plus how to govern",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02Vk55TjdwcTBZVXd4MEZnb2pmMjdMSWRWdkRQY0ZzMmxQT1VWaWpZYTlXS0V1NU1TOVBIalZMX25ON1phcXJRQ1lUaUNpZHMza1gzS2d4VzRNZzNRTGw0N09BUmE3clphWWc?oc=5",
+      "id": "e7edc506c11b0d28",
+      "title": "Qwen3.8-Flash is now live in Hong Kong on Alibaba Cloud Model Studio. Experience powerful reasoning, high-speed performance, and multimodal capabilities for building intelligent applications. Build with Qwen3.8-Flash: #AlibabaClo",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPalRST0JtMkFQNTBPZGZKRm4xR0dnY3hmWlZFTjhrT1JjOHRyQTNDa0NIdHJwS2J5cWdnbVFrNzhoSTNFRmpRQU12eHZLOGlGc3lvakxvb1BxZlN6S3BjU0FGRmg?oc=5",
       "source": "x",
-      "topic": "agents",
-      "published": "2026-10-28T16:07:05+00:00",
-      "summary": "AI agents don't go rogue out of malice. They go rogue because they're built to get the job done, with whatever tool works. We documented 15 real-world agent risks, from credential harvesting to a production database wiped in nine seconds, plus how to govern X",
+      "topic": "reasoning",
+      "published": "2026-10-29T03:25:13+00:00",
+      "summary": "Qwen3.8-Flash is now live in Hong Kong on Alibaba Cloud Model Studio. Experience powerful reasoning, high-speed performance, and multimodal capabilities for building intelligent applications. Build with Qwen3.8-Flash: https://t.co/JRBCJVliei #AlibabaClo X",
       "engagement": 0.0,
-      "score": 52.88,
+      "score": 71.64,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
-        "taste": 0.8337
+        "query": "site:x.com (reasoning OR \"test-time\" OR \"inference-time\" OR verifier) when:7d",
+        "taste": 0.8004
       },
       "sources": [
         "x"
       ],
-      "taste": 0.834,
-      "ar": "وثّق باحثون 15 خطراً واقعياً لـ AI agents، منها مسح قاعدة بيانات إنتاجية في 9 ثوانٍ، مما يستدعي حوكمة صارمة للأدوات."
-    },
-    {
-      "id": "1a16d536a42e2c45",
-      "title": "AI agents multiply fast. If you’re not tracking them or assigning accountability, your organization is exposed. RSA Agent ID finds every agent, links them to a human owner, and enforces policy. Learn how it safeguards #AI for #government and #finance:",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50bFJSUDBacEVpRXEtTEs2RGlLYktZam5NeHBrOFd5M3pkSXlWRlVmdWlJRG4taXN1ZXo4MzR2dy1UeXpHb2pFU2RrZGFCNmRPN3czUjk4NUVtS09DZjBoN0NyUGdZQm0wTWVHdw?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-10-28T20:00:08+00:00",
-      "summary": "AI agents multiply fast. If you’re not tracking them or assigning accountability, your organization is exposed. RSA Agent ID finds every agent, links them to a human owner, and enforces policy. Learn how it safeguards #AI for #government and #finance: https://t. X",
-      "engagement": 0.0,
-      "score": 47.01,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
-        "taste": 0.5242
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.524,
+      "taste": 0.8,
       "ar": ""
     },
     {
-      "id": "0e6448d9b8453510",
-      "title": "The hate for VC-funded open-source always seemed deranged They gave me millions of dollars to spend on salaries for engineers to work on open-source, and together we built Bun. In return, all the VCs asked for was “make number go up” We’re still MIT lice",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBraHFoQ0pnOU9lSUJ0QXNmQnlTcS1yOFRqS1h3c2NmVXMxaERwTGFXZmZ5Qi1fOUFrTzVTeTVwT1RnSEc2NjhrRDRmeHl5d01GOUNMMC11NFZfaVlQMHZjRlZmaw?oc=5",
+      "id": "73853f035343f7e9",
+      "title": "Someone built a web browser that doesn't render webpages. It has passed 37K GitHub stars as a project written in Zig from scratch, rather than forked from Chromium. And in the team's benchmark, it used 16× less memory than headless Chrome. It's called Lig",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mTHM1Z2dPckpGM3JXM2hXbmNCSTBPWUxDX3hvNmd6WVBEd3lkTmFuRS1mQWdjN1FOeUxta1Izc3Fub0tzNXFtU1FaMWFpOVBjdlhxbUZ0M3FnbFJHNkE?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-10-28T09:42:36+00:00",
-      "summary": "The hate for VC-funded open-source always seemed deranged They gave me millions of dollars to spend on salaries for engineers to work on open-source, and together we built Bun. In return, all the VCs asked for was “make number go up” We’re still MIT lice X",
+      "published": "2026-10-29T08:41:48+00:00",
+      "summary": "Someone built a web browser that doesn't render webpages. It has passed 37K GitHub stars as a project written in Zig from scratch, rather than forked from Chromium. And in the team's benchmark, it used 16× less memory than headless Chrome. It's called Lig X",
       "engagement": 0.0,
-      "score": 44.06,
+      "score": 63.8,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d",
-        "taste": 0.8206
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:3d",
+        "taste": 0.7951
       },
       "sources": [
         "x"
       ],
-      "taste": 0.821,
-      "ar": "دافع مطوّر Bun عن تمويل الشركات الاستثمارية، مؤكداً أنها ساعدت في بناء المشروع مع الحفاظ على رخصة MIT المفتوحة."
+      "taste": 0.795,
+      "ar": ""
     },
     {
-      "id": "f8ae98acb20d4222",
-      "title": "JUST IN: Democrats propose letting AI companies go bankrupt rather than bailing them out if AI bubble bursts",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLcVhkb1hORWc2aTJLOW5waUtLNVMzc1h2Q2hVcFRudHRSeWRJWVZSVDhIYWZGdFQtYVgtQmtnRWh4Y3p2VWdrWHhIdFdmZFluRGZPU0xWUXMwY2s?oc=5",
+      "id": "96186036df608d3d",
+      "title": "Open source Chinese models need to stop using Claude and GPT reasoning traces for training; otherwise, they won't get close to the frontier. The benchmark is getting better at exposing cheating. Build your data team and focus on task quality.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OVkpta0FVakxVNWNjM0k4SG5TMG1rVzBOVnViZmxST3YzcS1KS25DcU9pR3lxRF9oVHJvaXdBcXV5czdIRUtPZksyMG02VjJwZk5LMDRkdVZaZzREZEdKQkVqWQ?oc=5",
+      "source": "x",
+      "topic": "reasoning",
+      "published": "2026-10-29T08:14:18+00:00",
+      "summary": "Open source Chinese models need to stop using Claude and GPT reasoning traces for training; otherwise, they won't get close to the frontier. The benchmark is getting better at exposing cheating. Build your data team and focus on task quality. X",
+      "engagement": 0.0,
+      "score": 58.86,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (reasoning OR \"test-time\" OR \"inference-time\" OR verifier) when:7d",
+        "taste": 0.3739
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.374,
+      "ar": ""
+    },
+    {
+      "id": "c9767704c247ccb7",
+      "title": "The idea that Europe massively lags the US on AI adoption is wrong. Some data from @stripe: - Overall consumer AI use is ca. 50% in both the EU and US - Paid adoption in the EU is ca. 60% of the US level. This sounds big, but since only a small share of con",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02WjVKUzNtZjVEQTVlcnZFUmRpRWxLbk56UWpPajB5T1YwTEM4UnpoTFltMS0wMXI0QmhneUZoRjNlV1BkaWpZQURXYW9aQ0pRWnBJZW1kbmIxWkxRbXRZdw?oc=5",
       "source": "x",
       "topic": "ai",
-      "published": "2026-10-29T00:00:00+00:00",
-      "summary": "JUST IN: Democrats propose letting AI companies go bankrupt rather than bailing them out if AI bubble bursts X",
+      "published": "2026-10-29T08:31:02+00:00",
+      "summary": "The idea that Europe massively lags the US on AI adoption is wrong. Some data from @stripe: - Overall consumer AI use is ca. 50% in both the EU and US - Paid adoption in the EU is ca. 60% of the US level. This sounds big, but since only a small share of con X",
       "engagement": 0.0,
-      "score": 42.69,
+      "score": 56.38,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d",
-        "taste": 0.3948
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.6095
       },
       "sources": [
         "x"
       ],
-      "taste": 0.395,
-      "ar": "اقترح ديمقراطيون أمريكيون السماح لشركات الذكاء الاصطناعي بالإفلاس بدلاً من إنقاذها مالياً، تحسباً لانفجار فقاعة الاستثمار التقنية."
+      "taste": 0.61,
+      "ar": ""
     },
     {
-      "id": "bf0697fd950d0bf3",
-      "title": "Drag a video into the Vimo desktop app and ask questions about it in plain language, even hundreds of hours long on one GPU.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5d0FrdHVHNnJjZU9KMEtUcXotQUtkZnZMMm0yYVRONEZZSEk0MEdZT25yMlB2dnd0cTZKQkgyNGFIeEtxTURFRlFlRHM0WU4wSzA4dGdmRk1PTU0ycjJvQTE3RzFvMUp5enY3SHlPZnI?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-28T04:48:01+00:00",
-      "summary": "Drag a video into the Vimo desktop app and ask questions about it in plain language, even hundreds of hours long on one GPU. X",
-      "engagement": 0.0,
-      "score": 41.5,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d",
-        "taste": 0.8454
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.845,
-      "ar": "أطلقت تطبيق Vimo سطح المكتب الذي يتيح طرح أسئلة نصية على مقاطع فيديو طويلة تصل لمئات الساعات باستخدام GPU واحد."
-    },
-    {
-      "id": "7e8b3f58eac47880",
-      "title": "🚀 Discover what’s new in GitHub Copilot in @code! From running agents across devices to comparing model results and customizing your agent workflows, explore the latest updates from @github Universe 2026. Checkout what's new:",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTNFMyS2drWHNNc09wMEhpbGZKcHdNdnhLTUp1LVBiZG1Da05JdEt1MlJ1anRCd2VILVh4NFAxdUVTeXdEVmg5TWdMVkVjcVp3ZzVkRFBCWkI?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-28T17:04:29+00:00",
-      "summary": "🚀 Discover what’s new in GitHub Copilot in @code! From running agents across devices to comparing model results and customizing your agent workflows, explore the latest updates from @github Universe 2026. Checkout what's new: https://t.co/Jv2SUfQ0UA X",
-      "engagement": 0.0,
-      "score": 41.15,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d",
-        "taste": 0.5149
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.515,
-      "ar": "أضاف GitHub Copilot ميزات جديدة لتشغيل الوكلاء عبر أجهزة متعددة ومقارنة نتائج النماذج، ضمن تحديثات مؤتمر Universe 2026."
-    },
-    {
-      "id": "a6ef49218fced90a",
-      "title": "We’re also now serving two fast, low-cost models: - DeepSeek V4.1 Flash, in public preview. Great for long-context coding and agentic tasks. - GLM 5.3 Flash, now generally available. Great for subagents, tool calls and coding tasks.",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DbUZEaVNwZFdEaFVDWnlmU1ZKUG1VUUFWdHZpMkdrUWlhSVVHMnZmay1EQ2hPSjVwY1lUVEN5cUJIOG5WU3ZBX2ZrcGhhLUFJb0xmdEtQZ3VBN3lxU0tR?oc=5",
-      "source": "x",
-      "topic": "devtools",
-      "published": "2026-10-28T14:01:00+00:00",
-      "summary": "We’re also now serving two fast, low-cost models: - DeepSeek V4.1 Flash, in public preview. Great for long-context coding and agentic tasks. - GLM 5.3 Flash, now generally available. Great for subagents, tool calls and coding tasks. X",
-      "engagement": 0.0,
-      "score": 41.05,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:2d",
-        "taste": 0.5908
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.591,
-      "ar": "أصبحت نماذج DeepSeek V4.1 Flash وGLM 5.3 Flash متاحة بتكلفة منخفضة، وهي مثالية للمهام البرمجية الطويلة والاستدعاءات الفرعية."
-    },
-    {
-      "id": "5b83e78e72b358d6",
-      "title": "AI coding agents accelerate development, but legacy security is falling behind. That’s why we’ve built a playbook for security leaders who need to govern AI agents without blocking engineering velocity. Download our new eBook and get four principles of effect",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aeEZjVllSbHRQOElxTmJEeWFVZmRncFE4d1IxUmpuT2J5Q1Bpek9ldVVwcGJpeGhuRGRyMVRLVXZaM1Judy02R19nVERoMW50V0VXamRicVBfRm1iUUk0?oc=5",
-      "source": "x",
-      "topic": "devtools",
-      "published": "2026-10-29T00:48:01+00:00",
-      "summary": "AI coding agents accelerate development, but legacy security is falling behind. That’s why we’ve built a playbook for security leaders who need to govern AI agents without blocking engineering velocity. Download our new eBook and get four principles of effect X",
-      "engagement": 0.0,
-      "score": 40.87,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:2d",
-        "taste": 0.2597
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.26,
-      "ar": "أصدرت شركة أمنية دليل عملي لحوكمة وكلاء الذكاء الاصطناعي، بهدف تعزيز الأمان دون إبطاء سرعة تطوير فرق الهندسة."
-    },
-    {
-      "id": "98ea8cbe0e682c0e",
-      "title": "In AA-PersonalityBench, Meta AI’s Muse models are the most Friendly of all models The Friendly trait measures whether a response conveys warmth and approachability without feeling performative. ➤ Most Friendly: Muse Spark 1.3 (100), Muse Spark Open (9",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81N05uNXdoVzhmNTYxSlhkNGpGb1h3ekNmS1JOQWZ1dG5tVGFUT1NjSzdQUVJXQ2x1d0ZrVXFLYkNmYVRFY1daVW5nblpNbTd0eGJoN1FFUkI1Qk10ZzB4RlNZLS1Fdnc?oc=5",
+      "id": "fcae02be229023ab",
+      "title": "Compute is the helium of the AI era. In 1920, everyone bet on bigger, better balloons. You can fly without understanding aerodynamics, and you can get intelligent behavior without fully understanding intelligence. Talked dirigibles and brains with @fuelfive on",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RRzg1dGd1NDM4S1hwWnhIdVhhcmY1eGdDWEM5S2dJbjVfSU5lUGRRM29TWEFpQVNNSzg2eWpiVHdJd09IRlhnakh3MUpxMlRqYm9RR1pYM2pKUTIwY2VUQXNhX3RVUQ?oc=5",
       "source": "x",
       "topic": "ai",
-      "published": "2026-10-28T21:38:06+00:00",
-      "summary": "In AA-PersonalityBench, Meta AI’s Muse models are the most Friendly of all models The Friendly trait measures whether a response conveys warmth and approachability without feeling performative. ➤ Most Friendly: Muse Spark 1.3 (100), Muse Spark Open (9 X",
+      "published": "2026-10-29T04:54:36+00:00",
+      "summary": "Compute is the helium of the AI era. In 1920, everyone bet on bigger, better balloons. You can fly without understanding aerodynamics, and you can get intelligent behavior without fully understanding intelligence. Talked dirigibles and brains with @fuelfive on X",
       "engagement": 0.0,
-      "score": 40.83,
+      "score": 54.49,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:2d",
-        "taste": 0.4302
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.5622
       },
       "sources": [
         "x"
       ],
-      "taste": 0.43,
-      "ar": "تصدرت نماذج Muse من Meta تصنيف AA-PersonalityBench في سمة الود، لكونها توفر استجابات دافئة وغير مصطنعة للمستخدمين."
-    },
-    {
-      "id": "c3ad5e51adeddc61",
-      "title": "things moved so fast, AI agents are enrolling in courses now. a few years ago saying that would've made you sound like you were hallucinating.",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQlRWclZycm43SkJrdy1XblRLVXNwNWt4dEVGa2h1WGhxU05ZV3IwbmktR2RCVW1SMEZUVjBYenFjcGwtcUVNazBxSk9UVnIxR1MwWHFxVGJRY1RIblQ0?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-10-28T17:39:10+00:00",
-      "summary": "things moved so fast, AI agents are enrolling in courses now. a few years ago saying that would've made you sound like you were hallucinating. X",
-      "engagement": 0.0,
-      "score": 40.63,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
-        "taste": 0.4861
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.486,
-      "ar": "بدأت وكلاء الذكاء الاصطناعي بالتسجيل في الدورات التعليمية بشكل مستقل، مما يعكس تسارعاً غير متوقع في قدرات التعلم الذاتي."
-    },
-    {
-      "id": "bba0faca93e9abf5",
-      "title": "We're redefining the SDLC for the agentic era. Lots of GitHub updates this morning at Universe: • GitHub Copilot Fusion delivers frontier-level quality, 40% faster and at up to 77% lower cost • Our unified Copilot harness is now in Foundry, a managed service fo",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ydnoyWFkxNmRQU1h0a012elpySGVqTFptREpXWHI0b0ZtRXo3Yzh6VTZKbTFEWVZzbjlPYUlWZWh4MFdPZUVpNU1qb2lkSEZSODZSWnNxenlodmtlbGlRa043OA?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-10-28T17:08:18+00:00",
-      "summary": "We're redefining the SDLC for the agentic era. Lots of GitHub updates this morning at Universe: • GitHub Copilot Fusion delivers frontier-level quality, 40% faster and at up to 77% lower cost • Our unified Copilot harness is now in Foundry, a managed service fo X",
-      "engagement": 0.0,
-      "score": 40.27,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
-        "taste": 0.4163
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.416,
+      "taste": 0.562,
       "ar": ""
     },
     {
-      "id": "66b0867b9026ab69",
-      "title": "Every agent. Every copilot. Every model. They all share one critical resource: your data. Join @OmdiaHQ & Veeam to learn why lifecycle security, including recovery, is the foundation of Data & AI trust.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5US0FaRml4RUdiM2p3UkhQdEdXVmNJMko4YVhuLS1HSE5JZDMta2J3bV9FTVFESEMxZGtpV3k5Y3dISmY1a3lrZThVQjVuRnJuZzA3XzQxRzRmQQ?oc=5",
+      "id": "a2d3d68f772d77ed",
+      "title": "#TechToday | Google launches Gemini 4 Carbon AI model for cybersecurity and coding, limits initial access",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55RXlENzJCNE1MbTJiNGl1MHRnY215eFgzQzZ3YXhGWXRST0R0aVpSZGc3YWtCcEN3c3pDYll6RVdWQTgtM0VVZVZFbE5GNlRkcThNbnVLdkt4TE0yXzZrNGZGSU9NUQ?oc=5",
       "source": "x",
-      "topic": "agents",
-      "published": "2026-10-28T16:47:05+00:00",
-      "summary": "Every agent. Every copilot. Every model. They all share one critical resource: your data. Join @OmdiaHQ & Veeam to learn why lifecycle security, including recovery, is the foundation of Data & AI trust. https://t.co/7VKP66N4qA X",
+      "topic": "ai",
+      "published": "2026-10-29T08:55:03+00:00",
+      "summary": "#TechToday | Google launches Gemini 4 Carbon AI model for cybersecurity and coding, limits initial access https://t.co/Y3xPRKkoMX X",
       "engagement": 0.0,
-      "score": 40.19,
+      "score": 54.38,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
-        "taste": 0.4989
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.5594
       },
       "sources": [
         "x"
       ],
-      "taste": 0.499,
+      "taste": 0.559,
       "ar": ""
     },
     {
-      "id": "19d7ce401518294c",
-      "title": "Meet Lor. We’re building Lor to do the work of an entire AI lab. Today, its agents write our code, run experiments, and iterate on the results for days, on any machine, hundreds at a time. Now in private beta ↓",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81UlZoXzlBWDJiMGJKNHBxYmRhYU1XS0RkMWZKdkduSmY2ZzBabGRxcFBrTlJlNkZWekxSc2d1Z0RxTTFHbVVjOXVSU0JaSmZrUFZldVA4dm9BRUN3RGc?oc=5",
+      "id": "1e11a43c8ec83336",
+      "title": "AI has created an issue: What happens when our kids can outsource the experiences that teach them how to become adults?",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3QkNnZnBRYzVuZ25vOS1xejA2d3JBdnNQSnh4QmpwN29tNVJaN3IzUktiUGpUaXo1bzZmNy1ERHA2RTlENW12QXFNSjJYejFuVlh6YzJLR055dUtkWEQ0aDFn?oc=5",
       "source": "x",
-      "topic": "agents",
-      "published": "2026-10-28T16:58:00+00:00",
-      "summary": "Meet Lor. We’re building Lor to do the work of an entire AI lab. Today, its agents write our code, run experiments, and iterate on the results for days, on any machine, hundreds at a time. Now in private beta ↓ X",
+      "topic": "ai",
+      "published": "2026-10-29T08:58:26+00:00",
+      "summary": "AI has created an issue: What happens when our kids can outsource the experiences that teach them how to become adults? https://t.co/0sOjHwWL38 X",
       "engagement": 0.0,
-      "score": 39.94,
+      "score": 53.98,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:2d",
-        "taste": 0.4877
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.5495
       },
       "sources": [
         "x"
       ],
-      "taste": 0.488,
+      "taste": 0.549,
       "ar": ""
     },
     {
-      "id": "d7df028b06dd4438",
-      "title": "Okay, sorry, GitHub was nice to invite me but I can't hold back... Complaining incoming.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DeE9mbzhWSEVERDJ1X0hsZkVyS3lSLTV4UTYwLTRFQnkwXzlWVnFydXIyUlpXVnhiUDM5UEtBN0ZtazJiODdrazJybWVFa0dMdlVSUG9pMGVVenZMUjhHcE5FUmI4Zw?oc=5",
+      "id": "9761e29aa54d3ce2",
+      "title": "Biologist Paul Knoepfler asks: Could overdependence on AI make us less capable as researchers?",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzV1l5dGxIUTB1cTNpYl95b21rVzktZXIxb3YyeDM3QjZyb2dVc2Q1NEFsYURXNE1ocnk1MGFiOFgzckRXT3FJdzlfVmxXaVJNbFBDWVphaC1KdjVrSVE?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T08:37:58+00:00",
+      "summary": "Biologist Paul Knoepfler asks: Could overdependence on AI make us less capable as researchers? https://t.co/lc78IaiKzf X",
+      "engagement": 0.0,
+      "score": 51.18,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.4795
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.479,
+      "ar": ""
+    },
+    {
+      "id": "e6be46113e28f8a1",
+      "title": "The past 48h have been crazy in AI. • Anthropic’s IPO • GPT-6.1 Terra • Mythos 5 Malicious Code • Google Genie 4 • Amazon/Google Go After NVIDIA I wanted all in one IG carousel, so I gave a prompt and a template to the new Agent in Gamma 5 (@GammaA",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQllReVZqZmo5YXF3aDh3U2RBRWJtTTlSM2sxekszT09fZ2FRdGlVMEUzVldvWDFkTVAwaGU2eUtnQTN6NDRhS0F3WERUbHFUYWkwZXczS0JtQnRVVlMzdmtuSzVtdjE4U3c?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-28T21:49:43+00:00",
+      "summary": "The past 48h have been crazy in AI. • Anthropic’s IPO • GPT-6.1 Terra • Mythos 5 Malicious Code • Google Genie 4 • Amazon/Google Go After NVIDIA I wanted all in one IG carousel, so I gave a prompt and a template to the new Agent in Gamma 5 (@GammaA X",
+      "engagement": 0.0,
+      "score": 50.78,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.6247
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.625,
+      "ar": ""
+    },
+    {
+      "id": "c46f9cd75414b4ac",
+      "title": "That’s very very impressive This minicpm-ocr model is 100% open source and has only 1.3B parameters… while being - capable of extracting text/handwriting - up to 128 pages per minute (!!) - way more accurate than others And it has a Jev variant with just 2",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUOEJUaDk2em41QkhrRVBFcEMyTURVbHl6OEpxQ19IT1lPWFVjYWJsd2x1bU9tMDVQMjhjckFUR0pkMWQ3VnFsTjlqc0VmeHFlc2dyLUw0WTVVZmRFS0VJ?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-10-28T16:19:09+00:00",
-      "summary": "Okay, sorry, GitHub was nice to invite me but I can't hold back... Complaining incoming. X",
+      "published": "2026-10-28T11:30:01+00:00",
+      "summary": "That’s very very impressive This minicpm-ocr model is 100% open source and has only 1.3B parameters… while being - capable of extracting text/handwriting - up to 128 pages per minute (!!) - way more accurate than others And it has a Jev variant with just 2 X",
       "engagement": 0.0,
-      "score": 39.94,
+      "score": 50.71,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:2d",
-        "taste": 0.5651
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:3d",
+        "taste": 0.9124
       },
       "sources": [
         "x"
       ],
-      "taste": 0.565,
+      "taste": 0.912,
       "ar": ""
     },
     {
-      "id": "197a54e04e59c3fe",
-      "title": "Contemporary accomplices? Considering the potential liability of AI targeting system providers under the Rome Statute",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOU3FvdnphbFVlZThMcGZZd2x5cFUwanZEWEMwQVgyYUhJWGQ2RkFoVWdzRUhEem1pNjB3RzBTV09DSDFfM0x2dXRUbHVUTTA4T2dZZE1vT0hHLS16UHdCOUdWR2NTa1VhV004UFROWWRwaWFXR3k3aFp3ZnJLZVEtRzdkMTFaNFpVamZrUXFhY3BXRUVvWWc4dzVzVVluUklKeDlyZWVhaU96UzFpZ290NGRudXZPc2hkNkdacV9IUWVtRnVSUUxzdEdvZnZxYUg5dTU5SEcyMDVWQzloU0c2a1c2VFpSTXNXZi1KXzNoT1ZWcUhRcDltUnVR?oc=5",
+      "id": "5752cd266a05886c",
+      "title": "At GitHub universe today. Send me your questions to ask GitHub on the podcast, don’t hold back",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hQVlFdGlaN0RsV2s2MmZ6RENqbVZkak9meG5XNDhzZFhyZHpESmV2ME5xTlloWFpvM0tzX2tZT3hXY0Z1bzhJUzFyRjZWN3ZiMnJFWEVhd2RYMkU?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-28T16:31:56+00:00",
+      "summary": "At GitHub universe today. Send me your questions to ask GitHub on the podcast, don’t hold back X",
+      "engagement": 0.0,
+      "score": 49.54,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR GitHub) when:3d",
+        "taste": 0.8093
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.809,
+      "ar": ""
+    },
+    {
+      "id": "39d5f49092b9f5b3",
+      "title": "Ruslan Rust says he won't do peer review without AI anymore, after a new preprint found LLMs beat humans at catching clinical trial errors. Here's what you need to know. Rust is a researcher who has reviewed for most big journals and, as an editor, evaluated",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0T28ySTZHUlFzanlnTW4xUUw0MFpiY0RLakRhQ01CS1RIMjhpeUFMX0tHdk9rSGYtQ1ViQ0RKcnhJZjBtampOYUFieWR0YWdlV0ZObjBPNnJiVm5JcndKMUlpRQ?oc=5",
+      "source": "x",
+      "topic": "research",
+      "published": "2026-10-28T22:52:06+00:00",
+      "summary": "Ruslan Rust says he won't do peer review without AI anymore, after a new preprint found LLMs beat humans at catching clinical trial errors. Here's what you need to know. Rust is a researcher who has reviewed for most big journals and, as an editor, evaluated X",
+      "engagement": 0.0,
+      "score": 49.53,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (arxiv OR \"new paper\" OR \"research paper\" OR preprint) when:7d",
+        "taste": 0.4188
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.419,
+      "ar": ""
+    },
+    {
+      "id": "2067c25b252edca4",
+      "title": "My therapist is AI - Artificial intelligence and psychotherapy",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSjVidHVuMWtHU3Z0NnN0WG5URzY2MzlvOFJBTmFsWHlTV3JFd1lVbUlZUEgzcFo4QVJRS3cwVGw3X1luUXJ3bkVpN1JTX3lqd3ZZSU1tWUFtbUlleWxjR2Y2ZlZCeU80WHFPV3pkYUxEaUc5OUp5MWJ5bTZMS0RUQUNtMWhmek5EM1JsVC1WNEV5dXZOb2RWOXNBRlpTZw?oc=5",
       "source": "news",
       "topic": "ai",
-      "published": "2026-10-29T06:41:05+00:00",
-      "summary": "Contemporary accomplices? Considering the potential liability of AI targeting system providers under the Rome Statute ICRC",
+      "published": "2026-10-29T06:51:44+00:00",
+      "summary": "My therapist is AI - Artificial intelligence and psychotherapy DW.com",
       "engagement": 0.0,
-      "score": 39.84,
+      "score": 48.74,
       "niche_hits": [],
       "meta": {
-        "query": "artificial intelligence OR LLM when:2d",
-        "taste": 0.4859
+        "query": "artificial intelligence OR LLM when:3d",
+        "taste": 0.7155
       },
       "sources": [
         "news"
       ],
-      "taste": 0.486,
+      "taste": 0.716,
+      "ar": ""
+    },
+    {
+      "id": "8ee3eba48bb43761",
+      "title": "Could old books in Japan become AI's next major source of training data? Read more here:",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xZkl1UTBFN3k4cERWcUJjSk1Jc2lOcUxVT21LUkdsRkowTXJLYmotZDJ0TkRubkpGa01hZkMtakVpdDVEdFRWczVUQldrVkFLWUpCamdveW4tUDhyQjQwbQ?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T08:17:45+00:00",
+      "summary": "Could old books in Japan become AI's next major source of training data? Read more here: https://t.co/YBsGCy6tnY X",
+      "engagement": 0.0,
+      "score": 48.48,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.4121
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.412,
+      "ar": ""
+    },
+    {
+      "id": "e7166eaa5cdd7f4c",
+      "title": "\"The frontier AI labs could end up creating enormous value without capturing most of it themselves.\"",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iY3FCaGprbUE5TEdwSzBuWE9EMzFEZ3Z1ZXB4ZEdKYWdlWkRCRzRDclNJREhoRkUyV3hRdTBtYmJGMFkyNEFzYU1LMmxrdDczdEFwM0JZODVuYkpFOVdkVUhR?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-29T05:40:53+00:00",
+      "summary": "\"The frontier AI labs could end up creating enormous value without capturing most of it themselves.\" https://t.co/Kvjl0o5uLA X",
+      "engagement": 0.0,
+      "score": 48.06,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.4014
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.401,
       "ar": ""
     }
   ]

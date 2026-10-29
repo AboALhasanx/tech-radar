@@ -28,6 +28,7 @@ SOURCE_WEIGHT = {
     "x": 1.0,
     "hackernews": 1.0,
     "github": 0.9,
+    "paper": 0.9,
     "news": 0.8,
     "reddit": 0.7,
     "mastodon": 0.6,
@@ -40,6 +41,7 @@ SOURCE_PRIORITY = {
     "x": 8.0,
     "hackernews": 6.0,
     "github": 5.5,
+    "paper": 5.5,
     "news": 4.5,
     "reddit": 3.5,
     "mastodon": 3.0,
@@ -147,16 +149,31 @@ def score_story(story: Story) -> None:
 
     priority = max(SOURCE_PRIORITY.get(m.source, 2.0) for m in story.members)
     x_boost = 4.0 if "x" in story.sources else 0.0
+    research_boost = (
+        config.RESEARCH_BOOST if story.topics & config.RESEARCH_TOPICS else 0.0
+    )
 
     # The taste model was trained on this account's likes; a story it dislikes
     # should sink even if it is fresh and cross-confirmed.
     taste = max((m.meta.get("taste") or 0.0) for m in story.members)
+    # The taste model was trained on likes, which skew to news; a paper should
+    # not be buried for looking unfamiliar.
+    if "paper" in story.sources and taste < 0.5:
+        taste = 0.5
     taste_score = (taste - 0.5) * config.TASTE_WEIGHT if taste else 0.0
 
     story.niche_hits = sorted(set(hits))
     story.taste = round(taste, 3)
     story.score = round(
-        recency + engagement_score + cross + niche + priority + x_boost + taste_score, 2
+        recency
+        + engagement_score
+        + cross
+        + niche
+        + priority
+        + x_boost
+        + taste_score
+        + research_boost,
+        2,
     )
 
 

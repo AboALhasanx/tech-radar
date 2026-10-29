@@ -19,6 +19,7 @@ from pathlib import Path
 from radar import archive, config
 from radar.models import Signal
 from radar.publish import enabled as telegram_enabled
+from radar.publish import ntfy_enabled, ntfy_send
 from radar.publish import publish as telegram_publish
 from radar.publish import publish_alert
 from radar.rank import Story, rank
@@ -129,6 +130,9 @@ def run(*, include_x: bool = True, use_ai: bool = True, do_publish: bool = False
                 print(f"[alert] {story.lead.title[:60]} ({', '.join(matched[:3])})")
             if telegram_enabled():
                 publish_alert(hits)
+            if ntfy_enabled():
+                lines = [f"• {s.lead.title[:120]} — {s.lead.url}" for s, _ in hits[:4]]
+                ntfy_send("⚡ رادار: تنبيه", "\n".join(lines), priority="high", tags="zap")
         else:
             print("[alert] no watchlist matches")
 
@@ -170,6 +174,12 @@ def main(argv: list[str] | None = None) -> int:
         help="what you missed over the last N days (from the archive)",
     )
     parser.add_argument(
+        "--every",
+        type=int,
+        metavar="DAYS",
+        help="collect, archive, and publish a brief for the last N days",
+    )
+    parser.add_argument(
         "--weekly",
         action="store_true",
         help="weekly rollup + refresh CATCHUP.md",
@@ -187,7 +197,9 @@ def main(argv: list[str] | None = None) -> int:
     if args.catchup:
         from radar.catchup import write_report
 
-        path = write_report(args.catchup, top=args.top, use_ai=not args.no_ai)
+        path = write_report(
+            args.catchup, top=max(args.top, 25), use_ai=not args.no_ai
+        )
         print(f"[radar] catch-up written to {path}")
         return 0
 
@@ -208,6 +220,12 @@ def main(argv: list[str] | None = None) -> int:
         write_rolling(30, 30)
         if args.publish and telegram_enabled():
             publish_catchup(path.read_text("utf-8"))
+        if ntfy_enabled():
+            from radar.catchup import load_items
+
+            items = load_items(7)
+            top = "\n".join(f"• {i.title[:110]}" for i in items[:6])
+            ntfy_send("📡 رادار: ملخص الأسبوع", top or "لا جديد", tags="newspaper")
         print(f"[radar] weekly written to {path}")
         return 0
 
@@ -221,6 +239,20 @@ def main(argv: list[str] | None = None) -> int:
         min_taste=args.min_taste,
         do_alerts=args.alerts,
     )
+
+    if args.every:
+        from datetime import datetime, timezone
+
+        from radar.catchup import write_report
+
+        now = datetime.now(timezone.utc)
+        path = write_report(
+            args.every,
+            top=max(args.top, 20),
+            use_ai=not args.no_ai,
+            out_path=f"{config.DIGEST_DIR}/brief-{now:%Y-%m-%d}.md",
+        )
+        print(f"[radar] {args.every}-day brief written to {path}")
     if not stories:
         print("[radar] nothing new — try --all")
     return 0

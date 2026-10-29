@@ -93,3 +93,41 @@ def publish_catchup(text: str, *, top: int = 6) -> bool:
     ok = _send(body, token, chat_id)
     print(f"[telegram] catch-up {'sent' if ok else 'failed'}")
     return ok
+
+
+# ---------------------------------------------------------------- ntfy
+# Free push with no account and no server: install the app, subscribe to a
+# topic name, done. https://ntfy.sh
+_NTFY = "https://ntfy.sh/{topic}"
+
+
+def ntfy_enabled() -> bool:
+    return bool(os.getenv("NTFY_TOPIC", "").strip())
+
+
+def ntfy_send(title: str, message: str, *, priority: str = "default",
+              tags: str = "robot") -> bool:
+    topic = os.getenv("NTFY_TOPIC", "").strip()
+    if not topic:
+        return False
+    import urllib.request
+
+    req = urllib.request.Request(
+        _NTFY.format(topic=topic),
+        data=message.encode("utf-8"),
+        headers={
+            "Title": title.encode("utf-8").decode("latin-1", "replace"),
+            "Priority": priority,
+            "Tags": tags,
+            "User-Agent": "tech-radar/1.0",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            ok = resp.status == 200
+    except Exception as exc:  # noqa: BLE001
+        print(f"[ntfy] {exc}")
+        return False
+    print(f"[ntfy] {'sent' if ok else 'failed'}")
+    return ok

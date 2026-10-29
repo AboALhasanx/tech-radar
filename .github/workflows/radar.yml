@@ -2,8 +2,8 @@ name: radar
 
 on:
   schedule:
-    # every 6 hours: collect, archive, alert on watchlist matches
-    - cron: "0 */6 * * *"
+    # every 3 days at 06:00 UTC — awareness, not a live feed
+    - cron: "0 6 */3 * *"
     # Sunday 06:00 UTC: weekly rollup + refresh CATCHUP.md
     - cron: "0 6 * * 0"
   workflow_dispatch:
@@ -15,6 +15,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: radar
@@ -36,13 +38,14 @@ jobs:
           pip install pytest
           python -m pytest tests -q
 
-      - name: Collect
+      - name: Collect and publish a 3-day brief
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python main.py --alerts
+        run: python main.py --every 3 --alerts
 
       - name: Commit digest and archive
         run: |
@@ -52,7 +55,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "nothing new"
           else
-            git commit -m "radar: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "radar: $(date -u +%Y-%m-%d)"
             git push
           fi
 
@@ -71,6 +74,7 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python main.py --weekly --publish
 
       - name: Commit the rollup
@@ -84,3 +88,31 @@ jobs:
             git commit -m "radar: weekly rollup $(date -u +%G-W%V)"
             git push
           fi
+
+  pages:
+    needs: [collect, weekly]
+    if: always() && (needs.collect.result == 'success' || needs.weekly.result == 'success')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: master
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Build the static site and RSS
+        run: python -m radar.site
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

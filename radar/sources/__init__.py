@@ -8,7 +8,16 @@ from __future__ import annotations
 
 from .. import config
 from ..models import Signal
-from . import github_trending, google_news, hackernews, mastodon, reddit
+from . import (
+    arxiv,
+    github_trending,
+    google_news,
+    hackernews,
+    hf_papers,
+    mastodon,
+    reddit,
+    semantic_scholar,
+)
 
 __all__ = ["collect_all"]
 
@@ -27,4 +36,14 @@ def collect_all(*, include_x: bool = True, include_news: bool = True) -> list[Si
         config.GITHUB_MIN_STARS, config.GITHUB_WINDOW_DAYS
     )
     signals += mastodon.fetch(config.MASTODON_TAGS)
+
+    # research lane
+    signals += hf_papers.fetch()
+    signals += arxiv.fetch(config.ARXIV_FEEDS)
+    # Semantic Scholar's keyless pool rate-limits hard (HTTP 429 after the
+    # first couple of calls), so it is opt-in rather than default.
+    import os
+
+    if os.getenv("S2_ENABLED") == "1":
+        signals += semantic_scholar.fetch(config.S2_QUERIES)
     return signals

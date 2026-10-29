@@ -48,6 +48,23 @@ _PROMO = (
     "mastering ", "deep dive into", "click here",
 )
 
+# A research-shaped query still matches finance and sports ("benchmark"),
+# so the niche topics get their own vocabulary gate.
+_TOPIC_GATES = {
+    "research": ("paper", "arxiv", "preprint", "study", "research", "benchmark study"),
+    "writing": ("writing", "latex", "typst", "citation", "zotero", "overleaf", "manuscript", "peer review"),
+    "reasoning": ("reasoning", "test-time", "inference-time", "verifier", "chain-of-thought", "cot", "thinking"),
+    "learning": ("spaced repetition", "retrieval practice", "cognitive load", "learning science", "tutor", "memory", "study"),
+}
+
+
+def _topic_gate(topic: str, title: str) -> bool:
+    terms = _TOPIC_GATES.get(topic)
+    if not terms:
+        return True
+    low = title.lower()
+    return any(t in low for t in terms)
+
 
 def _hits(terms: tuple[str, ...], low: str) -> int:
     count = 0
@@ -95,6 +112,8 @@ def _fetch(queries: list[tuple[str, str]], source: str, label: str) -> list[Sign
         for item in parse_feed(xml_text):
             title = _clean_title(item["title"], label)
             if source == "x" and not looks_like_tech_post(title):
+                continue
+            if not _topic_gate(topic, title):
                 continue
             if len(title) < 25:
                 continue
