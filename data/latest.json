@@ -1,322 +1,321 @@
 {
-  "generated_at": "2026-10-29T10:49:01.030782+00:00",
-  "fetched": 96,
+  "generated_at": "2026-10-31T11:22:29.336334+00:00",
+  "fetched": 651,
   "stories": [
     {
-      "id": "c847e01fc8ca64ed",
-      "title": "Fully automated AI-powered port in China Cargo moves without a single human via @_fluxfeeds #AIPort RT!",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90STlRVG5zeEpBOUtsZnVaSDlFdWFDV3ZjWVl2ZHRfal9xRXVFMDBxVmhhQVBUWVk2UXVBOW9wQWx2ajByaWhPeEJPcG1BbW1fT3BVcFFYTmMtWjg3OVgyZnZQRUNUemw4by1oQi1lcno?oc=5",
+      "id": "3fffc686cb279fef",
+      "title": "Build Personal AI Agents for Python Developers.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HcUNleVMxblBLU2tQX0kzTTNoSkFuT2NXWXFkWkh3eXdqd1pZcy0zbFhBaWVqNDQxcllicVNwTVZJdzkycEhQaEw3NjVoS09vRUQ0d2ZFc2NQVUhz?oc=5",
       "source": "x",
       "topic": "ai",
-      "published": "2026-10-29T10:10:00+00:00",
-      "summary": "Fully automated AI-powered port in China Cargo moves without a single human via @_fluxfeeds #AIPort RT! X",
+      "published": "2026-10-31T10:02:07+00:00",
+      "summary": "Build Personal AI Agents for Python Developers. X",
       "engagement": 0.0,
-      "score": 62.34,
+      "score": 69.3,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7586
+        "taste": 0.8425
       },
       "sources": [
         "x"
       ],
-      "taste": 0.759,
-      "ar": "ميناء صيني يعمل بالكامل بالذكاء الاصطناعي ينقل البضائع دون تدخل بشري، مما يعيد تعريف كفاءة سلاسل الإمداد اللوجستية."
+      "taste": 0.843,
+      "ar": "دليل عملي لبناء AI Agents مخصصة بلغة Python، يركز على دمج النماذج اللغوية مع أدوات البرمجة لإنشاء أنظمة ذكية قابلة للتوسع."
     },
     {
-      "id": "bf88a69a8d8c8c67",
-      "title": "RE: https:// social.sciences.re/@ffigon/117 514611802481382 «Open source is impressive, but tries to be apolitical and therefore does not…",
-      "url": "https://mamot.fr/@matiu_bidule/117523736266179872",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:31:41+00:00",
-      "summary": "RE: https:// social.sciences.re/@ffigon/117 514611802481382 «Open source is impressive, but tries to be apolitical and therefore does not help us fight back fascism. It wants to stay neutral. But there is no neutrality when standing in a wildfire.» Voilà. Pas mieux. # OpenSource # ia # ai # NightmareOnLLMstreet # Politics # IfyouDontCareAboutPoliticsPoliticsWillCareAboutYou (Be # Antifa always) 🌍$",
-      "engagement": 7.0,
-      "score": 58.19,
-      "niche_hits": [],
-      "meta": {
-        "account": "matiu_bidule@mamot.fr",
-        "taste": 0.7168
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.717,
-      "ar": "نقاش حول حدود الحياد السياسي في البرمجيات مفتوحة المصدر وتأثير ذلك على استقلالية المطورين والمجتمعات التقنية."
-    },
-    {
-      "id": "fdf5c75d4a409d61",
-      "title": "Zero click, silent, remote Android DoS",
-      "url": "https://smsofdeath.com/",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-10-29T07:08:50+00:00",
-      "summary": "",
-      "engagement": 90.0,
-      "score": 57.44,
-      "niche_hits": [],
-      "meta": {
-        "points": 90,
-        "comments": 46,
-        "hn_url": "https://news.ycombinator.com/item?id=50285452",
-        "taste": 0.6458
-      },
-      "sources": [
-        "hackernews"
-      ],
-      "taste": 0.646,
-      "ar": "ثغرة أمنية جديدة في أندرويد تسمح بهجوم انقطاع خدمة عن بُعد دون أي تفاعل من المستخدم، مما يهدد خصوصية الأجهزة."
-    },
-    {
-      "id": "c93f51352e21c077",
-      "title": "🎧 TODAY: How are CFOs navigating the AI boom, interest rates and C-suite shake-ups? Bloomberg journalists will answer your questions in an interactive Live Q&A. Join the livestream:",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84T080dV9vR09MYUdWQXlDaDRRTUJ5MHVseEVjdWxUOFFiNHdEM2ZQenZpNWhDLWdYTk5NRG1TNjB6dXpSdUFIdW1wVXVKajRvRHppNFFKR3hjMmp5ZWc?oc=5",
+      "id": "a59b9e05c640745d",
+      "title": "Big Tech's AI bill comes due, but Michigan automakers see a rebound",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43a0hZMEswc0tiM1RCX0RiSXZLZ2xFb1FKNC01Q2FxNzdzOFA1U05tcUV5UEVCUWh2bGM2aXF1YnMwZUQ1bEgxT25WOFhhcjk1eUpxRHBHMXd3Zw?oc=5",
       "source": "x",
       "topic": "ai",
-      "published": "2026-10-29T10:30:11+00:00",
-      "summary": "🎧 TODAY: How are CFOs navigating the AI boom, interest rates and C-suite shake-ups? Bloomberg journalists will answer your questions in an interactive Live Q&A. Join the livestream: https://t.co/ZsNmt7thZl X",
+      "published": "2026-10-31T11:15:08+00:00",
+      "summary": "Big Tech's AI bill comes due, but Michigan automakers see a rebound https://t.co/E3021PWV5h X",
       "engagement": 0.0,
-      "score": 55.82,
+      "score": 66.21,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.5955
+        "taste": 0.3292
       },
       "sources": [
+        "news",
         "x"
-      ],
-      "taste": 0.596,
-      "ar": "بث مباشر من بلومبرج يجيب عن استفسارات المدراء الماليين حول إدارة التكاليف في عصر الذكاء الاصطناعي وتقلبات أسعار الفائدة."
-    },
-    {
-      "id": "9eff53673819e9ef",
-      "title": "Survival LLM Puts 930,000 Wikipedia Articles, a Medical Encyclopedia and Military Survival Manuals in a Free 9 GB Offline AI That Picks Its…",
-      "url": "https://mastodon.social/@ChrisPirillo/117523769682730079",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:40:11.420000+00:00",
-      "summary": "Survival LLM Puts 930,000 Wikipedia Articles, a Medical Encyclopedia and Military Survival Manuals in a Free 9 GB Offline AI That Picks Its Model by Your RAM https:// lockergnome.com/survival-llm-o ffline-930000-wikipedia-articles-9-gb/ # offline # LocalLlm # preparedness # ai # OpenSource",
-      "engagement": 0.0,
-      "score": 53.98,
-      "niche_hits": [],
-      "meta": {
-        "account": "ChrisPirillo",
-        "taste": 0.6981
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.698,
-      "ar": "نموذج LLM مجاني يعمل دون إنترنت بحجم 9GB، يدمج موسوعات طبية وعسكرية ومقالات ويكيبيديا لدعم قرارات البقاء في الميدان."
-    },
-    {
-      "id": "760a77d09c01b2f0",
-      "title": "Here are 7 video effects you can use in Claude Check the first comment if you want the skill!",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11c3lFM1NMZ19MUmx1bDdUVkR5c0JwWHlNQURvREI1TzVrTG1WTWtVYk0yRzhwWC02NmR1dDRzbHYyRS1ybEhDWHFDQjFDN1VqLWxWRFJuVkFpRi1oc0hiVGthcWhzZDA?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-10-29T06:17:28+00:00",
-      "summary": "Here are 7 video effects you can use in Claude Check the first comment if you want the skill! X",
-      "engagement": 0.0,
-      "score": 52.13,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.3032
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.303,
-      "ar": "طرق عملية لاستخدام Claude في إنشاء تأثيرات فيديو احترافية، مما يوسع قدرات أدوات الذكاء الاصطناعي في مجال المونتاج."
-    },
-    {
-      "id": "bf5732c8d1535ae3",
-      "title": "Mesa 26.2.6 is out now as the latest upgrade for Linux open source graphics drivers, focused on fixing up some bugs reported",
-      "url": "https://mastodon.world/@gamingonlinux/117523741706814984",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:33:04+00:00",
-      "summary": "Mesa 26.2.6 is out now as the latest upgrade for Linux open source graphics drivers, focused on fixing up some bugs reported. https://www. gamingonlinux.com/2026/10/mesa -26-2-6-brings-fixes-for-the-witcher-3-remastered-and-various-other-linux-driver-issues/ # OpenSource # Drivers # Mesa # NewRelease # Misc",
-      "engagement": 5.0,
-      "score": 49.04,
-      "niche_hits": [],
-      "meta": {
-        "account": "gamingonlinux@mastodon.world",
-        "taste": 0.5051
-      },
-      "sources": [
-        "mastodon"
       ],
       "taste": 0.505,
-      "ar": "إصدار Mesa 26.2.6 يحسن أداء الرسوميات في لينكس عبر إصلاح أخطاء برمجية، مما يعزز استقرار الألعاب والتطبيقات المرئية."
+      "ar": "تكاليف الذكاء الاصطناعي تضغط على شركات التقنية الكبرى، بينما تستعيد مصانع السيارات في ميشيغان عافيتها، مما يعكس تفاوت أثر التقنية على القطاعات الصناعية المختلفة."
     },
     {
-      "id": "ba2a5a3afe57c659",
-      "title": "\"Scaling Laws for Looped Mixture of Experts\"  Looped Transformers eventually hit diminishing returns when you loop too much, but MoE sparsity lets models benefit from more loops before performance pla",
-      "url": "https://x.com/askalphaxiv/status/2115406473656451216",
-      "source": "x_account",
-      "topic": "research_tools",
-      "published": "2026-10-28T11:33:00+00:00",
-      "summary": "\"Scaling Laws for Looped Mixture of Experts\"  Looped Transformers eventually hit diminishing returns when you loop too much, but MoE sparsity lets models benefit from more loops before performance plateaus.  So Meta researchers introduce Loop Scaling Laws to predict the optimal",
-      "engagement": 300.0,
-      "score": 48.51,
-      "niche_hits": [],
-      "meta": {
-        "author": "alphaXiv @askalphaxiv · 23h",
-        "taste": 0.5892
-      },
-      "sources": [
-        "x_account"
-      ],
-      "taste": 0.589,
-      "ar": "ورقة بحثية توضح كيف تتيح تقنية Mixture of Experts للـ Looped Transformers الاستفادة من تكرار الحلقات دون تدهور الأداء."
-    },
-    {
-      "id": "b8f0a2a90cd699e0",
-      "title": "Representing the Unseen  Rethinking Visual Imagination for Spatial Reasoning  paper:  https:// huggingface.co/papers/2610.37 437 …",
-      "url": "https://x.com/_akhaliq/status/2115479847598195150",
-      "source": "x_account",
-      "topic": "research_tools",
-      "published": "2026-10-28T16:24:34+00:00",
-      "summary": "Representing the Unseen  Rethinking Visual Imagination for Spatial Reasoning  paper:  https:// huggingface.co/papers/2610.37 437 …",
-      "engagement": 71.0,
-      "score": 48.06,
-      "niche_hits": [],
-      "meta": {
-        "author": "AK @_akhaliq · 18h",
-        "taste": 0.5822
-      },
-      "sources": [
-        "x_account"
-      ],
-      "taste": 0.582,
-      "ar": "دراسة جديدة تعيد النظر في كيفية تمثيل النماذج للصور غير المرئية لتحسين قدرتها على الاستدلال المكاني المعقد."
-    },
-    {
-      "id": "f631236e785d220e",
-      "title": "📰 Mesa 26.2.6 brings fixes for The Witcher 3 Remastered and various other Linux driver issues Mesa 26.2.6 is out now as the latest upgrade…",
-      "url": "https://igeek.gamer-geek-news.com/@feed/statuses/01M63KP8HC7ZTTRFJ5JXB3MW1B",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:36:01+00:00",
-      "summary": "📰 Mesa 26.2.6 brings fixes for The Witcher 3 Remastered and various other Linux driver issues Mesa 26.2.6 is out now as the latest upgrade for Linux open source graphics drivers, focused on fixing up some bugs reported.Read the full article on GamingOnLinux. 📰 Source: GamingOnLinux Latest Articles 🔗 Link: https://www.gamingonlinux.com/2026/10/mesa-26-2-6-brings-fixes-for-the-witcher-3-remastered-a",
-      "engagement": 0.0,
-      "score": 46.05,
-      "niche_hits": [],
-      "meta": {
-        "account": "feed@igeek.gamer-geek-news.com",
-        "taste": 0.5403
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.54,
-      "ar": "تحديث Mesa 26.2.6 يحل مشاكل توافقية في لعبة The Witcher 3 Remastered على لينكس، مما يحسن تجربة اللاعبين."
-    },
-    {
-      "id": "7782f425bc50007d",
-      "title": "AI gives every single person the ability to create software. That's why Steve Lucas thinks the SaaSpocalypse is overrated.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82enBWLXFLUU1ZMWlGaUNlQnZrSlZYMVdQZ2RfVEdaQWM2YXE1NVhvM1phMEF5VWJZQWlueTd4TlE3Q3BSaDY0U2s0eFpuMGdzSjkxMXByZkEzOGFNV2lPZg?oc=5",
+      "id": "56813b13e5615034",
+      "title": "Net-merge, a Free Open-Source App, Spreads Your Downloads Across Wi-Fi, Ethernet and a Phone Hotspot at Once",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xU25keURoSnlOR195Z3BITjlIWk02V3hfNUxybGxWN2VUc0xmSTRUNFVKZnl6d3Fja05HRTZfMlVnQjh3bS1ZWlNvZFoxQ1E4VUdWb1p2cmpiLUs1dE55YVNR?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T09:59:59+00:00",
-      "summary": "AI gives every single person the ability to create software. That's why Steve Lucas thinks the SaaSpocalypse is overrated. https://t.co/vXNSmJxahy X",
+      "topic": "opensource",
+      "published": "2026-10-31T05:11:16+00:00",
+      "summary": "Net-merge, a Free Open-Source App, Spreads Your Downloads Across Wi-Fi, Ethernet and a Phone Hotspot at Once https://t.co/scyUaY3U7v X",
       "engagement": 0.0,
-      "score": 45.2,
+      "score": 65.78,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.33
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8523
       },
       "sources": [
         "x"
       ],
-      "taste": 0.33,
-      "ar": ""
+      "taste": 0.852,
+      "ar": "تطبيق Net-merge مفتوح المصدر يتيح توزيع عمليات التحميل عبر Wi-Fi وإيثرنت وهاتف محمول في آن واحد، لزيادة سرعة النقل بشكل ملحوظ."
     },
     {
-      "id": "06bef1b615299f61",
-      "title": "U.S. stocks fell (SPX -0.3%, NDX -1.0%) after weak results from $GOOG (-10%, AI search eroding adv revs) and Samsung (-4%, chip miss and high capex) revived doubts about AI returns. The Fed held rates steady but Chair Warsh flagged further hikes on a st",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1alBhV2I0cXJvbHZTR0tfcHZieHZQR1NrSTFaeUtpVTRtTW9TTVREbXEwY3V3MC13S2Y0bGp3enZPZDVrOXR3emc5SnkxNlp3VmRRS1EzdEFSajVBUWRtM1VB?oc=5",
+      "id": "b45edd6c5082b7c3",
+      "title": "The reason people prefer frontier AI subscriptions over open source AI models is that to run a frontier-level open source AI model locally, you need at least $10,000 of hardware. Even then, you won't get the best in the world, and that hardware becomes obsolet",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yOC1YUXc2eVZKNlBYZEQ5SE1obS1ubHQxcXdSQ2pPZU03d01xZUFITnczaDdMZ18yMERQcVFmdXJmRmdnNWZCcE94dW9zSExpWEdsOThOTVpycmZPTHYyTEJB?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-10-29T10:28:31+00:00",
-      "summary": "U.S. stocks fell (SPX -0.3%, NDX -1.0%) after weak results from $GOOG (-10%, AI search eroding adv revs) and Samsung (-4%, chip miss and high capex) revived doubts about AI returns. The Fed held rates steady but Chair Warsh flagged further hikes on a st X",
+      "topic": "opensource",
+      "published": "2026-10-31T07:57:43+00:00",
+      "summary": "The reason people prefer frontier AI subscriptions over open source AI models is that to run a frontier-level open source AI model locally, you need at least $10,000 of hardware. Even then, you won't get the best in the world, and that hardware becomes obsolet X",
       "engagement": 0.0,
-      "score": 44.44,
+      "score": 65.39,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.311
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.7672
       },
       "sources": [
         "x"
       ],
-      "taste": 0.311,
+      "taste": 0.767,
+      "ar": "تفضيل الاشتراكات المدفوعة على النماذج المفتوحة يعود لارتفاع تكلفة تشغيلها محلياً (أكثر من 10 آلاف دولار) وسرعة تقادم الأجهزة المطلوبة."
+    },
+    {
+      "id": "764b9518dbeb0e8f",
+      "title": "Chaos Monkey Coding Agent Benchmark The benchmark that actually matters what happens when coding agents fail, and whether their harness can actually recover",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WMkRYMUhPUmVtQ0NVTXFlaVNqNW12cnRVeV9HSV9aR3F0ZTlBYXRQb1ZVUG1XSWQtVkkyYWZYTXFxeDhvR0Jaa3E3RVMtMWFDUEkwSms1aFdBQW5yenQ1R1ln?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-31T05:03:38+00:00",
+      "summary": "Chaos Monkey Coding Agent Benchmark The benchmark that actually matters what happens when coding agents fail, and whether their harness can actually recover X",
+      "engagement": 0.0,
+      "score": 64.48,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.7651
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.765,
+      "ar": "مقياس Chaos Monkey Coding Agent يقيس قدرة وكلاء البرمجة على التعافي من الأخطاء، وهو معيار حاسم لتقييم موثوقيتهم في بيئات الإنتاج الحقيقية."
+    },
+    {
+      "id": "7dd9a064643fe559",
+      "title": "Build AI Agents for Network Operations — Design LLM-powered NetOps workflows with Python, Ollama, MCP, and tool calling: New release from @PacktPublishing",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CVFhOMTAzMEhkNVVHQUZHbktRTnJlelMtS1hpR3ZVVFFXajRydG1CWld2WkZtcUpkdlluVEFFMDA0MWNwZ3hlaHFpdVdSWVNLbnpSTkxzdTBYUFpVT080Xw?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-31T03:46:10+00:00",
+      "summary": "Build AI Agents for Network Operations — Design LLM-powered NetOps workflows with Python, Ollama, MCP, and tool calling: https://t.co/5Yw3PUj5D2 New release from @PacktPublishing X",
+      "engagement": 0.0,
+      "score": 63.46,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.7011
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.701,
+      "ar": "إصدار جديد من Packt يشرح تصميم سير عمل NetOps مدعوم بـ LLM باستخدام Python وOllama، مع التركيز على دمج MCP واستدعاء الأدوات."
+    },
+    {
+      "id": "c59419d2614ca325",
+      "title": "things I 💜 about Status Free No ads No tracking No email required No phone number No ID required No central servers No data selling Fully open source Anonymous profiles Multiple profiles End to end encrypted chats Private group chats Independent comm",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HVC1ZRTBUSE51Z0FpNXdmWENOakpseWdFcWY1Ul9TT25wdkdyTzF0dXRPcEdSM0NJT25rNnRoc2x2aUU3aS1qRGJ0aVZqam5HODFKd1BhVXp2bTNVWElF?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-31T05:59:10+00:00",
+      "summary": "things I 💜 about Status Free No ads No tracking No email required No phone number No ID required No central servers No data selling Fully open source Anonymous profiles Multiple profiles End to end encrypted chats Private group chats Independent comm X",
+      "engagement": 0.0,
+      "score": 63.25,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.7362
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.736,
+      "ar": "تطبيق Status يبرز كخيار بديل للخصوصية بفضل كونه مفتوح المصدر، خالياً من الإعلانات والتتبع، ويعتمد على التشفير من الطرف للطرف دون خوادم مركزية."
+    },
+    {
+      "id": "2f54beedcd0ad2e9",
+      "title": "AI Agent framework vs harness. A framework is a library you import to build an agent. ADK, LangGraph, and CrewAI give you the pieces like agent classes, tool interfaces and model adapters. you still decide how the loop runs, what goes into context and how t",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tbnpHMVdxZ1dwdFZRcFduSmotYTU5SlUtTEZoNXpWZGZUMEQwUUtQTGNPOWN1UGstd05TNDhXeFFnTHZkSlRYbjdobGF1TmF0OXFxSC1SLWdIcmZfOVdkc3BLT2RxUQ?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-31T05:30:49+00:00",
+      "summary": "AI Agent framework vs harness. A framework is a library you import to build an agent. ADK, LangGraph, and CrewAI give you the pieces like agent classes, tool interfaces and model adapters. you still decide how the loop runs, what goes into context and how t X",
+      "engagement": 0.0,
+      "score": 61.46,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.6766
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.677,
+      "ar": "الفرق الجوهري بين Framework وHarness في الوكلاء هو أن الأول يوفر مكونات البناء، بينما الثاني يتحكم في حلقة التشغيل وسياق النموذج."
+    },
+    {
+      "id": "8b4b803b7af29ab0",
+      "title": "today we are releasing fastbrowse: an open-source browser agent, powered by jev driving a browser has always been the hard part of agents. so, we built fastbrowse to fix that. its cheap enough to actually run at volume. i benchmarked against browser use an",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUYzhMSkpIZ043S3hxU0VxWG9zWVZYVkRlQUJlbEFNVUxzRVF3dnBTYjNhMWJ4VFdwM2pPa3RtUzU1X0pxSW1ORkJPT1o1NlFoSnlRUTBBR3oxckFGRE9mMQ?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-30T20:33:17+00:00",
+      "summary": "today we are releasing fastbrowse: an open-source browser agent, powered by jev driving a browser has always been the hard part of agents. so, we built fastbrowse to fix that. its cheap enough to actually run at volume. i benchmarked against browser use an X",
+      "engagement": 0.0,
+      "score": 60.77,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.9667
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.967,
+      "ar": "إطلاق fastbrowse، وكيل متصفح مفتوح المصدر منخفض التكلفة، يحل مشكلة تعقيد التحكم بالمتصفح في الوكلاء، مع أداء تنافسي في الاختبارات."
+    },
+    {
+      "id": "643d2f1a4a664b78",
+      "title": "We're getting hands-on! Participants are currently exploring how to build and understand their own AI coding environments in the workshop, “From LLMs to Agents.\" by Thomas Froment. #OCXAfrica26",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13NlB3ZkE1bVJFTGp0WDNYWTFTcWI3eTF5Z0NXVXl0NDl1RERSS2E0RnJvd1NVNWhrV3lMNS0ySXlMSDZmZ2JCRnhxT241cU5BU0V2Z19Yc0hZeVUz?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-31T10:44:29+00:00",
+      "summary": "We're getting hands-on! Participants are currently exploring how to build and understand their own AI coding environments in the workshop, “From LLMs to Agents.\" by Thomas Froment. #OCXAfrica26 X",
+      "engagement": 0.0,
+      "score": 60.29,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.6473
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.647,
+      "ar": "ورشة عمل في OCXAfrica26 تتيح للمشاركين بناء بيئات برمجية للذكاء الاصطناعي وفهم آليات عمل الوكلاء، تحت إشراف الخبير توماس فرومنت."
+    },
+    {
+      "id": "761a861c7902905a",
+      "title": "Blender just got a free AI that builds rigged 3D characters from 1 prompt. It's called StableGen and it's open source. Describe a character, pick a preview image and it does the rest in one run: → TRELLIS.2 builds the mesh → SkinTokens adds the skeleton and",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdHMtV3JqczRkR3dMamttcUg0bjZYdmM5Qy01Zzh5d2NJcFJ6dTBNb3RKSThsMzR6cGVRZzVyVG5FVzVNcHdCVlR5RW85S0FVZDhSVXNFQzJpWVhyMFdZ?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-31T09:10:04+00:00",
+      "summary": "Blender just got a free AI that builds rigged 3D characters from 1 prompt. It's called StableGen and it's open source. Describe a character, pick a preview image and it does the rest in one run: → TRELLIS.2 builds the mesh → SkinTokens adds the skeleton and X",
+      "engagement": 0.0,
+      "score": 60.01,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.6553
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.655,
       "ar": ""
     },
     {
-      "id": "c07811ccb9960f82",
-      "title": "\"Organizational Incompetence\" or \"Organizational Intelligence\" 🤣 https://www",
-      "url": "https://hachyderm.io/@fgraf/117523783179448477",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:43:37+00:00",
-      "summary": "\"Organizational Incompetence\" or \"Organizational Intelligence\" 🤣 https://www. netlight.com/stories/your-ai-i s-only-as-good-as-the-organisation-running-it # netlight # ai",
+      "id": "7357492de189a4d3",
+      "title": "And before I get accused of it: no I'm not sponsored by Herdr Free open source tools typically do not pay people to talk about them I just love this tool and am very excited to tell you about it",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CVWlFOGJGbFk5S1hjbnJQZ1phalZMMlhxTHBndktRSjIyMmxWVmNZa0lUVXBISzFSZUdDbGVmSU9JVkVmeDhzbjNNd3JWekduU1RrMjJKR19rb2luaEE?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-31T02:34:34+00:00",
+      "summary": "And before I get accused of it: no I'm not sponsored by Herdr Free open source tools typically do not pay people to talk about them I just love this tool and am very excited to tell you about it X",
       "engagement": 0.0,
-      "score": 43.66,
+      "score": 59.73,
       "niche_hits": [],
       "meta": {
-        "account": "fgraf@hachyderm.io",
-        "taste": 0.5202
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.7584
       },
       "sources": [
-        "mastodon"
+        "x"
       ],
-      "taste": 0.52,
+      "taste": 0.758,
       "ar": ""
     },
     {
-      "id": "1cde9903f00cfe05",
-      "title": "Building a stdio MCP server? Put the restart in your update instructions, and put it in bold",
-      "url": "https://mastodon.social/@Considus/117523789083758169",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:45:07.471000+00:00",
-      "summary": "Building a stdio MCP server? Put the restart in your update instructions, and put it in bold. It reads its file once, when the app starts it. Change the file underneath and nothing happens until the app is properly quit and reopened, and on macOS closing the window isn't enough. My PageSpeed Insights MCP is standard library only, no package and no installer, so an update is a git pull and a restar",
+      "id": "87e3599239cd87ad",
+      "title": "I stopped paying for Lightroom after finding a free open-source editor that handles my RAW files just as well",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qeWRoX0g0RE9tUmZiSGlaN0I4RHlyLW40STRWUFM0ZTZ3SHpQNVgwWW5tbkFPRVRRa3lNZEZVVU1RWmk5MlRMdktTRlJTRVN4UTBVR0w3bVhPalhudjdJRzFKVlU?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-31T06:00:10+00:00",
+      "summary": "I stopped paying for Lightroom after finding a free open-source editor that handles my RAW files just as well https://t.co/9hkTG23Scc X",
       "engagement": 0.0,
-      "score": 42.93,
+      "score": 58.39,
       "niche_hits": [],
       "meta": {
-        "account": "Considus",
-        "taste": 0.4409
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.6597
       },
       "sources": [
-        "mastodon"
+        "x"
       ],
-      "taste": 0.441,
+      "taste": 0.66,
       "ar": ""
     },
     {
-      "id": "5b75167fdf52b77b",
-      "title": "📰 Linux's Modern NTFS Driver Now Supports Alternate Data Streams (ADS) Merged back in Linux 7.1 was the new NTFS kernel driver…",
-      "url": "https://igeek.gamer-geek-news.com/@feed/statuses/01M63K9B5K55RTCSQNQD71SV7T",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-10-29T10:28:58+00:00",
-      "summary": "📰 Linux's Modern NTFS Driver Now Supports Alternate Data Streams (ADS) Merged back in Linux 7.1 was the new NTFS kernel driver implementation for better supporting Microsoft's NTFS file-system on Linux. Since then new features and improvements have continued to land f... 📰 Source: Phoronix 🔗 Link: https://www.phoronix.com/news/NTFS-Linux-7.4-Improvements # DataScience # Linux # OpenSource",
+      "id": "5013bfd889473af9",
+      "title": "just saying, Numbat is open source: 🚶🏻‍♂️ • 26+ supported agent surfaces • live monitoring and pre-action blocking via native hooks • on-device detection with CEL and multi-step sequence rules (plus experimental *decision* rules in pl",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GcWp3aDZnNEI5N0I0SVdqb1pURWVHZDJYaVlsOThlYUZIbEg5UXpaUTY1VGZ6WUVqSkR6czdDTjRSbkQ2OURCeC1qeHpFMXZ6bEFtaTFqWDlXeUk?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-10-30T18:36:31+00:00",
+      "summary": "just saying, Numbat is open source: https://t.co/IUNt2SleoD 🚶🏻‍♂️ • 26+ supported agent surfaces • live monitoring and pre-action blocking via native hooks • on-device detection with CEL and multi-step sequence rules (plus experimental *decision* rules in pl X",
       "engagement": 0.0,
-      "score": 42.89,
+      "score": 58.33,
       "niche_hits": [],
       "meta": {
-        "account": "feed@igeek.gamer-geek-news.com",
-        "taste": 0.511
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8472
       },
       "sources": [
-        "mastodon"
+        "x"
       ],
-      "taste": 0.511,
+      "taste": 0.847,
+      "ar": ""
+    },
+    {
+      "id": "56faeb3333ddca58",
+      "title": "Reylo Playground — you and your agents can experiment with Reylo's SQL inference engine, in-browser Type a query, see its inferred TypeScript types instantly ✅ UI for you ✅ API for agents ✅ Example queries for inspo ✅ Fully in-browser (powered by PGlite)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKSnBKYlQxLXhhR2VENlEtOFpZN1J1WVRLSGFpRGFGNjRjN2VvV3A1WFpucjFVQ3lNSHZzalRnYnFWSUNucl9sVXdqcUxvbkZZaWlwRjMwOG5UV2NIMWJEUg?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-31T06:59:00+00:00",
+      "summary": "Reylo Playground — you and your agents can experiment with Reylo's SQL inference engine, in-browser Type a query, see its inferred TypeScript types instantly ✅ UI for you ✅ API for agents ✅ Example queries for inspo ✅ Fully in-browser (powered by PGlite) X",
+      "engagement": 0.0,
+      "score": 58.23,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.5657
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.566,
       "ar": ""
     }
   ]
