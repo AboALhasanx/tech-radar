@@ -1,321 +1,322 @@
 {
-  "generated_at": "2026-10-31T11:22:29.336334+00:00",
-  "fetched": 651,
+  "generated_at": "2026-11-01T12:12:44.027985+00:00",
+  "fetched": 685,
   "stories": [
     {
-      "id": "3fffc686cb279fef",
-      "title": "Build Personal AI Agents for Python Developers.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HcUNleVMxblBLU2tQX0kzTTNoSkFuT2NXWXFkWkh3eXdqd1pZcy0zbFhBaWVqNDQxcllicVNwTVZJdzkycEhQaEw3NjVoS09vRUQ0d2ZFc2NQVUhz?oc=5",
+      "id": "e627a49c8bc1601c",
+      "title": "I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84WTV1QUhpTjdfT2pnaWNsaHdlV0kzQVVfeERMeHc1VUJ2eDk3a2tqYWxDaS1xbi1ndmEwYnIwVXJZV3FOdWFKaGV0cE04NnlEakpmY25ON1pudllNSGF6SDZONmo?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-10-31T10:02:07+00:00",
-      "summary": "Build Personal AI Agents for Python Developers. X",
+      "topic": "agents",
+      "published": "2026-11-01T07:00:11+00:00",
+      "summary": "I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app https://t.co/Vq7cXifoRd X",
       "engagement": 0.0,
-      "score": 69.3,
+      "score": 82.66,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.8425
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.843,
-      "ar": "دليل عملي لبناء AI Agents مخصصة بلغة Python، يركز على دمج النماذج اللغوية مع أدوات البرمجة لإنشاء أنظمة ذكية قابلة للتوسع."
-    },
-    {
-      "id": "a59b9e05c640745d",
-      "title": "Big Tech's AI bill comes due, but Michigan automakers see a rebound",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43a0hZMEswc0tiM1RCX0RiSXZLZ2xFb1FKNC01Q2FxNzdzOFA1U05tcUV5UEVCUWh2bGM2aXF1YnMwZUQ1bEgxT25WOFhhcjk1eUpxRHBHMXd3Zw?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-10-31T11:15:08+00:00",
-      "summary": "Big Tech's AI bill comes due, but Michigan automakers see a rebound https://t.co/E3021PWV5h X",
-      "engagement": 0.0,
-      "score": 66.21,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.3292
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.6942
       },
       "sources": [
         "news",
         "x"
       ],
-      "taste": 0.505,
-      "ar": "تكاليف الذكاء الاصطناعي تضغط على شركات التقنية الكبرى، بينما تستعيد مصانع السيارات في ميشيغان عافيتها، مما يعكس تفاوت أثر التقنية على القطاعات الصناعية المختلفة."
+      "taste": 0.707,
+      "ar": "تطبيق مفتوح المصدر جديد يجمع إدارة عدة coding agents في واجهة واحدة، مما يسهل على المطورين العمل المتوازي ويقلل تعقيد تبديل الأدوات."
     },
     {
-      "id": "56813b13e5615034",
-      "title": "Net-merge, a Free Open-Source App, Spreads Your Downloads Across Wi-Fi, Ethernet and a Phone Hotspot at Once",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xU25keURoSnlOR195Z3BITjlIWk02V3hfNUxybGxWN2VUc0xmSTRUNFVKZnl6d3Fja05HRTZfMlVnQjh3bS1ZWlNvZFoxQ1E4VUdWb1p2cmpiLUs1dE55YVNR?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-31T05:11:16+00:00",
-      "summary": "Net-merge, a Free Open-Source App, Spreads Your Downloads Across Wi-Fi, Ethernet and a Phone Hotspot at Once https://t.co/scyUaY3U7v X",
-      "engagement": 0.0,
-      "score": 65.78,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.8523
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.852,
-      "ar": "تطبيق Net-merge مفتوح المصدر يتيح توزيع عمليات التحميل عبر Wi-Fi وإيثرنت وهاتف محمول في آن واحد، لزيادة سرعة النقل بشكل ملحوظ."
-    },
-    {
-      "id": "b45edd6c5082b7c3",
-      "title": "The reason people prefer frontier AI subscriptions over open source AI models is that to run a frontier-level open source AI model locally, you need at least $10,000 of hardware. Even then, you won't get the best in the world, and that hardware becomes obsolet",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yOC1YUXc2eVZKNlBYZEQ5SE1obS1ubHQxcXdSQ2pPZU03d01xZUFITnczaDdMZ18yMERQcVFmdXJmRmdnNWZCcE94dW9zSExpWEdsOThOTVpycmZPTHYyTEJB?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-31T07:57:43+00:00",
-      "summary": "The reason people prefer frontier AI subscriptions over open source AI models is that to run a frontier-level open source AI model locally, you need at least $10,000 of hardware. Even then, you won't get the best in the world, and that hardware becomes obsolet X",
-      "engagement": 0.0,
-      "score": 65.39,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.7672
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.767,
-      "ar": "تفضيل الاشتراكات المدفوعة على النماذج المفتوحة يعود لارتفاع تكلفة تشغيلها محلياً (أكثر من 10 آلاف دولار) وسرعة تقادم الأجهزة المطلوبة."
-    },
-    {
-      "id": "764b9518dbeb0e8f",
-      "title": "Chaos Monkey Coding Agent Benchmark The benchmark that actually matters what happens when coding agents fail, and whether their harness can actually recover",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WMkRYMUhPUmVtQ0NVTXFlaVNqNW12cnRVeV9HSV9aR3F0ZTlBYXRQb1ZVUG1XSWQtVkkyYWZYTXFxeDhvR0Jaa3E3RVMtMWFDUEkwSms1aFdBQW5yenQ1R1ln?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-10-31T05:03:38+00:00",
-      "summary": "Chaos Monkey Coding Agent Benchmark The benchmark that actually matters what happens when coding agents fail, and whether their harness can actually recover X",
-      "engagement": 0.0,
-      "score": 64.48,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.7651
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.765,
-      "ar": "مقياس Chaos Monkey Coding Agent يقيس قدرة وكلاء البرمجة على التعافي من الأخطاء، وهو معيار حاسم لتقييم موثوقيتهم في بيئات الإنتاج الحقيقية."
-    },
-    {
-      "id": "7dd9a064643fe559",
-      "title": "Build AI Agents for Network Operations — Design LLM-powered NetOps workflows with Python, Ollama, MCP, and tool calling: New release from @PacktPublishing",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CVFhOMTAzMEhkNVVHQUZHbktRTnJlelMtS1hpR3ZVVFFXajRydG1CWld2WkZtcUpkdlluVEFFMDA0MWNwZ3hlaHFpdVdSWVNLbnpSTkxzdTBYUFpVT080Xw?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-10-31T03:46:10+00:00",
-      "summary": "Build AI Agents for Network Operations — Design LLM-powered NetOps workflows with Python, Ollama, MCP, and tool calling: https://t.co/5Yw3PUj5D2 New release from @PacktPublishing X",
-      "engagement": 0.0,
-      "score": 63.46,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.7011
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.701,
-      "ar": "إصدار جديد من Packt يشرح تصميم سير عمل NetOps مدعوم بـ LLM باستخدام Python وOllama، مع التركيز على دمج MCP واستدعاء الأدوات."
-    },
-    {
-      "id": "c59419d2614ca325",
-      "title": "things I 💜 about Status Free No ads No tracking No email required No phone number No ID required No central servers No data selling Fully open source Anonymous profiles Multiple profiles End to end encrypted chats Private group chats Independent comm",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HVC1ZRTBUSE51Z0FpNXdmWENOakpseWdFcWY1Ul9TT25wdkdyTzF0dXRPcEdSM0NJT25rNnRoc2x2aUU3aS1qRGJ0aVZqam5HODFKd1BhVXp2bTNVWElF?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-31T05:59:10+00:00",
-      "summary": "things I 💜 about Status Free No ads No tracking No email required No phone number No ID required No central servers No data selling Fully open source Anonymous profiles Multiple profiles End to end encrypted chats Private group chats Independent comm X",
-      "engagement": 0.0,
-      "score": 63.25,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.7362
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.736,
-      "ar": "تطبيق Status يبرز كخيار بديل للخصوصية بفضل كونه مفتوح المصدر، خالياً من الإعلانات والتتبع، ويعتمد على التشفير من الطرف للطرف دون خوادم مركزية."
-    },
-    {
-      "id": "2f54beedcd0ad2e9",
-      "title": "AI Agent framework vs harness. A framework is a library you import to build an agent. ADK, LangGraph, and CrewAI give you the pieces like agent classes, tool interfaces and model adapters. you still decide how the loop runs, what goes into context and how t",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tbnpHMVdxZ1dwdFZRcFduSmotYTU5SlUtTEZoNXpWZGZUMEQwUUtQTGNPOWN1UGstd05TNDhXeFFnTHZkSlRYbjdobGF1TmF0OXFxSC1SLWdIcmZfOVdkc3BLT2RxUQ?oc=5",
+      "id": "3bab2d863d482e58",
+      "title": "JUST IN: China's DeepSeek launches \"Super-Agent,\" a new open-source AI coding agent designed to rival Anthropic's Claude Code.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WUZwYk1NRDlWdDJ2N0ZqTGlGY1NzaVAzZUUxdnVhLUxfRFVyWmszYWdZaE9qSEo3T3ZjSHBNb3FXZEZndHROQ3hUT1BoNDVUa05QeXJFZWU1UFJvSE1QcQ?oc=5",
       "source": "x",
       "topic": "ai",
-      "published": "2026-10-31T05:30:49+00:00",
-      "summary": "AI Agent framework vs harness. A framework is a library you import to build an agent. ADK, LangGraph, and CrewAI give you the pieces like agent classes, tool interfaces and model adapters. you still decide how the loop runs, what goes into context and how t X",
+      "published": "2026-11-01T11:11:00+00:00",
+      "summary": "JUST IN: China's DeepSeek launches \"Super-Agent,\" a new open-source AI coding agent designed to rival Anthropic's Claude Code. X",
       "engagement": 0.0,
-      "score": 61.46,
+      "score": 79.98,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.6766
+        "taste": 0.7145
       },
       "sources": [
+        "news",
         "x"
       ],
-      "taste": 0.677,
-      "ar": "الفرق الجوهري بين Framework وHarness في الوكلاء هو أن الأول يوفر مكونات البناء، بينما الثاني يتحكم في حلقة التشغيل وسياق النموذج."
+      "taste": 0.715,
+      "ar": "DeepSeek أطلقت Super-Agent مفتوح المصدر للمنافسة مع Claude Code، ما يضيف خياراً قوياً ومجانياً للمطورين الباحثين عن بدائل ذكية في أتمتة الكود."
     },
     {
-      "id": "8b4b803b7af29ab0",
-      "title": "today we are releasing fastbrowse: an open-source browser agent, powered by jev driving a browser has always been the hard part of agents. so, we built fastbrowse to fix that. its cheap enough to actually run at volume. i benchmarked against browser use an",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUYzhMSkpIZ043S3hxU0VxWG9zWVZYVkRlQUJlbEFNVUxzRVF3dnBTYjNhMWJ4VFdwM2pPa3RtUzU1X0pxSW1ORkJPT1o1NlFoSnlRUTBBR3oxckFGRE9mMQ?oc=5",
+      "id": "94f8576756d767a0",
+      "title": "Game assets from your coding agent — but check the repo before installing. mcp-game-asset-forge is a public GitHub repo documenting a Python MCP server for developers generating game assets through AI coding clients. It outlines how to go from prompts",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FYzlGMGMxQ2dUTnpPOUYxX1Q3RW5Hcy1pNmRqZHRFV3RsUVAxZ0NpQWlyV2c5b1picmxPZzd1WXM5VElfSTdQVlBSc05xRWx1d3FkRHNSY0VMaDJlVTJF?oc=5",
       "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-30T20:33:17+00:00",
-      "summary": "today we are releasing fastbrowse: an open-source browser agent, powered by jev driving a browser has always been the hard part of agents. so, we built fastbrowse to fix that. its cheap enough to actually run at volume. i benchmarked against browser use an X",
+      "topic": "harness",
+      "published": "2026-11-01T07:26:01+00:00",
+      "summary": "Game assets from your coding agent — but check the repo before installing. mcp-game-asset-forge is a public GitHub repo documenting a Python MCP server for developers generating game assets through AI coding clients. It outlines how to go from prompts X",
       "engagement": 0.0,
-      "score": 60.77,
+      "score": 76.66,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.9667
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.7664
       },
       "sources": [
         "x"
       ],
-      "taste": 0.967,
-      "ar": "إطلاق fastbrowse، وكيل متصفح مفتوح المصدر منخفض التكلفة، يحل مشكلة تعقيد التحكم بالمتصفح في الوكلاء، مع أداء تنافسي في الاختبارات."
+      "taste": 0.766,
+      "ar": "مستودع mcp-game-asset-forge يوثق خادم MCP لتوليد أصول الألعاب عبر coding agents، مع تحذير تقني بضرورة مراجعة الكود قبل التثبيت لتجنب الثغرات."
     },
     {
-      "id": "643d2f1a4a664b78",
-      "title": "We're getting hands-on! Participants are currently exploring how to build and understand their own AI coding environments in the workshop, “From LLMs to Agents.\" by Thomas Froment. #OCXAfrica26",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13NlB3ZkE1bVJFTGp0WDNYWTFTcWI3eTF5Z0NXVXl0NDl1RERSS2E0RnJvd1NVNWhrV3lMNS0ySXlMSDZmZ2JCRnhxT241cU5BU0V2Z19Yc0hZeVUz?oc=5",
+      "id": "0b42ca342dedb884",
+      "title": "Here are 10 new free AI agent skills that turn your coding agent into a specialist, even if you've never installed one.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMQWt3UEZVUXZEUF9VWE1nMlh6NFc0YWJfY0ZhSU1VNnF6S19ybzBsQ1psVWFRQlR6d1pTWmFCZkk0MjczSjB4Mlo1N2ZENFRjeTJPM1QyTDlja1VmaDhVeA?oc=5",
       "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-31T10:44:29+00:00",
-      "summary": "We're getting hands-on! Participants are currently exploring how to build and understand their own AI coding environments in the workshop, “From LLMs to Agents.\" by Thomas Froment. #OCXAfrica26 X",
+      "topic": "harness",
+      "published": "2026-11-01T11:03:01+00:00",
+      "summary": "Here are 10 new free AI agent skills that turn your coding agent into a specialist, even if you've never installed one. X",
       "engagement": 0.0,
-      "score": 60.29,
+      "score": 76.23,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.6473
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.8458
       },
       "sources": [
         "x"
       ],
-      "taste": 0.647,
-      "ar": "ورشة عمل في OCXAfrica26 تتيح للمشاركين بناء بيئات برمجية للذكاء الاصطناعي وفهم آليات عمل الوكلاء، تحت إشراف الخبير توماس فرومنت."
+      "taste": 0.846,
+      "ar": "عشر مهارات AI جديدة مجانية تحوّل coding agent إلى متخصص في مهام محددة، مما يرفع كفاءة العمل دون الحاجة لخبرة سابقة في تثبيت هذه الأدوات."
     },
     {
-      "id": "761a861c7902905a",
-      "title": "Blender just got a free AI that builds rigged 3D characters from 1 prompt. It's called StableGen and it's open source. Describe a character, pick a preview image and it does the rest in one run: → TRELLIS.2 builds the mesh → SkinTokens adds the skeleton and",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdHMtV3JqczRkR3dMamttcUg0bjZYdmM5Qy01Zzh5d2NJcFJ6dTBNb3RKSThsMzR6cGVRZzVyVG5FVzVNcHdCVlR5RW85S0FVZDhSVXNFQzJpWVhyMFdZ?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-31T09:10:04+00:00",
-      "summary": "Blender just got a free AI that builds rigged 3D characters from 1 prompt. It's called StableGen and it's open source. Describe a character, pick a preview image and it does the rest in one run: → TRELLIS.2 builds the mesh → SkinTokens adds the skeleton and X",
-      "engagement": 0.0,
-      "score": 60.01,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.6553
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.655,
-      "ar": ""
-    },
-    {
-      "id": "7357492de189a4d3",
-      "title": "And before I get accused of it: no I'm not sponsored by Herdr Free open source tools typically do not pay people to talk about them I just love this tool and am very excited to tell you about it",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CVWlFOGJGbFk5S1hjbnJQZ1phalZMMlhxTHBndktRSjIyMmxWVmNZa0lUVXBISzFSZUdDbGVmSU9JVkVmeDhzbjNNd3JWekduU1RrMjJKR19rb2luaEE?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-31T02:34:34+00:00",
-      "summary": "And before I get accused of it: no I'm not sponsored by Herdr Free open source tools typically do not pay people to talk about them I just love this tool and am very excited to tell you about it X",
-      "engagement": 0.0,
-      "score": 59.73,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.7584
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.758,
-      "ar": ""
-    },
-    {
-      "id": "87e3599239cd87ad",
-      "title": "I stopped paying for Lightroom after finding a free open-source editor that handles my RAW files just as well",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qeWRoX0g0RE9tUmZiSGlaN0I4RHlyLW40STRWUFM0ZTZ3SHpQNVgwWW5tbkFPRVRRa3lNZEZVVU1RWmk5MlRMdktTRlJTRVN4UTBVR0w3bVhPalhudjdJRzFKVlU?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-31T06:00:10+00:00",
-      "summary": "I stopped paying for Lightroom after finding a free open-source editor that handles my RAW files just as well https://t.co/9hkTG23Scc X",
-      "engagement": 0.0,
-      "score": 58.39,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.6597
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.66,
-      "ar": ""
-    },
-    {
-      "id": "5013bfd889473af9",
-      "title": "just saying, Numbat is open source: 🚶🏻‍♂️ • 26+ supported agent surfaces • live monitoring and pre-action blocking via native hooks • on-device detection with CEL and multi-step sequence rules (plus experimental *decision* rules in pl",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GcWp3aDZnNEI5N0I0SVdqb1pURWVHZDJYaVlsOThlYUZIbEg5UXpaUTY1VGZ6WUVqSkR6czdDTjRSbkQ2OURCeC1qeHpFMXZ6bEFtaTFqWDlXeUk?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-10-30T18:36:31+00:00",
-      "summary": "just saying, Numbat is open source: https://t.co/IUNt2SleoD 🚶🏻‍♂️ • 26+ supported agent surfaces • live monitoring and pre-action blocking via native hooks • on-device detection with CEL and multi-step sequence rules (plus experimental *decision* rules in pl X",
-      "engagement": 0.0,
-      "score": 58.33,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.8472
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.847,
-      "ar": ""
-    },
-    {
-      "id": "56faeb3333ddca58",
-      "title": "Reylo Playground — you and your agents can experiment with Reylo's SQL inference engine, in-browser Type a query, see its inferred TypeScript types instantly ✅ UI for you ✅ API for agents ✅ Example queries for inspo ✅ Fully in-browser (powered by PGlite)",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKSnBKYlQxLXhhR2VENlEtOFpZN1J1WVRLSGFpRGFGNjRjN2VvV3A1WFpucjFVQ3lNSHZzalRnYnFWSUNucl9sVXdqcUxvbkZZaWlwRjMwOG5UV2NIMWJEUg?oc=5",
+      "id": "bdd914b0a0fe08ed",
+      "title": "Vibe coding works when your agent has the right tools. Connect Apify MCP, build your app, ask the AI which Actors would improve it. @AiHomegirl does exactly that - and the AI surprises her every time. MCP setup ↓",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ba1hwTFExdHZfdFZXTVZyUTJldWVBalNPWmpoNGhwNUhLOHQwSjRCOEMtRUVpOUVNQkVGU18tOWR2WElRQ1NGY0JlQnZxUG5PdlhONDg2UDJ4Zw?oc=5",
       "source": "x",
       "topic": "agents",
-      "published": "2026-10-31T06:59:00+00:00",
-      "summary": "Reylo Playground — you and your agents can experiment with Reylo's SQL inference engine, in-browser Type a query, see its inferred TypeScript types instantly ✅ UI for you ✅ API for agents ✅ Example queries for inspo ✅ Fully in-browser (powered by PGlite) X",
+      "published": "2026-11-01T09:24:14+00:00",
+      "summary": "Vibe coding works when your agent has the right tools. Connect Apify MCP, build your app, ask the AI which Actors would improve it. @AiHomegirl does exactly that - and the AI surprises her every time. MCP setup ↓ X",
       "engagement": 0.0,
-      "score": 58.23,
+      "score": 70.72,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.5657
+        "taste": 0.8481
       },
       "sources": [
         "x"
       ],
-      "taste": 0.566,
+      "taste": 0.848,
+      "ar": "ربط Apify MCP مع coding agents يتيح للذكاء الاصطناعي اقتراح وتحسين تطبيقاتك تلقائياً، مما يعزز فعالية vibe coding ويوفر وقت التطوير."
+    },
+    {
+      "id": "33a7dd2eb281fbc0",
+      "title": "DeepSeek drops enhanced coding agent with aim to rival Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xOXU3QkQtLURIVEY5Z2FEblRHeks5MWtHbE9KUUNwMGtTMk13TXRMNU93UlpNbVoyRDh2ekJ2NnNLZXNNLTZHQ3dSWVRtX1JIZWV6bFQzZDZUaU5zb2ZQVWZvSmg?oc=5",
+      "source": "x",
+      "topic": "harness",
+      "published": "2026-11-01T04:56:50+00:00",
+      "summary": "DeepSeek drops enhanced coding agent with aim to rival Anthropic https://t.co/VvjXvL8oF8 X",
+      "engagement": 0.0,
+      "score": 69.87,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.738
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.738,
+      "ar": "DeepSeek طرحت نسخة معززة من coding agent تهدف لمجاراة Anthropic، ما يشير إلى تصاعد المنافسة في سوق أدوات البرمجة الذكية المفتوحة المصدر."
+    },
+    {
+      "id": "fef85461f03be4a8",
+      "title": "Here are 10 new GitHub repositories that broke out this month, all free and open source.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iQllzVFVyTG1iVk16WnZOSW52TFVObmxvU2pKT2pwMjBuYmJIZk92ZGlEdXFscG5BekxEUVJZZlpPMWIzU2NDejB6S1pmcDdpZmJfdl9rYVRScGw1SXNacQ?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-01T08:58:02+00:00",
+      "summary": "Here are 10 new GitHub repositories that broke out this month, all free and open source. X",
+      "engagement": 0.0,
+      "score": 68.63,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8707
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.871,
+      "ar": "قائمة بعشرة مستودعات GitHub مفتوحة المصدر برزت هذا الشهر، توفر للمطورين أدوات ومكتبات مجانية قد تسرّع مشاريعهم وتقلل التكاليف."
+    },
+    {
+      "id": "773e9cf8b4a77857",
+      "title": "The free tier of Paper is super restrictive. 100 MCP tool calls/week doesn't get your far. is an open source alternative, no limits on MCP tool calls. Unlimited designs. Let's create some hype!",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkSVVVXzUzUElJRnlycUVxUmFKMGdKbW5hbEl5NktGWEpHNmVhelQzaGFKMTZaVk9aU19sZG8taFpIYWZlYTVzUGllOHh4YWVWbEFRQjlZajRrODRJYTZn?oc=5",
+      "source": "x",
+      "topic": "free",
+      "published": "2026-10-31T23:21:34+00:00",
+      "summary": "The free tier of Paper is super restrictive. 100 MCP tool calls/week doesn't get your far. https://t.co/AK4fYF52bR is an open source alternative, no limits on MCP tool calls. Unlimited designs. Let's create some hype! X",
+      "engagement": 0.0,
+      "score": 65.83,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"free tier\" OR \"free credits\" OR \"free trial\" OR \"no API key\" OR \"free plan\") when:7d",
+        "taste": 0.7891
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.789,
+      "ar": "بديل مفتوح المصدر لأداة Paper يزيل قيود عدد استدعاءات MCP الأسبوعية، مما يمنح المطورين حرية غير محدودة في تصميم وتوليد الواجهات."
+    },
+    {
+      "id": "6ab1f8d35e725d0a",
+      "title": "Before any Google engineer lets a coding agent touch a file, a separate agent has already spent real time trying to talk them out of the plan. That internal tool is now open source, and the name tells you the whole design: the Elephant-Goldfish Model. One agen",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1renA0TGZmTU11OXAxMHB0bHJjc1h1RkJyVk42cU1Bamo4N01tc3Q0czVvMVFqd3hBcmVCcllrTHhvYjJZcTI1MzNDSmRCMmVXbmhNYVRNcXY2S3cteDNIOFdnTQ?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-10-31T20:15:00+00:00",
+      "summary": "Before any Google engineer lets a coding agent touch a file, a separate agent has already spent real time trying to talk them out of the plan. That internal tool is now open source, and the name tells you the whole design: the Elephant-Goldfish Model. One agen X",
+      "engagement": 0.0,
+      "score": 60.72,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.9528
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.953,
+      "ar": "أداة Google الداخلية 'Elephant-Goldfish' أصبحت مفتوحة المصدر، حيث يستخدم وكيلاً منفصلاً لمراجعة خطط coding agent قبل التنفيذ لتقليل الأخطاء."
+    },
+    {
+      "id": "401c167977f92a09",
+      "title": "Awarded Third Prize in the 2026 AI Vernacular Architecture Competition, ReNest is an unbuilt proposal for rebuilding a school community in southern Iran. 🏆 Architecture Reimagined Competition: Redefine the future of architecture with AI and compete for a sh",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vVXN4NWJRaUFfTTFONTk3ZF9kMWZCYUdSVnBISmpNYjgwd1g2d05zdHhOOGNSd3F4RmJmaHJIQzhnZ2JYbTV5YWVtT2NmLVlfbDM5Z1IwV2I1NXlNeENrYXNCbjBQZw?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-01T10:16:21+00:00",
+      "summary": "Awarded Third Prize in the 2026 AI Vernacular Architecture Competition, ReNest is an unbuilt proposal for rebuilding a school community in southern Iran. 🏆 Architecture Reimagined Competition: Redefine the future of architecture with AI and compete for a sh X",
+      "engagement": 0.0,
+      "score": 58.77,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.6693
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.669,
+      "ar": "مشروع ReNest المعماري فاز بجائزة عالمية باستخدام AI لإعادة تصميم مدرسة في إيران، مما يبرز دور الذكاء الاصطناعي في حل تحديات التصميم الحضري."
+    },
+    {
+      "id": "9b6ec41d6806c165",
+      "title": "AI is terrible. Just completely incorrect even asked to identify this character/joke in the sopranos.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1akMtSTFNZmNseDFlSmFUZkxQVTJWWXRIVmhlN3F3azhiZ1RlOGxJa2tFYUNiM1p4UjE2VERZdmVKdGppT3N6ektkcTRYYzN3RjMzTGF4LXhCWmdqdFNtUFRn?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-01T02:58:53+00:00",
+      "summary": "AI is terrible. Just completely incorrect even asked to identify this character/joke in the sopranos. X",
+      "engagement": 0.0,
+      "score": 58.73,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.7943
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.794,
+      "ar": ""
+    },
+    {
+      "id": "226be06364cac94f",
+      "title": "Jevgrep is a new CLI tool for coding agents that uses Jev to find relevant files and verbatim source excerpts by asking questions of a repo, cutting codebase exploration costs by ~30%. #MachineLearning #AI #LLM #DeepLearning #Age",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44bzFHenBkYUx2c1lydWF6S2JzSTVFeFJWbFVORW10TTEwdmlsNFZoRzRIazRnb3Q2bWkySFRnRkRtWnlMY2g2c3dqQnNSRk5JQTRyQ1VIRkNaekJkNGtN?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-10-31T18:55:03+00:00",
+      "summary": "Jevgrep is a new CLI tool for coding agents that uses Jev to find relevant files and verbatim source excerpts by asking questions of a repo, cutting codebase exploration costs by ~30%. https://t.co/0lYrPkhVmn #MachineLearning #AI #LLM #DeepLearning #Age X",
+      "engagement": 0.0,
+      "score": 58.71,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.983
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.983,
+      "ar": ""
+    },
+    {
+      "id": "1902a2247754c244",
+      "title": "DeepSeek releases the open source prototype of its Super-agent",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWHRETTY5R044bXRaM0lhdFFWeU5MX3I4elNvSlZUSE1YNGtYZktuWmNSV0tna0l0T2JVM2d5RF9SS0p4TjNWOW9QU09KUFZvTk1mc0FReEZTS2ZJckFjaWlkVU5CMDBTUHJ6SFRXYlhaTHFCcGdnanlDYl90YjVnWm5ZOENhWWxkRG9FaGFkRQ?oc=5",
+      "source": "news",
+      "topic": "dev",
+      "published": "2026-11-01T07:52:16+00:00",
+      "summary": "DeepSeek releases the open source prototype of its Super-agent Pasquale Pillitteri",
+      "engagement": 0.0,
+      "score": 57.37,
+      "niche_hits": [],
+      "meta": {
+        "query": "open source OR developer tools when:3d",
+        "taste": 0.8823
+      },
+      "sources": [
+        "news"
+      ],
+      "taste": 0.882,
+      "ar": ""
+    },
+    {
+      "id": "2b62f77ec730342f",
+      "title": "AI gave most people the feeling of speed without the substance of it. So 99% are now producing more of what nobody asked for, faster than ever. The 1% use the same tools differently. They spend the time AI saves on talking to users, picking the one problem t",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2N3Uxa0trM0RwN3U1alRTT1h2Qk1vV1B4S05zbXpqZmw3YUl1RjJSWnRzcDdtVjR0c3c2cHNja3RNT295WkNZaWhpblpEd2luRmxrOFhLTDJfbU1UbVE?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-01T08:52:50+00:00",
+      "summary": "AI gave most people the feeling of speed without the substance of it. So 99% are now producing more of what nobody asked for, faster than ever. The 1% use the same tools differently. They spend the time AI saves on talking to users, picking the one problem t X",
+      "engagement": 0.0,
+      "score": 57.0,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.625
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.625,
+      "ar": ""
+    },
+    {
+      "id": "4e9442da31932b9b",
+      "title": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xM3dCVk94V2pnaHoyMXZBVjIyRmhzUVZTS1R2dWczODdUMFdPWndOZ3JIMGtvbXZ4OVo4VzdSTGlrR0lfVUFOZTF6dXM2M2hkTkszSnZPZzdLdElDMHpGOEtn?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-01T11:00:13+00:00",
+      "summary": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation https://t.co/PL7fuELWg5 X",
+      "engagement": 0.0,
+      "score": 56.4,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.5501
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.55,
       "ar": ""
     }
   ]
