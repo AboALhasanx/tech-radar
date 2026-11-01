@@ -1,251 +1,355 @@
-# ما فاتك — آخر 30 يوم — حتى 2026-10-29
+# ما فاتك — آخر 30 يوم — حتى 2026-11-01
 
-> **120** قصة من **1** يوم تغطية · مرتبة بـ**طول البقاء** مو بالحداثة
+> **941** قصة من **3** يوم تغطية · مرتبة بـ**طول البقاء** مو بالحداثة
 
 ## الأهم
 
-### 1. JUST IN: DeepSeek and Moonshot used OpenAI’s GPT-6 Astra to train new models
+### 1. I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app
+
+- **المصادر:** صحافة · X · **ظهر في 1 يوم** · **أعلى نقاط:** 83 · **تطابق:** 71%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiZEFVX3lxTE84WTV1QUhpTjdfT2pnaWNsaHdlV0kzQVVfeERMeHc1VUJ2eDk3a2tqYWxDaS1xbi1ndmEwYnIwVXJZV3FOdWFKaGV0cE04NnlEakpmY25ON1pudllNSGF6SDZONmo?oc=5)
+
+### 2. JUST IN: China's DeepSeek launches "Super-Agent," a new open-source AI coding agent designed to rival Anthropic's Claude Code.
+
+- **المصادر:** صحافة · X · **ظهر في 1 يوم** · **أعلى نقاط:** 80 · **تطابق:** 72%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WUZwYk1NRDlWdDJ2N0ZqTGlGY1NzaVAzZUUxdnVhLUxfRFVyWmszYWdZaE9qSEo3T3ZjSHBNb3FXZEZndHROQ3hUT1BoNDVUa05QeXJFZWU1UFJvSE1QcQ?oc=5)
+
+### 3. Here are 10 new free AI agent skills that turn your coding agent into a specialist, even if you've never installed one.
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 76 · **تطابق:** 85%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMQWt3UEZVUXZEUF9VWE1nMlh6NFc0YWJfY0ZhSU1VNnF6S19ybzBsQ1psVWFRQlR6d1pTWmFCZkk0MjczSjB4Mlo1N2ZENFRjeTJPM1QyTDlja1VmaDhVeA?oc=5)
+
+### 4. Game assets from your coding agent — but check the repo before installing. mcp-game-asset-forge is a public GitHub repo documenting a Python MCP server for developers generating game assets through AI coding clients. It outlines how to go from prompts
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 77 · **تطابق:** 77%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FYzlGMGMxQ2dUTnpPOUYxX1Q3RW5Hcy1pNmRqZHRFV3RsUVAxZ0NpQWlyV2c5b1picmxPZzd1WXM5VElfSTdQVlBSc05xRWx1d3FkRHNSY0VMaDJlVTJF?oc=5)
+
+### 5. DeepSeek drops enhanced coding agent with aim to rival Anthropic
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 70 · **تطابق:** 74%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xOXU3QkQtLURIVEY5Z2FEblRHeks5MWtHbE9KUUNwMGtTMk13TXRMNU93UlpNbVoyRDh2ekJ2NnNLZXNNLTZHQ3dSWVRtX1JIZWV6bFQzZDZUaU5zb2ZQVWZvSmg?oc=5)
+
+### 6. The free tier of Paper is super restrictive. 100 MCP tool calls/week doesn't get your far. is an open source alternative, no limits on MCP tool calls. Unlimited designs. Let's create some hype!
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 66 · **تطابق:** 79%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkSVVVXzUzUElJRnlycUVxUmFKMGdKbW5hbEl5NktGWEpHNmVhelQzaGFKMTZaVk9aU19sZG8taFpIYWZlYTVzUGllOHh4YWVWbEFRQjlZajRrODRJYTZn?oc=5)
+
+### 7. Qwen3.8-Flash is now live in Hong Kong on Alibaba Cloud Model Studio. Experience powerful reasoning, high-speed performance, and multimodal capabilities for building intelligent applications. Build with Qwen3.8-Flash: #AlibabaClo
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 72 · **تطابق:** 80%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPalRST0JtMkFQNTBPZGZKRm4xR0dnY3hmWlZFTjhrT1JjOHRyQTNDa0NIdHJwS2J5cWdnbVFrNzhoSTNFRmpRQU12eHZLOGlGc3lvakxvb1BxZlN6S3BjU0FGRmg?oc=5)
+
+### 8. Vibe coding works when your agent has the right tools. Connect Apify MCP, build your app, ask the AI which Actors would improve it. @AiHomegirl does exactly that - and the AI surprises her every time. MCP setup ↓
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 71 · **تطابق:** 85%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ba1hwTFExdHZfdFZXTVZyUTJldWVBalNPWmpoNGhwNUhLOHQwSjRCOEMtRUVpOUVNQkVGU18tOWR2WElRQ1NGY0JlQnZxUG5PdlhONDg2UDJ4Zw?oc=5)
+
+### 9. Build Personal AI Agents for Python Developers.
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 69 · **تطابق:** 84%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HcUNleVMxblBLU2tQX0kzTTNoSkFuT2NXWXFkWkh3eXdqd1pZcy0zbFhBaWVqNDQxcllicVNwTVZJdzkycEhQaEw3NjVoS09vRUQ0d2ZFc2NQVUhz?oc=5)
+
+### 10. Here are 10 new GitHub repositories that broke out this month, all free and open source.
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 69 · **تطابق:** 87%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iQllzVFVyTG1iVk16WnZOSW52TFVObmxvU2pKT2pwMjBuYmJIZk92ZGlEdXFscG5BekxEUVJZZlpPMWIzU2NDejB6S1pmcDdpZmJfdl9rYVRScGw1SXNacQ?oc=5)
+
+### 11. New Google paper finds that the best AI agent scores only 50.6% on physical engineering jobs, often by missing a hard safety or feasibility rule. Engineering benchmarks for LLMs mostly test textbook questions or toy problems that top agents already handle w
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 63 · **تطابق:** 72%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UZDdyeG80NHI2aUJTNWpkUzZycVNnaFdDdEFSc0ZKdzdkUDAtSi0wQWdETFBtSFlGZlpWM2dnVnlaWWs3X29rX3V5b0RFeHIySUI2bU9aVVBORjdUdFpqLTFUTQ?oc=5)
+
+### 12. JUST IN: DeepSeek and Moonshot used OpenAI’s GPT-6 Astra to train new models
 
 - **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 66 · **تطابق:** 86%
 - [افتح الرابط](https://news.google.com/rss/articles/CBMiW0FVX3lxTE13WWw2d1dfUDhMYlJxYlVPUGRIcEVjTnhEZDRBLTRLWVBkZHU2cnhXTklTUExFWHlHSGJnY3BCZjBkQm84U0xuUm5qV0c5TWxnMnFIRkN1X1oxRjQ?oc=5)
 
-### 2. Google’s Search business is being CANNIBALIZED by AI. Alphabet shares plunged nearly -10% after hours as Search revenue missed expectations, even as people asked Google more questions. The reason is that more searches don’t automatically mean m
+### 13. Google’s Search business is being CANNIBALIZED by AI. Alphabet shares plunged nearly -10% after hours as Search revenue missed expectations, even as people asked Google more questions. The reason is that more searches don’t automatically mean m
 
 - **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 66 · **تطابق:** 86%
 - [افتح الرابط](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZMjBKbTlUbzZPemtBOFRpTkdJVnJkajVLeTJodjc5THBGdTN3RFFMMy1yVjlOczdPX1dXeXR1SS1qMVlyRUpGWTdRakRwVkZobm5pX3B5ZWVHTThuQ0N5dQ?oc=5)
 
-### 3. Browser Use Arrives on Unsloth, Qwen3.8-27B Browses the Web Locally
+### 14. agent-shell gets its first 2000 GitHub stars https:// github.com/xenodium/agent-shell 😊 # emacs # llm # ai # agent # foss # oss
+
+- **المصادر:** Mastodon · **ظهر في 1 يوم** · **أعلى نقاط:** 65 · **تطابق:** 92%
+- [افتح الرابط](https://indieweb.social/@xenodium/117523638757111468)
+
+### 15. Net-merge, a Free Open-Source App, Spreads Your Downloads Across Wi-Fi, Ethernet and a Phone Hotspot at Once
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 66 · **تطابق:** 85%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xU25keURoSnlOR195Z3BITjlIWk02V3hfNUxybGxWN2VUc0xmSTRUNFVKZnl6d3Fja05HRTZfMlVnQjh3bS1ZWlNvZFoxQ1E4VUdWb1p2cmpiLUs1dE55YVNR?oc=5)
+
+### 16. Big Tech's AI bill comes due, but Michigan automakers see a rebound
+
+- **المصادر:** صحافة · X · **ظهر في 1 يوم** · **أعلى نقاط:** 66 · **تطابق:** 50%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiWkFVX3lxTE43a0hZMEswc0tiM1RCX0RiSXZLZ2xFb1FKNC01Q2FxNzdzOFA1U05tcUV5UEVCUWh2bGM2aXF1YnMwZUQ1bEgxT25WOFhhcjk1eUpxRHBHMXd3Zw?oc=5)
+
+### 17. OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning
+
+- **المصادر:** ورقة بحثية · **ظهر في 1 يوم** · **أعلى نقاط:** 60 · **تطابق:** 80%
+- [افتح الرابط](https://arxiv.org/abs/2610.36335)
+
+### 18. Browser Use Arrives on Unsloth, Qwen3.8-27B Browses the Web Locally
 
 - **المصادر:** صحافة · **ظهر في 1 يوم** · **أعلى نقاط:** 62 · **تطابق:** 97%
 - [افتح الرابط](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOG01Tkd1YjZmLW1QZ3Qyd2g4YjhCMmxsYjFkVktERS1FYlZqSVVsTFpFVl92NnVka2tqVjE3RzNXb2hXb3ExYmZHM3ROTUxjSnJTZVg2NEFlSWxlNHBwaXQ5ZlRCOC1paG4wZXNHTUE0T05jTDkwSXFEZTROLUpvdHN6YV8zX2x0R3Y4bTBXWWN2alE?oc=5)
 
-### 4. New Apple paper finds that, as training data grows, tool-use agents gain more from diverse apps and database states than from more tasks. that the mix of synthetic training data, not just its size, decides how well tool-use agents generalize to new benchmarks.
+### 19. The reason people prefer frontier AI subscriptions over open source AI models is that to run a frontier-level open source AI model locally, you need at least $10,000 of hardware. Even then, you won't get the best in the world, and that hardware becomes obsolet
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 65 · **تطابق:** 77%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yOC1YUXc2eVZKNlBYZEQ5SE1obS1ubHQxcXdSQ2pPZU03d01xZUFITnczaDdMZ18yMERQcVFmdXJmRmdnNWZCcE94dW9zSExpWEdsOThOTVpycmZPTHYyTEJB?oc=5)
+
+### 20. New Apple paper finds that, as training data grows, tool-use agents gain more from diverse apps and database states than from more tasks. that the mix of synthetic training data, not just its size, decides how well tool-use agents generalize to new benchmarks.
 
 - **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 65 · **تطابق:** 77%
 - [افتح الرابط](https://news.google.com/rss/articles/CBMiY0FVX3lxTE02c2psR1g2ZnJlVm0zNURKQlUzQU1nVVE3bkNpQUY3TzhJUkNkWmRya3pXcWNuY0VocGNHNmxsZnJLYUdoZXRVcW1zS0tWRG9uU0QtNFd6SUExUUxsSVFQOS1pdw?oc=5)
 
-### 5. 🚀 Fastest-growing AI projects today 1. Among these, the logo-design skill by kaankiziltug stands out for its comprehensive app... 2.…
+### 21. Harness Engineering — Assuring Code Quality and Safety When Programming with AI Agents:
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 63 · **تطابق:** 51%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiYEFVX3lxTE96RXJSN3NOVzZTV3o1M2JGQ0lNRjVJbHB4MkFteXdlaC10Y1NSUjl1QjFiMjRaR3J5SngwR1cyMHR3QWZNVW5RWWg3LWx6LXpQWHhHSGViOUducmVOM2I4Xw?oc=5)
+
+### 22. Chaos Monkey Coding Agent Benchmark The benchmark that actually matters what happens when coding agents fail, and whether their harness can actually recover
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 64 · **تطابق:** 76%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WMkRYMUhPUmVtQ0NVTXFlaVNqNW12cnRVeV9HSV9aR3F0ZTlBYXRQb1ZVUG1XSWQtVkkyYWZYTXFxeDhvR0Jaa3E3RVMtMWFDUEkwSms1aFdBQW5yenQ1R1ln?oc=5)
+
+### 23. Someone built a web browser that doesn't render webpages. It has passed 37K GitHub stars as a project written in Zig from scratch, rather than forked from Chromium. And in the team's benchmark, it used 16× less memory than headless Chrome. It's called Lig
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 64 · **تطابق:** 80%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mTHM1Z2dPckpGM3JXM2hXbmNCSTBPWUxDX3hvNmd6WVBEd3lkTmFuRS1mQWdjN1FOeUxta1Izc3Fub0tzNXFtU1FaMWFpOVBjdlhxbUZ0M3FnbFJHNkE?oc=5)
+
+### 24. Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks
+
+- **المصادر:** ورقة بحثية · **ظهر في 1 يوم** · **أعلى نقاط:** 58 · **تطابق:** 76%
+- [افتح الرابط](https://arxiv.org/abs/2610.36298)
+
+### 25. today we are releasing fastbrowse: an open-source browser agent, powered by jev driving a browser has always been the hard part of agents. so, we built fastbrowse to fix that. its cheap enough to actually run at volume. i benchmarked against browser use an
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 61 · **تطابق:** 97%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUYzhMSkpIZ043S3hxU0VxWG9zWVZYVkRlQUJlbEFNVUxzRVF3dnBTYjNhMWJ4VFdwM2pPa3RtUzU1X0pxSW1ORkJPT1o1NlFoSnlRUTBBR3oxckFGRE9mMQ?oc=5)
+
+### 26. 🚀 Fastest-growing AI projects today 1. Among these, the logo-design skill by kaankiziltug stands out for its comprehensive app... 2.…
 
 - **المصادر:** Mastodon · **ظهر في 1 يوم** · **أعلى نقاط:** 61 · **تطابق:** 93%
 - [افتح الرابط](https://mastodon.social/@Pulrepo/117523258037022806)
 
-### 6. Google AI Mode is getting more ads, whether you like it or not
+### 27. Before any Google engineer lets a coding agent touch a file, a separate agent has already spent real time trying to talk them out of the plan. That internal tool is now open source, and the name tells you the whole design: the Elephant-Goldfish Model. One agen
+
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 61 · **تطابق:** 95%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1renA0TGZmTU11OXAxMHB0bHJjc1h1RkJyVk42cU1Bamo4N01tc3Q0czVvMVFqd3hBcmVCcllrTHhvYjJZcTI1MzNDSmRCMmVXbmhNYVRNcXY2S3cteDNIOFdnTQ?oc=5)
+
+### 28. Google AI Mode is getting more ads, whether you like it or not
 
 - **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 63 · **تطابق:** 78%
 - [افتح الرابط](https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzMDlsSE9fcEtmQmEzRHRXVjVlMmw4bHlfU0VnRy1XeE1PSjZPQXVWUWZ4TmFlYWVYMERTbDljRkhqa3U4QkQ0MWhqOFh6RDZKRFlsYWNCMTJLcFE5ZXlQc0VB?oc=5)
 
-### 7. Claude Code regularly sends each background agent’s transcript to its model
+### 29. Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. Each response returns the model’s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Co
 
-- **المصادر:** Hacker News · **ظهر في 1 يوم** · **أعلى نقاط:** 61 · **تطابق:** 66%
-- [افتح الرابط](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 61 · **تطابق:** 89%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiX0FVX3lxTE95MUFwWUVlS0lYS0lLS2VXVEdreFVxWEl1MDZERVB4V1VRUmVDUDNIdTJBMHpkVWFBeUNLTnExS181Z1VXa0dxVzRnUTFsS2t6bzhvQmZpaFNJTjdwSnMw?oc=5)
 
-### 8. Look for Expo Mode. We built it with Google’s new HTML-in-Canvas API. I think we’re one of the first to use it.
+### 30. things I 💜 about Status Free No ads No tracking No email required No phone number No ID required No central servers No data selling Fully open source Anonymous profiles Multiple profiles End to end encrypted chats Private group chats Independent comm
 
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 56 · **تطابق:** 91%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1SFpseW9xNjZEUEpJeTlybHFfQUlzdExBMUNtTFIza29vMWJBUGZpRmZmUVhPWmFQa2QtWnBZYlNCeWpFbElRV3FIek5CTHBNN1h3bTN0WGs?oc=5)
-
-### 9. MacBook Pro with PROLED XDR Display and Touch
-
-- **المصادر:** Hacker News · Mastodon · **ظهر في 1 يوم** · **أعلى نقاط:** 58 · **تطابق:** 48%
-- [افتح الرابط](https://www.apple.com/macbook-pro/proled-xdr-display/)
-
-### 10. Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
-
-- **المصادر:** Hacker News · **ظهر في 1 يوم** · **أعلى نقاط:** 58 · **تطابق:** 74%
-- [افتح الرابط](https://divagr.com/blog/qwenputer)
-
-### 11. GitHub Launches Copilot Fusion, Claims To Offer Cheaper AI Coding
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 57 · **تطابق:** 64%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GLWFsR0dlN1dXcnNlTXJNU1N0QTJERWhrS1I0a09kMkZnalhSenA4Ync1MWg2TU14SnZiYWE4NGVLSk16a2lrVHJvcmJNSGtGcWhKVG9oQ3A0ZmR4TGc?oc=5)
-
-### 12. 🚀 AbraFlexi API Doc v1.2.1 released! The REST API docs now cover password reset (send-email, set-password) and a fuller authentication…
-
-- **المصادر:** Mastodon · **ظهر في 1 يوم** · **أعلى نقاط:** 54 · **تطابق:** 80%
-- [افتح الرابط](https://f.cz/@vitexsoftware/117523336164926036)
-
-### 13. GitHub is an interconnected community. You are GitHub, and GitHub is you.
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 54 · **تطابق:** 82%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GYTBTd3F4Sk83VFhQT1RaYXVhZXAwWGlsYWVRRkgxdjRkYmxHR3hxckFKT0l6clBOS0YtTWlNOWNmeDBrSzhLZThSZDdLWTFfTXhqYW9NSk5QSTJLenc4?oc=5)
-
-### 14. AI agents don't go rogue out of malice. They go rogue because they're built to get the job done, with whatever tool works. We documented 15 real-world agent risks, from credential harvesting to a production database wiped in nine seconds, plus how to govern
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 53 · **تطابق:** 83%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiakFVX3lxTE02Vk55TjdwcTBZVXd4MEZnb2pmMjdMSWRWdkRQY0ZzMmxQT1VWaWpZYTlXS0V1NU1TOVBIalZMX25ON1phcXJRQ1lUaUNpZHMza1gzS2d4VzRNZzNRTGw0N09BUmE3clphWWc?oc=5)
-
-### 15. The Agent SDK
-
-- **المصادر:** Hacker News · **ظهر في 1 يوم** · **أعلى نقاط:** 52 · **تطابق:** 84%
-- [افتح الرابط](https://cursor.com/blog/agent-sdk)
-
-### 16. We are experiencing degraded availability for the GPT-5.3-Codex, GPT-5.6 Luna, GPT-6.1 Sol, GPT-5.6 Terra, GPT-6 Luna, and MAI Code 1.1 Flash models in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 51 · **تطابق:** 89%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HMHRoaGZWWVFtbW1pV2JtNTVrZzlOc05ZMl85ZmFaSlpKVHVUN2ZQR0hhNHZJX1VDcEU1UF9aZ0c4aTVoQTFMTU8yR3h0SXg4MFVhY0x2d1lHQUVJRlNOUnBTVQ?oc=5)
-
-### 17. Where do users actually feel the difference with a frontier coding agent? Across 20,869 Agent Arena traces, we compared how users criticized the five top models (all from @AnthropicAI & @OpenAI) on Agent Arena: Code, versus how they criticized other agen
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 51 · **تطابق:** 81%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheENaTGF6dXRkOG9ES010eXN0T0JZSWl2Z3ZOZ0dtVnoyTWF6OENvdVZCSWxMWUpCZGVSQ1phbUJoNGdYOGZybFFrZGZrUkZQRTJBMEhxSXluUQ?oc=5)
-
-### 18. ✨ This is huge 👀: We're launching Android MCP, powered by the AppFunctions API! This lets your app integrate with @GeminiApp on Android so your users can ask questions that pull info from your app or take actions in it. To support this, we're also launching
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 52 · **تطابق:** 77%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsdVk3WVpXNElfSWJISzJTZmpPSFFka3JLbkVoNUhIaTNjbVNpRzczWmVVTTRHSTQ0S0RRWjZZRmlCT2pjUlo4djB1RjBkeGVjUEpINmJEMWNXM2ZTMVFGY2pVT3o?oc=5)
-
-### 19. Anyone have good Raspberry Pi jokes or stories? Sometimes, people get initially confused when I talk about Pi's and not pies
-
-- **المصادر:** Mastodon · **ظهر في 1 يوم** · **أعلى نقاط:** 52 · **تطابق:** 74%
-- [افتح الرابط](https://mastodon.social/@cadalac/117523376548405319)
-
-### 20. What's better than open source? Payment source. Can't wait for the new wave of SaaS that pays you to use it.
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 50 · **تطابق:** 87%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiXkFVX3lxTE45dVJJRUpFbkI5VEVtb0xVVFJPMUo5NVhJdENfbS1MZ1VHUzhGdVNOMXpOSk1fcC1vcUtNN1JwQk4tT0VqZU9pdnMyRzItamd6MWM5ZlFxamQxMGZLQUE?oc=5)
-
-### 21. 🐧 13 Best Free and Open Source Web-Based Food and Drink Software This roundup focuses on the finest web-based food and drink software for Linux
-
-- **المصادر:** Mastodon · **ظهر في 1 يوم** · **أعلى نقاط:** 53 · **تطابق:** 71%
-- [افتح الرابط](https://igeek.gamer-geek-news.com/@feed/statuses/01M63DZWPWHP4AZ42WGBJW19D7)
-
-### 22. Today, we're shipping real-time graphics. Using Sol 6.1 Ultrafast we can generate custom overlays, diagrams, and even interactive 3D scenes right on a user's screen, no chat. It's a new visual interface for AI. Here's me learning about LLMs + hardware. Demo:
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 53 · **تطابق:** 65%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91a3dUZTBDc1B5b0hsZTR3dU91U2pUV3oxaUlUS3NGREp5d2VDQ0NHelg4MXh1b1hpYVBqT3dNNEpoa2w0NHBfOWFqdGVyV2lQMjd5bWIxbjJuS0hQ?oc=5)
-
-### 23. "Ohh it's open source so fix it your own lol" Probably someone already did with the help of an LLM. But guess what? They don't accept AI assisted PRs.
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 50 · **تطابق:** 81%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ma0ZPRG54Z3pINVU2SmFHbUJRUHc0NHJHVHJaLVdNUlBTaFFjOG9DNjMtRHE1YkxnT19NUmc3Q1lQOFhKSVlsYnRHLTFwSkN3cGFkRjFRdmlFUzA0b3JlYlk3VjNxRlk?oc=5)
-
-### 24. How do people use AI for news and for other purposes? This is the question at the heart of our new report Authored by @_FelixSimon_ @rasmus_kleis @richrdfletcher, the report looks at this issue with fresh data from 9 countries 7 findings in thread
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 54 · **تطابق:** 54%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKZHAyTVY1X2hDMGltaUFPNXo1eU5yb1A4WVFyajhSTlJ2RTRoMWhwTk1naW9FSWVMeEpWNVNKVGdETDAydWFoN2JTWk9PRzJ5dllEbmozVk9nb2ctNlpISTVR?oc=5)
-
-### 25. Big moment for Voice AI. A typical voice-agent pipeline has three model stages. Speech-to-text converts the caller’s audio into text. The LLM processes that text and generates a response. Text-to-speech converts the response back into audio. For speech accu
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 54 · **تطابق:** 50%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hdjVmQm9TRjIyMTVqdWdlZFRCblNaUzd5TWVfZlU0bTFIRmRSR2FVdjNoaDRrVnRYbklBVVB4c0Z2dS1oMnRYb0RKaUxsNUVVQlF6TVhpQk5GU0lUak8yb0MzMUtmdw?oc=5)
-
-### 26. I use AI for a jillion things for work, every day. When people ask me the best thing I've ever used AI for: "Claude, use the MLB API to mute my (stereo, TV, laptop, etc) during all the ad breaks." A few questions and 10 minutes later, I haven't heard an ad in weeks.
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 52 · **تطابق:** 61%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfYXc1N2toLXpHeWdqTGdpaWpqZVpTZ0ZpYVNMMjhFVTFreVpqX3ktRElpMjFDYVZkOFdKUjFYSHdZTE5aLUVlQ0dNV1R0Q2dIRVZleGhGLWpWa0lSOUIw?oc=5)
-
-### 27. lot of people making stuff up so here's some more context you can imagine there's hidden enterprise demand for open source models that isn't visible but if you look at the top inference providers that aggressively go after this business, they have shared some n
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 49 · **تطابق:** 80%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiWkFVX3lxTE85U00tZ1dRYUgxWjJ3SDZ0SUlLa3prNW5LSEhUZ3c1d0tlQVRWdWJQQU9TQjVnR2pQNExGSWd4MWZwb0RzY2FMM3FDRnhkZ3dEV3ZUY1piZXRCQQ?oc=5)
-
-### 28. Introducing Jev Router for Agentic Tools ⚡ 1. Connect your agent to 10,000+ tools and models in one MCP 2. @TypesafeAI’s Jev picks the best for your task 3. Result is 96% cheaper than Claude! Try it with zero markup now > First 100 c
-
-- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 46 · **تطابق:** 94%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0c2dIVWlBZ1M2VGhjdFBoRzl6NVFwZjJFSjN5elpsY3E4OUFvZ0hEOGVHSmp0dDVhMXRyWkMxaHV6TEZKX2h1NHN1SDAzeEhRdzNTWDRlU2RnTzdS?oc=5)
-
-### 29. MRI and Open-Source Python Tool Reveal How Subcutaneous Drug Depots Really Form
-
-- **المصادر:** صحافة · **ظهر في 1 يوم** · **أعلى نقاط:** 50 · **تطابق:** 69%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUtBX1VZTEtUVmpUTE5hUnlUVmtfWHRPZEtQRE5janNMaVlRX2YwNWd5Ym1NdFNBYkJFdmVnZUh0Uk9TX0xaX1h0dTY1V3pDVlhVN3RZSWQ5Qi0xTzZ1RWdDQTVDRUxJNGhVVWtKRUJTVWd1Wjk0UjRPd05hNlFlUUg5cDZFMk9hNmx2ejR0dzFsTlNUMmcycm1FMW1aZ3hMQXJ0S3ktZw?oc=5)
-
-### 30. Cisco Debuts Open Source Tool to Track Dangerous AI Agent Behavior
-
-- **المصادر:** صحافة · **ظهر في 1 يوم** · **أعلى نقاط:** 46 · **تطابق:** 92%
-- [افتح الرابط](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejBkTmRhZXBzSzF3MEtNVVJIY0NBS1VWV3BYUzdIREhUbWxyVmZtazYxQ2wwZlpEX3MyWG5HdHVJWlhQeHBySU5WR2plVnE0WkVxUWI4dF9nM2VDMWxQdndHSnhHMlBJQ01BbTNPcTJYWVV5c19yQjZFYVZDZ0VOUDVZRUxpT2gwZndlLWt5NGIySHVUekM0VC00ZXN6V19fNE9lQlVCdDI?oc=5)
+- **المصادر:** X · **ظهر في 1 يوم** · **أعلى نقاط:** 63 · **تطابق:** 74%
+- [افتح الرابط](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HVC1ZRTBUSE51Z0FpNXdmWENOakpseWdFcWY1Ul9TT25wdkdyTzF0dXRPcEdSM0NJT25rNnRoc2x2aUU3aS1qRGJ0aVZqam5HODFKd1BhVXp2bTNVWElF?oc=5)
 
 ## حسب الثيم
 
-### ذكاء اصطناعي (26)
+### أدوات بحثية (48)
 
+- [Companion-Inc/feynman — The open source AI research agent.](https://github.com/Companion-Inc/feynman)
+- [aipoch/open-science — The open-source AI research workbench for scientific research and agent workflows. Local](https://github.com/aipoch/open-science)
+- [There’s more to System One decision models than Jev.  These 15 models are worth a closer look:   Jeva  Prism-1](https://x.com/TheTuringPost/status/2114422040929489241)
+- [alphaXiv Mobile 2.0 is here   • Mobile friendly PDF reader • Library with sharable folders • Custom feeds with](https://x.com/askalphaxiv/status/2115131377641509259)
+- ["Scaling Laws for Looped Mixture of Experts"  Looped Transformers eventually hit diminishing returns when you ](https://x.com/askalphaxiv/status/2115406473656451216)
+- [khoj-ai/openpaper — Open Paper is a workbench for managing your research library. Read, annotate, and understa](https://github.com/khoj-ai/openpaper)
+- [Representing the Unseen  Rethinking Visual Imagination for Spatial Reasoning  paper:  https:// huggingface.co/](https://x.com/_akhaliq/status/2115479847598195150)
+
+### هارنس / مهارات (35)
+
+- [Here are 10 new free AI agent skills that turn your coding agent into a specialist, even if you've never insta](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMQWt3UEZVUXZEUF9VWE1nMlh6NFc0YWJfY0ZhSU1VNnF6S19ybzBsQ1psVWFRQlR6d1pTWmFCZkk0MjczSjB4Mlo1N2ZENFRjeTJPM1QyTDlja1VmaDhVeA?oc=5)
+- [Game assets from your coding agent — but check the repo before installing. mcp-game-asset-forge is a public Gi](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FYzlGMGMxQ2dUTnpPOUYxX1Q3RW5Hcy1pNmRqZHRFV3RsUVAxZ0NpQWlyV2c5b1picmxPZzd1WXM5VElfSTdQVlBSc05xRWx1d3FkRHNSY0VMaDJlVTJF?oc=5)
+- [DeepSeek drops enhanced coding agent with aim to rival Anthropic](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xOXU3QkQtLURIVEY5Z2FEblRHeks5MWtHbE9KUUNwMGtTMk13TXRMNU93UlpNbVoyRDh2ekJ2NnNLZXNNLTZHQ3dSWVRtX1JIZWV6bFQzZDZUaU5zb2ZQVWZvSmg?oc=5)
+- [Harness Engineering — Assuring Code Quality and Safety When Programming with AI Agents:](https://news.google.com/rss/articles/CBMiYEFVX3lxTE96RXJSN3NOVzZTV3o1M2JGQ0lNRjVJbHB4MkFteXdlaC10Y1NSUjl1QjFiMjRaR3J5SngwR1cyMHR3QWZNVW5RWWg3LWx6LXpQWHhHSGViOUducmVOM2I4Xw?oc=5)
+- [Passing tests from your coding agent still don't tell you the change works Claude Code ships a /verify skill t](https://news.google.com/rss/articles/CBMiaEFVX3lxTE13MWZrS193TmRWQ2VCNEs0ZEtNeElqV3J2c3Z4Q1NzS0pHQzFKMERBUHZwa2drcHNWc3dwTlhqc3lNNGxUY2FtVDlUcFpjUDUxRy1xS3lxWFR4R3ZYNFphVnFXQzRfMDBX?oc=5)
+- [In the AI era, the most critical skill isn’t just knowing how to code — it’s knowing which questions to ask. @](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBabTlxLXZNamhsaEZmX1hlc3E1alpQVGhvVXVPajNRa2UtT3R5ZW5ZSFM4TjJmMVNtbFBydDZRQzhEVEJEclpuNFRaSWhST3k2blFxZTR5amtzZ2xYTXNtaTBBRU13QQ?oc=5)
+- [Should we take on more "harness configuration" type stuff in T3 Code? Skill manager, MCP marketplace, global a](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaMUJiR0VoLTF2Mm5xYU9oZGRSSnNXdzBYNXJSZFZybVJwcHgtZ2NRdGJ5UUhYLXJWeHdBS0tMRGFzUEJOZVVlNWs0NkliU2duUXVaWTdNOW8?oc=5)
+
+### مجاني وفري تير (23)
+
+- [The free tier of Paper is super restrictive. 100 MCP tool calls/week doesn't get your far. is an open source a](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkSVVVXzUzUElJRnlycUVxUmFKMGdKbW5hbEl5NktGWEpHNmVhelQzaGFKMTZaVk9aU19sZG8taFpIYWZlYTVzUGllOHh4YWVWbEFRQjlZajRrODRJYTZn?oc=5)
+- [grok bot already lives in x chat. you don't text it, it texts you mine ping me before a free trial charges and](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1seWRrTmJLUktaWWZJQWZWdjNtOW00VU15MXJ2M3lXV3RGZWozQnZ3QVY0Z1FoSks0MWhTTXRlVEtsOVVFUEF0M0NpVHIwSlNBN3ZiNkZtY3RSZDBoQ3c?oc=5)
+- [Let your Grok Bot / Muse talk to your Claude Code / Codex or any other agents Introducing Reason by Reason Mac](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBycGoxNW1nY1ZtUGNXeDZxc0dtdUQ2V2N3aVZnYnlodTgyMDJPMEZnX3ZhQVVVRUZUTE1PX0ZlNlNDRlRtclpLck5OU3d4S0M5RUdjb3FiM2R2eDlyVEMtR3Q1WDR0UQ?oc=5)
+- [Zro by just opened free daily access to DeepSeek V4.1 Flash and GLM 5.3 Flash. Here's what you need to know. T](https://news.google.com/rss/articles/CBMiY0FVX3lxTE55RWNhQlFwQmVPcmpKT1ppQ203MGhlQVlBei03Wk9qZFNxb2JKNGpXbkxoZ1BKdm9HU2JKSmlHRXQ3ek04OXIySG0tTE9sdFdrOW1rdFVSbk1ZNEl5SU1uSFVWYw?oc=5)
+- [Gemini's free plan just got cut down; is the $20 Pro tier worth it now?](https://news.google.com/rss/articles/CBMib0FVX3lxTE5fMkhrNFlnbERKcGV0TkE3ZUVMOGozYWNCdjBKbEFBU1VMRWNpVGdUV3BTc3ExMk9UaXFpdWlCcXJvTFBtOXlGM2NQMEp6QmJnemxpbkVkQkhBQ25DbW55WFZvaXBtV0tIWDJOaDVJVQ?oc=5)
+- [Giving $10 free credits. Can get 10,000 decisions. You can use out of the box decision API along with cli you ](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrM1RSQWh0LThUTHIwaTdSeG1jZmJ0SWNjMTUyYXg4VHhKcDYzQnR2Y19iUWxDZkt1bFRCblZwVlppZmhZUnB2UE9HREx4VTB0OEpoQk1BcXFSTWdvWnRNUXl6Sjk?oc=5)
+- [ChatGPT Gains Access to iCloud Mail and Calendar — Even on the Free Plan](https://news.google.com/rss/articles/CBMia0FVX3lxTE1DcXpsOUVRSGtUTjJQU1dsZUlWdTkwZG5zZnViQ3B6RjNhMV9YUUFVQllnUTV3bE9obktVX1dCbGVhaFMxVHA0SWpjRm1BVnRaZDAxRnVNdHV1RjEtNlk3UFBNVm1JX2hZUjIw?oc=5)
+
+### إطلاقات (43)
+
+- [IFTTT.ai](https://www.producthunt.com/products/ifttt)
+- [GPT-6.1 Terra from @OpenAI is now available in GitLab Duo Agent Platform. Access to the models you want, in th](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lLTBVNmwta2V3bXRuX25KNXluT0x6M0p5M2VCb3FUVjRBOU5zeUowYVNESUVnN3pzMmNoWVBuUTdQaHhyQW1OLURpcnNBcmtpaXFsWlkzU2x0LWs?oc=5)
+- [GPT 6.1 Terra is now available in Framer. It’s close to 6.1 Sol at roughly half the cost.](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4ycU9fWnRZYVNYS2p4Zk1KaF9mUUhyTm04MnJhWkJBVkdjcl9rQmJIeHVZdGE3VU82c1VBUkt4OWN0NVlyOEhWVXljVTVqRkVUTEk3WTl1dC1JUjRLOHhlYk9rMTYzUQ?oc=5)
+- [Now available on Databricks: GPT-6.1 Terra. On our OfficeQA Pro v2 benchmark, it shows a large quality improve](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zN2lwbW1QXzQxV1VNR1RmelpSaXM3cEZaRTBnX3pyUzFtVWljdldtZnJXUVA1aEhyRE1WMmRJd3dIQVFwOE9hYU56c01CS0txU1ZNdUxzcHFxeEw2NUVSWA?oc=5)
+- [Suno MCP](https://www.producthunt.com/products/suno)
+- [Nomos Glashütte's most popular model is now available in a bigger size and features a new dial colour. And we ](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IVmhVdTJvMFRQdVlMaGJBNVU0NXFIbDAwdUdnV2RDVDl4U1UteWNxRmJyV3g3ZEl3b0JzRzd1ZmxWcHhSbVd4U0RRYXluQ3hsbC01OGk2T3M2V1ZkdnFB?oc=5)
+- [SpeakON Agent](https://www.producthunt.com/products/speakon)
+
+### كتابة علمية (2)
+
+- [Meta details model access and clinical-data control in $2 million university program](https://news.google.com/rss/articles/CBMiogFBVV95cUxQMVF6VXVOZVktaTNiZVhpcTZpalo4cHNCUEp5YU9iZ0pmV2tOVG8tVWh1SjUtRkt2VjZnQ25rNGRZcHNaMUJ4UXQ2RFRfNFo3emlQUlNwQkJxejF1TUtHVm1kcUtCUk4wN2E1Si1GVG9VMkpydm9qRkQwMjNoU3hqanlVaEt6UDhtbTlBNEdmRVV4SHZxYXdYTXRMTmRXZVFGdHc?oc=5)
+- [Six-Year Research Program Delivers Disaster-Resilience Curriculum](https://news.google.com/rss/articles/CBMihgFBVV95cUxQMFEtcVQzLWg0QmdmOS1tWFo3ZEg5cmhRZnNOWFRMbkJ5TjNSc1B1OUhtZTJCWVFfX25GSTFFZlIteURRTGV6YWhHZ0gtdTlab3Z4QUxjNkZJRkQ5aHZYSmp2UHZXWk52YXVJZnpKLURGMXVlUENFLTJaVXpETzJKdUw2cnkzZw?oc=5)
+
+### استدلال (17)
+
+- [Qwen3.8-Flash is now live in Hong Kong on Alibaba Cloud Model Studio. Experience powerful reasoning, high-spee](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPalRST0JtMkFQNTBPZGZKRm4xR0dnY3hmWlZFTjhrT1JjOHRyQTNDa0NIdHJwS2J5cWdnbVFrNzhoSTNFRmpRQU12eHZLOGlGc3lvakxvb1BxZlN6S3BjU0FGRmg?oc=5)
+- [Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. Each respon](https://news.google.com/rss/articles/CBMiX0FVX3lxTE95MUFwWUVlS0lYS0lLS2VXVEdreFVxWEl1MDZERVB4V1VRUmVDUDNIdTJBMHpkVWFBeUNLTnExS181Z1VXa0dxVzRnUTFsS2t6bzhvQmZpaFNJTjdwSnMw?oc=5)
+- [Open source Chinese models need to stop using Claude and GPT reasoning traces for training; otherwise, they wo](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OVkpta0FVakxVNWNjM0k4SG5TMG1rVzBOVnViZmxST3YzcS1KS25DcU9pR3lxRF9oVHJvaXdBcXV5czdIRUtPZksyMG02VjJwZk5LMDRkdVZaZzREZEdKQkVqWQ?oc=5)
+- [In AA-PersonalityBench, GPT-6 and Grok models are the most Direct and most likely to use an Answer First forma](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XNk45TWlQR2xab3lGdHBnRC1XUmNkVEY3QU1DdEFJY3ZDVzhSLXVqcFBMcTR0YjNfSnF5MS0xbDZzcnNaM2hWY3dmOXJETGpaeWdjX2g0b0NDS2Z6LU9oajc5c1dWRFk?oc=5)
+- [AI is developing inference (i.e., reasoning) models that compound tacit knowledge that we humans are unaware e](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BRDJueTY1MXlqR1h3U0oxTWRsOWRucGtFcE04a3FMMEY0dkk5Y2tZSjU3UkdMRjZxNjhmd0RxcV9WaUEzTjZYQV9SU3kwT01RUjhpQTczWGV1NjcyendhZU9CN1Q?oc=5)
+- [You don't say 🤔 "The internal model’s reasoning jump comes from more aggressive RL, including training in game](https://news.google.com/rss/articles/CBMiW0FVX3lxTE45VTk3ZElvM0RkRUthS094RTMyZ1BIdzhIZUpaRE1sS2MzNHFDeE5tZVRIeDdYOUwtejdaTzdqR1FseE1QTHhtQzY4VHRHckgxMjJNUmRrRTRwbkE?oc=5)
+- [The 1017 abliterated build of Deepseek v4.1 flash is live on the API too! - 40% fewer reasoning tokens - 2x fa](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzZzdzTE84WXU4bEROaWduTFFkSnFEWUZmb1I1U3ZxV1o3ZjNXdmxEb25Ec2NWZkwwZVJSYzVWa2RVcTFYYzQ1dUFuVUc4SDFKS0o3TTI5NldvNGR1WXZnWktvZzk0NkE?oc=5)
+
+### تعلّم (2)
+
+- [Don't sleep on AI's ability, and I use that term in an umbrella capacity, these tools' ability to help lift th](https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4UlRUWmI2Ukw1ODZSaGpjLUY5a2dqT2ZMNFVwQXJ2cmhCN25lR1dnYXFyS3VyMjY4WXl4dFc2dHg5WFBkbEpSWjZaa1FWbmtfRFozZDhSb1d1SHpSbXljUnpqVQ?oc=5)
+- [New on AITopTools: LongTerMemory — LongTerMemory is an AI study tool that turns uploaded learning materials in](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXUmpaaTY5Qk1KSmliS3owOWVvZnk0MWE2Ym52WjJUSmpBcURhY2xvU2xlWFdHaEhxR1FwTTVPXzdvQW4tZjNjUG5ldU41Njl5RXVrZnNOd2FYOVJmSzBDLQ?oc=5)
+
+### ذكاء اصطناعي (133)
+
+- [JUST IN: China's DeepSeek launches "Super-Agent," a new open-source AI coding agent designed to rival Anthropi](https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WUZwYk1NRDlWdDJ2N0ZqTGlGY1NzaVAzZUUxdnVhLUxfRFVyWmszYWdZaE9qSEo3T3ZjSHBNb3FXZEZndHROQ3hUT1BoNDVUa05QeXJFZWU1UFJvSE1QcQ?oc=5)
+- [Build Personal AI Agents for Python Developers.](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HcUNleVMxblBLU2tQX0kzTTNoSkFuT2NXWXFkWkh3eXdqd1pZcy0zbFhBaWVqNDQxcllicVNwTVZJdzkycEhQaEw3NjVoS09vRUQ0d2ZFc2NQVUhz?oc=5)
 - [JUST IN: DeepSeek and Moonshot used OpenAI’s GPT-6 Astra to train new models](https://news.google.com/rss/articles/CBMiW0FVX3lxTE13WWw2d1dfUDhMYlJxYlVPUGRIcEVjTnhEZDRBLTRLWVBkZHU2cnhXTklTUExFWHlHSGJnY3BCZjBkQm84U0xuUm5qV0c5TWxnMnFIRkN1X1oxRjQ?oc=5)
 - [Google’s Search business is being CANNIBALIZED by AI. Alphabet shares plunged nearly -10% after hours as Searc](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZMjBKbTlUbzZPemtBOFRpTkdJVnJkajVLeTJodjc5THBGdTN3RFFMMy1yVjlOczdPX1dXeXR1SS1qMVlyRUpGWTdRakRwVkZobm5pX3B5ZWVHTThuQ0N5dQ?oc=5)
-- [Where do users actually feel the difference with a frontier coding agent? Across 20,869 Agent Arena traces, we](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheENaTGF6dXRkOG9ES010eXN0T0JZSWl2Z3ZOZ0dtVnoyTWF6OENvdVZCSWxMWUpCZGVSQ1phbUJoNGdYOGZybFFrZGZrUkZQRTJBMEhxSXluUQ?oc=5)
-- [Today, we're shipping real-time graphics. Using Sol 6.1 Ultrafast we can generate custom overlays, diagrams, a](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91a3dUZTBDc1B5b0hsZTR3dU91U2pUV3oxaUlUS3NGREp5d2VDQ0NHelg4MXh1b1hpYVBqT3dNNEpoa2w0NHBfOWFqdGVyV2lQMjd5bWIxbjJuS0hQ?oc=5)
-- [How do people use AI for news and for other purposes? This is the question at the heart of our new report Auth](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKZHAyTVY1X2hDMGltaUFPNXo1eU5yb1A4WVFyajhSTlJ2RTRoMWhwTk1naW9FSWVMeEpWNVNKVGdETDAydWFoN2JTWk9PRzJ5dllEbmozVk9nb2ctNlpISTVR?oc=5)
-- [I use AI for a jillion things for work, every day. When people ask me the best thing I've ever used AI for: "C](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfYXc1N2toLXpHeWdqTGdpaWpqZVpTZ0ZpYVNMMjhFVTFreVpqX3ktRElpMjFDYVZkOFdKUjFYSHdZTE5aLUVlQ0dNV1R0Q2dIRVZleGhGLWpWa0lSOUIw?oc=5)
-- [Introducing Jev Router for Agentic Tools ⚡ 1. Connect your agent to 10,000+ tools and models in one MCP 2. @Ty](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0c2dIVWlBZ1M2VGhjdFBoRzl6NVFwZjJFSjN5elpsY3E4OUFvZ0hEOGVHSmp0dDVhMXRyWkMxaHV6TEZKX2h1NHN1SDAzeEhRdzNTWDRlU2RnTzdS?oc=5)
+- [Big Tech's AI bill comes due, but Michigan automakers see a rebound](https://news.google.com/rss/articles/CBMiWkFVX3lxTE43a0hZMEswc0tiM1RCX0RiSXZLZ2xFb1FKNC01Q2FxNzdzOFA1U05tcUV5UEVCUWh2bGM2aXF1YnMwZUQ1bEgxT25WOFhhcjk1eUpxRHBHMXd3Zw?oc=5)
+- [Fully automated AI-powered port in China Cargo moves without a single human via @_fluxfeeds #AIPort RT!](https://news.google.com/rss/articles/CBMicEFVX3lxTE90STlRVG5zeEpBOUtsZnVaSDlFdWFDV3ZjWVl2ZHRfal9xRXVFMDBxVmhhQVBUWVk2UXVBOW9wQWx2ajByaWhPeEJPcG1BbW1fT3BVcFFYTmMtWjg3OVgyZnZQRUNUemw4by1oQi1lcno?oc=5)
+- [Jevgrep is a new CLI tool for coding agents that uses Jev to find relevant files and verbatim source excerpts ](https://news.google.com/rss/articles/CBMiX0FVX3lxTE44bzFHenBkYUx2c1lydWF6S2JzSTVFeFJWbFVORW10TTEwdmlsNFZoRzRIazRnb3Q2bWkySFRnRkRtWnlMY2g2c3dqQnNSRk5JQTRyQ1VIRkNaekJkNGtN?oc=5)
 
-### وكلاء (22)
+### وكلاء (84)
 
+- [I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app](https://news.google.com/rss/articles/CBMiZEFVX3lxTE84WTV1QUhpTjdfT2pnaWNsaHdlV0kzQVVfeERMeHc1VUJ2eDk3a2tqYWxDaS1xbi1ndmEwYnIwVXJZV3FOdWFKaGV0cE04NnlEakpmY25ON1pudllNSGF6SDZONmo?oc=5)
+- [Vibe coding works when your agent has the right tools. Connect Apify MCP, build your app, ask the AI which Act](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ba1hwTFExdHZfdFZXTVZyUTJldWVBalNPWmpoNGhwNUhLOHQwSjRCOEMtRUVpOUVNQkVGU18tOWR2WElRQ1NGY0JlQnZxUG5PdlhONDg2UDJ4Zw?oc=5)
 - [New Apple paper finds that, as training data grows, tool-use agents gain more from diverse apps and database s](https://news.google.com/rss/articles/CBMiY0FVX3lxTE02c2psR1g2ZnJlVm0zNURKQlUzQU1nVVE3bkNpQUY3TzhJUkNkWmRya3pXcWNuY0VocGNHNmxsZnJLYUdoZXRVcW1zS0tWRG9uU0QtNFd6SUExUUxsSVFQOS1pdw?oc=5)
-- [AI agents don't go rogue out of malice. They go rogue because they're built to get the job done, with whatever](https://news.google.com/rss/articles/CBMiakFVX3lxTE02Vk55TjdwcTBZVXd4MEZnb2pmMjdMSWRWdkRQY0ZzMmxQT1VWaWpZYTlXS0V1NU1TOVBIalZMX25ON1phcXJRQ1lUaUNpZHMza1gzS2d4VzRNZzNRTGw0N09BUmE3clphWWc?oc=5)
-- [Big moment for Voice AI. A typical voice-agent pipeline has three model stages. Speech-to-text converts the ca](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hdjVmQm9TRjIyMTVqdWdlZFRCblNaUzd5TWVfZlU0bTFIRmRSR2FVdjNoaDRrVnRYbklBVVB4c0Z2dS1oMnRYb0RKaUxsNUVVQlF6TVhpQk5GU0lUak8yb0MzMUtmdw?oc=5)
-- [Me sometimes, trying to align my AI agent with my project goals.](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YUG5ENm5UWnNOZzVZQnpyS0pjOERfeVRET3hYN0VOMXg2ODcwZ2ZGaGN0dm04OE5HOV9hdE5sR2FodjFlU3NNRUF0UlhhVlpQQVg2cENpazBUaktNcXFB?oc=5)
-- [2/ crazy exponentials at GitHub, especially since agentic AI](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QUENOYnhlS2haN2RYdFd5cTI3dWpNRjFoS2F5WXhNT1VDQTFiQWExRFBnZ0xaZjFIM3E2TWROckotN054UzBnNDlTRkVXQ0RXeFZQcGV3WWo3U3NlMHhWMG53?oc=5)
-- [Sextant MCP is here! New in this update: • MCP: connect your AI agent to Sextant insights and real App Store d](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kR0NFTDh0WWMtRDk4ZTZRLVpNYk92bHl1bHRQVFpBcnM5aDRBeUM4Q19tZ25YdzNXcHNiVlI3aDFPcWxVV2NldTV0QzJQQjVQX0cxeDJDNXlwNFkyTFp6MFFB?oc=5)
-- [Meet Chelsea, an Airbnb host who uses personal agentic AI @Avatar to handle endless guest inquiries more smoot](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HR1pBaDJheXUwX1V3ZlVJa0VMODhzOS1PZ1dnSVhSNnFwaVRCVWlleVcybTVGODg1RGVOSC1UMTZ3anZ5T0NGa2pudG1HWUhxOTcyMDl1LS1iUWdKd1dyNW41ZHdUOUE?oc=5)
+- [Chaos Monkey Coding Agent Benchmark The benchmark that actually matters what happens when coding agents fail, ](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WMkRYMUhPUmVtQ0NVTXFlaVNqNW12cnRVeV9HSV9aR3F0ZTlBYXRQb1ZVUG1XSWQtVkkyYWZYTXFxeDhvR0Jaa3E3RVMtMWFDUEkwSms1aFdBQW5yenQ1R1ln?oc=5)
+- [Before any Google engineer lets a coding agent touch a file, a separate agent has already spent real time tryi](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1renA0TGZmTU11OXAxMHB0bHJjc1h1RkJyVk42cU1Bamo4N01tc3Q0czVvMVFqd3hBcmVCcllrTHhvYjJZcTI1MzNDSmRCMmVXbmhNYVRNcXY2S3cteDNIOFdnTQ?oc=5)
+- [Build AI Agents for Network Operations — Design LLM-powered NetOps workflows with Python, Ollama, MCP, and too](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CVFhOMTAzMEhkNVVHQUZHbktRTnJlelMtS1hpR3ZVVFFXajRydG1CWld2WkZtcUpkdlluVEFFMDA0MWNwZ3hlaHFpdVdSWVNLbnpSTkxzdTBYUFpVT080Xw?oc=5)
+- [AI Developers Build Harnesses for Reliable Agents](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lRzVCdjRQN1pIdkJuWlllUEx0VU9DREl0aF82RERpeGNlNzZpNDF1RGVELUR5aEp3YzhKMXJqUEdCenNhMDZTZjUzb00zUko0dUdJNWNNMA?oc=5)
 
-### مفتوح المصدر (26)
+### مفتوح المصدر (152)
 
-- [GitHub Launches Copilot Fusion, Claims To Offer Cheaper AI Coding](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GLWFsR0dlN1dXcnNlTXJNU1N0QTJERWhrS1I0a09kMkZnalhSenA4Ync1MWg2TU14SnZiYWE4NGVLSk16a2lrVHJvcmJNSGtGcWhKVG9oQ3A0ZmR4TGc?oc=5)
-- [GitHub is an interconnected community. You are GitHub, and GitHub is you.](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GYTBTd3F4Sk83VFhQT1RaYXVhZXAwWGlsYWVRRkgxdjRkYmxHR3hxckFKT0l6clBOS0YtTWlNOWNmeDBrSzhLZThSZDdLWTFfTXhqYW9NSk5QSTJLenc4?oc=5)
-- [We are experiencing degraded availability for the GPT-5.3-Codex, GPT-5.6 Luna, GPT-6.1 Sol, GPT-5.6 Terra, GPT](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HMHRoaGZWWVFtbW1pV2JtNTVrZzlOc05ZMl85ZmFaSlpKVHVUN2ZQR0hhNHZJX1VDcEU1UF9aZ0c4aTVoQTFMTU8yR3h0SXg4MFVhY0x2d1lHQUVJRlNOUnBTVQ?oc=5)
-- [What's better than open source? Payment source. Can't wait for the new wave of SaaS that pays you to use it.](https://news.google.com/rss/articles/CBMiXkFVX3lxTE45dVJJRUpFbkI5VEVtb0xVVFJPMUo5NVhJdENfbS1MZ1VHUzhGdVNOMXpOSk1fcC1vcUtNN1JwQk4tT0VqZU9pdnMyRzItamd6MWM5ZlFxamQxMGZLQUE?oc=5)
-- ["Ohh it's open source so fix it your own lol" Probably someone already did with the help of an LLM. But guess ](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ma0ZPRG54Z3pINVU2SmFHbUJRUHc0NHJHVHJaLVdNUlBTaFFjOG9DNjMtRHE1YkxnT19NUmc3Q1lQOFhKSVlsYnRHLTFwSkN3cGFkRjFRdmlFUzA0b3JlYlk3VjNxRlk?oc=5)
-- [lot of people making stuff up so here's some more context you can imagine there's hidden enterprise demand for](https://news.google.com/rss/articles/CBMiWkFVX3lxTE85U00tZ1dRYUgxWjJ3SDZ0SUlLa3prNW5LSEhUZ3c1d0tlQVRWdWJQQU9TQjVnR2pQNExGSWd4MWZwb0RzY2FMM3FDRnhkZ3dEV3ZUY1piZXRCQQ?oc=5)
-- [If GitHub is free, why can't I upload a 100GB project and use it as unlimited cloud storage? Why even use Goog](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HRkpHUm44aEF3SWtrUjFCdDdDWTJiS0RJNWxYQ0NaN3llOGVuMURORmU4VEZxOG0wU01jM2VsLVp3d0VGYUJkaEhxY2NWX2hKT1NTV3J4cmU2VTk5N19ZYUhn?oc=5)
+- [Here are 10 new GitHub repositories that broke out this month, all free and open source.](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iQllzVFVyTG1iVk16WnZOSW52TFVObmxvU2pKT2pwMjBuYmJIZk92ZGlEdXFscG5BekxEUVJZZlpPMWIzU2NDejB6S1pmcDdpZmJfdl9rYVRScGw1SXNacQ?oc=5)
+- [Net-merge, a Free Open-Source App, Spreads Your Downloads Across Wi-Fi, Ethernet and a Phone Hotspot at Once](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xU25keURoSnlOR195Z3BITjlIWk02V3hfNUxybGxWN2VUc0xmSTRUNFVKZnl6d3Fja05HRTZfMlVnQjh3bS1ZWlNvZFoxQ1E4VUdWb1p2cmpiLUs1dE55YVNR?oc=5)
+- [The reason people prefer frontier AI subscriptions over open source AI models is that to run a frontier-level ](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yOC1YUXc2eVZKNlBYZEQ5SE1obS1ubHQxcXdSQ2pPZU03d01xZUFITnczaDdMZ18yMERQcVFmdXJmRmdnNWZCcE94dW9zSExpWEdsOThOTVpycmZPTHYyTEJB?oc=5)
+- [Someone built a web browser that doesn't render webpages. It has passed 37K GitHub stars as a project written ](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mTHM1Z2dPckpGM3JXM2hXbmNCSTBPWUxDX3hvNmd6WVBEd3lkTmFuRS1mQWdjN1FOeUxta1Izc3Fub0tzNXFtU1FaMWFpOVBjdlhxbUZ0M3FnbFJHNkE?oc=5)
+- [today we are releasing fastbrowse: an open-source browser agent, powered by jev driving a browser has always b](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUYzhMSkpIZ043S3hxU0VxWG9zWVZYVkRlQUJlbEFNVUxzRVF3dnBTYjNhMWJ4VFdwM2pPa3RtUzU1X0pxSW1ORkJPT1o1NlFoSnlRUTBBR3oxckFGRE9mMQ?oc=5)
+- [things I 💜 about Status Free No ads No tracking No email required No phone number No ID required No central se](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HVC1ZRTBUSE51Z0FpNXdmWENOakpseWdFcWY1Ul9TT25wdkdyTzF0dXRPcEdSM0NJT25rNnRoc2x2aUU3aS1qRGJ0aVZqam5HODFKd1BhVXp2bTNVWElF?oc=5)
+- [just saying, Numbat is open source: 🚶🏻‍♂️ • 26+ supported agent surfaces • live monitoring and pre-action bloc](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GcWp3aDZnNEI5N0I0SVdqb1pURWVHZDJYaVlsOThlYUZIbEg5UXpaUTY1VGZ6WUVqSkR6czdDTjRSbkQ2OURCeC1qeHpFMXZ6bEFtaTFqWDlXeUk?oc=5)
 
-### أدوات مطوّرين (11)
+### أدوات مطوّرين (49)
 
+- [you can now get a free AI coding agent that works on your actual repo - free, always there, no trial. it’s jun](https://news.google.com/rss/articles/CBMiakFVX3lxTFBmX3F3Um9EUThLVmgwd3cwTTh5aVhNb0xhNHQ2VFdTc1Q0Y2k2WXhHQUctc1ZtSWtBR1RaYWpVZ2pkZF8zTlhxMFRGZ2c3NU4ySUxrbnl5U1BWZ3ZLOEZ2R0trVk9idGk3REE?oc=5)
+- [𝗗𝗼𝗲𝘀 𝗝𝗮𝘃𝗮 𝗦𝘁𝗶𝗹𝗹 𝗠𝗮𝘁𝘁𝗲𝗿 𝗶𝗻 𝘁𝗵𝗲 𝗔𝗴𝗲 𝗼𝗳 𝗔𝗜-𝗔𝘀𝘀𝗶𝘀𝘁𝗲𝗱 𝗖𝗼𝗱𝗶𝗻𝗴? AI coding assistants are changing how developers buil](https://news.google.com/rss/articles/CBMiZEFVX3lxTE12eFBYVHoxOW1pX21uMjVFbW95UDNXMmo3V2FlSkFHdTg5bDRfd05xZG5rSGx0Nm1kTmowcldXOGE1ckJIQWRlLUl1QVg3SlRlVzMtS3NHV2xhc0JmX1RncVc1Zms?oc=5)
+- [If you're doing browser testing with your AI coding agent, chances are you need to update pretty urgently.](https://news.google.com/rss/articles/CBMiY0FVX3lxTE13OXVyVVVzWlJFNUQ5cjhCUEYzYjdRcVVoZmt0SlBuSkZkSTBoRDlweVUtR09vOVlVcElUU3hUTWY3QVduMTI5RWx3SG5HMnZiTWxWWTFiTW56QnhmYVQ1OHdoQQ?oc=5)
+- [Python Seaborn: Create Beautiful Statistical Visualizations! Want to turn raw data into beautiful, meaningful ](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUOFhKekxxTnZsSWVFOVo5aWtHZ0g5Qk80d0tpNUJxVDdrYWNPS2dqR2gzTExBYkRoUU5TcnNEZnlOTmJKcUVLSFpKQkowUlprdjlnS0JYd3ZoYWxLcHc?oc=5)
 - [This is HUGE. My new video on Filament Daily channel. NEW in @FilamentPHP v5.11: JavaScript in Fields/Componen](https://news.google.com/rss/articles/CBMibkFVX3lxTE9vc2UxUnVnbWF5cUphNTJhTlRDVl8ta2VLc1NFOXo0ZUd2M196c1gxalpyendILXJvX3JMbDZyV0wtUl9SZGJYRko5Sk5kYmxjcEZob0FXNU11RV94WnVRZVpKSk1yc1A5elFnamFn?oc=5)
 - [THE MISSING LAYER IN AI CODING ISN'T A BETTER AGENT. It's everything around it. I spend more time babysitting ](https://news.google.com/rss/articles/CBMiakFVX3lxTE5lakJkMDJ3dDZLYUJrWGJoVV84V3NJMTB4c0dxeDNURVluODh0VmJDcnFJdG5sVWgzUUVvVjdxY0E0WE5FMVloemw5el9lZFhnakhWeDFrN0YzRGM4TjZoYjJmRFVHbWZvcnc?oc=5)
-- [We’re also now serving two fast, low-cost models: - DeepSeek V4.1 Flash, in public preview. Great for long-con](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DbUZEaVNwZFdEaFVDWnlmU1ZKUG1VUUFWdHZpMkdrUWlhSVVHMnZmay1EQ2hPSjVwY1lUVEN5cUJIOG5WU3ZBX2ZrcGhhLUFJb0xmdEtQZ3VBN3lxU0tR?oc=5)
-- [⛔No vibe coding 🚫No gen AI The only "AI" at Aitum is in the name. Everything we create here at Aitum is loving](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUzF0aFlfSGxLMGdVQ2x3bVZ2RzlPV0JTYWI1NmJJVUtLc1ZjbWxndVVOb0JzTWVhYXZpbGFZVlFvWTVRY3Z0S0M0MHNhU0VoQlNzSmRmRExqeTA3?oc=5)
-- [I am a big believer in AI coding, but today I asked my GPT 5.6 Sol (I know, I know) to use linear regression t](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VYlVCNkluZDNBNzBrdTctZVlBZWVvZEIxT2VfcGpkNmluVXhWbThETDlUXzQ3aGRHT1dmRDZGM2dobHh3Q0pJOHVzQ21QS2k4dHh1c3NMUEJoaWhYUVR4eDR3?oc=5)
-- [AI coding agents accelerate development, but legacy security is falling behind. That’s why we’ve built a playb](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aeEZjVllSbHRQOElxTmJEeWFVZmRncFE4d1IxUmpuT2J5Q1Bpek9ldVVwcGJpeGhuRGRyMVRLVXZaM1Judy02R19nVERoMW50V0VXamRicVBfRm1iUUk0?oc=5)
-- [The classic C macro # define ARRAY_SIZE(x) (sizeof(x) / sizeof((x)[0])) has a nasty problem. pass it a pointer](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOZkl3ZW5GLVlXbmVVc3hVam1peF9qTnZwSHFPREgzRVZaMW5qeFFFUUpXLXJpUzV4ZGhFZDMtVTlCLTRPR0FZQjYydTFDSEZnRk1DWllHLXZzY2RiS3dB?oc=5)
+- [Give a coding agent a task, not a pasted policy. In this demo, fx, @vercel's open-source coding agent, uses Bo](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbWt2T2huSWYxZHdzQmZ2SWpEcmpUWEFaUjdtaHV3S2pNTzZwRE1ZM24tQlVBX3hGWjNOZWJSVlJ5TW5vVHM2UF9CMElNbFNUMU9nLTB3XzJDS01uWWJOOHZ3?oc=5)
 
-### كود (1)
+### كود (2)
 
+- [wangzan101/Mika — Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps a](https://github.com/wangzan101/Mika)
 - [anonnerdfrenzy/survival-llm — A free AI assistant and survival library that runs on your own computer, with no](https://github.com/anonnerdfrenzy/survival-llm)
 
-### موبايل (6)
+### موبايل (20)
 
 - [Google AI Mode is getting more ads, whether you like it or not](https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzMDlsSE9fcEtmQmEzRHRXVjVlMmw4bHlfU0VnRy1XeE1PSjZPQXVWUWZ4TmFlYWVYMERTbDljRkhqa3U4QkQ0MWhqOFh6RDZKRFlsYWNCMTJLcFE5ZXlQc0VB?oc=5)
 - [Look for Expo Mode. We built it with Google’s new HTML-in-Canvas API. I think we’re one of the first to use it](https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1SFpseW9xNjZEUEpJeTlybHFfQUlzdExBMUNtTFIza29vMWJBUGZpRmZmUVhPWmFQa2QtWnBZYlNCeWpFbElRV3FIek5CTHBNN1h3bTN0WGs?oc=5)
+- [Building Native Apps With Expo and React Native We sat down with Kadi Kraman from @expo to talk about building](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIQllqcjEwRWJfU0hWTnR0YU1UY3p4ZWw1QzdPWXoxN1dWSkpIUjEzR3diX2kzTmVPOVdEaHJzM1ZCdzE0RGtsOVhkQzBkODhKWjVaMXhxX3Z3NWlxYkE?oc=5)
 - [✨ This is huge 👀: We're launching Android MCP, powered by the AppFunctions API! This lets your app integrate w](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsdVk3WVpXNElfSWJISzJTZmpPSFFka3JLbkVoNUhIaTNjbVNpRzczWmVVTTRHSTQ0S0RRWjZZRmlCT2pjUlo4djB1RjBkeGVjUEpINmJEMWNXM2ZTMVFGY2pVT3o?oc=5)
 - [✨ Gemini Nano 4, our latest on-device AI model, is available to developers through the ML Kit Agentic API. Wit](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkUTAwR2J3ZEZzT2FmOTBqcHE3QnJ6QTBMRXdHUUxpakdoS1FkMjA4RE1VUDVyUERreGRtNDQzZVhONHRRMzFzckllTWFsYjg1MWVkN3l0UVl1N3NqUG5BajdRY0c?oc=5)
 - [RevenueCat Android SDK 11.0.0 has been released. This release updates the SDK to Google Play Billing Library 9](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VMzZLZVJodVp3QnVPTFg3dzU4aW5IdEV1Y3g0bUpGb2tBeWtHSlJFMUhKQWNzNExHUWRFaTExMW1wUk9Yb3NZRjJ3YmFrZUdNdlA2N0RVUkg4XzMyZW9YQm1vQ0I1TnM?oc=5)
-- [Bring your app to Search and Gemini 👀 The new Connected Apps Platform (preview) is built on the open MCP stand](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPcTc1LTZ4UFg1bmFGMUdVRl93SHp5SGs5NFdQZjBmUXgyVkMzLUVUX3NqRmdaN2RxVHI0OWN4V1V3WFRvMVlqUkVSWHdKXzUwc1A1M2tJTDVIcGp1UTJTUw?oc=5)
+- [even the AIE CODE expo is insanely stacked, basically all the top coding agent companies in the world, i could](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sNzFDNWxGRW84TUFxdl9hUUJOVEpiWFI3cU9aWU1uMFZyRTZ4c1N1M2VxZEphN1gweEhJbkNYT1BkLU5GdWdlNi1FSU0zU3ZIYVRheGl6TWxMbWVnRzZ6Y2dNbw?oc=5)
 
-### عربي / RTL (1)
+### عربي / RTL (15)
 
 - [FalconSDR: An Open-Source RTL-SDR Scanner and Recorder with Automatic Whisper Transcription](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OZGlIQVBzV0ZoRmpwa2tEUmR6bGdJX0FxSEY0TGQ0VHBnYTAwZ040bVkzZThRWjZGTk1nXzRNeS1zMjktRmxkOFdJYzUwb0F2TjhnbEpwSWVWbVktTVhlSQ?oc=5)
+- [30+ Arabic Beginner PDF Lessons. All FREE! 🖨️ Want ’em? Grab yours here 👇](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wYkx5QnJzQkgyQ0VLTjRmcTdqeDMwMmxwQm5wNU5WTThCa0RNeVVvX0oxbHU3ZlNlUk1MMVZsZUxaUXo1dGlkazRSYmZpY3Q4Y2ptdzZ1QXFXWEk1RmktM1JDVQ?oc=5)
+- [New FDD memo from @76brandy76, @JenRichmond and @SimoneJWei: Qatar Foundation International has spent more tha](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fOEhFTzNxcGtCb282TVJIQlFENElidVgyLWVDOEZkMVhMR3lOVGlsNUFiRmJvY3VxWHhBLV9SZ25WN3VTY2lWdlotcDdJLWU3d2EzZ1N3WQ?oc=5)
+- [The General Organization for Social Insurance (GOSI) has announced the addition of seven new languages to its ](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vS2RKWTFTeUNUa08zVW5haWFjZlNmeTBGa2NuMnVldG51Y1RMQzBaMmVXaUJZTGJEZ3M0V0Z1VHpLMUxpWFV3SGszZy04bVZMTGswdWVTczlDYlpWdTJUTklON1U?oc=5)
+- [Build-A-Chip Bench has joined @FireworksAI_HQ's Specialized Intelligence Index (SSI) 💫 Developed by ChipAgents](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqUWJhTDZvOXRGRXFWSC1tRUp2ZXc0TmVXaTd4SDBCeXZ0a0luZ091b3BhUWN4YjZYT0lITnpMOF9IcFlFU21HbjlCWmd3b2hVa3NFTWVXdUJBdDNFOTNVal9NakM?oc=5)
+- [Mansoor bin Mohammed honours winners of 10th Mohammed Bin Rashid Arabic Language Award #WamNews](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMS3BkNnpIbThwRUZ1TVNZS3doenpRY3BnVllibzF0ZWNDRklBT3ZVcHpTcXFLWF9iMjZ0ckVaZ2Q0SlJfU3RwSml1VmFtNTgyQTZoTmpoaVhvRWc4dllBV3lR?oc=5)
+- [I'll give RFK Jr. a 0 for this, using Arabic numerals, or perhaps a "zero," noting that the English word "zero](https://news.google.com/rss/articles/CBMiYkFVX3lxTE51bjlMa2xBd0szcHFudHRhVWNRZnRZdDJhaUVkeUFuY0FPbk50dzJDSHQ1dWxBcDQ1X1QwV0FVVEFoTF9iVnZvdEo4T1IzZTlyX2ZlS3NMek0wLUtkYS01MVZn?oc=5)
 
-### عتاد (4)
+### عتاد (49)
 
-- [VeriSilicon launches GLTiny 3D GPU model for wearable devices - Vietnam Investment Review](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTEdoUlJyazgzUGUxbnAyU3B1Q3AyaklJVFdXZ2tPS2g0QW9WUUhGaXdqNXcyYy10ZDdGalRlTG5NVHJNT2xnNHJ3Wm5tM3A3Z1oyLWUtSjYtT2ZrXy1jakdHSGJoN1VqY0tnZmFOem5NVnA3VWx1NmJRTk8xVzcydDZXMEhmZXhycEYzUHVNOFhaZHlweFBZ?oc=5)
-- [PIX 2610.28 Expands Shader Profiling, GPU Crash Analysis and Agent Tools](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTnNhTS1uUlJnZ0NvMVJScjFPOG13N1FPNFppa1N2S0k2dGpnLTFOa0wxcndfcDd5OXBYUXVZMndfQnFrN2VSeFFHdnlXbllMWWcxRnQzZGZsUkdOQkRabnJPVEI5SFZ6S3A3Uk9KRWJXNWpKbUMzQmJzRVhjR1pYamFHLTNvblFzb18wZG1yNTE0RF9xQ1ZLaWFHMWZwUE5tVGQxSGJ6b0EtTnlwNDRrNG5LWjN1cGNNdGh3UmdRd294UUV5QnJ2QQ?oc=5)
-- [Economist Warns Against Debt-Funded Future Reserve Amid Semiconductor Boom](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmw4ZHk5RkxDWlZUX1VCUDM2b1J1THpSTEF1R05FR3BiMVpzajVzX3E4Z0VJcjBhbDYtb0dBU0VoaHk3bTRyandYRjl4S0E1YnBmZE9neXZuVnd1a1RhMVF2VXRzZnc3UGZGMkxKVEVjamxqTldsdlZSV0FLOWdRbVVaNmc1RVpNVko0MGx3?oc=5)
-- [BOK board member flags won volatility despite AI chip export boom - RTRS](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZS03SlFTZ0ZMMjJDRVFNZkg0aXVfQ0dPZ3o1LUlsTzFnRFdTMnA1VlZ3M3dfZWhHRUNCZGllTlVFNmFKZVJqNVg5aFBBVWUyT1dlbXdKVkVzb3VwUlJaN1BGcGpBcjRFRERSdUtqZ2c5QjZ5cmxuUzZuUzI3SUtOakFpd0ZXaXlNWV9LY2E4V0Fyak1WaW1uemZmQ3Y1dFh0Ym12dTF5dUtjaUZHbXB0NXFoLUI1MV90bnFvUU0xYXlwbkQwTGlCSkZHT0VoUQ?oc=5)
+- [Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.](https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFNkRkh3WU5iV1c3dkY2RFNGWEhWaGg3bVgwMGFLUElud2FDUWVuNXZSRXlvMUc1N2k1RmRRQmNtS0Y4c3VLRTNpYUI3eFdJdFlvWGQzMGZWNWJzdFlBRTlMZlFMb2lHWTQxR2dGWHoxLXlLT3pjbXlJTGZ5SmR0M09CZTZmekllV3RVLTdwajBqaDlGZTg3NkZucEZEbVFHUnFPbXVVQldaZ3Va?oc=5)
+- [IQM’s Cloud Users Now Access A Fully Entangled 54-qubit Chip](https://news.google.com/rss/articles/CBMie0FVX3lxTE1sVzBwVEVSS3gwTUZRLWpNNXE1YVlpTmxVSjFVblVzeGNZVzNCSzJ5Nm5RQW41R0wtdkF3bUIyQjhiVFp0MVZmdGNyc2xLdjNmM3g0WHNjOTF2YUxibFRLaERoMElJQ0J1WkxzUl80NnBOVWpIaU1veHM0aw?oc=5)
+- [Texon Taps Receivables for $97 Million as AI Chip Demand Strains Capacity](https://news.google.com/rss/articles/CBMidkFVX3lxTE9EV1lLMkZBYzN1ZUowTE9HdW14THQtVk9UM1ZLQmkwS2djdzJCamY4LXdRSXU1eW1UbTAwVUFDcS1xaXRYQjlhS0FzSTUxLXgtR1lMOXQxeDlTVFdyMkpIQWFoWXpHVlpIb0Q2bkVsNThQN3llWlE?oc=5)
+- [Dutch economy grows 0.6% in Q3 as ASML and chip-machine exports pull it along](https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0pQei1FTVNOeGd6bzdNM0RVTTEtemRUX3BLTE80dVA4M1FreVRCSzdxQmxrQnVJYnZHbFpVTjdweUVsc0FZbkJTaUdKblFMc2djSXdvX3AwM2RRZUZVNzRoeEotTnVOWHkzZVdheFpwaDRVUEpNVmEzeEZ1aDdPaDA5TU0taDRabnZqcFJadjdmNjFFV0FwM0t6Z0pDLTBfRk5nSkpueWtUZ1NpNzB3?oc=5)
+- [Taiwan semiconductor output forecast to top NT$9.1 trillion](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RQ0JmSWRkN1g0ZE91RzFmV3JlZDRyWHkyZmVwd2ZXN0dUMnI5cFMzNHJhWTBwbE1iS0VFUjB2NHJPbG5RaVl3Mjg1VWctbkxIc0FIOFByTFQ?oc=5)
+- [EnSilica Secures $2.4 Million US Healthcare ASIC Contract and Completes Life-Sciences Chip Design](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjlqYkNVOWtoRjRNT05GYVRnT21fMkNPbzZtWmhRLWFzOVZfUUhGMFBMam5hSU0zVk5vY3ZRNnBjTXZrNm0zWVNWLThhZ29iZXBUM2EtdnlLbGpIMy1iMnoySVhUbXEzS1B3VGdKU082dHhqZE4tejZOQjVIRFI3S3Rtdw?oc=5)
+- [Chip Stocks Slide as Samsung Profit Misses and Big Tech Trims AI Spending Plans](https://news.google.com/rss/articles/CBMidkFVX3lxTE5saFdCNzk5anM4Vi11LXdrRWtsZ1hLY0VGVHZrV3o3dzAxSzJFV3VIRHVKbmhJRDdfeXRpbXU1TGxiRGJJRlFUUkNmbm5fUU00LTJtSEhOa2wxOFRFYm9kZVVkWm9VM2Y5M3drNG40Rk90MDlXeFE?oc=5)
 
-### مجتمع (13)
+### مجتمع (159)
 
+- [agent-shell gets its first 2000 GitHub stars https:// github.com/xenodium/agent-shell 😊 # emacs # llm # ai # a](https://indieweb.social/@xenodium/117523638757111468)
 - [🚀 Fastest-growing AI projects today 1. Among these, the logo-design skill by kaankiziltug stands out for its c](https://mastodon.social/@Pulrepo/117523258037022806)
-- [🚀 AbraFlexi API Doc v1.2.1 released! The REST API docs now cover password reset (send-email, set-password) and](https://f.cz/@vitexsoftware/117523336164926036)
-- [Anyone have good Raspberry Pi jokes or stories? Sometimes, people get initially confused when I talk about Pi'](https://mastodon.social/@cadalac/117523376548405319)
-- [🐧 13 Best Free and Open Source Web-Based Food and Drink Software This roundup focuses on the finest web-based ](https://igeek.gamer-geek-news.com/@feed/statuses/01M63DZWPWHP4AZ42WGBJW19D7)
-- [🔁 Async/Await patterns I use daily in TypeScript: → `Promise.all` for parallel independent calls → `Promise.al](https://mastodon.social/@mzunain/117523141565405014)
-- [Ah, the riveting saga of the 'else' keyword: a tale spun from the original Germanic runes of coders past](https://mastodon.social/@ngate/117522248517532212)
-- [Have we collectively forgotten about # backups now as well? And just..](https://cloudisland.nz/@Firesphere/117523377998810356)
+- [noalloc proposes compile-time and test-time enforcement of zero heap allocations in Go, filling a gap the stan](https://mastodon.social/@godaily/117523614015776913)
+- [Walked a small feature from backlog → live with dsh-delivery-board](https://mastodon.social/@jerryxff26alt/117523464878743613)
+- [RE: https:// social.sciences.re/@ffigon/117 514611802481382 «Open source is impressive, but tries to be apolit](https://mamot.fr/@matiu_bidule/117523736266179872)
+- [Today we're releasing Keila 0.40.0. We have revamped the form editor and you can now use HTML or MJML to desig](https://fosstodon.org/@keila/117523641677253935)
+- [🚀 Dawarich 1.20.0 is out! This release: 9 new features, 7 fixes, 2 improvements 📦 docker pull freikin/dawarich](https://mastodon.social/@dawarich/117535166484107621)
 
-### تطوير (10)
+### تطوير (33)
 
 - [Browser Use Arrives on Unsloth, Qwen3.8-27B Browses the Web Locally](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOG01Tkd1YjZmLW1QZ3Qyd2g4YjhCMmxsYjFkVktERS1FYlZqSVVsTFpFVl92NnVka2tqVjE3RzNXb2hXb3ExYmZHM3ROTUxjSnJTZVg2NEFlSWxlNHBwaXQ5ZlRCOC1paG4wZXNHTUE0T05jTDkwSXFEZTROLUpvdHN6YV8zX2x0R3Y4bTBXWWN2alE?oc=5)
 - [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+- [DeepSeek releases the open source prototype of its Super-agent](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWHRETTY5R044bXRaM0lhdFFWeU5MX3I4elNvSlZUSE1YNGtYZktuWmNSV0tna0l0T2JVM2d5RF9SS0p4TjNWOW9QU09KUFZvTk1mc0FReEZTS2ZJckFjaWlkVU5CMDBTUHJ6SFRXYlhaTHFCcGdnanlDYl90YjVnWm5ZOENhWWxkRG9FaGFkRQ?oc=5)
 - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
 - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
+- [Zero click, silent, remote Android DoS](https://smsofdeath.com/)
 - [The Agent SDK](https://cursor.com/blog/agent-sdk)
-- [MRI and Open-Source Python Tool Reveal How Subcutaneous Drug Depots Really Form](https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUtBX1VZTEtUVmpUTE5hUnlUVmtfWHRPZEtQRE5janNMaVlRX2YwNWd5Ym1NdFNBYkJFdmVnZUh0Uk9TX0xaX1h0dTY1V3pDVlhVN3RZSWQ5Qi0xTzZ1RWdDQTVDRUxJNGhVVWtKRUJTVWd1Wjk0UjRPd05hNlFlUUg5cDZFMk9hNmx2ejR0dzFsTlNUMmcycm1FMW1aZ3hMQXJ0S3ktZw?oc=5)
-- [Cisco Debuts Open Source Tool to Track Dangerous AI Agent Behavior](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejBkTmRhZXBzSzF3MEtNVVJIY0NBS1VWV3BYUzdIREhUbWxyVmZtazYxQ2wwZlpEX3MyWG5HdHVJWlhQeHBySU5WR2plVnE0WkVxUWI4dF9nM2VDMWxQdndHSnhHMlBJQ01BbTNPcTJYWVV5c19yQjZFYVZDZ0VOUDVZRUxpT2gwZndlLWt5NGIySHVUekM0VC00ZXN6V19fNE9lQlVCdDI?oc=5)
+
+### عام (32)
+
+- [AI Go Launch Could Be A Big Test For Procore Stock (PCOR)](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVFMd1g4cGJNOVN1NlFBMFQtLUJETnFudm9uUFV2cy12bjV2c1ZGMjFNdWY3aUxSRk1qcGludEczVHFHSUNacHB3czJ3b2g5Zm5IOGUyalJCbWYyeFF0dUk4aHlIb2I1eGJiaE5aRkxvTTZqSl9pc1ZmUTdoMXRMNWJzVGlveW9CR2FmZkRobkdueGZvUFh2ZnJleV9WT1lYNEJzWHBBbDZpOUhJbjlFdC1xcU9RTHJDenRZVHJzZzZJaFBhUmJ4QkxwZzLSAdIBQVVfeXFMTkFrX3pyek5KV1dyMnNxY2xpMjlCRlBodDNCYnBfT3ZCNjR6TDRtRk9uT1hHbjRLUERBQ1VlMV8xVFY3QlNzS3dOYmZGbmNFV3FMZEF4VzhTSzlWRUlaWGk0aFhiVU1PWlR0enQ4SEs1R1NmRFhXVWRCYkFITDRWb3Y0TkhLUlI3VDhrWWlQQnFBaGhfaGdoLUN2dHVaODRwOHVfWl9ocXI3Xy1reUdnbkNIeVFyVnAxc1RKZk0zVUl3ZVlkWUxENkpxdmlkSU10bXdR?oc=5)
+- [If AI coding is going to cost more than developers – what kind of skills should we invest in?](https://news.google.com/rss/articles/CBMixAFBVV95cUxPODBSX0NNYkVYZzdYb1FrMWMtTEZPSFB3bkhwck0zNWNuRHNFeDBickYyUGFyVm9RUnY0bzlNWEJoQkUwX2Eteldrdzk3Rk9XYXJiQ3RLMlBJVlJZUXdvSjJCbDdWdHRRc1dRdFZpb3Bwa01oYTFaU1FuakdlZ1lKTDhzd0NNYzk4MTlYazhHTW1yWDh0dVpfQW5NZHl3cTdpVXByYVFhTDNxM1JVZHpWRGxGTEpXV1NKZmlySW9PeUZFOVho?oc=5)
+- [Oracle & Snowflake launch native OCI AI as a new service](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjVHMXh1eFExek80WHRFWlI1aFJLSE5mbWNseU9PS0lIX0Z2RnVLMkNJcG1LNUY0NndKZEZSQ0pXY2dzSVhld0phaERJSTg0OVNWcXhQT1dRSXlIZmIwNV84SWdGWDhCUU5XNkY1TkZFSUNkWXF1RTFSc0xvVzZFdlJvNTRERnNQSGtUUGtBTQ?oc=5)
+- [Fleet launches AI governance tools for employee devices](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUQtSV9ucnlpVXc5cWk5NGVTcnJFYXNNOWlOaFR0d0xnbHF3bC1GM191SmhsVjUwS0x4b0VrYWgxOFVjMG5objE4b1Y5bE5NR2JiWllsdUQwQzJqNlJ2ZkFSbVRYNFZXUmRQaU5YMjI4Ry1nN29MNnMtYkpCZ2VMOUkxSjhRUzJqUWZhYVd4blJJWlB2?oc=5)
+- [Prioritise understanding AI security threats, even before productivity: OpenAI's Sam Altman to cos - People Ma](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUkM5RzF6b3A4NVZVbVh5V3l0ckdTNlFud21YRk9ieWs2LVJVOVBSTHM4dmRhd0lId0p5bHZNZHJZaEVlUDlLRDBicUNxNVVySFZLN09abzBRT1NQZm4zZ2lXcGhETVdRVVFuWG9lZUpHcVg0Yi0tc0FDcVlCX292Ni1RSGxHbVFGNXVOTFNXcW8wOGdNejhGSjlTbkJmZURLSGxJdjcteE9weXZ3eEkwRDZmc1VfR092UkRraERKVV90NndBS2RtVk1HajdNZnNHREZSZVJhV1dxcDdRS3JuQjRMY3R1eElKVV9Edw?oc=5)
+- [How AI is Transforming the SDLC](https://news.google.com/rss/articles/CBMid0FVX3lxTE5pVWt3Zm1IQjBTM09JT0pJemlNazgzQ3RWNXM0OTJmckZ2aU9QS2gtZkw4TjNweXdsMU9HR0tsdjJOMS1CX1l4eWkydElRVTRzektsdmZYOFgwdjRmV2FLUnBra3dNU0JfLW55UGhEMm42ZnloMDhZ?oc=5)
+- [Altman urges firms to prioritise AI security over productivity gains](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMmNEN204eUdaREJUd1poUkt4LUhiVHRuUGN0SE9MaUhtRll0XzljZ0F2UkRIRVZCU01rZUdBcmhUSThUQUtGNW9mNERfemJGVGRGVks3V1AxdktheFNGR0Fqb1p2SUNoWVFodlZmMTc1M1FUbEtZeTNrS2JrRWI4QlJDMC14UTJjRUJmaTNRR2s1dTJDUG9wbTZpT1h3QTh3XzZ4Yk1scUtzYmQ3MDF3MWRpUHhkSEhGUEp1cDhCZGFHNUlZckRSdE5xSlhXTjM5QTRRWHZkVnlDUjJQZmhUNEhtZl9zX0gxWDZFc3ZJWFhXSTDSAfMBQVVfeXFMTzJjRDdtOHlHWkRCVHdaaFJLeC1IYlR0blBjdEhPTGlIbUZZdF85Y2dBdlJESEVWQlNNa2VHQXJoVEk4VEFLRjVvZjREX3piRlRkRlZLN1dQMXZLYXhTRkdBam9adklDaFlRaHZWZjE3NTNRVGxLWXkza0tia0ViOEJSQzAteFEyY0VCZmkzUUdrNXUyQ1BvcG02aU9Yd0E4d182eGJNbHFLc2JkNzAxdzFkaVB4ZEhIRlBKdXA4QmRhRzVJWXJEUnROcUpYV04zOUE0UVh2ZFZ5Q1IyUGZoVDRIbWZfc19IMVg2RXN2SVhYV0kw?oc=5)
+
+## من النشرات
+
+- **Interconnects** — [Was I wrong about open models & cyber risks?](https://www.interconnects.ai/p/was-i-wrong-about-open-models-and)
+- **Interconnects** — [Artificial Analysis v5 and the benchmarker's dilemma](https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers)
+- **Ahead of AI** — [GPT-6 Astra, Looped Transformers, and Hidden Reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and)
+- **Interconnects** — [Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings](https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber)
+- **Interconnects** — [Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & Chi](https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek)
+- **Import AI** — [Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means](https://importai.substack.com/p/import-ai-478-math-for-alignment)
+
+## من الباحثين على X
+
+- Turing Post (Ksenia Se) @TheTuringPost · Oct 25 — [There’s more to System One decision models than Jev.  These 15 models are worth a closer look:   Jeva  Prism-1  Bongard ](https://x.com/TheTuringPost/status/2114422040929489241)
+- alphaXiv @askalphaxiv · Oct 27 — [alphaXiv Mobile 2.0 is here   • Mobile friendly PDF reader • Library with sharable folders • Custom feeds with research ](https://x.com/askalphaxiv/status/2115131377641509259)
+- alphaXiv @askalphaxiv · 23h — ["Scaling Laws for Looped Mixture of Experts"  Looped Transformers eventually hit diminishing returns when you loop too m](https://x.com/askalphaxiv/status/2115406473656451216)
+- AK @_akhaliq · 18h — [Representing the Unseen  Rethinking Visual Imagination for Spatial Reasoning  paper:  https:// huggingface.co/papers/261](https://x.com/_akhaliq/status/2115479847598195150)
+- Jim Fan @DrJimFan · Oct 20 — [We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights to](https://x.com/DrJimFan/status/2112597587987689912)
+- AK @_akhaliq · Oct 14 — [VideoJev  System One Model for Video Understanding and Interaction  paper:  https:// huggingface.co/papers/2610.18 615 …](https://x.com/_akhaliq/status/2110423274413056230)
 
 ## توزيع المصادر
 
 | المصدر | قصص |
 |---|---|
-| X | 90 |
-| Mastodon | 14 |
-| صحافة | 10 |
-| Hacker News | 6 |
-| GitHub | 1 |
+| X | 548 |
+| Mastodon | 138 |
+| صحافة | 126 |
+| X · باحثون | 32 |
+| Product Hunt | 23 |
+| Reddit | 23 |
+| ورقة بحثية | 16 |
+| Hacker News | 16 |
+| نشرة | 15 |
+| GitHub | 13 |
