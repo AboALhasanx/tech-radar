@@ -1,322 +1,322 @@
 {
-  "generated_at": "2026-11-01T12:12:44.027985+00:00",
-  "fetched": 685,
+  "generated_at": "2026-11-04T13:25:49.916240+00:00",
+  "fetched": 822,
   "stories": [
     {
-      "id": "e627a49c8bc1601c",
-      "title": "I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84WTV1QUhpTjdfT2pnaWNsaHdlV0kzQVVfeERMeHc1VUJ2eDk3a2tqYWxDaS1xbi1ndmEwYnIwVXJZV3FOdWFKaGV0cE04NnlEakpmY25ON1pudllNSGF6SDZONmo?oc=5",
+      "id": "f169f2ae40ca8178",
+      "title": "Dim is now open source. An agent paradigm built on an event-driven timeline and a fully plugin-based runtime — it grows and iterates within the environment it runs in. Explore Dim and the source :",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4a2cxVjA1TmtEeVUxQ2NJc2paRmsxOGx4MTVHYzMyZGRjaVNkbjJnMWV2b1hKOUhyenhOYWxfa1duMDAzVFdOR2hKRU01b1RKNjNGak5PajJIWnZXVlhidg?oc=5",
       "source": "x",
       "topic": "agents",
-      "published": "2026-11-01T07:00:11+00:00",
-      "summary": "I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app https://t.co/Vq7cXifoRd X",
+      "published": "2026-11-04T09:27:03+00:00",
+      "summary": "Dim is now open source. An agent paradigm built on an event-driven timeline and a fully plugin-based runtime — it grows and iterates within the environment it runs in. Explore Dim and the source : https://t.co/Lq0KFAuuhv X",
       "engagement": 0.0,
-      "score": 82.66,
+      "score": 73.98,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.6942
-      },
-      "sources": [
-        "news",
-        "x"
-      ],
-      "taste": 0.707,
-      "ar": "تطبيق مفتوح المصدر جديد يجمع إدارة عدة coding agents في واجهة واحدة، مما يسهل على المطورين العمل المتوازي ويقلل تعقيد تبديل الأدوات."
-    },
-    {
-      "id": "3bab2d863d482e58",
-      "title": "JUST IN: China's DeepSeek launches \"Super-Agent,\" a new open-source AI coding agent designed to rival Anthropic's Claude Code.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WUZwYk1NRDlWdDJ2N0ZqTGlGY1NzaVAzZUUxdnVhLUxfRFVyWmszYWdZaE9qSEo3T3ZjSHBNb3FXZEZndHROQ3hUT1BoNDVUa05QeXJFZWU1UFJvSE1QcQ?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-01T11:11:00+00:00",
-      "summary": "JUST IN: China's DeepSeek launches \"Super-Agent,\" a new open-source AI coding agent designed to rival Anthropic's Claude Code. X",
-      "engagement": 0.0,
-      "score": 79.98,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7145
-      },
-      "sources": [
-        "news",
-        "x"
-      ],
-      "taste": 0.715,
-      "ar": "DeepSeek أطلقت Super-Agent مفتوح المصدر للمنافسة مع Claude Code، ما يضيف خياراً قوياً ومجانياً للمطورين الباحثين عن بدائل ذكية في أتمتة الكود."
-    },
-    {
-      "id": "94f8576756d767a0",
-      "title": "Game assets from your coding agent — but check the repo before installing. mcp-game-asset-forge is a public GitHub repo documenting a Python MCP server for developers generating game assets through AI coding clients. It outlines how to go from prompts",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FYzlGMGMxQ2dUTnpPOUYxX1Q3RW5Hcy1pNmRqZHRFV3RsUVAxZ0NpQWlyV2c5b1picmxPZzd1WXM5VElfSTdQVlBSc05xRWx1d3FkRHNSY0VMaDJlVTJF?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-11-01T07:26:01+00:00",
-      "summary": "Game assets from your coding agent — but check the repo before installing. mcp-game-asset-forge is a public GitHub repo documenting a Python MCP server for developers generating game assets through AI coding clients. It outlines how to go from prompts X",
-      "engagement": 0.0,
-      "score": 76.66,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.7664
+        "taste": 0.9445
       },
       "sources": [
         "x"
       ],
-      "taste": 0.766,
-      "ar": "مستودع mcp-game-asset-forge يوثق خادم MCP لتوليد أصول الألعاب عبر coding agents، مع تحذير تقني بضرورة مراجعة الكود قبل التثبيت لتجنب الثغرات."
+      "taste": 0.945,
+      "ar": "أصبح إطار Dim مفتوح المصدر، ويعتمد على بنية event-driven timeline وruntime قائم على الإضافات، مما يتيح للمطورين بناء وكلاء يتطورون ديناميكياً داخل بيئتهم التشغيلية."
     },
     {
-      "id": "0b42ca342dedb884",
-      "title": "Here are 10 new free AI agent skills that turn your coding agent into a specialist, even if you've never installed one.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMQWt3UEZVUXZEUF9VWE1nMlh6NFc0YWJfY0ZhSU1VNnF6S19ybzBsQ1psVWFRQlR6d1pTWmFCZkk0MjczSjB4Mlo1N2ZENFRjeTJPM1QyTDlja1VmaDhVeA?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-11-01T11:03:01+00:00",
-      "summary": "Here are 10 new free AI agent skills that turn your coding agent into a specialist, even if you've never installed one. X",
-      "engagement": 0.0,
-      "score": 76.23,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.8458
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.846,
-      "ar": "عشر مهارات AI جديدة مجانية تحوّل coding agent إلى متخصص في مهام محددة، مما يرفع كفاءة العمل دون الحاجة لخبرة سابقة في تثبيت هذه الأدوات."
-    },
-    {
-      "id": "bdd914b0a0fe08ed",
-      "title": "Vibe coding works when your agent has the right tools. Connect Apify MCP, build your app, ask the AI which Actors would improve it. @AiHomegirl does exactly that - and the AI surprises her every time. MCP setup ↓",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ba1hwTFExdHZfdFZXTVZyUTJldWVBalNPWmpoNGhwNUhLOHQwSjRCOEMtRUVpOUVNQkVGU18tOWR2WElRQ1NGY0JlQnZxUG5PdlhONDg2UDJ4Zw?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-11-01T09:24:14+00:00",
-      "summary": "Vibe coding works when your agent has the right tools. Connect Apify MCP, build your app, ask the AI which Actors would improve it. @AiHomegirl does exactly that - and the AI surprises her every time. MCP setup ↓ X",
-      "engagement": 0.0,
-      "score": 70.72,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.8481
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.848,
-      "ar": "ربط Apify MCP مع coding agents يتيح للذكاء الاصطناعي اقتراح وتحسين تطبيقاتك تلقائياً، مما يعزز فعالية vibe coding ويوفر وقت التطوير."
-    },
-    {
-      "id": "33a7dd2eb281fbc0",
-      "title": "DeepSeek drops enhanced coding agent with aim to rival Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xOXU3QkQtLURIVEY5Z2FEblRHeks5MWtHbE9KUUNwMGtTMk13TXRMNU93UlpNbVoyRDh2ekJ2NnNLZXNNLTZHQ3dSWVRtX1JIZWV6bFQzZDZUaU5zb2ZQVWZvSmg?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-11-01T04:56:50+00:00",
-      "summary": "DeepSeek drops enhanced coding agent with aim to rival Anthropic https://t.co/VvjXvL8oF8 X",
-      "engagement": 0.0,
-      "score": 69.87,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.738
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.738,
-      "ar": "DeepSeek طرحت نسخة معززة من coding agent تهدف لمجاراة Anthropic، ما يشير إلى تصاعد المنافسة في سوق أدوات البرمجة الذكية المفتوحة المصدر."
-    },
-    {
-      "id": "fef85461f03be4a8",
-      "title": "Here are 10 new GitHub repositories that broke out this month, all free and open source.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iQllzVFVyTG1iVk16WnZOSW52TFVObmxvU2pKT2pwMjBuYmJIZk92ZGlEdXFscG5BekxEUVJZZlpPMWIzU2NDejB6S1pmcDdpZmJfdl9rYVRScGw1SXNacQ?oc=5",
+      "id": "84ff2375c7781985",
+      "title": "helium was one of top open source projects on github in 2026 :D",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1icHlkY1Q3LUpJVnJldS0tNDRLTXM1N19BTjdydE1TbjZEUVZrWXI1bDQyNnJfNkxQR1VFTmlBSm95V1J6NHl5WjFwckhuMXRuelczX1N3a3ZLUjAycUdQdFpIOWM?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-11-01T08:58:02+00:00",
-      "summary": "Here are 10 new GitHub repositories that broke out this month, all free and open source. X",
+      "published": "2026-11-04T10:50:03+00:00",
+      "summary": "helium was one of top open source projects on github in 2026 :D X",
       "engagement": 0.0,
-      "score": 68.63,
+      "score": 72.56,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.8707
+        "taste": 0.9691
       },
       "sources": [
         "x"
       ],
-      "taste": 0.871,
-      "ar": "قائمة بعشرة مستودعات GitHub مفتوحة المصدر برزت هذا الشهر، توفر للمطورين أدوات ومكتبات مجانية قد تسرّع مشاريعهم وتقلل التكاليف."
+      "taste": 0.969,
+      "ar": "تصدر مشروع helium قائمة المشاريع مفتوحة المصدر على GitHub لعام 2026، مما يعكس اهتماماً متزايداً بالبنية التحتية اللامركزية وجمع البيانات من الأجهزة الطرفية."
     },
     {
-      "id": "773e9cf8b4a77857",
-      "title": "The free tier of Paper is super restrictive. 100 MCP tool calls/week doesn't get your far. is an open source alternative, no limits on MCP tool calls. Unlimited designs. Let's create some hype!",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkSVVVXzUzUElJRnlycUVxUmFKMGdKbW5hbEl5NktGWEpHNmVhelQzaGFKMTZaVk9aU19sZG8taFpIYWZlYTVzUGllOHh4YWVWbEFRQjlZajRrODRJYTZn?oc=5",
+      "id": "bbaf46dac7477aed",
+      "title": "Meet Hy4. Out of preview. ◆ First Hy model with eyes: native vision + computer use. ◆ The price stayed in preview. The benchmarks didn't. ◆ Open weights coming soon. Hy4 Flash right behind.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OcVBhS2xWbHlENEpMVXRrMUlwaTMxT3BzZ2lxRzZ4LXFFREY4WDFNdV9sY1hZUjRhblE4cnNCRFFPUUFFZWxLWHVxNFlDTXZXams1UlF5a0FNUUVpQ1hWTHlZcG95UQ?oc=5",
       "source": "x",
-      "topic": "free",
-      "published": "2026-10-31T23:21:34+00:00",
-      "summary": "The free tier of Paper is super restrictive. 100 MCP tool calls/week doesn't get your far. https://t.co/AK4fYF52bR is an open source alternative, no limits on MCP tool calls. Unlimited designs. Let's create some hype! X",
+      "topic": "ai",
+      "published": "2026-11-04T06:46:05+00:00",
+      "summary": "Meet Hy4. Out of preview. ◆ First Hy model with eyes: native vision + computer use. ◆ The price stayed in preview. The benchmarks didn't. ◆ Open weights coming soon. Hy4 Flash right behind. X",
       "engagement": 0.0,
-      "score": 65.83,
+      "score": 68.88,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"free tier\" OR \"free credits\" OR \"free trial\" OR \"no API key\" OR \"free plan\") when:7d",
-        "taste": 0.7891
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.9493
       },
       "sources": [
         "x"
       ],
-      "taste": 0.789,
-      "ar": "بديل مفتوح المصدر لأداة Paper يزيل قيود عدد استدعاءات MCP الأسبوعية، مما يمنح المطورين حرية غير محدودة في تصميم وتوليد الواجهات."
+      "taste": 0.949,
+      "ar": "أطلقت Hy4 خارج مرحلة المعاينة مع دعم الرؤية الحاسوبية واستخدام الحاسوب، مع الحفاظ على أسعار المعاينة، وستتوفر أوزانها المفتوحة قريباً مع إصدار Flash."
     },
     {
-      "id": "6ab1f8d35e725d0a",
-      "title": "Before any Google engineer lets a coding agent touch a file, a separate agent has already spent real time trying to talk them out of the plan. That internal tool is now open source, and the name tells you the whole design: the Elephant-Goldfish Model. One agen",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1renA0TGZmTU11OXAxMHB0bHJjc1h1RkJyVk42cU1Bamo4N01tc3Q0czVvMVFqd3hBcmVCcllrTHhvYjJZcTI1MzNDSmRCMmVXbmhNYVRNcXY2S3cteDNIOFdnTQ?oc=5",
+      "id": "292edf5d86b32d34",
+      "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU — ‘npu-driver’ can only run at 2 to 3 Hz, targets 30 Hz performance",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DY1JhdW9nTmhBTGd1d1F1cGNwY0lOeXQ0aU5LUjVmNFBuYU5YNFNfT19vaWxOUFBpS3gtaXpvMFJCQlZEN1dJbDJrVGNXWFlDbjNiRnh4QzhnQndsTWtELVUwdw?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-04T12:02:21+00:00",
+      "summary": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU — ‘npu-driver’ can only run at 2 to 3 Hz, targets 30 Hz performance https://t.co/Rxr93HsT7X X",
+      "engagement": 0.0,
+      "score": 68.08,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.432
+      },
+      "sources": [
+        "news",
+        "x"
+      ],
+      "taste": 0.432,
+      "ar": "يهدف مشروع npu-driver مفتوح المصدر إلى عرض سطح Windows 11 عبر وحدة المعالجة العصبية NPU بدلاً من GPU، رغم أن أدائه الحالي محدود بـ 2-3 إطاراً في الثانية."
+    },
+    {
+      "id": "0cd0f19b4a0153cb",
+      "title": "5 Web dev resources you should be aware of - 314 open-source AI agent skills - 6200+ free SVG icons - Flex with your AI coding usage - 35 free interactive canv",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uc2cyWm55cWZ2d3BMaHEwNmJFWnJjOWpXOVdYODI5aDhjMGRZMm56ZDFvaFlMdGdIcjVJS3JWVVlYU2tEOFdzVzJtS0JQZDk0aGpSSXp4NEVveWRjb21KMkhR?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-04T07:04:10+00:00",
+      "summary": "5 Web dev resources you should be aware of https://t.co/6QcK5gNoSf - 314 open-source AI agent skills https://t.co/3nyzXkOhV8 - 6200+ free SVG icons https://t.co/Ul05UvXMZG - Flex with your AI coding usage https://t.co/2P9XmaTKSt - 35 free interactive canv X",
+      "engagement": 0.0,
+      "score": 66.76,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.824
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.824,
+      "ar": "تتوفر حزمة موارد تطوير ويب تشمل 314 مهارة لوكلاء الذكاء الاصطناعي، وأكثر من 6200 أيقونة SVG مجانية، وأدوات تفاعلية لتسريع سير عمل المطورين."
+    },
+    {
+      "id": "3bc1577961da4cdb",
+      "title": "Vibe Coding & AI News to Use: November 3, 2026… @simonw Willison runs Qwen 3.8 27B on a laptop to interpret model weights Octomind is an open-source coding agent harness in one Rust binary that works with any model @muvo",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HMEZCZ1Y2X0FEby02eTYwMFJ3MnAyazdrNGNlUk1wS1RlOWJhdlZZbXRvMkR2NmlJcHN5S05YY3IxUnctaHJ3RzFkOTVqVXpUMFczLWZOeUdCTVhGSVdCRHg3TQ?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-04T03:30:09+00:00",
+      "summary": "Vibe Coding & AI News to Use: November 3, 2026… @simonw Willison runs Qwen 3.8 27B on a laptop to interpret model weights https://t.co/2l7Wegc3Pv Octomind is an open-source coding agent harness in one Rust binary that works with any model @muvo X",
+      "engagement": 0.0,
+      "score": 66.3,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.9484
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.948,
+      "ar": "أظهر Simon Willison إمكانية تشغيل نموذج Qwen 3.8 27B على الحاسوب المحمول، بينما يقدم Octomind هارنس مفتوح المصدر بلغة Rust يعمل مع أي نموذج لغوي."
+    },
+    {
+      "id": "d0d4443ecf2ba105",
+      "title": "the most underrated way to use mcp right now is not coding. it's running your socials from a chat",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NT2NUc2FYcXoxVy02ZnV0THdoM1hHWWplRW1JaEJUc054ZGFZSnA4V2ZiVlVmc0J0T0hOTGI0YlVsdXNPV09WaDVmcU9fekpseFo0V2pidFVERzlNNEQ3dXdkTmx5Ulk?oc=5",
       "source": "x",
       "topic": "agents",
-      "published": "2026-10-31T20:15:00+00:00",
-      "summary": "Before any Google engineer lets a coding agent touch a file, a separate agent has already spent real time trying to talk them out of the plan. That internal tool is now open source, and the name tells you the whole design: the Elephant-Goldfish Model. One agen X",
+      "published": "2026-11-04T10:02:35+00:00",
+      "summary": "the most underrated way to use mcp right now is not coding. it's running your socials from a chat X",
       "engagement": 0.0,
-      "score": 60.72,
+      "score": 65.85,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.9528
+        "taste": 0.7863
       },
       "sources": [
         "x"
       ],
-      "taste": 0.953,
-      "ar": "أداة Google الداخلية 'Elephant-Goldfish' أصبحت مفتوحة المصدر، حيث يستخدم وكيلاً منفصلاً لمراجعة خطط coding agent قبل التنفيذ لتقليل الأخطاء."
+      "taste": 0.786,
+      "ar": "يُعد استخدام بروتوكول MCP لإدارة حسابات التواصل الاجتماعي عبر الدردشة من أكثر التطبيقات غير المتوقعة، مما يوسع نطاقه بعيداً عن البرمجة التقليدية."
     },
     {
-      "id": "401c167977f92a09",
-      "title": "Awarded Third Prize in the 2026 AI Vernacular Architecture Competition, ReNest is an unbuilt proposal for rebuilding a school community in southern Iran. 🏆 Architecture Reimagined Competition: Redefine the future of architecture with AI and compete for a sh",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vVXN4NWJRaUFfTTFONTk3ZF9kMWZCYUdSVnBISmpNYjgwd1g2d05zdHhOOGNSd3F4RmJmaHJIQzhnZ2JYbTV5YWVtT2NmLVlfbDM5Z1IwV2I1NXlNeENrYXNCbjBQZw?oc=5",
+      "id": "99ace7da7111800e",
+      "title": "Someone built a free open source tool that lets your AI agent make polished screen recordings, so you can get a product demo video from one prompt. You ask your agent something like \"make a video showing how human handoff works.\" It then: → Explores y",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYZHVFd3Ewd080YkRkZzRONTNmN0RNYVdCUkhrR2hVNUgtOVBZWWR0UGQxalFqRjZERXVaaUZ2T3cwVDItcmNhZ1gtYWVvY2NyTGkzRU5zZ0FBUVd3YkVzSDZnM1VrMjg?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-11-01T10:16:21+00:00",
-      "summary": "Awarded Third Prize in the 2026 AI Vernacular Architecture Competition, ReNest is an unbuilt proposal for rebuilding a school community in southern Iran. 🏆 Architecture Reimagined Competition: Redefine the future of architecture with AI and compete for a sh X",
+      "topic": "opensource",
+      "published": "2026-11-04T02:15:00+00:00",
+      "summary": "Someone built a free open source tool that lets your AI agent make polished screen recordings, so you can get a product demo video from one prompt. You ask your agent something like \"make a video showing how human handoff works.\" It then: → Explores y X",
       "engagement": 0.0,
-      "score": 58.77,
+      "score": 65.5,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.6693
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.9267
       },
       "sources": [
         "x"
       ],
-      "taste": 0.669,
-      "ar": "مشروع ReNest المعماري فاز بجائزة عالمية باستخدام AI لإعادة تصميم مدرسة في إيران، مما يبرز دور الذكاء الاصطناعي في حل تحديات التصميم الحضري."
+      "taste": 0.927,
+      "ar": "أداة مفتوحة المصدر تتيح للوكلاء الاصطناعيين إنشاء تسجيلات شاشة احترافية من أمر نصي واحد، مما يسهل إنتاج فيديوهات توضيحية للمنتجات دون تدخل يدوي."
     },
     {
-      "id": "9b6ec41d6806c165",
-      "title": "AI is terrible. Just completely incorrect even asked to identify this character/joke in the sopranos.",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1akMtSTFNZmNseDFlSmFUZkxQVTJWWXRIVmhlN3F3azhiZ1RlOGxJa2tFYUNiM1p4UjE2VERZdmVKdGppT3N6ektkcTRYYzN3RjMzTGF4LXhCWmdqdFNtUFRn?oc=5",
+      "id": "31940444c4fd5dbc",
+      "title": "nope, but we asked our ai agent that orders groceries to always add in some surprise snacks from brands we haven’t tried yet (it knows based on the shopping history), and it’s been fun",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tWEZQOXlPSWc3ckZ2Y0dUVDBzUXJ4cE5hSkNYQzhQLUc1NENBNGxiLTF6UjNaNC0zbXlKZ2tvekVJdWZEbUo0YmI1dUVoXzV2MC1NSWttdXB2Rm9BYnZTSg?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-11-01T02:58:53+00:00",
-      "summary": "AI is terrible. Just completely incorrect even asked to identify this character/joke in the sopranos. X",
+      "topic": "agents",
+      "published": "2026-11-04T06:41:21+00:00",
+      "summary": "nope, but we asked our ai agent that orders groceries to always add in some surprise snacks from brands we haven’t tried yet (it knows based on the shopping history), and it’s been fun X",
       "engagement": 0.0,
-      "score": 58.73,
+      "score": 65.16,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7943
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.7994
       },
       "sources": [
         "x"
       ],
-      "taste": 0.794,
+      "taste": 0.799,
+      "ar": "يستخدم مستخدمون وكلاء الذكاء الاصطناعي لتسوق البقالة مع إضافة وجبات خفيفة مفاجئة من علامات تجارية جديدة بناءً على سجل الشراء، مما يضيف عنصر الترفيه للتسوق."
+    },
+    {
+      "id": "b22f1584889b0464",
+      "title": "Tableau Data Apps is now available in open beta! Vibe coding doesn't have to mean ditching data governance. Build custom Tableau Data Apps in Tableau Cloud with any AI agent—running directly on live, trusted data in an admin-controlled environment wit",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aTnhXUlZnQkVxamtGb0FBLU1WcC1MOTdtT19zMmY2TmFhc2RUVWVNd2dwVnNxRDdoV1NQSWlqMzZ6MUpLaUNJb1JJWjljWjlvUHhXVDFsZVNmUVRH?oc=5",
+      "source": "x",
+      "topic": "launch",
+      "published": "2026-11-03T20:00:24+00:00",
+      "summary": "Tableau Data Apps is now available in open beta! Vibe coding doesn't have to mean ditching data governance. Build custom Tableau Data Apps in Tableau Cloud with any AI agent—running directly on live, trusted data in an admin-controlled environment wit X",
+      "engagement": 0.0,
+      "score": 64.08,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source alternative\" OR \"just launched\" OR \"now available\" OR \"v1.0\") when:3d",
+        "taste": 0.9206
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.921,
+      "ar": "أطلقت Tableau وضع Beta مفتوح لتطبيقات البيانات، مما يسمح ببناء تطبيقات مخصصة عبر وكلاء الذكاء الاصطناعي مع الحفاظ على حوكمة البيانات في بيئة موثوقة."
+    },
+    {
+      "id": "a7dd528f301547cf",
+      "title": "These are some of the actual skills Apple is using for Siri AI in iOS 27.3 - there's a skill to teach Siri how to select and insert text in Notes - they made a skill to tell Siri about file types supported in the Files app - a lot of examples of what NOT to do (sign of an old",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pLVJPSk51Nm9XaWZ3dUdscVZCNGxpVnQwR0pYWFZTQ3Btbk9wNHo2UkFqQ213MW1mVzdFbURHS2Z5NUtTUnZJRXo5RVk4ZHU1QzN4Ml9sZ3J0NHk1?oc=5",
+      "source": "x",
+      "topic": "harness",
+      "published": "2026-11-04T00:52:23+00:00",
+      "summary": "These are some of the actual skills Apple is using for Siri AI in iOS 27.3 - there's a skill to teach Siri how to select and insert text in Notes - they made a skill to tell Siri about file types supported in the Files app - a lot of examples of what NOT to do (sign of an old X",
+      "engagement": 0.0,
+      "score": 63.39,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.8237
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.824,
       "ar": ""
     },
     {
-      "id": "226be06364cac94f",
-      "title": "Jevgrep is a new CLI tool for coding agents that uses Jev to find relevant files and verbatim source excerpts by asking questions of a repo, cutting codebase exploration costs by ~30%. #MachineLearning #AI #LLM #DeepLearning #Age",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44bzFHenBkYUx2c1lydWF6S2JzSTVFeFJWbFVORW10TTEwdmlsNFZoRzRIazRnb3Q2bWkySFRnRkRtWnlMY2g2c3dqQnNSRk5JQTRyQ1VIRkNaekJkNGtN?oc=5",
+      "id": "fe8a81c91aae655a",
+      "title": "Tencent released Hy4, its new flagship model with performance among the top open models on benchmarks. Hy4 is now available on Tencent Cloud, OpenRouter, CodeBuddy, WorkBuddy, and Hy AI Studio. Open weights are coming soon. > \"Tencent plans to",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zd2gtNFRjX2tZSVk0R1NXV2lNQW5uUk81bl9Ldk5CVFE5LU1NZ3pDUUhrdFg2NjdPaV9DSEdhdG0wNlNid1BOeU14UEtjdXd4R0pGTTlYeHQ2RWE2d2w3elRsUVRsZw?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-10-31T18:55:03+00:00",
-      "summary": "Jevgrep is a new CLI tool for coding agents that uses Jev to find relevant files and verbatim source excerpts by asking questions of a repo, cutting codebase exploration costs by ~30%. https://t.co/0lYrPkhVmn #MachineLearning #AI #LLM #DeepLearning #Age X",
+      "topic": "opensource",
+      "published": "2026-11-04T07:44:40+00:00",
+      "summary": "Tencent released Hy4, its new flagship model with performance among the top open models on benchmarks. Hy4 is now available on Tencent Cloud, OpenRouter, CodeBuddy, WorkBuddy, and Hy AI Studio. Open weights are coming soon. > \"Tencent plans to X",
       "engagement": 0.0,
-      "score": 58.71,
+      "score": 63.03,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.983
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.7757
       },
       "sources": [
         "x"
       ],
-      "taste": 0.983,
+      "taste": 0.776,
       "ar": ""
     },
     {
-      "id": "1902a2247754c244",
-      "title": "DeepSeek releases the open source prototype of its Super-agent",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWHRETTY5R044bXRaM0lhdFFWeU5MX3I4elNvSlZUSE1YNGtYZktuWmNSV0tna0l0T2JVM2d5RF9SS0p4TjNWOW9QU09KUFZvTk1mc0FReEZTS2ZJckFjaWlkVU5CMDBTUHJ6SFRXYlhaTHFCcGdnanlDYl90YjVnWm5ZOENhWWxkRG9FaGFkRQ?oc=5",
-      "source": "news",
-      "topic": "dev",
-      "published": "2026-11-01T07:52:16+00:00",
-      "summary": "DeepSeek releases the open source prototype of its Super-agent Pasquale Pillitteri",
+      "id": "553f4b4b078eca41",
+      "title": "10 open-source apps every Windows user should download in 2026 – for free - ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZLThTUThPZVRoQWItSkZWWjktLUpNRFNSUlVFMmY2MXdneVRxMktPY0dVX182NllpaHVGQ3c5b3pEVnhxTmFXOGJzWkJ3N1RLMFpRNFFmV2NxZw?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-03T18:00:26+00:00",
+      "summary": "10 open-source apps every Windows user should download in 2026 – for free - ZDNET https://t.co/mn9AcsopoQ X",
       "engagement": 0.0,
-      "score": 57.37,
+      "score": 62.94,
       "niche_hits": [],
       "meta": {
-        "query": "open source OR developer tools when:3d",
-        "taste": 0.8823
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.7381
       },
       "sources": [
-        "news"
+        "news",
+        "x"
       ],
-      "taste": 0.882,
+      "taste": 0.777,
       "ar": ""
     },
     {
-      "id": "2b62f77ec730342f",
-      "title": "AI gave most people the feeling of speed without the substance of it. So 99% are now producing more of what nobody asked for, faster than ever. The 1% use the same tools differently. They spend the time AI saves on talking to users, picking the one problem t",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2N3Uxa0trM0RwN3U1alRTT1h2Qk1vV1B4S05zbXpqZmw3YUl1RjJSWnRzcDdtVjR0c3c2cHNja3RNT295WkNZaWhpblpEd2luRmxrOFhLTDJfbU1UbVE?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-01T08:52:50+00:00",
-      "summary": "AI gave most people the feeling of speed without the substance of it. So 99% are now producing more of what nobody asked for, faster than ever. The 1% use the same tools differently. They spend the time AI saves on talking to users, picking the one problem t X",
-      "engagement": 0.0,
-      "score": 57.0,
+      "id": "7892b5082ee47344",
+      "title": "OpenIDEA : une alternative open source à IntelliJ IDEA, réécrite en Rust, qui garde votre keymap, vos tool windows et votre search…",
+      "url": "https://mastodon.social/@camilleroux/117557824916519722",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-11-04T11:00:53.054000+00:00",
+      "summary": "OpenIDEA : une alternative open source à IntelliJ IDEA, réécrite en Rust, qui garde votre keymap, vos tool windows et votre search everywhere dans une app native. Sur un projet Python d'environ 770 fichiers : ouverture en 0,9 s contre 3,1 s, 169 Mo contre 2011 Mo. ⬇️ https:// github.com/l0ng-ai/openidea # Rust # Python # OpenSource # Programming # WebDev 📬 Ma veille dev, chaque vendredi par email ",
+      "engagement": 3.0,
+      "score": 62.87,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.625
+        "account": "camilleroux",
+        "taste": 0.9309
+      },
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.931,
+      "ar": ""
+    },
+    {
+      "id": "0747ae974fb3b33c",
+      "title": "I'm happy to announce TemPad Dev 1.0 ⧉ Connect Figma to Codex, Claude & other coding agents. AI creates editable designs with Auto Layout, variables & components, then turns them into code. Bring your own agent. Free & open source (MIT).",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15TGpHQW9FX2dtWmsyTVBfT3Jya2dkRlk3eDl1SjZBNFY3SHVjZ0tkSG1LTUhFMm9lSWJldmtpWFZ2cFhPSUFucHlXNkJyUDd5WVVRdlp4VTg2cWVVSFJV?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-04T11:09:24+00:00",
+      "summary": "I'm happy to announce TemPad Dev 1.0 ⧉ Connect Figma to Codex, Claude & other coding agents. AI creates editable designs with Auto Layout, variables & components, then turns them into code. Bring your own agent. Free & open source (MIT). https://t.co/la X",
+      "engagement": 0.0,
+      "score": 62.84,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.6661
       },
       "sources": [
         "x"
       ],
-      "taste": 0.625,
-      "ar": ""
-    },
-    {
-      "id": "4e9442da31932b9b",
-      "title": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xM3dCVk94V2pnaHoyMXZBVjIyRmhzUVZTS1R2dWczODdUMFdPWndOZ3JIMGtvbXZ4OVo4VzdSTGlrR0lfVUFOZTF6dXM2M2hkTkszSnZPZzdLdElDMHpGOEtn?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-01T11:00:13+00:00",
-      "summary": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation https://t.co/PL7fuELWg5 X",
-      "engagement": 0.0,
-      "score": 56.4,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.5501
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.55,
+      "taste": 0.666,
       "ar": ""
     }
   ]
