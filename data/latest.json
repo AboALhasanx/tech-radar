@@ -1,322 +1,327 @@
 {
-  "generated_at": "2026-11-04T13:25:49.916240+00:00",
-  "fetched": 822,
+  "generated_at": "2026-11-10T13:54:23.534630+00:00",
+  "fetched": 758,
   "stories": [
     {
-      "id": "f169f2ae40ca8178",
-      "title": "Dim is now open source. An agent paradigm built on an event-driven timeline and a fully plugin-based runtime — it grows and iterates within the environment it runs in. Explore Dim and the source :",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4a2cxVjA1TmtEeVUxQ2NJc2paRmsxOGx4MTVHYzMyZGRjaVNkbjJnMWV2b1hKOUhyenhOYWxfa1duMDAzVFdOR2hKRU01b1RKNjNGak5PajJIWnZXVlhidg?oc=5",
+      "id": "b598d21f2ddd00f5",
+      "title": "I gave a coding agent the Python scripts I wrote at university, and watching it fix them taught me more than the course did",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84Q19XVmttbXUyTXc0aWNrM2JOcC1nTzVhWER3cFI5alIxRnoyU0FFVFhnMkwzUWliWUk0TXc3ZEtKM0k4bUw3OHQwWVJwbzBXa3Fiamd4cThFSXFPcTAzR1EtWjk?oc=5",
+      "source": "x",
+      "topic": "harness",
+      "published": "2026-11-10T10:00:11+00:00",
+      "summary": "I gave a coding agent the Python scripts I wrote at university, and watching it fix them taught me more than the course did https://t.co/7EKG2vNdAY X",
+      "engagement": 0.0,
+      "score": 71.91,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.7078
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.708,
+      "ar": "مستخدم أعطى Coding Agent سكربتات بايثون قديمة ليصلحها، واكتشف أن عملية المراجعة التلقائية علّمته مفاهيم برمجية أعمق مما تعلمه في الجامعة."
+    },
+    {
+      "id": "796a7f7ee338b70f",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "hackernews",
+      "topic": "dev",
+      "published": "2026-11-09T18:01:10+00:00",
+      "summary": "",
+      "engagement": 705.0,
+      "score": 69.35,
+      "niche_hits": [],
+      "meta": {
+        "points": 705,
+        "comments": 870,
+        "hn_url": "https://news.ycombinator.com/item?id=50429068",
+        "taste": 0.298
+      },
+      "sources": [
+        "hackernews",
+        "x"
+      ],
+      "taste": 0.298,
+      "ar": "أطلقت Anthropic تحديثات Claude Fable 5.2 و Mythos 5.2، مما يعزز قدرات النماذج في المهام المعقدة ويغير معايير الأداء في سوق أدوات الذكاء الاصطناعي."
+    },
+    {
+      "id": "e6f3b2470536db1e",
+      "title": "Crazyy...Reverse Engineer Anything is now at 440,000 GitHub stars. It's one MCP server that lets your AI agent (Claude Code, Codex, Antigravity) take apart an app and explain how it works, down to the binary level. 100% Open Source. GitHub Repo:",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nbk5ZbWtPZXN2aGNDWW92VWpUR2l1amprTkQ3VUl2ZEh3d3NzamsxUnM4SlNkRFZPSnlPOGh0QXNYcDdsY2IxbHNCSURKdTFaT3NmZVAwMHAweXpzRFVJbjF5VjN1Zw?oc=5",
       "source": "x",
       "topic": "agents",
-      "published": "2026-11-04T09:27:03+00:00",
-      "summary": "Dim is now open source. An agent paradigm built on an event-driven timeline and a fully plugin-based runtime — it grows and iterates within the environment it runs in. Explore Dim and the source : https://t.co/Lq0KFAuuhv X",
+      "published": "2026-11-10T07:00:06+00:00",
+      "summary": "Crazyy...Reverse Engineer Anything is now at 440,000 GitHub stars. It's one MCP server that lets your AI agent (Claude Code, Codex, Antigravity) take apart an app and explain how it works, down to the binary level. 100% Open Source. GitHub Repo: https://t.c X",
       "engagement": 0.0,
-      "score": 73.98,
+      "score": 68.28,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.9445
+        "taste": 0.779
       },
       "sources": [
         "x"
       ],
-      "taste": 0.945,
-      "ar": "أصبح إطار Dim مفتوح المصدر، ويعتمد على بنية event-driven timeline وruntime قائم على الإضافات، مما يتيح للمطورين بناء وكلاء يتطورون ديناميكياً داخل بيئتهم التشغيلية."
+      "taste": 0.779,
+      "ar": "أصبح مشروع Reverse Engineer Anything مفتوح المصدر يحظى بـ 440 ألف نجمة على GitHub، كونه MCP Server يتيح للـ Agents تحليل التطبيقات حتى مستوى الـ Binary."
     },
     {
-      "id": "84ff2375c7781985",
-      "title": "helium was one of top open source projects on github in 2026 :D",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1icHlkY1Q3LUpJVnJldS0tNDRLTXM1N19BTjdydE1TbjZEUVZrWXI1bDQyNnJfNkxQR1VFTmlBSm95V1J6NHl5WjFwckhuMXRuelczX1N3a3ZLUjAycUdQdFpIOWM?oc=5",
+      "id": "8b6e714c67a95733",
+      "title": "🦾reBot Arm T701🦾 — An #opensource dual-arm solution for #PhysicalAI, currently in Beta. We’re continuing to open up CAD, BOM, machining files, SDK, and tutorials.We believe open source isn’t just uploading a few files to GitHub. It’s about letting others bui",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xYzF1NzR2Z0dleVRieXhQMTY4cTFFZjhQQjNpQW5Yd2RvZGlsNmtkX2FWakNJRGR4ZlNPdzNXbnpUXzRYSkpGaW1sYnR2UDhMWVhweUoxSlFnYVVlWWtCZTV3?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-11-04T10:50:03+00:00",
-      "summary": "helium was one of top open source projects on github in 2026 :D X",
+      "published": "2026-11-10T08:36:43+00:00",
+      "summary": "🦾reBot Arm T701🦾 — An #opensource dual-arm solution for #PhysicalAI, currently in Beta. We’re continuing to open up CAD, BOM, machining files, SDK, and tutorials.We believe open source isn’t just uploading a few files to GitHub. It’s about letting others bui X",
       "engagement": 0.0,
-      "score": 72.56,
+      "score": 64.18,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.9691
+        "taste": 0.7594
       },
       "sources": [
         "x"
       ],
-      "taste": 0.969,
-      "ar": "تصدر مشروع helium قائمة المشاريع مفتوحة المصدر على GitHub لعام 2026، مما يعكس اهتماماً متزايداً بالبنية التحتية اللامركزية وجمع البيانات من الأجهزة الطرفية."
+      "taste": 0.759,
+      "ar": "أطلقت reBot Arm T701 حلاً مفتوح المصدر للذراعين الميكانيكية في Physical AI، مع توفير ملفات CAD وSDK لتسهيل بناء أنظمة روبوتية متقدمة."
     },
     {
-      "id": "bbaf46dac7477aed",
-      "title": "Meet Hy4. Out of preview. ◆ First Hy model with eyes: native vision + computer use. ◆ The price stayed in preview. The benchmarks didn't. ◆ Open weights coming soon. Hy4 Flash right behind.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OcVBhS2xWbHlENEpMVXRrMUlwaTMxT3BzZ2lxRzZ4LXFFREY4WDFNdV9sY1hZUjRhblE4cnNCRFFPUUFFZWxLWHVxNFlDTXZXams1UlF5a0FNUUVpQ1hWTHlZcG95UQ?oc=5",
+      "id": "b4c471028a94101d",
+      "title": "More on all our AI agents here: Grab FREE guide to AI Sales Agents here:",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yYnZfVDJKMlhkbzF2SVp2NThlYWFuVHM0YS1DeXVqSk1IRks0MkdyV2FmOUFIM3liUWRHVVVkLTl2T1ZrYWtFcGUwRm9nald5eVlCTmdIU2w1OE44?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-11-10T09:30:34+00:00",
+      "summary": "More on all our AI agents here: https://t.co/RlXTUtCH4X Grab FREE guide to AI Sales Agents here: https://t.co/5pm6mXlhFB X",
+      "engagement": 0.0,
+      "score": 63.98,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.7394
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.739,
+      "ar": "تسويق مباشر لدليل مجاني حول AI Sales Agents، يهدف لجذب المطورين المهتمين بتكامل وكلاء الذكاء الاصطناعي في عمليات المبيعات الآلية."
+    },
+    {
+      "id": "c4d373047ce6eacb",
+      "title": "*ANTHROPIC SEEKS $1.4 TRILLION FULLY DILUTED VALUATION IN IPO",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mcXlyeFRhbUphTF9lZjNUdFpPQTNqX0haVk5GYXFSUlZVWWgzQjN3LTZvejM2b3V3TlNzNF8xLU9nT19WaHkzMGQyb1ZlNU0wX0VrR1dnOWhmWlFncDZFV2Z3?oc=5",
       "source": "x",
       "topic": "ai",
-      "published": "2026-11-04T06:46:05+00:00",
-      "summary": "Meet Hy4. Out of preview. ◆ First Hy model with eyes: native vision + computer use. ◆ The price stayed in preview. The benchmarks didn't. ◆ Open weights coming soon. Hy4 Flash right behind. X",
+      "published": "2026-11-10T12:26:32+00:00",
+      "summary": "*ANTHROPIC SEEKS $1.4 TRILLION FULLY DILUTED VALUATION IN IPO X",
       "engagement": 0.0,
-      "score": 68.88,
+      "score": 63.95,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.9493
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.949,
-      "ar": "أطلقت Hy4 خارج مرحلة المعاينة مع دعم الرؤية الحاسوبية واستخدام الحاسوب، مع الحفاظ على أسعار المعاينة، وستتوفر أوزانها المفتوحة قريباً مع إصدار Flash."
-    },
-    {
-      "id": "292edf5d86b32d34",
-      "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU — ‘npu-driver’ can only run at 2 to 3 Hz, targets 30 Hz performance",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DY1JhdW9nTmhBTGd1d1F1cGNwY0lOeXQ0aU5LUjVmNFBuYU5YNFNfT19vaWxOUFBpS3gtaXpvMFJCQlZEN1dJbDJrVGNXWFlDbjNiRnh4QzhnQndsTWtELVUwdw?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-04T12:02:21+00:00",
-      "summary": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU — ‘npu-driver’ can only run at 2 to 3 Hz, targets 30 Hz performance https://t.co/Rxr93HsT7X X",
-      "engagement": 0.0,
-      "score": 68.08,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.432
-      },
-      "sources": [
-        "news",
-        "x"
-      ],
-      "taste": 0.432,
-      "ar": "يهدف مشروع npu-driver مفتوح المصدر إلى عرض سطح Windows 11 عبر وحدة المعالجة العصبية NPU بدلاً من GPU، رغم أن أدائه الحالي محدود بـ 2-3 إطاراً في الثانية."
-    },
-    {
-      "id": "0cd0f19b4a0153cb",
-      "title": "5 Web dev resources you should be aware of - 314 open-source AI agent skills - 6200+ free SVG icons - Flex with your AI coding usage - 35 free interactive canv",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uc2cyWm55cWZ2d3BMaHEwNmJFWnJjOWpXOVdYODI5aDhjMGRZMm56ZDFvaFlMdGdIcjVJS3JWVVlYU2tEOFdzVzJtS0JQZDk0aGpSSXp4NEVveWRjb21KMkhR?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-04T07:04:10+00:00",
-      "summary": "5 Web dev resources you should be aware of https://t.co/6QcK5gNoSf - 314 open-source AI agent skills https://t.co/3nyzXkOhV8 - 6200+ free SVG icons https://t.co/Ul05UvXMZG - Flex with your AI coding usage https://t.co/2P9XmaTKSt - 35 free interactive canv X",
-      "engagement": 0.0,
-      "score": 66.76,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.824
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.824,
-      "ar": "تتوفر حزمة موارد تطوير ويب تشمل 314 مهارة لوكلاء الذكاء الاصطناعي، وأكثر من 6200 أيقونة SVG مجانية، وأدوات تفاعلية لتسريع سير عمل المطورين."
-    },
-    {
-      "id": "3bc1577961da4cdb",
-      "title": "Vibe Coding & AI News to Use: November 3, 2026… @simonw Willison runs Qwen 3.8 27B on a laptop to interpret model weights Octomind is an open-source coding agent harness in one Rust binary that works with any model @muvo",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HMEZCZ1Y2X0FEby02eTYwMFJ3MnAyazdrNGNlUk1wS1RlOWJhdlZZbXRvMkR2NmlJcHN5S05YY3IxUnctaHJ3RzFkOTVqVXpUMFczLWZOeUdCTVhGSVdCRHg3TQ?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-04T03:30:09+00:00",
-      "summary": "Vibe Coding & AI News to Use: November 3, 2026… @simonw Willison runs Qwen 3.8 27B on a laptop to interpret model weights https://t.co/2l7Wegc3Pv Octomind is an open-source coding agent harness in one Rust binary that works with any model @muvo X",
-      "engagement": 0.0,
-      "score": 66.3,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.9484
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.948,
-      "ar": "أظهر Simon Willison إمكانية تشغيل نموذج Qwen 3.8 27B على الحاسوب المحمول، بينما يقدم Octomind هارنس مفتوح المصدر بلغة Rust يعمل مع أي نموذج لغوي."
-    },
-    {
-      "id": "d0d4443ecf2ba105",
-      "title": "the most underrated way to use mcp right now is not coding. it's running your socials from a chat",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NT2NUc2FYcXoxVy02ZnV0THdoM1hHWWplRW1JaEJUc054ZGFZSnA4V2ZiVlVmc0J0T0hOTGI0YlVsdXNPV09WaDVmcU9fekpseFo0V2pidFVERzlNNEQ3dXdkTmx5Ulk?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-11-04T10:02:35+00:00",
-      "summary": "the most underrated way to use mcp right now is not coding. it's running your socials from a chat X",
-      "engagement": 0.0,
-      "score": 65.85,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.7863
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.786,
-      "ar": "يُعد استخدام بروتوكول MCP لإدارة حسابات التواصل الاجتماعي عبر الدردشة من أكثر التطبيقات غير المتوقعة، مما يوسع نطاقه بعيداً عن البرمجة التقليدية."
-    },
-    {
-      "id": "99ace7da7111800e",
-      "title": "Someone built a free open source tool that lets your AI agent make polished screen recordings, so you can get a product demo video from one prompt. You ask your agent something like \"make a video showing how human handoff works.\" It then: → Explores y",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYZHVFd3Ewd080YkRkZzRONTNmN0RNYVdCUkhrR2hVNUgtOVBZWWR0UGQxalFqRjZERXVaaUZ2T3cwVDItcmNhZ1gtYWVvY2NyTGkzRU5zZ0FBUVd3YkVzSDZnM1VrMjg?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-04T02:15:00+00:00",
-      "summary": "Someone built a free open source tool that lets your AI agent make polished screen recordings, so you can get a product demo video from one prompt. You ask your agent something like \"make a video showing how human handoff works.\" It then: → Explores y X",
-      "engagement": 0.0,
-      "score": 65.5,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.9267
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.927,
-      "ar": "أداة مفتوحة المصدر تتيح للوكلاء الاصطناعيين إنشاء تسجيلات شاشة احترافية من أمر نصي واحد، مما يسهل إنتاج فيديوهات توضيحية للمنتجات دون تدخل يدوي."
-    },
-    {
-      "id": "31940444c4fd5dbc",
-      "title": "nope, but we asked our ai agent that orders groceries to always add in some surprise snacks from brands we haven’t tried yet (it knows based on the shopping history), and it’s been fun",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tWEZQOXlPSWc3ckZ2Y0dUVDBzUXJ4cE5hSkNYQzhQLUc1NENBNGxiLTF6UjNaNC0zbXlKZ2tvekVJdWZEbUo0YmI1dUVoXzV2MC1NSWttdXB2Rm9BYnZTSg?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-11-04T06:41:21+00:00",
-      "summary": "nope, but we asked our ai agent that orders groceries to always add in some surprise snacks from brands we haven’t tried yet (it knows based on the shopping history), and it’s been fun X",
-      "engagement": 0.0,
-      "score": 65.16,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.7994
+        "taste": 0.7988
       },
       "sources": [
         "x"
       ],
       "taste": 0.799,
-      "ar": "يستخدم مستخدمون وكلاء الذكاء الاصطناعي لتسوق البقالة مع إضافة وجبات خفيفة مفاجئة من علامات تجارية جديدة بناءً على سجل الشراء، مما يضيف عنصر الترفيه للتسوق."
+      "ar": "تسعى Anthropic لتقييم كامل مخفف يبلغ 1.4 تريليون دولار في طرحها العام الأولي، مما يعكس الطموح المالي الهائل للشركة في سوق التقنية."
     },
     {
-      "id": "b22f1584889b0464",
-      "title": "Tableau Data Apps is now available in open beta! Vibe coding doesn't have to mean ditching data governance. Build custom Tableau Data Apps in Tableau Cloud with any AI agent—running directly on live, trusted data in an admin-controlled environment wit",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aTnhXUlZnQkVxamtGb0FBLU1WcC1MOTdtT19zMmY2TmFhc2RUVWVNd2dwVnNxRDdoV1NQSWlqMzZ6MUpLaUNJb1JJWjljWjlvUHhXVDFsZVNmUVRH?oc=5",
+      "id": "00285beaee638eb4",
+      "title": "I'm going to be completely real about the realities of this, as someone who could not possibly be more anti-AI: Software engineering uses AI. My partner works in that field, and it's just been 100% fully adapted into workflow, just for helping fix lines of code etc.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2QTNfLXZ4SGFFaEhaM0JJVnNfNnliVXkzSHN3enBBT1RmeVVpR05qUjdUOWZtbUY5VWQ2ZmRodHh5Y1BpaVBnTFZDMFBuc0dlM0pSY3BEZXNHTFUwdkszMg?oc=5",
       "source": "x",
-      "topic": "launch",
-      "published": "2026-11-03T20:00:24+00:00",
-      "summary": "Tableau Data Apps is now available in open beta! Vibe coding doesn't have to mean ditching data governance. Build custom Tableau Data Apps in Tableau Cloud with any AI agent—running directly on live, trusted data in an admin-controlled environment wit X",
+      "topic": "devtools",
+      "published": "2026-11-10T12:47:56+00:00",
+      "summary": "I'm going to be completely real about the realities of this, as someone who could not possibly be more anti-AI: Software engineering uses AI. My partner works in that field, and it's just been 100% fully adapted into workflow, just for helping fix lines of code etc. X",
       "engagement": 0.0,
-      "score": 64.08,
+      "score": 63.88,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source alternative\" OR \"just launched\" OR \"now available\" OR \"v1.0\") when:3d",
-        "taste": 0.9206
+        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
+        "taste": 0.797
       },
       "sources": [
         "x"
       ],
-      "taste": 0.921,
-      "ar": "أطلقت Tableau وضع Beta مفتوح لتطبيقات البيانات، مما يسمح ببناء تطبيقات مخصصة عبر وكلاء الذكاء الاصطناعي مع الحفاظ على حوكمة البيانات في بيئة موثوقة."
+      "taste": 0.797,
+      "ar": "شخص معادٍ للذكاء الاصطناعي يعترف بأن شريكه في هندسة البرمجية يعتمد كلياً على AI في إصلاح الأكواد، مما يؤكد التوغل العملي للتقنية في سير العمل."
     },
     {
-      "id": "a7dd528f301547cf",
-      "title": "These are some of the actual skills Apple is using for Siri AI in iOS 27.3 - there's a skill to teach Siri how to select and insert text in Notes - they made a skill to tell Siri about file types supported in the Files app - a lot of examples of what NOT to do (sign of an old",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pLVJPSk51Nm9XaWZ3dUdscVZCNGxpVnQwR0pYWFZTQ3Btbk9wNHo2UkFqQ213MW1mVzdFbURHS2Z5NUtTUnZJRXo5RVk4ZHU1QzN4Ml9sZ3J0NHk1?oc=5",
+      "id": "ba527d9fc160c67b",
+      "title": "Internet Download Manager costs $24.95 for a lifetime license. Or $11.95 a year. One developer built a free, open-source alternative in Rust that beat IDM in all 7 of his own local benchmark tests. No ads. No trial. No license fees. And it even supports torrents,",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvWVJzaGxCY0hSZnRzc3BYRlRFYzZGWTBUa0pSc2xhclA4OUs4MjZ5U1pabnpzLXJwOWdtMnlsV3FBMkxaZUtFejJGX3FzRl8wakZxLWpaVVNEMVNRTVpneg?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-10T13:46:40+00:00",
+      "summary": "Internet Download Manager costs $24.95 for a lifetime license. Or $11.95 a year. One developer built a free, open-source alternative in Rust that beat IDM in all 7 of his own local benchmark tests. No ads. No trial. No license fees. And it even supports torrents, X",
+      "engagement": 0.0,
+      "score": 63.77,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.7717
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.772,
+      "ar": "طوّر مبرمج بديل مفتوح المصدر بلغة Rust لتطبيق IDM، تفوق في اختبارات الأداء المحلية دون إعلانات أو رسوم ترخيص، مما يوفر حلاً مجانياً وقوياً."
+    },
+    {
+      "id": "1b10017e6923e9d6",
+      "title": "DAILY AI BRIEF 🗞 — Nov 10 MODEL FORECAST 👀: - Gemini 4 Carbon, today!!! - Gemini 4 Hydrogen (Flash), today? - GPT-6.2 Sol, this week? - GPT-6.2 Astra, this week? - Inkling 2 Small open weights, soon - Qwen4 Max/Flash/Plus/27B, this week? - Tencent",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pTGJaLV9qQ2JWcFRtR3BuLXlKMU9PeWlDOUhlQm5pNDE4MTYtWHhoMUFSRlcwTWtxbTJ6X3NNLW9ZLTctYUJQbnFyUHhyUGVyeXlnOTdHUGdqNW11cVBVMG44Y2hkUQ?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-10T10:00:14+00:00",
+      "summary": "DAILY AI BRIEF 🗞 — Nov 10 MODEL FORECAST 👀: - Gemini 4 Carbon, today!!! - Gemini 4 Hydrogen (Flash), today? - GPT-6.2 Sol, this week? - GPT-6.2 Astra, this week? - Inkling 2 Small open weights, soon - Qwen4 Max/Flash/Plus/27B, this week? - Tencent X",
+      "engagement": 0.0,
+      "score": 62.72,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.7679
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.768,
+      "ar": "توقعات بإطلاق نماذج Gemini 4 Carbon و GPT-6.2 Sol هذا الأسبوع، مما يشير إلى سباق تقني محموم بين عمالقة التقنية لتقديم أحدث الإصدارات."
+    },
+    {
+      "id": "8460ed6c7857741a",
+      "title": "open weight ai coding models to use if you are using opencode go: - GLM-5.3-Flash - DeepSeek-V4.1-Flash - Kimi K3.1 Pro official numbers from deepswe, the most worth it in terms of cost/solved task is GLM-5.3-Flash. more info below",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wdXJ2T3BPa1lPc2JrQ0luTk5QNHo3QWpRUU5VUXpaclhldGNCM0liMUgyeE9XQ3FzYmk4V2Rtb2JKTDdOemVyOE9PZWNWSUVRVmlybldVc0Jlb3R3dThr?oc=5",
+      "source": "x",
+      "topic": "devtools",
+      "published": "2026-11-10T05:13:20+00:00",
+      "summary": "open weight ai coding models to use if you are using opencode go: - GLM-5.3-Flash - DeepSeek-V4.1-Flash - Kimi K3.1 Pro official numbers from deepswe, the most worth it in terms of cost/solved task is GLM-5.3-Flash. more info below https://t.co/OAh0IfDqP3 X",
+      "engagement": 0.0,
+      "score": 61.91,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
+        "taste": 0.8536
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.854,
+      "ar": "توصية باستخدام نماذج GLM-5.3-Flash و DeepSeek-V4.1-Flash المفتوحة الأوزان مع opencode go، حيث يعتبر الأول الأفضل من حيث التكلفة مقابل حل المهام."
+    },
+    {
+      "id": "f8c1a7370c130fe5",
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "hackernews",
+      "topic": "dev",
+      "published": "2026-11-10T12:11:12+00:00",
+      "summary": "",
+      "engagement": 165.0,
+      "score": 59.55,
+      "niche_hits": [],
+      "meta": {
+        "points": 165,
+        "comments": 72,
+        "hn_url": "https://news.ycombinator.com/item?id=50439193",
+        "taste": 0.5884
+      },
+      "sources": [
+        "hackernews"
+      ],
+      "taste": 0.588,
+      "ar": ""
+    },
+    {
+      "id": "6127094e9f086c55",
+      "title": "Connect your agent to verified skills. Ask Claude Code for a deck and it finds Slide Charts in Skill Store 33. On our deck checks, that skill took 3 models from 10-18 out of 100 to 93-99. No sign-in, one line: claude mcp add --transport http skill-store",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GVXhVSVlUY2ZmRHl4VkdzYUtudXAxTUJMUTYxcUQzV1VvMW1CTnc3cjN4V09MM1EwZGVsNERfWW1mcWI4Yi11VVQxX25mRlJXNTJadFI2ZkFDOWwyZkE?oc=5",
       "source": "x",
       "topic": "harness",
-      "published": "2026-11-04T00:52:23+00:00",
-      "summary": "These are some of the actual skills Apple is using for Siri AI in iOS 27.3 - there's a skill to teach Siri how to select and insert text in Notes - they made a skill to tell Siri about file types supported in the Files app - a lot of examples of what NOT to do (sign of an old X",
+      "published": "2026-11-10T02:16:28+00:00",
+      "summary": "Connect your agent to verified skills. Ask Claude Code for a deck and it finds Slide Charts in Skill Store 33. On our deck checks, that skill took 3 models from 10-18 out of 100 to 93-99. No sign-in, one line: claude mcp add --transport http skill-store https://t.co/06 X",
       "engagement": 0.0,
-      "score": 63.39,
+      "score": 59.21,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.8237
+        "taste": 0.5693
       },
       "sources": [
         "x"
       ],
-      "taste": 0.824,
+      "taste": 0.569,
       "ar": ""
     },
     {
-      "id": "fe8a81c91aae655a",
-      "title": "Tencent released Hy4, its new flagship model with performance among the top open models on benchmarks. Hy4 is now available on Tencent Cloud, OpenRouter, CodeBuddy, WorkBuddy, and Hy AI Studio. Open weights are coming soon. > \"Tencent plans to",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zd2gtNFRjX2tZSVk0R1NXV2lNQW5uUk81bl9Ldk5CVFE5LU1NZ3pDUUhrdFg2NjdPaV9DSEdhdG0wNlNid1BOeU14UEtjdXd4R0pGTTlYeHQ2RWE2d2w3elRsUVRsZw?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-04T07:44:40+00:00",
-      "summary": "Tencent released Hy4, its new flagship model with performance among the top open models on benchmarks. Hy4 is now available on Tencent Cloud, OpenRouter, CodeBuddy, WorkBuddy, and Hy AI Studio. Open weights are coming soon. > \"Tencent plans to X",
-      "engagement": 0.0,
-      "score": 63.03,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.7757
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.776,
-      "ar": ""
-    },
-    {
-      "id": "553f4b4b078eca41",
-      "title": "10 open-source apps every Windows user should download in 2026 – for free - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZLThTUThPZVRoQWItSkZWWjktLUpNRFNSUlVFMmY2MXdneVRxMktPY0dVX182NllpaHVGQ3c5b3pEVnhxTmFXOGJzWkJ3N1RLMFpRNFFmV2NxZw?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-03T18:00:26+00:00",
-      "summary": "10 open-source apps every Windows user should download in 2026 – for free - ZDNET https://t.co/mn9AcsopoQ X",
-      "engagement": 0.0,
-      "score": 62.94,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.7381
-      },
-      "sources": [
-        "news",
-        "x"
-      ],
-      "taste": 0.777,
-      "ar": ""
-    },
-    {
-      "id": "7892b5082ee47344",
-      "title": "OpenIDEA : une alternative open source à IntelliJ IDEA, réécrite en Rust, qui garde votre keymap, vos tool windows et votre search…",
-      "url": "https://mastodon.social/@camilleroux/117557824916519722",
+      "id": "de4610631dc936ce",
+      "title": "🚀 Slurm-web v7.1.0 is out! Maintenance release of our open source web dashboard for # Slurm clusters: 🔁 Accurate job details for requeued…",
+      "url": "https://mast.hpc.social/@rackslab/117592409086551490",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-11-04T11:00:53.054000+00:00",
-      "summary": "OpenIDEA : une alternative open source à IntelliJ IDEA, réécrite en Rust, qui garde votre keymap, vos tool windows et votre search everywhere dans une app native. Sur un projet Python d'environ 770 fichiers : ouverture en 0,9 s contre 3,1 s, 169 Mo contre 2011 Mo. ⬇️ https:// github.com/l0ng-ai/openidea # Rust # Python # OpenSource # Programming # WebDev 📬 Ma veille dev, chaque vendredi par email ",
-      "engagement": 3.0,
-      "score": 62.87,
+      "published": "2026-11-10T13:36:05+00:00",
+      "summary": "🚀 Slurm-web v7.1.0 is out! Maintenance release of our open source web dashboard for # Slurm clusters: 🔁 Accurate job details for requeued jobs and reused job IDs 📊 Reliable GPU metrics on Slurm ≤ 25.11 with untyped GPUs 🔒 30+ CVEs fixed in frontend dependencies Thanks to UNICAMP for their contributions! 💡 Using Slurm-web? Sponsor the project: https:// slurm-web.com/sponsors/ or get pro support: ht",
+      "engagement": 0.0,
+      "score": 59.2,
       "niche_hits": [],
       "meta": {
-        "account": "camilleroux",
-        "taste": 0.9309
+        "account": "rackslab@mast.hpc.social",
+        "taste": 0.8726
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.931,
+      "taste": 0.873,
       "ar": ""
     },
     {
-      "id": "0747ae974fb3b33c",
-      "title": "I'm happy to announce TemPad Dev 1.0 ⧉ Connect Figma to Codex, Claude & other coding agents. AI creates editable designs with Auto Layout, variables & components, then turns them into code. Bring your own agent. Free & open source (MIT).",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15TGpHQW9FX2dtWmsyTVBfT3Jya2dkRlk3eDl1SjZBNFY3SHVjZ0tkSG1LTUhFMm9lSWJldmtpWFZ2cFhPSUFucHlXNkJyUDd5WVVRdlp4VTg2cWVVSFJV?oc=5",
+      "id": "6f920b65cd85e8ab",
+      "title": "Someone just built a tool that turns any GitHub repo into an interactive knowledge graph. It’s called GitNexus. It maps a codebase and gives AI agents tools to explore how the code connects. That helps agents find relevant code and understand its relationship",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vMGt4d0pyLVRET0VELTNneVBydnV2ZEZGYU1SU2Z2bWlYbWhob3F1TnZ1Ri16N2FsNUxfNHZ1TXpRenBWcXdFNGpmVWZBUlpqSHVzY192eVZDeXFmWXBnX0dn?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-11-04T11:09:24+00:00",
-      "summary": "I'm happy to announce TemPad Dev 1.0 ⧉ Connect Figma to Codex, Claude & other coding agents. AI creates editable designs with Auto Layout, variables & components, then turns them into code. Bring your own agent. Free & open source (MIT). https://t.co/la X",
+      "published": "2026-11-10T01:49:17+00:00",
+      "summary": "Someone just built a tool that turns any GitHub repo into an interactive knowledge graph. It’s called GitNexus. It maps a codebase and gives AI agents tools to explore how the code connects. That helps agents find relevant code and understand its relationship X",
       "engagement": 0.0,
-      "score": 62.84,
+      "score": 59.13,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.6661
+        "taste": 0.8422
       },
       "sources": [
         "x"
       ],
-      "taste": 0.666,
+      "taste": 0.842,
+      "ar": ""
+    },
+    {
+      "id": "baaf713b11e387f5",
+      "title": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "source": "hackernews",
+      "topic": "dev",
+      "published": "2026-11-10T00:10:46+00:00",
+      "summary": "",
+      "engagement": 239.0,
+      "score": 58.77,
+      "niche_hits": [],
+      "meta": {
+        "points": 239,
+        "comments": 123,
+        "hn_url": "https://news.ycombinator.com/item?id=50434310",
+        "taste": 0.9122
+      },
+      "sources": [
+        "hackernews"
+      ],
+      "taste": 0.912,
       "ar": ""
     }
   ]
