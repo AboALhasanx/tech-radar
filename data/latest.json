@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-13T13:33:39.594494+00:00",
-  "fetched": 773,
+  "generated_at": "2026-11-13T21:50:34.312985+00:00",
+  "fetched": 837,
   "stories": [
+    {
+      "id": "4833ab6511956955",
+      "title": "🔊New Coding Harness! This might replace my DeepSeekHarness. Small local model power-up? ❓What if your local coding agent wasn't allowed to change the codebase until its changes passed independent verification? A new open-source coding agent fro",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SdU1mSmdNbEk1bE9DUjVYZi1NajhmazI2X2J3T2I2MENMZzlpWjRaOGhJVklBeVJyREZ5ZlNGM0ZtcXZQSnJTd0RRNFNial84SFloMTRyOUFERzJoRkE?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-13T16:31:20+00:00",
+      "summary": "🔊New Coding Harness! This might replace my DeepSeekHarness. Small local model power-up? ❓What if your local coding agent wasn't allowed to change the codebase until its changes passed independent verification? A new open-source coding agent fro X",
+      "engagement": 0.0,
+      "score": 70.92,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8906
+      },
+      "title_ar": "وكيل برمجة مفتوح المصدر جديد يفرض التحقق المستقل قبل تعديل الكود",
+      "ar": "أُطلق وكيل برمجة مفتوح المصدر جديد يعمل محلياً، يتميز بمنع تعديل قاعدة الكود إلا بعد اجتياز التغييرات لعمليات تحقق مستقلة، مما قد يعزز قدرات النماذج المحلية الصغيرة.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.891
+    },
+    {
+      "id": "ee7b95e9dd988aac",
+      "title": "Top 5 GitHubs of the week 💻 The repos builders starred most this week: a username finder, a security auditor for your coding agent, your own team of AI bots, real-world agent skills, and computer use without screenshots. 🧵",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RbXBBNHM1NExQR3paYzROVTJIR2VsYi03UkZUc0t2VERoOG02M0xoclBiTDNKYjN4UE1Ib2NySmhuV1RJa3I4R09jeVlIaVJjQ1VWTFJFcUNCZVB6?oc=5",
+      "source": "x",
+      "topic": "harness",
+      "published": "2026-11-13T18:35:01+00:00",
+      "summary": "Top 5 GitHubs of the week 💻 The repos builders starred most this week: a username finder, a security auditor for your coding agent, your own team of AI bots, real-world agent skills, and computer use without screenshots. 🧵 X",
+      "engagement": 0.0,
+      "score": 69.23,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.6708
+      },
+      "title_ar": "أفضل 5 مستودعات GitHub لهذا الأسبوع",
+      "ar": "تصدرت خمسة مستودعات قائمة الأكثر تفضيلاً لدى المطورين هذا الأسبوع، وتشمل أدوات للبحث عن أسماء المستخدمين، ومُدقق أمني لوكلاء البرمجة، وفرق من روبوتات الذكاء الاصطناعي، ومهارات عملية للوكلاء، واستخدام الحاسوب دون الحاجة لالتقاطات الشاشة.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.671
+    },
     {
       "id": "d58d6f682240120c",
       "title": "4 open-source F-Droid apps that replace the Samsung and Google apps I never wanted",
@@ -11,18 +55,129 @@
       "published": "2026-11-13T08:00:08+00:00",
       "summary": "4 open-source F-Droid apps that replace the Samsung and Google apps I never wanted https://t.co/9snGkdWAjL X",
       "engagement": 0.0,
-      "score": 79.43,
+      "score": 68.28,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
         "taste": 0.7607
       },
+      "title_ar": "4 تطبيقات مفتوحة المصدر على F-Droid كبديل لتطبيقات سامسونج وجوجل",
+      "ar": "يُعرض في هذا الخبر أربعة تطبيقات مفتوحة المصدر متاحة عبر F-Droid، تُقدم بدائل عملية للتطبيقات الافتراضية من سامسونج وجوجل التي قد لا يرغب المستخدمون في استخدامها.",
       "sources": [
         "news",
         "x"
       ],
-      "taste": 0.761,
-      "ar": "مقال يسلط الضوء على أربع تطبيقات مفتوحة المصدر من F-Droid كبديل عملي لتطبيقات سامسونج وغوغل، مما يمنح المستخدم تحكماً أكبر وخصوصية أعلى دون الاعتماد على الأنظمة المغلقة."
+      "taste": 0.761
+    },
+    {
+      "id": "b66a532478ef3011",
+      "title": "Introducing Alien — the most private AI agent You shouldn't give your entire life to an agent with no security",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GODZkUFJiRTlJUVQ0enNMZ1ZIZHBDWUNBc2RMbTJQcDFPek5HZXJKLU14QVgxWEdvdXk5aUdLMnR0TmZBNjNDekI3NGxXdmsxX2lmTHlnU2pFMXQzelpZ?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-11-13T17:12:17+00:00",
+      "summary": "Introducing Alien — the most private AI agent You shouldn't give your entire life to an agent with no security X",
+      "engagement": 0.0,
+      "score": 67.14,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.8184
+      },
+      "title_ar": "إطلاق Alien: وكيل ذكاء اصطناعي يركز على الخصوصية والأمان",
+      "ar": "أُطلق وكيل الذكاء الاصطناعي Alien، الذي يُوصف بأنه الأكثر خصوصية، مع التأكيد على أهمية عدم منح وكلاء بلا أمان وصولاً كاملاً لبيانات المستخدمين الشخصية.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.818
+    },
+    {
+      "id": "5beddc1e1a894b6c",
+      "title": "FreePBX is free and open source: with Asterisk and a clean Debian 12 you can build a business phone system with no licence fees. Setup, security and what is not free: #FreePBX #Asterisk #VoIP",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HbWROdXR2SmJZTV9jbjRiXzA4VDVmb1NCUE9KSGJ3QkwwSW5ISGQtcGNKbEIyUWI3WWxfTnR5X1pkeVMtVkMyRkNnbGp6LWtNZ21sSVlKdDNOa01JYXNaRU1B?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-13T15:40:22+00:00",
+      "summary": "FreePBX is free and open source: with Asterisk and a clean Debian 12 you can build a business phone system with no licence fees. Setup, security and what is not free: https://t.co/wJQOLcODLa #FreePBX #Asterisk #VoIP X",
+      "engagement": 0.0,
+      "score": 66.3,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8194
+      },
+      "title_ar": "بناء نظام هاتفي للشركات باستخدام FreePBX و Asterisk مجاناً",
+      "ar": "يوضح الخبر كيفية بناء نظام هاتفي للشركات باستخدام FreePBX و Asterisk على نظام Debian 12 دون تكاليف تراخيص، مع الإشارة إلى جوانب الإعداد والأمان وما هو غير مجاني في العملية.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.819
+    },
+    {
+      "id": "4fd8dde6b2d59ba5",
+      "title": "SGLang is now available as part of NVIDIA AI Enterprise. NVIDIA NIM Certified microservices built on SGLang give enterprises a validated path to production inference. • SGLang provides the engine: Unified Radix Cache, Breakable CUDA Graph, and broad",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00SjExd3hjTWxfRVd5RElvTGlqVlo5ZWZBTko1UGFpQm9LVXU1Vmx3d0otQ1F5bTZNeDF1cU1CLUM5NDVXMnhzcjl6VU0xeHpLLVVmUGotOTBGTHBVQmhpdXBR?oc=5",
+      "source": "x",
+      "topic": "launch",
+      "published": "2026-11-13T17:59:53+00:00",
+      "summary": "SGLang is now available as part of NVIDIA AI Enterprise. NVIDIA NIM Certified microservices built on SGLang give enterprises a validated path to production inference. • SGLang provides the engine: Unified Radix Cache, Breakable CUDA Graph, and broad X",
+      "engagement": 0.0,
+      "score": 66.1,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source alternative\" OR \"just launched\" OR \"now available\" OR \"v1.0\") when:3d",
+        "taste": 0.6526
+      },
+      "title_ar": "SGLang يصبح جزءاً من NVIDIA AI Enterprise",
+      "ar": "أصبحت محرك الاستدلال SGLang متاحاً ضمن حزمة NVIDIA AI Enterprise، حيث تقدم خدمات مصغرة معتمدة من NVIDIA NIM مساراً موثوقاً للمؤسسات لتنفيذ نماذج الذكاء الاصطناعي في بيئة الإنتاج.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.653
+    },
+    {
+      "id": "ca853bf7ed75e4c3",
+      "title": "Reason Machines has launched Reason, its AI coding agent designed to maximize work completed per dollar. During testing, Reason solved more tasks than Codex on the same model while spending 22% less. Users can give it standing jobs to run autonom",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54NTVzcnJXZV9pRy1UMjVsS3I1MFhGUXZOZjZwS1VjbWhsRkEwWFZrczVjcGRBUGNPRzJuZ3g0WnJsV3FTcGhRNzc2NFVPTDYtR2lIZU9qV1ZGd2IzYUZnUk5GbEtCQQ?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-13T20:25:07+00:00",
+      "summary": "Reason Machines has launched Reason, its AI coding agent designed to maximize work completed per dollar. During testing, Reason solved more tasks than Codex on the same model while spending 22% less. Users can give it standing jobs to run autonom X",
+      "engagement": 0.0,
+      "score": 65.91,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.7878
+      },
+      "title_ar": "إطلاق وكيل البرمجة Reason من Reason Machines",
+      "ar": "أطلقت شركة Reason Machines وكيل البرمجة Reason، المصمم لتعظيم العمل المنجز مقابل التكلفة، حيث أظهر اختبارات أنه يحل مهام أكثر من Codex على نفس النموذج مع إنفاق أقل بنسبة 22%.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.788
+    },
+    {
+      "id": "565852ceca2f4710",
+      "title": "SOLANA FOUNDATION LAUNCHES OPEN-SOURCE TOOLS FOR BUILDING PRIVATE AI ON SOLANA $SOL, NOW IN BETA ON DEVNET",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IZ3g3T3lITi0zVUhKeGcyaU8ybTVNWm1UTHRPRElnMDVHODVkVV9pUXAzMGR0em5lVTZMdjRZVEtMY0lBQmlJTXhMTDR6aVpOeFJ4eHpjbDVzMURwVU9uTDFB?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-13T19:19:07+00:00",
+      "summary": "SOLANA FOUNDATION LAUNCHES OPEN-SOURCE TOOLS FOR BUILDING PRIVATE AI ON SOLANA $SOL, NOW IN BETA ON DEVNET X",
+      "engagement": 0.0,
+      "score": 64.37,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8092
+      },
+      "title_ar": "مؤسسة Solana تطلق أدوات مفتوحة المصدر للذكاء الاصطناعي الخاص",
+      "ar": "أطلقت مؤسسة Solana مجموعة من الأدوات مفتوحة المصدر لبناء أنظمة ذكاء اصطناعي خاصة على شبكة Solana، وهي متاحة حالياً في مرحلة تجريبية على شبكة Devnet.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.809
     },
     {
       "id": "7971df394517c629",
@@ -33,297 +188,152 @@
       "published": "2026-11-13T00:47:46+00:00",
       "summary": "145B parameters. A coding agent running locally. No cloud token bill. @Edge0_AI just released Edge0-145B and Edge0-120B: > open weights on @huggingface > offline inference on supported hardware > openAI- and Anthropic-compatible local APIs > a re X",
       "engagement": 0.0,
-      "score": 72.96,
+      "score": 64.15,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
         "taste": 0.9271
       },
+      "title_ar": "إطلاق نماذج Edge0-145B و Edge0-120B للوكلاء المحليين",
+      "ar": "أطلقت Edge0_AI نماذج Edge0-145B و Edge0-120B بأوزان مفتوحة، تتيح تشغيل وكيل برمجة محلي دون تكاليف سحابة، مع دعم الاستدلال دون اتصال وتوافق مع واجهات برمجة تطبيقات OpenAI و Anthropic.",
       "sources": [
         "x"
       ],
-      "taste": 0.927,
-      "ar": "إطلاق نموذج Edge0-145B مفتوح الأوزان يعمل محلياً بالكامل، مما يتيح تنفيذ مهام البرمجة دون تكاليف سحابية أو مخاوف خصوصية، مع دعم واجهات برمجة متوافقة مع OpenAI."
+      "taste": 0.927
     },
     {
-      "id": "35eb1824f5c6cbfa",
-      "title": "Global Microsoft Outage",
-      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "id": "853e3d7c54536274",
+      "title": "Models can now transmit viruses in weight-space",
+      "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
       "source": "hackernews",
       "topic": "dev",
-      "published": "2026-11-13T06:18:23+00:00",
+      "published": "2026-11-13T18:33:35+00:00",
       "summary": "",
-      "engagement": 203.0,
-      "score": 72.19,
+      "engagement": 115.0,
+      "score": 63.97,
       "niche_hits": [],
       "meta": {
-        "points": 203,
-        "comments": 115,
-        "hn_url": "https://news.ycombinator.com/item?id=50479098",
-        "taste": 0.6583
+        "points": 115,
+        "comments": 40,
+        "hn_url": "https://news.ycombinator.com/item?id=50487762",
+        "taste": 0.7799
       },
+      "title_ar": "النماذج قادرة الآن على نقل الفيروسات في فضاء الأوزان",
+      "ar": "يشير العنوان إلى تطور تقني يسمح بنماذج الذكاء الاصطناعي بنقل برمجيات خبيثة أو فيروسات عبر فضاء الأوزان (Weight-space)، لكن التفاصيل التقنية المحددة غير متوفرة في النص المقدم.",
       "sources": [
-        "hackernews",
-        "reddit"
+        "hackernews"
       ],
-      "taste": 0.658,
-      "ar": "توقف عالمي مفاجئ في خدمات Microsoft أثّر على ملايين المستخدمين، مما يبرز أهمية تنويع البنية التحتية وتقليل الاعتماد على مزود سحابي واحد لتجنب انقطاع الأعمال الحرجة."
+      "taste": 0.78
+    },
+    {
+      "id": "89c9115293d774f3",
+      "title": "Open-source AI is winning users, but who captures the money? Open-weight models generated 60.8% of tokens on OpenRouter in May. Yet third-party inference providers can host these same models cheaper than their creators. Read more:",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yT2x1OWt4RXQ2UEwzd1lQaWZKT1lWLWFMWXdOWlBxN256STJNRFRrVDc5OXd5SUNEUWE5clQyczgweDlDWjgtaEVlNC11Uk1ZTDdxMVI4ZFBFc0JNcGJINw?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-13T14:48:04+00:00",
+      "summary": "Open-source AI is winning users, but who captures the money? Open-weight models generated 60.8% of tokens on OpenRouter in May. Yet third-party inference providers can host these same models cheaper than their creators. Read more: https://t.co/WTgM X",
+      "engagement": 0.0,
+      "score": 63.88,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8394
+      },
+      "title_ar": "الذكاء الاصطناعي مفتوح المصدر يفوز بالمستخدمين، لكن من يجني المال؟",
+      "ar": "رغم أن نماذج الأوزان المفتوحة شكلت 60.8% من الرموز المولدة على OpenRouter في مايو، إلا أن مزودي الاستدلال من أطراف ثالثة يمكنهم استضافة هذه النماذج بتكلفة أقل من منشئيها، مما يثير تساؤلات حول توزيع الأرباح.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.839
+    },
+    {
+      "id": "ba53716dc3349e91",
+      "title": "Someone finally used AI to defend open source instead of break it, and found 1,200+ critical bugs in 10 days. Everyone’s watching AI get used to break code. CodeRabbit just spent $1M using it to defend open source instead. In 10 days, those scans surfaced",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYZGQ0N1p6N2pxanVlUllfZU5va19aeE16MzVDV0xqS1JxbENlcWFjdXBMMVZLQnp3U0RxNEV5WmRtUVkza0pXcVlSOEJ4M0k2bGtuaFJrcWRJN0VQazBsNjVsVQ?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-13T16:22:38+00:00",
+      "summary": "Someone finally used AI to defend open source instead of break it, and found 1,200+ critical bugs in 10 days. Everyone’s watching AI get used to break code. CodeRabbit just spent $1M using it to defend open source instead. In 10 days, those scans surfaced X",
+      "engagement": 0.0,
+      "score": 62.43,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.7157
+      },
+      "title_ar": "CodeRabbit يستخدم الذكاء الاصطناعي لاكتشاف 1200 خطأ حرج في 10 أيام",
+      "ar": "استثمرت شركة CodeRabbit مليون دولار لاستخدام الذكاء الاصطناعي في حماية البرمجيات مفتوحة المصدر بدلاً من كسرها، مما أدى إلى اكتشاف أكثر من 1200 خطأ حرج خلال 10 أيام فقط.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.716
     },
     {
       "id": "280673128a387d79",
       "title": "Local AI. Local compute. Open weights. Open source. Global collaboration.",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41Q0thTjZod0lCU1ZLaHlSWkNIVGRHZG9vZENubkR4d0NkWUdoWWxUaUtyTDFqZ3BPbGN1NXRRbkVRZlJrcVIybzFueW1KYU9DMjRjSXlDVQ?oc=5",
       "source": "x",
-      "topic": "ai",
+      "topic": "opensource",
       "published": "2026-11-13T10:07:20+00:00",
       "summary": "Local AI. Local compute. Open weights. Open source. Global collaboration. X",
       "engagement": 0.0,
-      "score": 70.42,
+      "score": 61.94,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
         "taste": 0.893
       },
+      "title_ar": "الذكاء الاصطناعي المحلي والأوزان المفتوحة والتعاون العالمي",
+      "ar": "يُسلط هذا المنشور الضوء على اتجاه نحو اعتماد الذكاء الاصطناعي المحلي والحوسبة المحلية والأوزان المفتوحة والمصادر المفتوحة، مع تعزيز التعاون العالمي في هذا المجال.",
       "sources": [
         "x"
       ],
-      "taste": 0.893,
-      "ar": "تأكيد على اتجاه قوي نحو الحوسبة المحلية باستخدام أوزان مفتوحة ومصادر مفتوحة، مما يعزز السيادة التقنية ويقلل من مخاطر الرقابة أو انقطاع الخدمات السحابية العالمية."
+      "taste": 0.893
     },
     {
-      "id": "0681a31eb2bc5427",
-      "title": "I tested 7 free GitHub repos that turned my AI agent from a junior intern into a senior engineer. All open source. 👉 Understand-Anything maps an entire codebase so your agent actually knows what it's working with before it starts writing code 👉 agent-skills give",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80OHRlNGJsTTdpTVFvbDZhdmJsMmRUZGIySml5c1VNQzdXMVFZSG5INGdKMEQ2MVBHZzNLZG5sb3ZSZk04WDZxY1owS1FlRnpUZUxFZ0JTczE4T2VuYk1RbExmNk9Bdw?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-13T10:55:50+00:00",
-      "summary": "I tested 7 free GitHub repos that turned my AI agent from a junior intern into a senior engineer. All open source. 👉 Understand-Anything maps an entire codebase so your agent actually knows what it's working with before it starts writing code 👉 agent-skills give X",
-      "engagement": 0.0,
-      "score": 70.25,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.8512
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.851,
-      "ar": "تجربة عملية لسبعة مستودعات GitHub مجانية تحسّن كفاءة وكودوكس، حيث تساعد أدوات مثل Understand-Anything على فهم بنية الكود مسبقاً لرفع جودة المخرجات وتقليل الأخطاء البرمجية."
-    },
-    {
-      "id": "6d7edb469628efca",
-      "title": "Agentic Coding with OpenAI Codex CLI — Build intelligent agent workflows using Agentic Engineering, MCP, hooks, and delivery automation: from @PacktPublishing @PacktDataML 𝙏𝙖𝙗𝙡𝙚 𝙤𝙛 𝘾𝙤𝙣𝙩𝙚𝙣𝙩𝙨: 🔵What Is Codex CLI? 🟠",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wRFBNVUhwb1F5Q2MzWHVKZ1FyRHFNcDh6dkJZMTlNWUdRVGZrT1lFQVlDaVBjbXJRbWFILXZNZFo4TnlrOWdXc0RYSUxfSnluMlNCVWp6NDduWWZEcU5FZQ?oc=5",
+      "id": "4db06256b5744678",
+      "title": "DeepSeek’s coding agent keeps tidying up after each task — and that good habit is quietly dragging it down on a major coding-agent benchmark.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tQmJIRm5qQUhZbWM0eVVMdUlIWDdpT3BBeDd1eEV1Qzl2QUU0TkhhOWZpWlVxWWVUcnppd21jY25SR1F4YWtldnJPZW93ZWg2aFZrRzJZMjhCLWM1THRBTWVn?oc=5",
       "source": "x",
       "topic": "agents",
-      "published": "2026-11-13T05:39:08+00:00",
-      "summary": "Agentic Coding with OpenAI Codex CLI — Build intelligent agent workflows using Agentic Engineering, MCP, hooks, and delivery automation: https://t.co/O5dy3iUKSv from @PacktPublishing @PacktDataML 𝙏𝙖𝙗𝙡𝙚 𝙤𝙛 𝘾𝙤𝙣𝙩𝙚𝙣𝙩𝙨: 🔵What Is Codex CLI? 🟠 X",
+      "published": "2026-11-13T19:00:16+00:00",
+      "summary": "DeepSeek’s coding agent keeps tidying up after each task — and that good habit is quietly dragging it down on a major coding-agent benchmark. https://t.co/XHu7CLvWgE X",
       "engagement": 0.0,
-      "score": 68.19,
+      "score": 61.78,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.8612
+        "taste": 0.6844
       },
+      "title_ar": "عادة DeepSeek في ترتيب الكود تؤثر سلباً على أدائه في الاختبارات",
+      "ar": "يُظهر وكيل البرمجة من DeepSeek عادةً في ترتيب الكود بعد كل مهمة، وهي عادة جيدة لكنها تؤدي بشكل غير متوقع إلى تراجع أدائه في أحد معايير تقييم وكلاء البرمجة الرئيسية.",
       "sources": [
         "x"
       ],
-      "taste": 0.861,
-      "ar": "كتاب جديد من Packt يشرح بناء سير عمل ذكي باستخدام OpenAI Codex CLI، مع التركيز على دمج MCP والأتمتة لتسريع دورة تطوير البرمجيات وتقليل التدخل البشري."
+      "taste": 0.684
     },
     {
-      "id": "630aed1e79b6e24b",
-      "title": "Once you get agents autonomously creating PRs, the bottleneck becomes getting them out safely. We built for our own problems. It's an open source agentic merge queue, that helps you get your code out.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10cF83VTAta3d4MG9vQm9GMjVDMXNXSUFnaUR3WktFUDZ4TDFpMHVydUFTbTR5eUtockg3bjlwMGU3b2JsMEZJVnpBLUk0V19XUnJaVmNYTm4ya3Zx?oc=5",
+      "id": "2d7bf2a67de9bca6",
+      "title": "What’s the best model for proactive agents? Today, we’re introducing the Agent Initiative Benchmark. We tested 12 frontier models on realistic workplace tasks inside a synthetic company with 6 years of highly detailed history: it has a financial model, CRM reco",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91OTRJdWk1bVdFeHlJdHpEZ3FvbTJmVnZwc0R0Tko0LUpNdFlvVDQ1WDZiR3lVdHdBVFFQWG9yTUFMaER5UkZUTGtDRVlab0Y0alAwUU9UNG1YWEdlV1JlLUYydS0?oc=5",
       "source": "x",
       "topic": "agents",
-      "published": "2026-11-13T04:40:09+00:00",
-      "summary": "Once you get agents autonomously creating PRs, the bottleneck becomes getting them out safely. We built https://t.co/n8LJh4PFFw for our own problems. It's an open source agentic merge queue, that helps you get your code out. X",
+      "published": "2026-11-13T14:58:55+00:00",
+      "summary": "What’s the best model for proactive agents? Today, we’re introducing the Agent Initiative Benchmark. We tested 12 frontier models on realistic workplace tasks inside a synthetic company with 6 years of highly detailed history: it has a financial model, CRM reco X",
       "engagement": 0.0,
-      "score": 65.23,
+      "score": 61.6,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.8392
+        "taste": 0.7153
       },
+      "title_ar": "إطلاق معيار Agent Initiative Benchmark لتقييم الوكلاء الاستباقيين",
+      "ar": "أُطلق معيار جديد لتقييم أفضل النماذج للوكلاء الاستباقيين، حيث خضع 12 نموذجاً متقدماً لاختبارات على مهام عمل واقعية داخل شركة افتراضية تملك تاريخاً تفصيلياً مدته 6 سنوات.",
       "sources": [
         "x"
       ],
-      "taste": 0.839,
-      "ar": "أداة مفتوحة المصدر لإدارة طابور الدمج (Merge Queue) تتيح للوكلاء البرمجيين دمج الكود بأمان، مما يحل مشكلة الاختناق في مراجعة الطلبات ويضمن استقرار بيئة التطوير."
-    },
-    {
-      "id": "0a32920355dca27a",
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-11-13T02:16:24+00:00",
-      "summary": "",
-      "engagement": 688.0,
-      "score": 65.23,
-      "niche_hits": [],
-      "meta": {
-        "points": 688,
-        "comments": 533,
-        "hn_url": "https://news.ycombinator.com/item?id=50477231",
-        "taste": 0.3559
-      },
-      "sources": [
-        "hackernews",
-        "news",
-        "reddit"
-      ],
-      "taste": 0.356,
-      "ar": "توقيع موظفي Nvidia على عريضة للمطالبة بعودة جينسن هوانغ، مما يعكس قلقاً داخلياً حول القيادة التقنية واتجاه الشركة في ظل المنافسة الشرسة في سوق الرقائق والذكاء الاصطناعي."
-    },
-    {
-      "id": "92861b27d6986eee",
-      "title": "Google's Gemini 4 coding agent now switches models mid-task — and finishes 19% faster",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IZzhHdlNkSXVFYVR3aFR3UjFwaHJianBiRE50NVZOS3haeWdObndLS0o3eUZtUS1PZUtrblJmNHJyUFdjQVZSVFljS2FCOWU0VzJjNVpZLXRvYl84ZHVEbDh3?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-11-13T11:00:18+00:00",
-      "summary": "Google's Gemini 4 coding agent now switches models mid-task — and finishes 19% faster https://t.co/Vin47ArT3V X",
-      "engagement": 0.0,
-      "score": 64.94,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.5635
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.564,
-      "ar": "تحديث في Gemini 4 يتيح تبديل النماذج تلقائياً أثناء تنفيذ المهام، مما يحقق تسريعاً بنسبة 19% في إنجاز مهام البرمجة ويحسن كفاءة استخدام الموارد الحسابية."
-    },
-    {
-      "id": "d5660aaa2087118c",
-      "title": "More on all our AI agents here: Grab FREE guide to AI Sales Agents here:",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2LWluV0RIVUdsMEV3dTZpbDl3dHRoMEtvTXE1YlpwYWNCZUNWUkVWNmc4Q0E0T2lReWF1QXJ2azVRVmgzX0NqRGVWQzQzVjh0aHdBRldHRXhES1dt?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-13T08:30:32+00:00",
-      "summary": "More on all our AI agents here: https://t.co/RlXTUtCH4X Grab FREE guide to AI Sales Agents here: https://t.co/5pm6mXlhFB X",
-      "engagement": 0.0,
-      "score": 63.98,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7394
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.739,
-      "ar": "تسويق لدليل مجاني حول وكلاء المبيعات بالذكاء الاصطناعي، يركز على أتمتة عمليات البيع، لكنه يفتقر إلى تفاصيل تقنية عميقة مقارنة بالإشارات الأخرى في القائمة."
-    },
-    {
-      "id": "cb7fa05817df5bb9",
-      "title": "I installed this open-source app on my Kindle and it instantly made Amazon’s software feel outdated",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aeXh6bWMtTzFtQXhyMEJLMUZTRjB6M1diV1RieXVLZ0lfSjE5WFNOVm1aMHVaMkszcGNpSmFXMDl3WWY3cW9JdlExTXVZeDltWGhoYnc1dWZLUzdTMlFwTUlSbFg?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-13T13:00:18+00:00",
-      "summary": "I installed this open-source app on my Kindle and it instantly made Amazon’s software feel outdated https://t.co/jYib4jEsGX X",
-      "engagement": 0.0,
-      "score": 63.81,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.7952
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.795,
-      "ar": ""
-    },
-    {
-      "id": "d052c68ff5ef9816",
-      "title": "История выполнения @Scheduled задач в Axelix Всем привет! Меня зовут Михаил Поливаха, я являюсь техническим лидером Open Source проекта Axelix ",
-      "url": "https://zhub.link/@habr/117609381073318386",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-11-13T13:32:17+00:00",
-      "summary": "История выполнения @Scheduled задач в Axelix Всем привет! Меня зовут Михаил Поливаха, я являюсь техническим лидером Open Source проекта Axelix . Представьте довольно простую ситуацию. У Вас есть Spring Boot сервис, который раз в некоторое время ходит во внешнюю систему и синхронизирует какие-то данные. Обычный метод с @Scheduled , ничего особенного. И вот к Вам приходит коллега и говорит: Что-то ч",
-      "engagement": 2.0,
-      "score": 63.71,
-      "niche_hits": [],
-      "meta": {
-        "account": "habr@zhub.link",
-        "taste": 0.9051
-      },
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.905,
-      "ar": ""
-    },
-    {
-      "id": "ca8a496fedd9370f",
-      "title": "Rain Agent Vaults Bring Embedded Payments to AI Agents #FinancialIT #AIPayments #EmbeddedFinance",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZYnJmYlpkZGxKcnU1bzg0V1hFZEtPV3VHbFhobTBHS2h6R3FqaXNKdEk4ajBzUTBoZHlVVDl3dnltWld1LTBSMEpVMy04bXFHZ0psbjFPSWFSallWNVplWld3d0hsVWM?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-11-13T10:56:35+00:00",
-      "summary": "Rain Agent Vaults Bring Embedded Payments to AI Agents https://t.co/ipEvcGssxx #FinancialIT #AIPayments #EmbeddedFinance X",
-      "engagement": 0.0,
-      "score": 62.9,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.7124
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.712,
-      "ar": ""
-    },
-    {
-      "id": "89e78234462950e2",
-      "title": "🚀 Qwen4 is coming! Discover the latest in AI at Alibaba Cloud Summit Hong Kong 2026. Explore how Qwen4’s deeper knowledge, richer world understanding, and stronger coding and agentic capabilities are designed for real-world tasks — from complex codi",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLYmVTSnFrcktVUHVjM0lXYlhTUTVmdzZORVRtVGdHWVhvX29oMnBJU2x3elhzUTRXLUlZVUI4VVVraUlNc1Bzc1AtTTdRNTZ4eVd6Z1ZtemYyei1nSTI5N3ZLM08?oc=5",
-      "source": "x",
-      "topic": "devtools",
-      "published": "2026-11-13T07:45:10+00:00",
-      "summary": "🚀 Qwen4 is coming! Discover the latest in AI at Alibaba Cloud Summit Hong Kong 2026. Explore how Qwen4’s deeper knowledge, richer world understanding, and stronger coding and agentic capabilities are designed for real-world tasks — from complex codi X",
-      "engagement": 0.0,
-      "score": 60.65,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
-        "taste": 0.6563
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.656,
-      "ar": ""
-    },
-    {
-      "id": "b59d829aa03e025f",
-      "title": "Someone Made a Free Embroidery Editor",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nU3hwOEhVSTBDZ3BnOENybDhOU0RzS1JaZ29ENG5BWlJSdlltaUhpaDNaVkNRVFJGdEotR0l2VlNHQ2pYV3BtTGU4eWViVVY4cmRXSHlUREl3TmNEeEdsSzdB?oc=5",
-      "source": "news",
-      "topic": "dev",
-      "published": "2026-11-13T12:54:03+00:00",
-      "summary": "Someone Made a Free Embroidery Editor It's FOSS",
-      "engagement": 0.0,
-      "score": 59.6,
-      "niche_hits": [],
-      "meta": {
-        "query": "open source OR developer tools when:3d",
-        "taste": 0.9046
-      },
-      "sources": [
-        "news"
-      ],
-      "taste": 0.905,
-      "ar": ""
+      "taste": 0.715
     }
   ]
 }

@@ -12,6 +12,10 @@ on:
         description: "Run the weekly rollup instead of a collection pass"
         type: boolean
         default: false
+      publish_only:
+        description: "Build and deploy the current site without collecting or sending alerts"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -24,7 +28,7 @@ concurrency:
 
 jobs:
   collect:
-    if: github.event.schedule != '0 6 * * 0' && inputs.weekly != true
+    if: inputs.publish_only != true && github.event.schedule != '0 6 * * 0' && inputs.weekly != true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -51,7 +55,7 @@ jobs:
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
-          git add digest data/latest.json data/seen.json data/archive
+          git add digest data/latest.json data/brief.json data/seen.json data/archive
           if git diff --cached --quiet; then
             echo "nothing new"
           else
@@ -60,7 +64,7 @@ jobs:
           fi
 
   weekly:
-    if: github.event.schedule == '0 6 * * 0' || inputs.weekly == true
+    if: inputs.publish_only != true && (github.event.schedule == '0 6 * * 0' || inputs.weekly == true)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -91,7 +95,7 @@ jobs:
 
   pages:
     needs: [collect, weekly]
-    if: always() && (needs.collect.result == 'success' || needs.weekly.result == 'success')
+    if: always() && (inputs.publish_only == true || needs.collect.result == 'success' || needs.weekly.result == 'success')
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -104,6 +108,11 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+
+      - name: Run tests before publishing
+        run: |
+          pip install pytest
+          python -m pytest tests -q
 
       - name: Build the static site and RSS
         run: python -m radar.site

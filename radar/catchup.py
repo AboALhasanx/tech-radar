@@ -30,19 +30,23 @@ TOPIC_ORDER = [
 class Item:
     title: str
     url: str
+    story_id: str = ""
     topic: str = "general"
     sources: set[str] = field(default_factory=set)
     topics: set[str] = field(default_factory=set)
     days: set[str] = field(default_factory=set)
     max_score: float = 0.0
     taste: float = 0.0
+    title_ar: str = ""
     ar: str = ""
     meta: dict = field(default_factory=dict)
     _tokens: set[str] = field(default_factory=set)
 
     def to_dict(self) -> dict:
         return {
+            "id": self.story_id,
             "title": self.title,
+            "title_ar": self.title_ar,
             "url": self.url,
             "topic": self.topic,
             "sources": sorted(self.sources),
@@ -55,6 +59,8 @@ class Item:
         }
 
     def add(self, row: dict) -> None:
+        if row.get("id") and not self.story_id:
+            self.story_id = str(row["id"])
         self.sources.update(row.get("sources") or [])
         self.topics.update(row.get("topics") or [])
         day = (row.get("saved_at") or "")[:10]
@@ -68,6 +74,8 @@ class Item:
             self.meta = row.get("meta") or {}
             self._tokens = tokens(self.title)
         self.taste = max(self.taste, float(row.get("taste") or 0))
+        if row.get("title_ar"):
+            self.title_ar = row["title_ar"]
         if row.get("ar"):
             self.ar = row["ar"]
 
@@ -110,9 +118,11 @@ def _cluster(rows: list[dict], threshold: float = 0.5) -> list[Item]:
             item = Item(
                 title=title,
                 url=row.get("url") or "",
+                story_id=str(row.get("id") or ""),
                 topic=row.get("topic") or "general",
                 max_score=float(row.get("score") or 0),
                 taste=float(row.get("taste") or 0),
+                title_ar=row.get("title_ar") or "",
                 ar=row.get("ar") or "",
                 meta=row.get("meta") or {},
                 _tokens=sig,
@@ -160,8 +170,11 @@ def render_report(days: int = 30, top: int = 25, headline: str = "") -> str:
 
     out += ["## الأهم", ""]
     for i, item in enumerate(items[:top], 1):
-        out.append(f"### {i}. {item.title}")
+        out.append(f"### {i}. {item.title_ar or item.title}")
         out.append("")
+        if item.title_ar and item.title_ar != item.title:
+            out.append(f"**العنوان الأصلي:** {item.title}")
+            out.append("")
         if item.ar:
             out.append(item.ar)
             out.append("")

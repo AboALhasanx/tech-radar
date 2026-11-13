@@ -1,9 +1,4 @@
-"""Arabic summaries.
-
-Optional by design: without GROQ_API_KEY the digest still renders, just with
-the original titles. With a key, the top stories get one Arabic sentence each
-that says what happened and why it matters — not a translation of the title.
-"""
+"""Arabic titles and explanations for the top stories."""
 
 from __future__ import annotations
 
@@ -17,11 +12,12 @@ from .rank import Story
 _API = "https://api.groq.com/openai/v1/chat/completions"
 _MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3.8-27b")
 
-_PROMPT = """أنت محرر تقني عراقي. عندك قائمة إشارات تقنية من آخر يومين.
-لكل واحدة اكتب سطراً عربياً واحداً (١٥-٣٠ كلمة) يوضح:
-1) شنو صار بالضبط، 2) ليش يهم القارئ التقني.
-بلا مبالغة، بلا حشو، بلا ترجمة حرفية للعنوان. استخدم المصطلح الإنكليزي إذا هو الأشهر.
-أرجع JSON فقط بالشكل: {{"items":[{{"id":"<id>","ar":"<السطر>"}}]}}
+_PROMPT = """أنت محرر تقني عربي. حوّل كل خبر إلى عنوان عربي واضح وشرح موجز.
+لكل خبر:
+1) title_ar: ترجمة أمينة للعنوان، مع إبقاء أسماء المنتجات والمصطلحات المعروفة بالإنكليزية عند الحاجة.
+2) ar: جملة أو جملتان بالعربية السهلة تشرحان ما الذي حدث ولماذا يهم، اعتماداً فقط على العنوان والمقتطف.
+لا تخترع تفاصيل أو أرقاماً. إذا لم يكفِ النص، وضّح أن التفاصيل محدودة.
+أرجع JSON فقط بالشكل: {{"items":[{{"id":"<id>","title_ar":"<العنوان بالعربية>","ar":"<الشرح>"}}]}}
 
 الإشارات:
 {items}"""
@@ -54,13 +50,18 @@ def _post(url: str, payload: dict, key: str) -> dict:
         raise RuntimeError(f"HTTP {exc.code}: {detail}") from exc
 
 
-def summarize(stories: list[Story], limit: int = 10) -> dict[str, str]:
+def summarize(stories: list[Story], limit: int = 15) -> dict[str, dict[str, str]]:
     key = _key()
     if not key:
         return {}
 
     items = [
-        {"id": s.lead.id, "title": s.lead.title[:300], "source": s.lead.source}
+        {
+            "id": s.lead.id,
+            "title": s.lead.title[:300],
+            "context": (s.lead.summary or "")[:500],
+            "source": s.lead.source,
+        }
         for s in stories[:limit]
     ]
     if not items:
@@ -69,7 +70,7 @@ def summarize(stories: list[Story], limit: int = 10) -> dict[str, str]:
     payload = {
         "model": _MODEL,
         "temperature": 0.2,
-        "max_tokens": 1400,
+        "max_tokens": 1800,
         "response_format": {"type": "json_object"},
         "messages": [
             {
@@ -102,9 +103,13 @@ def summarize(stories: list[Story], limit: int = 10) -> dict[str, str]:
             print(f"[summarize] non-JSON response: {text[:160]!r}")
             return {}
 
-    out: dict[str, str] = {}
+    out: dict[str, dict[str, str]] = {}
     for item in parsed.get("items", []):
-        sid, ar = item.get("id"), (item.get("ar") or "").strip()
-        if sid and ar:
-            out[sid] = ar
+        if not isinstance(item, dict):
+            continue
+        sid = item.get("id")
+        title_ar = (item.get("title_ar") or "").strip()
+        ar = (item.get("ar") or "").strip()
+        if sid and (title_ar or ar):
+            out[str(sid)] = {"title_ar": title_ar, "ar": ar}
     return out

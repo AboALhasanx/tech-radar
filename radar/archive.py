@@ -21,11 +21,18 @@ def _month_path(when: datetime) -> Path:
     return Path(ARCHIVE_DIR) / f"{when:%Y-%m}.jsonl.gz"
 
 
-def record(story: Story, when: datetime) -> dict:
+def record(
+    story: Story,
+    when: datetime,
+    localization: dict[str, str] | None = None,
+) -> dict:
     lead = story.lead
+    localization = localization or {}
     return {
         "id": lead.id,
         "title": lead.title,
+        "title_ar": localization.get("title_ar", ""),
+        "ar": localization.get("ar", ""),
         "url": lead.url,
         "sources": sorted(story.sources),
         "topics": sorted(story.topics),
@@ -40,7 +47,12 @@ def record(story: Story, when: datetime) -> dict:
     }
 
 
-def append(stories: list[Story], when: datetime | None = None) -> Path:
+def append(
+    stories: list[Story],
+    when: datetime | None = None,
+    *,
+    localizations: dict[str, dict[str, str]] | None = None,
+) -> Path:
     when = when or datetime.now(timezone.utc)
     path = _month_path(when)
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -48,7 +60,7 @@ def append(stories: list[Story], when: datetime | None = None) -> Path:
     existing = {row["id"] for row in load_ids(path)}
     lines: list[str] = []
     for story in stories:
-        row = record(story, when)
+        row = record(story, when, (localizations or {}).get(story.lead.id))
         if row["id"] in existing:
             continue
         existing.add(row["id"])

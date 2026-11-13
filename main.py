@@ -126,7 +126,7 @@ def run(*, include_x: bool = True, use_ai: bool = True, do_publish: bool = False
                 continue
             seen_ids.add(story.lead.id)
             merged.append(story)
-        archive.append(merged)
+        archive.append(merged, localizations=summaries)
         archive.prune()
 
     for story in ranked:

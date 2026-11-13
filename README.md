@@ -123,11 +123,18 @@ digest/weekly/2026-W44.md    the weekly rollup
 CATCHUP.md                   rolling 30-day picture, always current
 data/brief.json              machine-readable feed for agents
 data/archive/2026-10.jsonl.gz durable history
-site/index.html + feed.xml   static site and RSS for GitHub Pages
+site/index.html + feed.xml   static site, RSS, and installable PWA
 ```
 
 `latest.json` is the integration point: point any agent at it and it can answer
 "what changed since yesterday" without re-fetching the web.
+
+The site can be installed from its HTTPS address. Inside the PWA, **حفظ دون إنترنت**
+stores a story's Arabic detail page and a Markdown copy on this device; the
+saved stories page lets you reopen or remove them. The original publisher page
+and external PDFs still need a connection. For a manual site refresh, dispatch
+the `radar` workflow on `master` with `publish_only` enabled; it deploys committed
+data without collecting new stories or sending alerts.
 
 ## Running it unattended
 
@@ -143,7 +150,10 @@ https://aboalhasanx.github.io/tech-radar/feed.xml   RSS
 All free for a public repository: Actions is the runner, Pages is the host,
 and there is no server to pay for. ntfy (`NTFY_TOPIC`) and Telegram
 (`TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHANNEL_ID`) are optional push channels;
-`GROQ_API_KEY` enables Arabic summaries. None are required.
+`GROQ_API_KEY` enables Arabic titles and explanations. Set it in the local
+ignored `.env` for manual runs, or as the repository Actions secret
+`GROQ_API_KEY` for scheduled runs. Without it, collection and publishing still
+work with the original titles. The other keys are optional.
 
 ## If you disappear for two months
 

@@ -60,6 +60,28 @@ def test_archive_append_and_load(tmp_path, monkeypatch):
     assert rows[0]["title"] == "Expo SDK 58 ships"
 
 
+def test_archive_preserves_arabic_title_and_summary(tmp_path, monkeypatch):
+    monkeypatch.setattr(archive, "ARCHIVE_DIR", str(tmp_path / "archive"))
+    story = _story("Python releases a faster runtime", "https://a.com/python")
+    translated = {
+        story.lead.id: {
+            "title_ar": "بايثون تصدر بيئة تشغيل أسرع",
+            "ar": "يتضمن الإصدار تحسينات تقلل وقت بدء التشغيل.",
+        }
+    }
+    archive.append(
+        [story],
+        datetime.now(timezone.utc),
+        localizations=translated,
+    )
+
+    rows = archive.load_range(2)
+
+    assert rows[0]["title_ar"] == "بايثون تصدر بيئة تشغيل أسرع"
+    assert rows[0]["ar"] == "يتضمن الإصدار تحسينات تقلل وقت بدء التشغيل."
+    assert _cluster(rows)[0].title_ar == "بايثون تصدر بيئة تشغيل أسرع"
+
+
 def test_archive_prune(tmp_path, monkeypatch):
     monkeypatch.setattr(archive, "ARCHIVE_DIR", str(tmp_path / "archive"))
     now = datetime.now(timezone.utc)

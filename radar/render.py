@@ -51,11 +51,30 @@ def _fmt_date(dt: datetime | None) -> str:
     return dt.astimezone(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
 
-def _story_block(idx: int, story: Story, summary: str | None) -> str:
+def _summary_fields(
+    summaries: dict[str, dict[str, str] | str] | None, story_id: str
+) -> dict[str, str]:
+    value = (summaries or {}).get(story_id)
+    if isinstance(value, str):
+        return {"title_ar": "", "ar": value}
+    if isinstance(value, dict):
+        return {
+            "title_ar": str(value.get("title_ar") or "").strip(),
+            "ar": str(value.get("ar") or "").strip(),
+        }
+    return {"title_ar": "", "ar": ""}
+
+
+def _story_block(
+    idx: int, story: Story, summary: dict[str, str] | str | None
+) -> str:
     sources = ", ".join(SOURCE_LABEL.get(s, s) for s in sorted(story.sources))
     lines = [f"### {idx}. {story.lead.title}", ""]
-    if summary:
-        lines += [summary, ""]
+    fields = summary if isinstance(summary, dict) else {"title_ar": "", "ar": summary or ""}
+    if fields.get("title_ar") and fields["title_ar"] != story.lead.title:
+        lines += [f"**بالعربية:** {fields['title_ar']}", ""]
+    if fields.get("ar"):
+        lines += [fields["ar"], ""]
     lines.append(f"- **المصادر:** {sources}")
     lines.append(f"- **النقاط:** {story.score:.1f} · **التفاعل:** {int(story.total_engagement)}")
     if story.taste:
@@ -73,7 +92,7 @@ def _story_block(idx: int, story: Story, summary: str | None) -> str:
 def render_markdown(
     stories: list[Story],
     *,
-    summaries: dict[str, str] | None = None,
+    summaries: dict[str, dict[str, str] | str] | None = None,
     fetched: int = 0,
 ) -> str:
     summaries = summaries or {}
@@ -126,7 +145,7 @@ def render_markdown(
 def write_outputs(
     stories: list[Story],
     *,
-    summaries: dict[str, str] | None = None,
+    summaries: dict[str, dict[str, str] | str] | None = None,
     fetched: int = 0,
     digest_dir: str = "digest",
     data_dir: str = "data",
@@ -146,8 +165,8 @@ def write_outputs(
         "generated_at": now.isoformat(),
         "fetched": fetched,
         "stories": [
-            {**s.lead.to_dict(), "sources": sorted(s.sources), "score": s.score,
-             "taste": s.taste, "ar": (summaries or {}).get(s.lead.id, "")}
+            {**s.lead.to_dict(), **_summary_fields(summaries, s.lead.id),
+             "sources": sorted(s.sources), "score": s.score, "taste": s.taste}
             for s in stories
         ],
     }
