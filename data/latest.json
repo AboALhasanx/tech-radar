@@ -1,327 +1,328 @@
 {
-  "generated_at": "2026-11-10T13:54:23.534630+00:00",
-  "fetched": 758,
+  "generated_at": "2026-11-13T13:33:39.594494+00:00",
+  "fetched": 773,
   "stories": [
     {
-      "id": "b598d21f2ddd00f5",
-      "title": "I gave a coding agent the Python scripts I wrote at university, and watching it fix them taught me more than the course did",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84Q19XVmttbXUyTXc0aWNrM2JOcC1nTzVhWER3cFI5alIxRnoyU0FFVFhnMkwzUWliWUk0TXc3ZEtKM0k4bUw3OHQwWVJwbzBXa3Fiamd4cThFSXFPcTAzR1EtWjk?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-11-10T10:00:11+00:00",
-      "summary": "I gave a coding agent the Python scripts I wrote at university, and watching it fix them taught me more than the course did https://t.co/7EKG2vNdAY X",
-      "engagement": 0.0,
-      "score": 71.91,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.7078
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.708,
-      "ar": "مستخدم أعطى Coding Agent سكربتات بايثون قديمة ليصلحها، واكتشف أن عملية المراجعة التلقائية علّمته مفاهيم برمجية أعمق مما تعلمه في الجامعة."
-    },
-    {
-      "id": "796a7f7ee338b70f",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-11-09T18:01:10+00:00",
-      "summary": "",
-      "engagement": 705.0,
-      "score": 69.35,
-      "niche_hits": [],
-      "meta": {
-        "points": 705,
-        "comments": 870,
-        "hn_url": "https://news.ycombinator.com/item?id=50429068",
-        "taste": 0.298
-      },
-      "sources": [
-        "hackernews",
-        "x"
-      ],
-      "taste": 0.298,
-      "ar": "أطلقت Anthropic تحديثات Claude Fable 5.2 و Mythos 5.2، مما يعزز قدرات النماذج في المهام المعقدة ويغير معايير الأداء في سوق أدوات الذكاء الاصطناعي."
-    },
-    {
-      "id": "e6f3b2470536db1e",
-      "title": "Crazyy...Reverse Engineer Anything is now at 440,000 GitHub stars. It's one MCP server that lets your AI agent (Claude Code, Codex, Antigravity) take apart an app and explain how it works, down to the binary level. 100% Open Source. GitHub Repo:",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nbk5ZbWtPZXN2aGNDWW92VWpUR2l1amprTkQ3VUl2ZEh3d3NzamsxUnM4SlNkRFZPSnlPOGh0QXNYcDdsY2IxbHNCSURKdTFaT3NmZVAwMHAweXpzRFVJbjF5VjN1Zw?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-11-10T07:00:06+00:00",
-      "summary": "Crazyy...Reverse Engineer Anything is now at 440,000 GitHub stars. It's one MCP server that lets your AI agent (Claude Code, Codex, Antigravity) take apart an app and explain how it works, down to the binary level. 100% Open Source. GitHub Repo: https://t.c X",
-      "engagement": 0.0,
-      "score": 68.28,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.779
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.779,
-      "ar": "أصبح مشروع Reverse Engineer Anything مفتوح المصدر يحظى بـ 440 ألف نجمة على GitHub، كونه MCP Server يتيح للـ Agents تحليل التطبيقات حتى مستوى الـ Binary."
-    },
-    {
-      "id": "8b6e714c67a95733",
-      "title": "🦾reBot Arm T701🦾 — An #opensource dual-arm solution for #PhysicalAI, currently in Beta. We’re continuing to open up CAD, BOM, machining files, SDK, and tutorials.We believe open source isn’t just uploading a few files to GitHub. It’s about letting others bui",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xYzF1NzR2Z0dleVRieXhQMTY4cTFFZjhQQjNpQW5Yd2RvZGlsNmtkX2FWakNJRGR4ZlNPdzNXbnpUXzRYSkpGaW1sYnR2UDhMWVhweUoxSlFnYVVlWWtCZTV3?oc=5",
+      "id": "d58d6f682240120c",
+      "title": "4 open-source F-Droid apps that replace the Samsung and Google apps I never wanted",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXSllLbjR5dUlWSVJWMW5KNFBFR3ptYlgxU21kcE96aEpHSGNiUDcxd3QxV2FFaVRoQ0o5MXN6cURzZTBfajJucU9GaG8yT3Y2M0JwTGRsYTlON0w0WFZN?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-11-10T08:36:43+00:00",
-      "summary": "🦾reBot Arm T701🦾 — An #opensource dual-arm solution for #PhysicalAI, currently in Beta. We’re continuing to open up CAD, BOM, machining files, SDK, and tutorials.We believe open source isn’t just uploading a few files to GitHub. It’s about letting others bui X",
+      "published": "2026-11-13T08:00:08+00:00",
+      "summary": "4 open-source F-Droid apps that replace the Samsung and Google apps I never wanted https://t.co/9snGkdWAjL X",
       "engagement": 0.0,
-      "score": 64.18,
+      "score": 79.43,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.7594
+        "taste": 0.7607
+      },
+      "sources": [
+        "news",
+        "x"
+      ],
+      "taste": 0.761,
+      "ar": "مقال يسلط الضوء على أربع تطبيقات مفتوحة المصدر من F-Droid كبديل عملي لتطبيقات سامسونج وغوغل، مما يمنح المستخدم تحكماً أكبر وخصوصية أعلى دون الاعتماد على الأنظمة المغلقة."
+    },
+    {
+      "id": "7971df394517c629",
+      "title": "145B parameters. A coding agent running locally. No cloud token bill. @Edge0_AI just released Edge0-145B and Edge0-120B: > open weights on @huggingface > offline inference on supported hardware > openAI- and Anthropic-compatible local APIs > a re",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01TzJ6bGhnQm5qSXJqNnQ0UW1uc1BhVXg2M1hHazRUbGx0N1o5dXo0ZXZaWG40LUlnNEFFRU03dFNPblpKT2JGWUYxY29QN2tqUEZURWs0RThIVTZubnc?oc=5",
+      "source": "x",
+      "topic": "harness",
+      "published": "2026-11-13T00:47:46+00:00",
+      "summary": "145B parameters. A coding agent running locally. No cloud token bill. @Edge0_AI just released Edge0-145B and Edge0-120B: > open weights on @huggingface > offline inference on supported hardware > openAI- and Anthropic-compatible local APIs > a re X",
+      "engagement": 0.0,
+      "score": 72.96,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.9271
       },
       "sources": [
         "x"
       ],
-      "taste": 0.759,
-      "ar": "أطلقت reBot Arm T701 حلاً مفتوح المصدر للذراعين الميكانيكية في Physical AI، مع توفير ملفات CAD وSDK لتسهيل بناء أنظمة روبوتية متقدمة."
+      "taste": 0.927,
+      "ar": "إطلاق نموذج Edge0-145B مفتوح الأوزان يعمل محلياً بالكامل، مما يتيح تنفيذ مهام البرمجة دون تكاليف سحابية أو مخاوف خصوصية، مع دعم واجهات برمجة متوافقة مع OpenAI."
     },
     {
-      "id": "b4c471028a94101d",
-      "title": "More on all our AI agents here: Grab FREE guide to AI Sales Agents here:",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yYnZfVDJKMlhkbzF2SVp2NThlYWFuVHM0YS1DeXVqSk1IRks0MkdyV2FmOUFIM3liUWRHVVVkLTl2T1ZrYWtFcGUwRm9nald5eVlCTmdIU2w1OE44?oc=5",
+      "id": "35eb1824f5c6cbfa",
+      "title": "Global Microsoft Outage",
+      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "source": "hackernews",
+      "topic": "dev",
+      "published": "2026-11-13T06:18:23+00:00",
+      "summary": "",
+      "engagement": 203.0,
+      "score": 72.19,
+      "niche_hits": [],
+      "meta": {
+        "points": 203,
+        "comments": 115,
+        "hn_url": "https://news.ycombinator.com/item?id=50479098",
+        "taste": 0.6583
+      },
+      "sources": [
+        "hackernews",
+        "reddit"
+      ],
+      "taste": 0.658,
+      "ar": "توقف عالمي مفاجئ في خدمات Microsoft أثّر على ملايين المستخدمين، مما يبرز أهمية تنويع البنية التحتية وتقليل الاعتماد على مزود سحابي واحد لتجنب انقطاع الأعمال الحرجة."
+    },
+    {
+      "id": "280673128a387d79",
+      "title": "Local AI. Local compute. Open weights. Open source. Global collaboration.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41Q0thTjZod0lCU1ZLaHlSWkNIVGRHZG9vZENubkR4d0NkWUdoWWxUaUtyTDFqZ3BPbGN1NXRRbkVRZlJrcVIybzFueW1KYU9DMjRjSXlDVQ?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-13T10:07:20+00:00",
+      "summary": "Local AI. Local compute. Open weights. Open source. Global collaboration. X",
+      "engagement": 0.0,
+      "score": 70.42,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.893
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.893,
+      "ar": "تأكيد على اتجاه قوي نحو الحوسبة المحلية باستخدام أوزان مفتوحة ومصادر مفتوحة، مما يعزز السيادة التقنية ويقلل من مخاطر الرقابة أو انقطاع الخدمات السحابية العالمية."
+    },
+    {
+      "id": "0681a31eb2bc5427",
+      "title": "I tested 7 free GitHub repos that turned my AI agent from a junior intern into a senior engineer. All open source. 👉 Understand-Anything maps an entire codebase so your agent actually knows what it's working with before it starts writing code 👉 agent-skills give",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80OHRlNGJsTTdpTVFvbDZhdmJsMmRUZGIySml5c1VNQzdXMVFZSG5INGdKMEQ2MVBHZzNLZG5sb3ZSZk04WDZxY1owS1FlRnpUZUxFZ0JTczE4T2VuYk1RbExmNk9Bdw?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-13T10:55:50+00:00",
+      "summary": "I tested 7 free GitHub repos that turned my AI agent from a junior intern into a senior engineer. All open source. 👉 Understand-Anything maps an entire codebase so your agent actually knows what it's working with before it starts writing code 👉 agent-skills give X",
+      "engagement": 0.0,
+      "score": 70.25,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8512
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.851,
+      "ar": "تجربة عملية لسبعة مستودعات GitHub مجانية تحسّن كفاءة وكودوكس، حيث تساعد أدوات مثل Understand-Anything على فهم بنية الكود مسبقاً لرفع جودة المخرجات وتقليل الأخطاء البرمجية."
+    },
+    {
+      "id": "6d7edb469628efca",
+      "title": "Agentic Coding with OpenAI Codex CLI — Build intelligent agent workflows using Agentic Engineering, MCP, hooks, and delivery automation: from @PacktPublishing @PacktDataML 𝙏𝙖𝙗𝙡𝙚 𝙤𝙛 𝘾𝙤𝙣𝙩𝙚𝙣𝙩𝙨: 🔵What Is Codex CLI? 🟠",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wRFBNVUhwb1F5Q2MzWHVKZ1FyRHFNcDh6dkJZMTlNWUdRVGZrT1lFQVlDaVBjbXJRbWFILXZNZFo4TnlrOWdXc0RYSUxfSnluMlNCVWp6NDduWWZEcU5FZQ?oc=5",
       "source": "x",
       "topic": "agents",
-      "published": "2026-11-10T09:30:34+00:00",
+      "published": "2026-11-13T05:39:08+00:00",
+      "summary": "Agentic Coding with OpenAI Codex CLI — Build intelligent agent workflows using Agentic Engineering, MCP, hooks, and delivery automation: https://t.co/O5dy3iUKSv from @PacktPublishing @PacktDataML 𝙏𝙖𝙗𝙡𝙚 𝙤𝙛 𝘾𝙤𝙣𝙩𝙚𝙣𝙩𝙨: 🔵What Is Codex CLI? 🟠 X",
+      "engagement": 0.0,
+      "score": 68.19,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.8612
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.861,
+      "ar": "كتاب جديد من Packt يشرح بناء سير عمل ذكي باستخدام OpenAI Codex CLI، مع التركيز على دمج MCP والأتمتة لتسريع دورة تطوير البرمجيات وتقليل التدخل البشري."
+    },
+    {
+      "id": "630aed1e79b6e24b",
+      "title": "Once you get agents autonomously creating PRs, the bottleneck becomes getting them out safely. We built for our own problems. It's an open source agentic merge queue, that helps you get your code out.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10cF83VTAta3d4MG9vQm9GMjVDMXNXSUFnaUR3WktFUDZ4TDFpMHVydUFTbTR5eUtockg3bjlwMGU3b2JsMEZJVnpBLUk0V19XUnJaVmNYTm4ya3Zx?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-11-13T04:40:09+00:00",
+      "summary": "Once you get agents autonomously creating PRs, the bottleneck becomes getting them out safely. We built https://t.co/n8LJh4PFFw for our own problems. It's an open source agentic merge queue, that helps you get your code out. X",
+      "engagement": 0.0,
+      "score": 65.23,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.8392
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.839,
+      "ar": "أداة مفتوحة المصدر لإدارة طابور الدمج (Merge Queue) تتيح للوكلاء البرمجيين دمج الكود بأمان، مما يحل مشكلة الاختناق في مراجعة الطلبات ويضمن استقرار بيئة التطوير."
+    },
+    {
+      "id": "0a32920355dca27a",
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "source": "hackernews",
+      "topic": "dev",
+      "published": "2026-11-13T02:16:24+00:00",
+      "summary": "",
+      "engagement": 688.0,
+      "score": 65.23,
+      "niche_hits": [],
+      "meta": {
+        "points": 688,
+        "comments": 533,
+        "hn_url": "https://news.ycombinator.com/item?id=50477231",
+        "taste": 0.3559
+      },
+      "sources": [
+        "hackernews",
+        "news",
+        "reddit"
+      ],
+      "taste": 0.356,
+      "ar": "توقيع موظفي Nvidia على عريضة للمطالبة بعودة جينسن هوانغ، مما يعكس قلقاً داخلياً حول القيادة التقنية واتجاه الشركة في ظل المنافسة الشرسة في سوق الرقائق والذكاء الاصطناعي."
+    },
+    {
+      "id": "92861b27d6986eee",
+      "title": "Google's Gemini 4 coding agent now switches models mid-task — and finishes 19% faster",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IZzhHdlNkSXVFYVR3aFR3UjFwaHJianBiRE50NVZOS3haeWdObndLS0o3eUZtUS1PZUtrblJmNHJyUFdjQVZSVFljS2FCOWU0VzJjNVpZLXRvYl84ZHVEbDh3?oc=5",
+      "source": "x",
+      "topic": "harness",
+      "published": "2026-11-13T11:00:18+00:00",
+      "summary": "Google's Gemini 4 coding agent now switches models mid-task — and finishes 19% faster https://t.co/Vin47ArT3V X",
+      "engagement": 0.0,
+      "score": 64.94,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.5635
+      },
+      "sources": [
+        "x"
+      ],
+      "taste": 0.564,
+      "ar": "تحديث في Gemini 4 يتيح تبديل النماذج تلقائياً أثناء تنفيذ المهام، مما يحقق تسريعاً بنسبة 19% في إنجاز مهام البرمجة ويحسن كفاءة استخدام الموارد الحسابية."
+    },
+    {
+      "id": "d5660aaa2087118c",
+      "title": "More on all our AI agents here: Grab FREE guide to AI Sales Agents here:",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2LWluV0RIVUdsMEV3dTZpbDl3dHRoMEtvTXE1YlpwYWNCZUNWUkVWNmc4Q0E0T2lReWF1QXJ2azVRVmgzX0NqRGVWQzQzVjh0aHdBRldHRXhES1dt?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-13T08:30:32+00:00",
       "summary": "More on all our AI agents here: https://t.co/RlXTUtCH4X Grab FREE guide to AI Sales Agents here: https://t.co/5pm6mXlhFB X",
       "engagement": 0.0,
       "score": 63.98,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
         "taste": 0.7394
       },
       "sources": [
         "x"
       ],
       "taste": 0.739,
-      "ar": "تسويق مباشر لدليل مجاني حول AI Sales Agents، يهدف لجذب المطورين المهتمين بتكامل وكلاء الذكاء الاصطناعي في عمليات المبيعات الآلية."
+      "ar": "تسويق لدليل مجاني حول وكلاء المبيعات بالذكاء الاصطناعي، يركز على أتمتة عمليات البيع، لكنه يفتقر إلى تفاصيل تقنية عميقة مقارنة بالإشارات الأخرى في القائمة."
     },
     {
-      "id": "c4d373047ce6eacb",
-      "title": "*ANTHROPIC SEEKS $1.4 TRILLION FULLY DILUTED VALUATION IN IPO",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mcXlyeFRhbUphTF9lZjNUdFpPQTNqX0haVk5GYXFSUlZVWWgzQjN3LTZvejM2b3V3TlNzNF8xLU9nT19WaHkzMGQyb1ZlNU0wX0VrR1dnOWhmWlFncDZFV2Z3?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-10T12:26:32+00:00",
-      "summary": "*ANTHROPIC SEEKS $1.4 TRILLION FULLY DILUTED VALUATION IN IPO X",
-      "engagement": 0.0,
-      "score": 63.95,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7988
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.799,
-      "ar": "تسعى Anthropic لتقييم كامل مخفف يبلغ 1.4 تريليون دولار في طرحها العام الأولي، مما يعكس الطموح المالي الهائل للشركة في سوق التقنية."
-    },
-    {
-      "id": "00285beaee638eb4",
-      "title": "I'm going to be completely real about the realities of this, as someone who could not possibly be more anti-AI: Software engineering uses AI. My partner works in that field, and it's just been 100% fully adapted into workflow, just for helping fix lines of code etc.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2QTNfLXZ4SGFFaEhaM0JJVnNfNnliVXkzSHN3enBBT1RmeVVpR05qUjdUOWZtbUY5VWQ2ZmRodHh5Y1BpaVBnTFZDMFBuc0dlM0pSY3BEZXNHTFUwdkszMg?oc=5",
-      "source": "x",
-      "topic": "devtools",
-      "published": "2026-11-10T12:47:56+00:00",
-      "summary": "I'm going to be completely real about the realities of this, as someone who could not possibly be more anti-AI: Software engineering uses AI. My partner works in that field, and it's just been 100% fully adapted into workflow, just for helping fix lines of code etc. X",
-      "engagement": 0.0,
-      "score": 63.88,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
-        "taste": 0.797
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.797,
-      "ar": "شخص معادٍ للذكاء الاصطناعي يعترف بأن شريكه في هندسة البرمجية يعتمد كلياً على AI في إصلاح الأكواد، مما يؤكد التوغل العملي للتقنية في سير العمل."
-    },
-    {
-      "id": "ba527d9fc160c67b",
-      "title": "Internet Download Manager costs $24.95 for a lifetime license. Or $11.95 a year. One developer built a free, open-source alternative in Rust that beat IDM in all 7 of his own local benchmark tests. No ads. No trial. No license fees. And it even supports torrents,",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvWVJzaGxCY0hSZnRzc3BYRlRFYzZGWTBUa0pSc2xhclA4OUs4MjZ5U1pabnpzLXJwOWdtMnlsV3FBMkxaZUtFejJGX3FzRl8wakZxLWpaVVNEMVNRTVpneg?oc=5",
+      "id": "cb7fa05817df5bb9",
+      "title": "I installed this open-source app on my Kindle and it instantly made Amazon’s software feel outdated",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aeXh6bWMtTzFtQXhyMEJLMUZTRjB6M1diV1RieXVLZ0lfSjE5WFNOVm1aMHVaMkszcGNpSmFXMDl3WWY3cW9JdlExTXVZeDltWGhoYnc1dWZLUzdTMlFwTUlSbFg?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-11-10T13:46:40+00:00",
-      "summary": "Internet Download Manager costs $24.95 for a lifetime license. Or $11.95 a year. One developer built a free, open-source alternative in Rust that beat IDM in all 7 of his own local benchmark tests. No ads. No trial. No license fees. And it even supports torrents, X",
+      "published": "2026-11-13T13:00:18+00:00",
+      "summary": "I installed this open-source app on my Kindle and it instantly made Amazon’s software feel outdated https://t.co/jYib4jEsGX X",
       "engagement": 0.0,
-      "score": 63.77,
+      "score": 63.81,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.7717
+        "taste": 0.7952
       },
       "sources": [
         "x"
       ],
-      "taste": 0.772,
-      "ar": "طوّر مبرمج بديل مفتوح المصدر بلغة Rust لتطبيق IDM، تفوق في اختبارات الأداء المحلية دون إعلانات أو رسوم ترخيص، مما يوفر حلاً مجانياً وقوياً."
-    },
-    {
-      "id": "1b10017e6923e9d6",
-      "title": "DAILY AI BRIEF 🗞 — Nov 10 MODEL FORECAST 👀: - Gemini 4 Carbon, today!!! - Gemini 4 Hydrogen (Flash), today? - GPT-6.2 Sol, this week? - GPT-6.2 Astra, this week? - Inkling 2 Small open weights, soon - Qwen4 Max/Flash/Plus/27B, this week? - Tencent",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pTGJaLV9qQ2JWcFRtR3BuLXlKMU9PeWlDOUhlQm5pNDE4MTYtWHhoMUFSRlcwTWtxbTJ6X3NNLW9ZLTctYUJQbnFyUHhyUGVyeXlnOTdHUGdqNW11cVBVMG44Y2hkUQ?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-10T10:00:14+00:00",
-      "summary": "DAILY AI BRIEF 🗞 — Nov 10 MODEL FORECAST 👀: - Gemini 4 Carbon, today!!! - Gemini 4 Hydrogen (Flash), today? - GPT-6.2 Sol, this week? - GPT-6.2 Astra, this week? - Inkling 2 Small open weights, soon - Qwen4 Max/Flash/Plus/27B, this week? - Tencent X",
-      "engagement": 0.0,
-      "score": 62.72,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7679
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.768,
-      "ar": "توقعات بإطلاق نماذج Gemini 4 Carbon و GPT-6.2 Sol هذا الأسبوع، مما يشير إلى سباق تقني محموم بين عمالقة التقنية لتقديم أحدث الإصدارات."
-    },
-    {
-      "id": "8460ed6c7857741a",
-      "title": "open weight ai coding models to use if you are using opencode go: - GLM-5.3-Flash - DeepSeek-V4.1-Flash - Kimi K3.1 Pro official numbers from deepswe, the most worth it in terms of cost/solved task is GLM-5.3-Flash. more info below",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wdXJ2T3BPa1lPc2JrQ0luTk5QNHo3QWpRUU5VUXpaclhldGNCM0liMUgyeE9XQ3FzYmk4V2Rtb2JKTDdOemVyOE9PZWNWSUVRVmlybldVc0Jlb3R3dThr?oc=5",
-      "source": "x",
-      "topic": "devtools",
-      "published": "2026-11-10T05:13:20+00:00",
-      "summary": "open weight ai coding models to use if you are using opencode go: - GLM-5.3-Flash - DeepSeek-V4.1-Flash - Kimi K3.1 Pro official numbers from deepswe, the most worth it in terms of cost/solved task is GLM-5.3-Flash. more info below https://t.co/OAh0IfDqP3 X",
-      "engagement": 0.0,
-      "score": 61.91,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
-        "taste": 0.8536
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.854,
-      "ar": "توصية باستخدام نماذج GLM-5.3-Flash و DeepSeek-V4.1-Flash المفتوحة الأوزان مع opencode go، حيث يعتبر الأول الأفضل من حيث التكلفة مقابل حل المهام."
-    },
-    {
-      "id": "f8c1a7370c130fe5",
-      "title": "AlphaProof Code",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-11-10T12:11:12+00:00",
-      "summary": "",
-      "engagement": 165.0,
-      "score": 59.55,
-      "niche_hits": [],
-      "meta": {
-        "points": 165,
-        "comments": 72,
-        "hn_url": "https://news.ycombinator.com/item?id=50439193",
-        "taste": 0.5884
-      },
-      "sources": [
-        "hackernews"
-      ],
-      "taste": 0.588,
+      "taste": 0.795,
       "ar": ""
     },
     {
-      "id": "6127094e9f086c55",
-      "title": "Connect your agent to verified skills. Ask Claude Code for a deck and it finds Slide Charts in Skill Store 33. On our deck checks, that skill took 3 models from 10-18 out of 100 to 93-99. No sign-in, one line: claude mcp add --transport http skill-store",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GVXhVSVlUY2ZmRHl4VkdzYUtudXAxTUJMUTYxcUQzV1VvMW1CTnc3cjN4V09MM1EwZGVsNERfWW1mcWI4Yi11VVQxX25mRlJXNTJadFI2ZkFDOWwyZkE?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-11-10T02:16:28+00:00",
-      "summary": "Connect your agent to verified skills. Ask Claude Code for a deck and it finds Slide Charts in Skill Store 33. On our deck checks, that skill took 3 models from 10-18 out of 100 to 93-99. No sign-in, one line: claude mcp add --transport http skill-store https://t.co/06 X",
-      "engagement": 0.0,
-      "score": 59.21,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.5693
-      },
-      "sources": [
-        "x"
-      ],
-      "taste": 0.569,
-      "ar": ""
-    },
-    {
-      "id": "de4610631dc936ce",
-      "title": "🚀 Slurm-web v7.1.0 is out! Maintenance release of our open source web dashboard for # Slurm clusters: 🔁 Accurate job details for requeued…",
-      "url": "https://mast.hpc.social/@rackslab/117592409086551490",
+      "id": "d052c68ff5ef9816",
+      "title": "История выполнения @Scheduled задач в Axelix Всем привет! Меня зовут Михаил Поливаха, я являюсь техническим лидером Open Source проекта Axelix ",
+      "url": "https://zhub.link/@habr/117609381073318386",
       "source": "mastodon",
       "topic": "community",
-      "published": "2026-11-10T13:36:05+00:00",
-      "summary": "🚀 Slurm-web v7.1.0 is out! Maintenance release of our open source web dashboard for # Slurm clusters: 🔁 Accurate job details for requeued jobs and reused job IDs 📊 Reliable GPU metrics on Slurm ≤ 25.11 with untyped GPUs 🔒 30+ CVEs fixed in frontend dependencies Thanks to UNICAMP for their contributions! 💡 Using Slurm-web? Sponsor the project: https:// slurm-web.com/sponsors/ or get pro support: ht",
-      "engagement": 0.0,
-      "score": 59.2,
+      "published": "2026-11-13T13:32:17+00:00",
+      "summary": "История выполнения @Scheduled задач в Axelix Всем привет! Меня зовут Михаил Поливаха, я являюсь техническим лидером Open Source проекта Axelix . Представьте довольно простую ситуацию. У Вас есть Spring Boot сервис, который раз в некоторое время ходит во внешнюю систему и синхронизирует какие-то данные. Обычный метод с @Scheduled , ничего особенного. И вот к Вам приходит коллега и говорит: Что-то ч",
+      "engagement": 2.0,
+      "score": 63.71,
       "niche_hits": [],
       "meta": {
-        "account": "rackslab@mast.hpc.social",
-        "taste": 0.8726
+        "account": "habr@zhub.link",
+        "taste": 0.9051
       },
       "sources": [
         "mastodon"
       ],
-      "taste": 0.873,
+      "taste": 0.905,
       "ar": ""
     },
     {
-      "id": "6f920b65cd85e8ab",
-      "title": "Someone just built a tool that turns any GitHub repo into an interactive knowledge graph. It’s called GitNexus. It maps a codebase and gives AI agents tools to explore how the code connects. That helps agents find relevant code and understand its relationship",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vMGt4d0pyLVRET0VELTNneVBydnV2ZEZGYU1SU2Z2bWlYbWhob3F1TnZ1Ri16N2FsNUxfNHZ1TXpRenBWcXdFNGpmVWZBUlpqSHVzY192eVZDeXFmWXBnX0dn?oc=5",
+      "id": "ca8a496fedd9370f",
+      "title": "Rain Agent Vaults Bring Embedded Payments to AI Agents #FinancialIT #AIPayments #EmbeddedFinance",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZYnJmYlpkZGxKcnU1bzg0V1hFZEtPV3VHbFhobTBHS2h6R3FqaXNKdEk4ajBzUTBoZHlVVDl3dnltWld1LTBSMEpVMy04bXFHZ0psbjFPSWFSallWNVplWld3d0hsVWM?oc=5",
       "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-10T01:49:17+00:00",
-      "summary": "Someone just built a tool that turns any GitHub repo into an interactive knowledge graph. It’s called GitNexus. It maps a codebase and gives AI agents tools to explore how the code connects. That helps agents find relevant code and understand its relationship X",
+      "topic": "agents",
+      "published": "2026-11-13T10:56:35+00:00",
+      "summary": "Rain Agent Vaults Bring Embedded Payments to AI Agents https://t.co/ipEvcGssxx #FinancialIT #AIPayments #EmbeddedFinance X",
       "engagement": 0.0,
-      "score": 59.13,
+      "score": 62.9,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.8422
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.7124
       },
       "sources": [
         "x"
       ],
-      "taste": 0.842,
+      "taste": 0.712,
       "ar": ""
     },
     {
-      "id": "baaf713b11e387f5",
-      "title": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "source": "hackernews",
-      "topic": "dev",
-      "published": "2026-11-10T00:10:46+00:00",
-      "summary": "",
-      "engagement": 239.0,
-      "score": 58.77,
+      "id": "89e78234462950e2",
+      "title": "🚀 Qwen4 is coming! Discover the latest in AI at Alibaba Cloud Summit Hong Kong 2026. Explore how Qwen4’s deeper knowledge, richer world understanding, and stronger coding and agentic capabilities are designed for real-world tasks — from complex codi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLYmVTSnFrcktVUHVjM0lXYlhTUTVmdzZORVRtVGdHWVhvX29oMnBJU2x3elhzUTRXLUlZVUI4VVVraUlNc1Bzc1AtTTdRNTZ4eVd6Z1ZtemYyei1nSTI5N3ZLM08?oc=5",
+      "source": "x",
+      "topic": "devtools",
+      "published": "2026-11-13T07:45:10+00:00",
+      "summary": "🚀 Qwen4 is coming! Discover the latest in AI at Alibaba Cloud Summit Hong Kong 2026. Explore how Qwen4’s deeper knowledge, richer world understanding, and stronger coding and agentic capabilities are designed for real-world tasks — from complex codi X",
+      "engagement": 0.0,
+      "score": 60.65,
       "niche_hits": [],
       "meta": {
-        "points": 239,
-        "comments": 123,
-        "hn_url": "https://news.ycombinator.com/item?id=50434310",
-        "taste": 0.9122
+        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
+        "taste": 0.6563
       },
       "sources": [
-        "hackernews"
+        "x"
       ],
-      "taste": 0.912,
+      "taste": 0.656,
+      "ar": ""
+    },
+    {
+      "id": "b59d829aa03e025f",
+      "title": "Someone Made a Free Embroidery Editor",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nU3hwOEhVSTBDZ3BnOENybDhOU0RzS1JaZ29ENG5BWlJSdlltaUhpaDNaVkNRVFJGdEotR0l2VlNHQ2pYV3BtTGU4eWViVVY4cmRXSHlUREl3TmNEeEdsSzdB?oc=5",
+      "source": "news",
+      "topic": "dev",
+      "published": "2026-11-13T12:54:03+00:00",
+      "summary": "Someone Made a Free Embroidery Editor It's FOSS",
+      "engagement": 0.0,
+      "score": 59.6,
+      "niche_hits": [],
+      "meta": {
+        "query": "open source OR developer tools when:3d",
+        "taste": 0.9046
+      },
+      "sources": [
+        "news"
+      ],
+      "taste": 0.905,
       "ar": ""
     }
   ]
