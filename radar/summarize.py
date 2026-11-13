@@ -104,6 +104,10 @@ def summarize(stories: list[Story], limit: int = 15) -> dict[str, dict[str, str]
             print(f"[summarize] non-JSON response: {text[:160]!r}")
             return {}
 
+    if not isinstance(parsed, dict):
+        print("[summarize] response JSON is not an object")
+        return {}
+
     out: dict[str, dict[str, str]] = {}
     for item in parsed.get("items", []):
         if not isinstance(item, dict):

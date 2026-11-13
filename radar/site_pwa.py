@@ -16,7 +16,7 @@ CSS = r"""
 body{margin:0;background:var(--bg);color:var(--fg);font-family:"Noto Sans Arabic","Noto Naskh Arabic","Segoe UI",Tahoma,sans-serif;line-height:1.85}
 a,button{-webkit-tap-highlight-color:transparent}a{color:inherit;text-decoration:none}a:hover{color:var(--accent-hi)}button{font:inherit}
 button:focus-visible,a:focus-visible{outline:3px solid var(--accent);outline-offset:3px}button:focus:not(:focus-visible),a:focus:not(:focus-visible){outline:none}
-.wrap{width:min(calc(100% - 26px),var(--content));margin:auto;padding:10px 0 48px}
+.wrap{width:min(calc(100% - 26px),var(--content));margin:auto;padding:max(10px,env(safe-area-inset-top,0px)) max(0px,env(safe-area-inset-right,0px)) max(48px,env(safe-area-inset-bottom,0px)) max(0px,env(safe-area-inset-left,0px))}
 .site-header{display:flex;align-items:flex-start;flex-direction:column;gap:12px;padding:8px 0 16px;border-bottom:1px solid var(--line)}
 .brand{display:inline-flex;align-items:center;gap:11px;font-weight:750;letter-spacing:-.02em}.brand img{width:42px;height:42px}
 .brand small{display:block;color:var(--muted);font-size:10px;letter-spacing:.13em;line-height:1.2}
@@ -25,7 +25,7 @@ button:focus-visible,a:focus-visible{outline:3px solid var(--accent);outline-off
 .nav a,.nav button{flex:1}
 .nav a:hover,.nav button:hover,.quiet-button:hover{border-color:var(--accent);color:var(--fg)}[hidden]{display:none!important}
 .page-heading{padding:22px 0 16px;max-width:720px}.kicker{margin:0 0 9px;color:var(--accent);font-size:12px;font-weight:700;letter-spacing:.06em}
-h1,h2,h3,p{margin-top:0}.page-heading h1{margin:0;font-size:clamp(30px,6vw,48px);line-height:1.25;letter-spacing:-.04em}
+h1,h2,h3,p{margin-top:0;overflow-wrap:anywhere}.page-heading h1{margin:0;font-size:clamp(30px,6vw,48px);line-height:1.25;letter-spacing:-.04em}
 .lede{max-width:58ch;margin:13px 0 0;color:var(--muted);font-size:15px}.update-line{margin-top:15px;color:var(--muted);font-size:12px}
 .section{margin:20px 0 0}.section-heading{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin:0 0 8px}
 .section-heading h2{margin:0;font-size:18px}.section-heading span{color:var(--muted);font-size:12px}
@@ -52,7 +52,7 @@ h1,h2,h3,p{margin-top:0}.page-heading h1{margin:0;font-size:clamp(30px,6vw,48px)
 .site-footer{margin-top:48px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:12px}
 .site-footer a{text-decoration:underline;text-underline-offset:3px}.network-state{color:var(--muted);font-size:11px}
 @media(max-width:620px){.original-title{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}.detail-original{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}}
-@media(min-width:621px){.wrap{width:min(calc(100% - 36px),var(--content));padding:18px 0 54px}.site-header{align-items:center;flex-direction:row;padding-bottom:18px}.nav{width:auto}.nav a,.nav button{flex:none}.page-heading{padding:42px 0 25px}.story--feature{padding:24px}.story{padding:20px 0}.detail{padding-top:34px}.detail h1{font-size:clamp(28px,6vw,44px)}.detail-meta{margin:18px 0 28px}.summary-panel{padding:22px 24px}}
+@media(min-width:621px){.wrap{width:min(calc(100% - 36px),var(--content));padding:max(18px,env(safe-area-inset-top,0px)) max(0px,env(safe-area-inset-right,0px)) max(54px,env(safe-area-inset-bottom,0px)) max(0px,env(safe-area-inset-left,0px))}.site-header{align-items:center;flex-direction:row;padding-bottom:18px}.nav{width:auto}.nav a,.nav button{flex:none}.page-heading{padding:42px 0 25px}.story--feature{padding:24px}.story{padding:20px 0}.detail{padding-top:34px}.detail h1{font-size:clamp(28px,6vw,44px)}.detail-meta{margin:18px 0 28px}.summary-panel{padding:22px 24px}}
 """
 
 APP_JS = r"""
@@ -74,19 +74,29 @@ APP_JS = r"""
     catch (_) { if (network) network.textContent = "الحفظ الأوفلاين يحتاج HTTPS"; }
   }
   function ask(message) {
-    return new Promise(async (resolve, reject) => {
-      try {
-        const registration = await navigator.serviceWorker.ready;
+    return new Promise((resolve, reject) => {
+      let channel = null;
+      let settled = false;
+      const finish = (callback, value) => {
+        if (settled) return;
+        settled = true;
+        clearTimeout(timer);
+        if (channel) channel.port1.close();
+        callback(value);
+      };
+      const timer = setTimeout(() => finish(reject, new Error("timeout")), 12000);
+      Promise.resolve().then(() => navigator.serviceWorker.ready).then((registration) => {
+        if (settled) return;
         const worker = navigator.serviceWorker.controller || registration.active;
         if (!worker) throw new Error("worker unavailable");
-        const channel = new MessageChannel();
-        const timer = setTimeout(() => reject(new Error("timeout")), 12000);
+        channel = new MessageChannel();
         channel.port1.onmessage = (event) => {
-          clearTimeout(timer);
-          event.data && event.data.ok ? resolve(event.data) : reject(new Error("request failed"));
+          event.data && event.data.ok
+            ? finish(resolve, event.data)
+            : finish(reject, new Error("request failed"));
         };
         worker.postMessage(message, [channel.port2]);
-      } catch (error) { reject(error); }
+      }).catch((error) => finish(reject, error));
     });
   }
   function urls(button) {
@@ -173,8 +183,14 @@ APP_JS = r"""
         remove.type = "button";
         remove.textContent = "إزالة من المحفوظات";
         remove.addEventListener("click", async () => {
-          await ask({type: "REMOVE_STORY", urls: [request.url, fileUrl].filter(Boolean)});
-          renderSaved();
+          remove.disabled = true;
+          try {
+            await ask({type: "REMOVE_STORY", urls: [request.url, fileUrl].filter(Boolean)});
+            await renderSaved();
+          } catch (_) {
+            remove.disabled = false;
+            remove.textContent = "تعذرت الإزالة. أعد المحاولة";
+          }
         });
         actions.append(remove);
         item.append(actions);
@@ -188,9 +204,17 @@ APP_JS = r"""
     }
   }
   const clear = document.querySelector("[data-clear-saved]");
+  const clearStatus = document.querySelector("[data-clear-status]");
   if (clear) clear.addEventListener("click", async () => {
-    await ask({type: "CLEAR_SAVED"});
-    renderSaved();
+    clear.disabled = true;
+    if (clearStatus) clearStatus.textContent = "جارٍ مسح المحفوظات…";
+    try {
+      await ask({type: "CLEAR_SAVED"});
+      await renderSaved();
+      if (clearStatus) clearStatus.textContent = "تم مسح المحفوظات من هذا الجهاز.";
+    } catch (_) {
+      if (clearStatus) clearStatus.textContent = "تعذر المسح. أعد المحاولة.";
+    } finally { clear.disabled = false; }
   });
   let installPrompt = null;
   addEventListener("beforeinstallprompt", (event) => {
@@ -279,13 +303,18 @@ self.addEventListener("fetch", (event) => {
     catch (_) {
       if (request.mode === "navigate") {
         const url = new URL(request.url);
-        const rootPath = new URL(self.registration.scope).pathname;
-        const fallback = url.pathname === rootPath || url.pathname.endsWith("/index.html")
-          ? "./index.html" : "./offline.html";
-        return (await shell.match(new URL(fallback, self.registration.scope).href))
-          || new Response("لا يوجد اتصال. افتح المحفوظات أو اتصل بالإنترنت.", {
-            status: 503, headers: {"Content-Type": "text/plain; charset=utf-8"}
-          });
+        const scope = new URL(self.registration.scope);
+        const rootPath = scope.pathname;
+        const index = new URL("index.html", scope);
+        if (url.pathname === rootPath || url.pathname === index.pathname) {
+          const indexResponse = await shell.match(index.href);
+          if (indexResponse) return indexResponse;
+        }
+        const offline = new URL("offline.html", scope);
+        if (await shell.match(offline.href)) return Response.redirect(offline.href, 302);
+        return new Response("لا يوجد اتصال. افتح المحفوظات أو اتصل بالإنترنت.", {
+          status: 503, headers: {"Content-Type": "text/plain; charset=utf-8"}
+        });
       }
       return new Response("", {status: 504, statusText: "Offline"});
     }

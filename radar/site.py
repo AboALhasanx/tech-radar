@@ -31,22 +31,44 @@ def _read_json(path: Path) -> dict:
         return {}
 
 
-def _merge_localizations(data: dict, latest: dict) -> dict:
-    newest = {}
-    for story in latest.get("stories") or []:
-        if not isinstance(story, dict):
-            continue
-        if story.get("id"):
-            newest[story["id"]] = story
-        if story.get("url"):
-            newest[story["url"]] = story
-    for story in data.get("stories") or []:
-        if not isinstance(story, dict):
-            continue
-        extra = newest.get(story.get("id") or story.get("url")) or newest.get(story.get("url")) or {}
-        for field in ("title_ar", "ar"):
-            if not story.get(field) and extra.get(field):
-                story[field] = extra[field]
+def _merge_localizations(data: dict, *sources: dict) -> dict:
+    def story_collections(value: dict):
+        stories = value.get("stories")
+        if isinstance(stories, list):
+            yield stories
+        shelves = value.get("shelves")
+        if isinstance(shelves, dict):
+            for items in shelves.values():
+                if isinstance(items, list):
+                    yield items
+
+    localizations = {}
+    for source in (*sources, data):
+        for collection in story_collections(source):
+            for story in collection:
+                if not isinstance(story, dict):
+                    continue
+                keys = (story.get("id"), story.get("url"))
+                for key in keys:
+                    if not key:
+                        continue
+                    localized = localizations.setdefault(key, {})
+                    for field in ("title_ar", "ar"):
+                        if story.get(field) and not localized.get(field):
+                            localized[field] = story[field]
+
+    for collection in story_collections(data):
+        for story in collection:
+            if not isinstance(story, dict):
+                continue
+            for field in ("title_ar", "ar"):
+                if story.get(field):
+                    continue
+                for key in (story.get("id"), story.get("url")):
+                    value = localizations.get(key, {}).get(field) if key else None
+                    if value:
+                        story[field] = value
+                        break
     return data
 
 
@@ -68,7 +90,7 @@ def _load() -> dict:
     if shelves:
         data["shelves"] = shelves
 
-    return _merge_localizations(data, latest)
+    return _merge_localizations(data, latest, brief)
 
 
 def _is_research(story: dict) -> bool:
@@ -254,7 +276,8 @@ def _saved_page() -> str:
     body = (
         '<section class="page-heading"><p class="kicker">على هذا الجهاز</p>'
         '<h1>المحفوظات</h1><p class="lede">القصص التي حفظتها وملفات Markdown المتاحة دون اتصال.</p>'
-        '<button class="quiet-button" type="button" data-clear-saved>مسح كل المحفوظات</button></section>'
+        '<button class="quiet-button" type="button" data-clear-saved>مسح كل المحفوظات</button>'
+        '<p class="save-status" data-clear-status aria-live="polite"></p></section>'
         '<ol class="saved-list" data-saved-list aria-live="polite"></ol>'
     )
     return _page("المحفوظات دون إنترنت", body)

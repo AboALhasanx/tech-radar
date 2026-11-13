@@ -56,7 +56,19 @@ def test_site_builds_story_pages_and_installable_pwa(tmp_path, monkeypatch):
     assert {icon["sizes"] for icon in manifest["icons"]} >= {"192x192", "512x512"}
     assert (out / "saved.html").exists()
     assert (out / "offline.html").exists()
-    assert "SAVE_STORY" in (out / "sw.js").read_text(encoding="utf-8")
+    service_worker = (out / "sw.js").read_text(encoding="utf-8")
+    assert "SAVE_STORY" in service_worker
+    assert 'Response.redirect(offline.href, 302)' in service_worker
+    assert 'url.pathname === index.pathname' in service_worker
+    assert 'data-clear-status' in (out / "saved.html").read_text(encoding="utf-8")
+    assert "env(safe-area-inset-top" in site_pwa.CSS
+    assert "overflow-wrap:anywhere" in site_pwa.CSS
+    assert "animation:" not in site_pwa.CSS
+    assert "transition:" not in site_pwa.CSS
+    assert (
+        site_pwa.APP_JS.index("const timer = setTimeout")
+        < site_pwa.APP_JS.index("navigator.serviceWorker.ready")
+    )
     assert struct.unpack(">II", (out / "icons" / "icon-192.png").read_bytes()[16:24]) == (192, 192)
     assert feed.findtext("./channel/item/title") == "أدوات جديدة لبايثون"
     last_build_date = feed.findtext("./channel/lastBuildDate")
@@ -158,3 +170,33 @@ def test_service_worker_version_changes_when_shell_markup_changes(tmp_path):
         versions.append((out / "sw.js").read_text(encoding="utf-8"))
 
     assert versions[0] != versions[1]
+
+
+def test_site_merges_localizations_between_latest_stories_and_shelves(tmp_path, monkeypatch):
+    from_brief = _story(id="story-a", url="https://example.test/a")
+    latest_a = _story(id="story-a", url="https://example.test/a")
+    latest_a.pop("title_ar")
+    latest_a.pop("ar")
+
+    latest_b = _story(id="story-b", url="https://example.test/b")
+    from_brief_b = _story(id="story-b", url="https://example.test/b")
+    from_brief_b.pop("title_ar")
+    from_brief_b.pop("ar")
+
+    data_dir = tmp_path / "data"
+    data_dir.mkdir()
+    (data_dir / "brief.json").write_text(
+        json.dumps({"shelves": {"researchers": [from_brief, from_brief_b]}}),
+        encoding="utf-8",
+    )
+    (data_dir / "latest.json").write_text(
+        json.dumps({"stories": [latest_a, latest_b]}), encoding="utf-8"
+    )
+    monkeypatch.chdir(tmp_path)
+
+    loaded = site._load()
+
+    assert loaded["stories"][0]["title_ar"] == from_brief["title_ar"]
+    assert loaded["stories"][0]["ar"] == from_brief["ar"]
+    assert loaded["shelves"]["researchers"][1]["title_ar"] == latest_b["title_ar"]
+    assert loaded["shelves"]["researchers"][1]["ar"] == latest_b["ar"]

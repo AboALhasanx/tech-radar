@@ -83,3 +83,18 @@ def test_summarize_skips_api_without_key(monkeypatch):
     )
 
     assert summarize_module.summarize([_story()]) == {}
+
+
+def test_summarize_ignores_valid_non_object_json(monkeypatch):
+    monkeypatch.setenv("GROQ_API_KEY", "test-only")
+    monkeypatch.setattr(
+        summarize_module,
+        "_post",
+        lambda *args: {
+            "choices": [
+                {"message": {"content": json.dumps([{"id": "unexpected"}])}}
+            ]
+        },
+    )
+
+    assert summarize_module.summarize([_story()]) == {}
