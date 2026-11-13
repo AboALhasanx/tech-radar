@@ -70,7 +70,8 @@ def summarize(stories: list[Story], limit: int = 15) -> dict[str, dict[str, str]
     payload = {
         "model": _MODEL,
         "temperature": 0.2,
-        "max_tokens": 1800,
+        # Leave room for the period summary under the current 1,000-token free quota.
+        "max_tokens": 700,
         "response_format": {"type": "json_object"},
         "messages": [
             {

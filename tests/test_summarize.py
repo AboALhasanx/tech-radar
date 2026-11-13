@@ -44,6 +44,7 @@ def test_summarize_returns_arabic_title_and_explanation(monkeypatch):
     assert result[story.lead.id]["title_ar"].startswith("إصدار جديد")
     assert result[story.lead.id]["ar"].startswith("يتضمن الإصدار")
     assert captured["key"] == "test-only"
+    assert captured["payload"]["max_tokens"] <= 700
     prompt = captured["payload"]["messages"][0]["content"]
     assert "title_ar" in prompt
     assert "interpreter startup improvements" in prompt

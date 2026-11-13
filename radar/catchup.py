@@ -261,16 +261,85 @@ def summarise_period(items: list[Item], limit: int = 20) -> str:
         return ""
 
 
+def localize_records(records: list[dict]) -> int:
+    """Translate displayed archive records and persist translations back to history."""
+    grouped: dict[str, list[dict]] = {}
+    for row in records:
+        if not isinstance(row, dict) or not row.get("title") or not row.get("url"):
+            continue
+        identity = str(row.get("id") or row.get("url"))
+        grouped.setdefault(identity, []).append(row)
+    pending = [
+        rows[0]
+        for rows in grouped.values()
+        if any(not row.get("title_ar") or not row.get("ar") for row in rows)
+    ]
+    if not pending:
+        return 0
+
+    from .models import Signal
+    from .rank import Story
+    from .summarize import summarize
+
+    stories: list[Story] = []
+    records_by_signal_id: dict[str, list[dict]] = {}
+    for row in pending:
+        sources = {str(source) for source in row.get("sources") or [] if source}
+        topics = {str(topic) for topic in row.get("topics") or [] if topic}
+        topic = str(row.get("topic") or next(iter(topics), "general"))
+        signal = Signal(
+            title=str(row.get("title") or ""),
+            url=str(row.get("url") or ""),
+            source=sorted(sources)[0] if sources else "news",
+            topic=topic,
+            summary=str(row.get("ar") or ""),
+        )
+        stories.append(
+            Story(
+                lead=signal,
+                sources=sources,
+                topics=topics,
+                score=float(row.get("score") or 0),
+                taste=float(row.get("taste") or 0),
+            )
+        )
+        identity = str(row.get("id") or row.get("url"))
+        records_by_signal_id[signal.id] = grouped[identity]
+
+    translations: dict[str, dict[str, str]] = {}
+    localized_count = 0
+    for offset in range(0, len(stories), 15):
+        batch = stories[offset : offset + 15]
+        result = summarize(batch, limit=len(batch))
+        for signal_id, fields in result.items():
+            rows = records_by_signal_id.get(signal_id)
+            if not rows:
+                continue
+            changed: dict[str, str] = {}
+            row_changed = False
+            for row in rows:
+                for name in ("title_ar", "ar"):
+                    value = str(fields.get(name) or "").strip()
+                    if value and not row.get(name):
+                        row[name] = value
+                        changed[name] = value
+                        row_changed = True
+            if row_changed:
+                translations[str(rows[0].get("id") or signal_id)] = changed
+                localized_count += 1
+
+    if translations:
+        archive.update_localizations(translations)
+    return localized_count
+
+
 def write_report(days: int = 30, top: int = 25, *, use_ai: bool = True,
                  out_path: str | None = None) -> Path:
     items = load_items(days)
     headline = summarise_period(items) if use_ai else ""
-    text = render_report(days, top, headline)
-    path = Path(out_path or f"{config.DIGEST_DIR}/catchup-{datetime.now(timezone.utc):%Y-%m-%d}.md")
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(text, encoding="utf-8")
 
-    # the static site renders from this instead of parsing markdown
+    # The static site renders this brief directly. Translate its visible records
+    # once, then backfill the archive so later runs do not spend tokens again.
     brief = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "days": days,
@@ -284,6 +353,21 @@ def write_report(days: int = 30, top: int = 25, *, use_ai: bool = True,
             ][:8],
         },
     }
+    if use_ai:
+        records = brief["stories"] + brief["shelves"]["newsletters"] + brief["shelves"]["researchers"]
+        localize_records(records)
+        by_id = {str(row.get("id") or row.get("url")): row for row in records}
+        by_url = {str(row.get("url")): row for row in records if row.get("url")}
+        for item in items:
+            row = by_id.get(item.story_id) or by_url.get(item.url)
+            if row:
+                item.title_ar = item.title_ar or str(row.get("title_ar") or "")
+                item.ar = item.ar or str(row.get("ar") or "")
+
+    text = render_report(days, top, headline)
+    path = Path(out_path or f"{config.DIGEST_DIR}/catchup-{datetime.now(timezone.utc):%Y-%m-%d}.md")
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(text, encoding="utf-8")
     Path("data").mkdir(exist_ok=True)
     Path("data/brief.json").write_text(
         json.dumps(brief, ensure_ascii=False, indent=2), encoding="utf-8"

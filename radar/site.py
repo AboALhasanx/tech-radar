@@ -237,15 +237,15 @@ def _detail_page(story: dict, slug: str) -> str:
         f'<meta name="offline-file" content="{file_path}">'
     )
     body = (
-        '<article class="detail"><p class="kicker">ملخص الخبر</p>'
+        '<article class="detail">'
         f'<h1>{html.escape(title)}</h1>{original_html}'
         f'<div class="detail-meta">{labels}</div>'
         '<section class="summary-panel"><h2>شنو صار؟</h2>'
         f'<p>{html.escape(summary_text)}</p></section>'
+        f'<div class="story-actions">{source_link}</div>'
         '<p class="detail-note">يحفظ التطبيق هذه الصفحة وملف الملخص فقط. صفحة الناشر أو PDF خارجي يحتاج الإنترنت.</p>'
         f'<div class="story-actions">{_save_button("../stories/" + slug + ".html", file_path)}'
-        f'<a class="secondary-link" href="{file_path}" download>تنزيل الملخص Markdown</a>'
-        f'{source_link}</div></article>'
+        f'<a class="secondary-link" href="{file_path}" download>تنزيل الملخص Markdown</a></div></article>'
     )
     return _page(title, body, root=root, extra_head=extra_head)
 
@@ -295,8 +295,8 @@ def build(out_dir: str = SITE_DIR) -> Path:
     x_items = [s for s in stories if "x" in (s.get("sources") or []) and s not in research]
     rest = [s for s in stories if s not in research and s not in x_items]
     body = (
-        '<section class="page-heading"><p class="kicker">موجز تقني · قراءة هادئة</p>'
-        '<h1>إشارة واضحة، بدون ضجيج.</h1>'
+        '<section class="page-heading">'
+        '<h1>أخبار التقنية</h1>'
         f'<p class="lede">{len(stories)} قصة منتقاة، عناوينها مترجمة وملخصاتها بالعربية حيث تتوفر.</p>'
         f'<p class="update-line">آخر تحديث: {html.escape(generated_text)}</p></section>'
         + _section("أدوات، هارنس، ومجاني", research)

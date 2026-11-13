@@ -74,6 +74,53 @@ def append(
     return path
 
 
+def update_localizations(localizations: dict[str, dict[str, str]]) -> int:
+    """Backfill missing Arabic fields in existing monthly archive records."""
+    if not localizations:
+        return 0
+
+    updated = 0
+    for path in Path(ARCHIVE_DIR).glob("*.jsonl.gz"):
+        lines: list[str] = []
+        changed = False
+        try:
+            with gzip.open(path, "rt", encoding="utf-8") as source:
+                for raw_line in source:
+                    line = raw_line.rstrip("\r\n")
+                    try:
+                        row = json.loads(line)
+                    except json.JSONDecodeError:
+                        lines.append(raw_line)
+                        continue
+                    fields = localizations.get(str(row.get("id") or "")) or {}
+                    row_changed = False
+                    for name in ("title_ar", "ar"):
+                        value = str(fields.get(name) or "").strip()
+                        if value and not row.get(name):
+                            row[name] = value
+                            row_changed = True
+                    if row_changed:
+                        lines.append(json.dumps(row, ensure_ascii=False) + "\n")
+                        updated += 1
+                        changed = True
+                    else:
+                        lines.append(raw_line if raw_line.endswith("\n") else raw_line + "\n")
+        except (OSError, EOFError):
+            continue
+
+        if not changed:
+            continue
+        temporary = path.with_name(path.name + ".tmp")
+        try:
+            with gzip.open(temporary, "wt", encoding="utf-8") as target:
+                target.writelines(lines)
+            temporary.replace(path)
+        finally:
+            if temporary.exists():
+                temporary.unlink()
+    return updated
+
+
 def load_ids(path: Path) -> list[dict]:
     if not path.exists():
         return []

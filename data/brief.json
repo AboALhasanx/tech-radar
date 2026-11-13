@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-11-13T21:50:34.730340+00:00",
+  "generated_at": "2026-11-13T22:49:19.203090+00:00",
   "days": 3,
   "stories": [
     {
+      "id": "e627a49c8bc1601c",
       "title": "I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app",
-      "title_ar": "",
+      "title_ar": "توقفت عن التعامل مع عدة وكلاء برمجة مثل Claude Code وCodex بعد اكتشاف هذه التطبيق مفتوح المصدر",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84WTV1QUhpTjdfT2pnaWNsaHdlV0kzQVVfeERMeHc1VUJ2eDk3a2tqYWxDaS1xbi1ndmEwYnIwVXJZV3FOdWFKaGV0cE04NnlEakpmY25ON1pudllNSGF6SDZONmo?oc=5",
       "topic": "agents",
       "sources": [
@@ -19,14 +20,15 @@
       "days": 1,
       "score": 112.85,
       "taste": 0.707,
-      "ar": "",
+      "ar": "يصف المستخدم كيف ساعده تطبيق مفتوح المصدر على تبسيط عملية استخدام وكلاء البرمجة المتعددين، مما خفف عنه عبء إدارة عدة أدوات في آن واحد.",
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d"
       }
     },
     {
+      "id": "d58d6f682240120c",
       "title": "4 open-source F-Droid apps that replace the Samsung and Google apps I never wanted",
-      "title_ar": "",
+      "title_ar": "4 تطبيقات مفتوحة المصدر على F-Droid تحل محل تطبيقات سامسونج وغوغل التي لم أكن أريدها",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXSllLbjR5dUlWSVJWMW5KNFBFR3ptYlgxU21kcE96aEpHSGNiUDcxd3QxV2FFaVRoQ0o5MXN6cURzZTBfajJucU9GaG8yT3Y2M0JwTGRsYTlON0w0WFZN?oc=5",
       "topic": "opensource",
       "sources": [
@@ -40,14 +42,15 @@
       "days": 1,
       "score": 109.92,
       "taste": 0.761,
-      "ar": "",
+      "ar": "يقدم المقال قائمة بأربعة تطبيقات مفتوحة المصدر متاحة على متجر F-Droid، وتُعد بديلاً عن التطبيقات الافتراضية من سامسونج وغوغل التي يفضل المستخدمون تجنبها.",
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d"
       }
     },
     {
+      "id": "3bab2d863d482e58",
       "title": "JUST IN: China's DeepSeek launches \"Super-Agent,\" a new open-source AI coding agent designed to rival Anthropic's Claude Code.",
-      "title_ar": "",
+      "title_ar": "الصين تطلق \"Super-Agent\"، وكيل برمجة مفتوح المصدر من DeepSeek يتحدى Claude Code",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WUZwYk1NRDlWdDJ2N0ZqTGlGY1NzaVAzZUUxdnVhLUxfRFVyWmszYWdZaE9qSEo3T3ZjSHBNb3FXZEZndHROQ3hUT1BoNDVUa05QeXJFZWU1UFJvSE1QcQ?oc=5",
       "topic": "ai",
       "sources": [
@@ -61,14 +64,15 @@
       "days": 1,
       "score": 109.68,
       "taste": 0.715,
-      "ar": "",
+      "ar": "أطلقت شركة DeepSeek الصينية وكيل برمجة جديدًا مفتوح المصدر باسم \"Super-Agent\"، ويهدف إلى منافسة أداة Claude Code من شركة Anthropic في مجال البرمجة بالذكاء الاصطناعي.",
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d"
       }
     },
     {
+      "id": "0b42ca342dedb884",
       "title": "Here are 10 new free AI agent skills that turn your coding agent into a specialist, even if you've never installed one.",
-      "title_ar": "",
+      "title_ar": "10 مهارات ذكاء اصطناعي مجانية جديدة تحول وكيل البرمجة الخاص بك إلى متخصص",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMQWt3UEZVUXZEUF9VWE1nMlh6NFc0YWJfY0ZhSU1VNnF6S19ybzBsQ1psVWFRQlR6d1pTWmFCZkk0MjczSjB4Mlo1N2ZENFRjeTJPM1QyTDlja1VmaDhVeA?oc=5",
       "topic": "harness",
       "sources": [
@@ -80,14 +84,15 @@
       "days": 1,
       "score": 109.64,
       "taste": 0.846,
-      "ar": "",
+      "ar": "يُسلط الضوء على عشر مهارات مجانية جديدة يمكن إضافتها لوكلاء البرمجة، مما يجعلهم متخصصين في مهام محددة حتى للمستخدمين الذين لم يثبّتوا وكلاء برمجة من قبل.",
       "meta": {
         "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d"
       }
     },
     {
+      "id": "94f8576756d767a0",
       "title": "Game assets from your coding agent — but check the repo before installing. mcp-game-asset-forge is a public GitHub repo documenting a Python MCP server for developers generating game assets through AI coding clients. It outlines how to go from prompts",
-      "title_ar": "",
+      "title_ar": "أصول ألعاب من وكيل البرمجة الخاص بك، لكن تحقق من المستودع قبل التثبيت",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FYzlGMGMxQ2dUTnpPOUYxX1Q3RW5Hcy1pNmRqZHRFV3RsUVAxZ0NpQWlyV2c5b1picmxPZzd1WXM5VElfSTdQVlBSc05xRWx1d3FkRHNSY0VMaDJlVTJF?oc=5",
       "topic": "harness",
       "sources": [
@@ -99,14 +104,15 @@
       "days": 1,
       "score": 108.58,
       "taste": 0.766,
-      "ar": "",
+      "ar": "يُوثق مستودع GitHub العام \"mcp-game-asset-forge\" خادم MCP بلغة Python لتوليد أصول الألعاب عبر وكلاء البرمجة، مع تنبيه للمطورين بالتحقق من الكود قبل التثبيت.",
       "meta": {
         "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d"
       }
     },
     {
+      "id": "7971df394517c629",
       "title": "145B parameters. A coding agent running locally. No cloud token bill. @Edge0_AI just released Edge0-145B and Edge0-120B: > open weights on @huggingface > offline inference on supported hardware > openAI- and Anthropic-compatible local APIs > a re",
-      "title_ar": "",
+      "title_ar": "نموذج Edge0-145B: وكيل برمجة محلي بـ 145 مليار معامل دون فواتير سحابة",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01TzJ6bGhnQm5qSXJqNnQ0UW1uc1BhVXg2M1hHazRUbGx0N1o5dXo0ZXZaWG40LUlnNEFFRU03dFNPblpKT2JGWUYxY29QN2tqUEZURWs0RThIVTZubnc?oc=5",
       "topic": "harness",
       "sources": [
@@ -118,14 +124,15 @@
       "days": 1,
       "score": 107.2,
       "taste": 0.927,
-      "ar": "",
+      "ar": "أطلقت Edge0_AI نماذج Edge0-145B وEdge0-120B بوزن مفتوح، تتيح تشغيل وكيل برمجة محليًا دون الحاجة إلى سحابة أو دفع رسوم رموز، مع دعم واجهات API متوافقة مع OpenAI وAnthropic.",
       "meta": {
         "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d"
       }
     },
     {
+      "id": "b598d21f2ddd00f5",
       "title": "I gave a coding agent the Python scripts I wrote at university, and watching it fix them taught me more than the course did",
-      "title_ar": "",
+      "title_ar": "أعطيت وكيل البرمجة سكربتات بايثون من الجامعة، وتصحيحها علّمني أكثر من الدرس",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84Q19XVmttbXUyTXc0aWNrM2JOcC1nTzVhWER3cFI5alIxRnoyU0FFVFhnMkwzUWliWUk0TXc3ZEtKM0k4bUw3OHQwWVJwbzBXa3Fiamd4cThFSXFPcTAzR1EtWjk?oc=5",
       "topic": "harness",
       "sources": [
@@ -137,14 +144,15 @@
       "days": 1,
       "score": 101.52,
       "taste": 0.708,
-      "ar": "",
+      "ar": "شارك المستخدم تجربته في استخدام وكيل برمجة لتصحيح سكربتات بايثون قديمة من أيام الجامعة، معتبرًا أن عملية التصحيح أضافت له معرفة تقنية تفوق ما تعلمه في المقرر الدراسي.",
       "meta": {
         "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d"
       }
     },
     {
+      "id": "f169f2ae40ca8178",
       "title": "Dim is now open source. An agent paradigm built on an event-driven timeline and a fully plugin-based runtime — it grows and iterates within the environment it runs in. Explore Dim and the source :",
-      "title_ar": "",
+      "title_ar": "Dim يصبح مفتوح المصدر: وكيل يعتمد على الخط الزمني للأحداث ونظام إضافات كامل",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4a2cxVjA1TmtEeVUxQ2NJc2paRmsxOGx4MTVHYzMyZGRjaVNkbjJnMWV2b1hKOUhyenhOYWxfa1duMDAzVFdOR2hKRU01b1RKNjNGak5PajJIWnZXVlhidg?oc=5",
       "topic": "agents",
       "sources": [
@@ -156,14 +164,15 @@
       "days": 1,
       "score": 100.83,
       "taste": 0.945,
-      "ar": "",
+      "ar": "أصبح إطار العمل \"Dim\" مفتوح المصدر، وهو نموذج وكيل برمجة مبني على خط زمني للأحداث ونظام تشغيل يعتمد كليًا على الإضافات، مما يسمح له بالتطور داخل البيئة التي يعمل فيها.",
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d"
       }
     },
     {
+      "id": "33a7dd2eb281fbc0",
       "title": "DeepSeek drops enhanced coding agent with aim to rival Anthropic",
-      "title_ar": "",
+      "title_ar": "DeepSeek تطلق وكيل برمجة معززًا بهدف منافسة Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xOXU3QkQtLURIVEY5Z2FEblRHeks5MWtHbE9KUUNwMGtTMk13TXRMNU93UlpNbVoyRDh2ekJ2NnNLZXNNLTZHQ3dSWVRtX1JIZWV6bFQzZDZUaU5zb2ZQVWZvSmg?oc=5",
       "topic": "harness",
       "sources": [
@@ -175,14 +184,15 @@
       "days": 1,
       "score": 99.58,
       "taste": 0.738,
-      "ar": "",
+      "ar": "أصدرت شركة DeepSeek وكيل برمجة محسّنًا جديدًا، في خطوة تهدف إلى المنافسة المباشرة مع حلول شركة Anthropic في سوق أدوات البرمجة بالذكاء الاصطناعي.",
       "meta": {
         "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d"
       }
     },
     {
+      "id": "84ff2375c7781985",
       "title": "helium was one of top open source projects on github in 2026 :D",
-      "title_ar": "",
+      "title_ar": "مشروع helium كان من بين أفضل المشاريع مفتوحة المصدر على GitHub في 2026",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1icHlkY1Q3LUpJVnJldS0tNDRLTXM1N19BTjdydE1TbjZEUVZrWXI1bDQyNnJfNkxQR1VFTmlBSm95V1J6NHl5WjFwckhuMXRuelczX1N3a3ZLUjAycUdQdFpIOWM?oc=5",
       "topic": "opensource",
       "sources": [
@@ -194,14 +204,15 @@
       "days": 1,
       "score": 99.54,
       "taste": 0.969,
-      "ar": "",
+      "ar": "أشار منشور إلى أن مشروع \"helium\" احتل مكانة بارزة بين المشاريع مفتوحة المصدر الأكثر رواجًا على منصة GitHub خلال عام 2026.",
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d"
       }
     },
     {
+      "id": "35eb1824f5c6cbfa",
       "title": "Global Microsoft Outage",
-      "title_ar": "",
+      "title_ar": "انقطاع خدمات Microsoft العالمي",
       "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
       "topic": "dev",
       "sources": [
@@ -215,7 +226,7 @@
       "days": 1,
       "score": 98.86,
       "taste": 0.658,
-      "ar": "",
+      "ar": "يُشير العنوان إلى حدوث انقطاع عالمي في خدمات شركة Microsoft، لكن التفاصيل المحددة حول نطاق الانقطاع وأسبابه غير متوفرة في النص المقدم.",
       "meta": {
         "points": 203,
         "comments": 115,
@@ -223,6 +234,7 @@
       }
     },
     {
+      "id": "ee7b95e9dd988aac",
       "title": "Top 5 GitHubs of the week 💻 The repos builders starred most this week: a username finder, a security auditor for your coding agent, your own team of AI bots, real-world agent skills, and computer use without screenshots. 🧵",
       "title_ar": "أفضل 5 مستودعات GitHub لهذا الأسبوع",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RbXBBNHM1NExQR3paYzROVTJIR2VsYi03UkZUc0t2VERoOG02M0xoclBiTDNKYjN4UE1Ib2NySmhuV1RJa3I4R09jeVlIaVJjQ1VWTFJFcUNCZVB6?oc=5",
@@ -242,8 +254,9 @@
       }
     },
     {
+      "id": "796a7f7ee338b70f",
       "title": "Claude Fable 5.2 and Mythos 5.2",
-      "title_ar": "",
+      "title_ar": "Claude Fable 5.2 و Mythos 5.2",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "topic": "dev",
       "sources": [
@@ -258,7 +271,7 @@
       "days": 1,
       "score": 96.13,
       "taste": 0.298,
-      "ar": "",
+      "ar": "يذكر العنوان إصدارين جديدين هما Claude Fable 5.2 و Mythos 5.2، لكن المقتطف لا يحتوي على تفاصيل كافية لشرح طبيعة هذه الإصدارات أو مزاياها.",
       "meta": {
         "points": 705,
         "comments": 870,
@@ -266,8 +279,9 @@
       }
     },
     {
+      "id": "b22f1584889b0464",
       "title": "Tableau Data Apps is now available in open beta! Vibe coding doesn't have to mean ditching data governance. Build custom Tableau Data Apps in Tableau Cloud with any AI agent—running directly on live, trusted data in an admin-controlled environment wit",
-      "title_ar": "",
+      "title_ar": "تطبيقات Tableau Data Apps متاحة الآن في بيتا مفتوحة",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aTnhXUlZnQkVxamtGb0FBLU1WcC1MOTdtT19zMmY2TmFhc2RUVWVNd2dwVnNxRDdoV1NQSWlqMzZ6MUpLaUNJb1JJWjljWjlvUHhXVDFsZVNmUVRH?oc=5",
       "topic": "launch",
       "sources": [
@@ -279,12 +293,13 @@
       "days": 1,
       "score": 96.05,
       "taste": 0.921,
-      "ar": "",
+      "ar": "أصبحت تطبيقات Tableau Data Apps متاحة في مرحلة الاختبار المفتوح، مما يتيح للمستخدمين بناء تطبيقات مخصصة باستخدام وكلاء الذكاء الاصطناعي مع الحفاظ على حوكمة البيانات داخل بيئة Tableau Cloud.",
       "meta": {
         "query": "site:x.com (\"open source alternative\" OR \"just launched\" OR \"now available\" OR \"v1.0\") when:3d"
       }
     },
     {
+      "id": "4833ab6511956955",
       "title": "🔊New Coding Harness! This might replace my DeepSeekHarness. Small local model power-up? ❓What if your local coding agent wasn't allowed to change the codebase until its changes passed independent verification? A new open-source coding agent fro",
       "title_ar": "وكيل برمجة مفتوح المصدر جديد يفرض التحقق المستقل قبل تعديل الكود",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SdU1mSmdNbEk1bE9DUjVYZi1NajhmazI2X2J3T2I2MENMZzlpWjRaOGhJVklBeVJyREZ5ZlNGM0ZtcXZQSnJTd0RRNFNial84SFloMTRyOUFERzJoRkE?oc=5",
@@ -304,8 +319,9 @@
       }
     },
     {
+      "id": "773e9cf8b4a77857",
       "title": "The free tier of Paper is super restrictive. 100 MCP tool calls/week doesn't get your far. is an open source alternative, no limits on MCP tool calls. Unlimited designs. Let's create some hype!",
-      "title_ar": "",
+      "title_ar": "بديل مفتوح المصدر لـ Paper بدون حدود على استدعاءات MCP",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkSVVVXzUzUElJRnlycUVxUmFKMGdKbW5hbEl5NktGWEpHNmVhelQzaGFKMTZaVk9aU19sZG8taFpIYWZlYTVzUGllOHh4YWVWbEFRQjlZajRrODRJYTZn?oc=5",
       "topic": "free",
       "sources": [
@@ -317,14 +333,15 @@
       "days": 1,
       "score": 95.58,
       "taste": 0.789,
-      "ar": "",
+      "ar": "يُروج لمنصة مفتوحة المصدر كبديل لخدمة Paper، مبررًا ذلك بأن الخطة المجانية لـ Paper مقيدة بـ 100 استدعاء أسبوعيًا لأدوات MCP، بينما يتيح البديل استخدامًا غير محدود للتصاميم والاستدعاءات.",
       "meta": {
         "query": "site:x.com (\"free tier\" OR \"free credits\" OR \"free trial\" OR \"no API key\" OR \"free plan\") when:7d"
       }
     },
     {
+      "id": "280673128a387d79",
       "title": "Local AI. Local compute. Open weights. Open source. Global collaboration.",
-      "title_ar": "",
+      "title_ar": "ذكاء اصطناعي محلي، حوسبة محلية، أوزان مفتوحة، ومصدر مفتوح",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41Q0thTjZod0lCU1ZLaHlSWkNIVGRHZG9vZENubkR4d0NkWUdoWWxUaUtyTDFqZ3BPbGN1NXRRbkVRZlJrcVIybzFueW1KYU9DMjRjSXlDVQ?oc=5",
       "topic": "ai",
       "sources": [
@@ -336,14 +353,15 @@
       "days": 1,
       "score": 95.36,
       "taste": 0.893,
-      "ar": "",
+      "ar": "يُبرز المنشور مزايا الحلول القائمة على الذكاء الاصطناعي المحلي والحوسبة المحلية، مع التأكيد على أهمية الأوزان المفتوحة والمصادر المفتوحة لتعزيز التعاون العالمي.",
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d"
       }
     },
     {
+      "id": "bdd914b0a0fe08ed",
       "title": "Vibe coding works when your agent has the right tools. Connect Apify MCP, build your app, ask the AI which Actors would improve it. @AiHomegirl does exactly that - and the AI surprises her every time. MCP setup ↓",
-      "title_ar": "",
+      "title_ar": "البرمجة بالاهتزاز (Vibe Coding) تنجح عندما يمتلك الوكيل الأدوات الصحيحة عبر Apify MCP",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ba1hwTFExdHZfdFZXTVZyUTJldWVBalNPWmpoNGhwNUhLOHQwSjRCOEMtRUVpOUVNQkVGU18tOWR2WElRQ1NGY0JlQnZxUG5PdlhONDg2UDJ4Zw?oc=5",
       "topic": "agents",
       "sources": [
@@ -355,14 +373,15 @@
       "days": 1,
       "score": 94.84,
       "taste": 0.848,
-      "ar": "",
+      "ar": "يوضح المنشور كيف يمكن لربط Apify MCP تحسين أداء وكلاء الذكاء الاصطناعي في بناء التطبيقات، حيث يطلب من الذكاء الاصطناعي اقتراح أدوات (Actors) لتحسين التطبيق، مما يؤدي إلى نتائج مفاجئة ومفيدة.",
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d"
       }
     },
     {
+      "id": "bbaf46dac7477aed",
       "title": "Meet Hy4. Out of preview. ◆ First Hy model with eyes: native vision + computer use. ◆ The price stayed in preview. The benchmarks didn't. ◆ Open weights coming soon. Hy4 Flash right behind.",
-      "title_ar": "",
+      "title_ar": "تقديم Hy4: أول نموذج من Hy مع رؤية أصلية واستخدام حاسوب، مع أوزان مفتوحة قريباً",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OcVBhS2xWbHlENEpMVXRrMUlwaTMxT3BzZ2lxRzZ4LXFFREY4WDFNdV9sY1hZUjRhblE4cnNCRFFPUUFFZWxLWHVxNFlDTXZXams1UlF5a0FNUUVpQ1hWTHlZcG95UQ?oc=5",
       "topic": "ai",
       "sources": [
@@ -374,14 +393,15 @@
       "days": 1,
       "score": 94.57,
       "taste": 0.949,
-      "ar": "",
+      "ar": "أُعلن عن انتهاء فترة المعاينة لنموذج Hy4، الذي يتميز بدعم الرؤية الأصلية واستخدام الحاسوب، مع الحفاظ على أسعار فترة المعاينة رغم تحسن الأداء، على أن تتوفر الأوزان المفتوحة قريباً.",
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d"
       }
     },
     {
+      "id": "0681a31eb2bc5427",
       "title": "I tested 7 free GitHub repos that turned my AI agent from a junior intern into a senior engineer. All open source. 👉 Understand-Anything maps an entire codebase so your agent actually knows what it's working with before it starts writing code 👉 agent-skills give",
-      "title_ar": "",
+      "title_ar": "اختبار 7 مستودعات مفتوحة المصدر على GitHub لرفع كفاءة وكلاء الذكاء الاصطناعي",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80OHRlNGJsTTdpTVFvbDZhdmJsMmRUZGIySml5c1VNQzdXMVFZSG5INGdKMEQ2MVBHZzNLZG5sb3ZSZk04WDZxY1owS1FlRnpUZUxFZ0JTczE4T2VuYk1RbExmNk9Bdw?oc=5",
       "topic": "opensource",
       "sources": [
@@ -393,7 +413,7 @@
       "days": 1,
       "score": 94.31,
       "taste": 0.851,
-      "ar": "",
+      "ar": "شارك المستخدم تجربته مع 7 مستودعات مفتوحة المصدر ساعدت في تحويل وكيل الذكاء الاصطناعي من مستوى مبتدئ إلى مهندس خبير، مع التركيز على أدوات مثل Understand-Anything لرسم خرائط قواعد الكود.",
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d"
       }
@@ -402,8 +422,9 @@
   "shelves": {
     "newsletters": [
       {
+        "id": "9091e4453210d34c",
         "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-        "title_ar": "",
+        "title_ar": "Import AI 479: لعبة Spacewar، مهام منخفضة الكمون مقابل نماذج اللغة الكبيرة، وGenie 4",
         "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
         "topic": "research",
         "sources": [
@@ -415,14 +436,15 @@
         "days": 1,
         "score": 93.86,
         "taste": 0.683,
-        "ar": "",
+        "ar": "نشرة إخبارية تغطي مواضيع متنوعة تشمل لعبة Spacewar، ومقارنة بين المهام منخفضة الكمون ونماذج اللغة الكبيرة (LLMs)، بالإضافة إلى تقنية Genie 4.",
         "meta": {
           "outlet": "Import AI"
         }
       },
       {
+        "id": "98d5b7ce1047f962",
         "title": "Fable 5.2 and Jagged AGI",
-        "title_ar": "",
+        "title_ar": "Fable 5.2 والذكاء الاصطناعي العام المتقطع (Jagged AGI)",
         "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
         "topic": "research_tools",
         "sources": [
@@ -434,14 +456,15 @@
         "days": 1,
         "score": 64.93,
         "taste": 0.268,
-        "ar": "",
+        "ar": "نشرة إخبارية تناقش إصدار Fable 5.2 ومفهوم الذكاء الاصطناعي العام المتقطع (Jagged AGI)، دون تفاصيل إضافية في النص المقدم.",
         "meta": {
           "outlet": "One Useful Thing"
         }
       },
       {
+        "id": "9ccfb6a6858541d5",
         "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
-        "title_ar": "",
+        "title_ar": "نماذج اللغة لتصنيف النصوص: من حقيبة الكلمات إلى Jev",
         "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
         "topic": "research",
         "sources": [
@@ -453,14 +476,15 @@
         "days": 1,
         "score": 51.29,
         "taste": 0.785,
-        "ar": "",
+        "ar": "نشرة إخبارية تستعرض تطور نماذج اللغة في مجال تصنيف النصوص، بدءاً من تقنية حقيبة الكلمات (Bag-of-Words) وصولاً إلى تقنية Jev.",
         "meta": {
           "outlet": "Ahead of AI"
         }
       },
       {
+        "id": "c85e9d7dd64e1f57",
         "title": "How big is the open model economy today?",
-        "title_ar": "",
+        "title_ar": "ما حجم اقتصاد النماذج المفتوحة اليوم؟",
         "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
         "topic": "research",
         "sources": [
@@ -472,14 +496,15 @@
         "days": 1,
         "score": 48.1,
         "taste": 0.725,
-        "ar": "",
+        "ar": "نشرة إخبارية تطرح سؤالاً حول حجم اقتصاد النماذج المفتوحة (Open Models) في الوقت الحالي، دون تقديم أرقام أو تفاصيل إضافية في العنوان.",
         "meta": {
           "outlet": "Interconnects"
         }
       },
       {
+        "id": "255d0fc950f33d7a",
         "title": "AGI Is Not Multimodal",
-        "title_ar": "",
+        "title_ar": "الذكاء الاصطناعي العام ليس متعدد الوسائط",
         "url": "https://thegradient.pub/agi-is-not-multimodal/",
         "topic": "research",
         "sources": [
@@ -491,14 +516,15 @@
         "days": 1,
         "score": 42.82,
         "taste": 0.664,
-        "ar": "",
+        "ar": "نشرة إخبارية تدفع بفكرة أن الذكاء الاصطناعي العام (AGI) لا يتطلب بالضرورة أن يكون متعدد الوسائط (Multimodal)، دون تفاصيل إضافية في النص المقدم.",
         "meta": {
           "outlet": "The Gradient"
         }
       },
       {
+        "id": "44084287147f6737",
         "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-        "title_ar": "",
+        "title_ar": "GPT-6 Astra، محولات الحلقات (Looped Transformers)، والاستدلال الخفي",
         "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
         "topic": "research",
         "sources": [
@@ -510,7 +536,7 @@
         "days": 1,
         "score": 38.69,
         "taste": 0.605,
-        "ar": "",
+        "ar": "نشرة إخبارية تناقش تقنيات متقدمة تشمل GPT-6 Astra، وهندسة محولات الحلقات، وآليات الاستدلال الخفي في نماذج الذكاء الاصطناعي.",
         "meta": {
           "outlet": "Ahead of AI"
         }
@@ -518,8 +544,9 @@
     ],
     "researchers": [
       {
+        "id": "84f197c3c395da67",
         "title": "We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights today! Introducing Flora, a suite of open models to parse the physical world and t",
-        "title_ar": "",
+        "title_ar": "إطلاق Flora: محرك بيانات روبوتية بأداء Astra وتكلفة أقل بـ 125 مرة، مع أوزان مفتوحة",
         "url": "https://x.com/DrJimFan/status/2112597587987689912",
         "topic": "research_tools",
         "sources": [
@@ -531,14 +558,15 @@
         "days": 1,
         "score": 66.8,
         "taste": 0.8,
-        "ar": "",
+        "ar": "أُعلن عن Flora، وهو محرك بيانات روبوتية يقدم أداءً يضاهي Astra بتكلفة أقل بكثير، مع فتح الأوزان للمجتمع لمساعدة الروبوتات على فهم العالم المادي.",
         "meta": {
           "author": "Jim Fan @DrJimFan · Oct 20"
         }
       },
       {
+        "id": "db8eada6cb9ea7e1",
         "title": "VideoJev  System One Model for Video Understanding and Interaction  paper:  https:// huggingface.co/papers/2610.18 615 …",
-        "title_ar": "",
+        "title_ar": "VideoJev: نموذج واحد لفهم الفيديو والتفاعل معه",
         "url": "https://x.com/_akhaliq/status/2110423274413056230",
         "topic": "research_tools",
         "sources": [
@@ -550,14 +578,15 @@
         "days": 1,
         "score": 66.1,
         "taste": 0.79,
-        "ar": "",
+        "ar": "تم تقديم VideoJev، وهو نموذج مصمم لفهم مقاطع الفيديو والتفاعل معها، مع الإشارة إلى ورقة بحثية داعمة على Hugging Face.",
         "meta": {
           "author": "AK @_akhaliq · Oct 14"
         }
       },
       {
+        "id": "25763126b4056ab6",
         "title": "If doomscrolling X is part of your research workflow, we built something for you.  Introducing Paperscrolling, now on iOS and Android   Follow the latest research with key ideas, figures, and audio ex",
-        "title_ar": "",
+        "title_ar": "إطلاق تطبيق Paperscrolling لتتبع الأبحاث العلمية على iOS وAndroid",
         "url": "https://x.com/askalphaxiv/status/2107486537206419769",
         "topic": "research_tools",
         "sources": [
@@ -569,14 +598,15 @@
         "days": 1,
         "score": 65.25,
         "taste": 0.778,
-        "ar": "",
+        "ar": "أُطلق تطبيق Paperscrolling لمساعدة الباحثين على متابعة أحدث الأبحاث عبر ملخصات للأفكار الرئيسية والأشكال التوضيحية وتفسيرات صوتية، متوفراً على أنظمة iOS وAndroid.",
         "meta": {
           "author": "alphaXiv @askalphaxiv · Oct 6"
         }
       },
       {
+        "id": "da6457ac69418ed5",
         "title": "alphaXiv Mobile 2.0 is here   • Mobile friendly PDF reader • Library with sharable folders • Custom feeds with research curated to your interests • Al visual overviews for papers • Support for iPhone ",
-        "title_ar": "",
+        "title_ar": "alphaXiv Mobile 2.0: قارئ PDF مخصص للهواتف مع مكتبات وموجزات بصرية",
         "url": "https://x.com/askalphaxiv/status/2115131377641509259",
         "topic": "research_tools",
         "sources": [
@@ -588,14 +618,15 @@
         "days": 1,
         "score": 62.07,
         "taste": 0.742,
-        "ar": "",
+        "ar": "أُطلقت النسخة 2.0 من تطبيق alphaXiv Mobile، والتي توفر قارئ PDF متجاوباً مع الهواتف، ومكتبات قابلة للمشاركة، وموجزات بصرية للورقات البحثية.",
         "meta": {
           "author": "alphaXiv @askalphaxiv · Oct 27"
         }
       },
       {
+        "id": "82ec214d4a76ed5f",
         "title": "The same model, with the same weights, scores 62% in one agent harness and 33% in another.   @adithya_s_k  and the  @huggingface  team just released the ultimate guide to multi-harness RL, and it's on",
-        "title_ar": "",
+        "title_ar": "دليل شامل لتعلم المعزز متعدد الهياكل (Multi-harness RL) من فريق Hugging Face",
         "url": "https://x.com/huggingface/status/2106034221005312448",
         "topic": "research_tools",
         "sources": [
@@ -607,14 +638,15 @@
         "days": 1,
         "score": 60.88,
         "taste": 0.672,
-        "ar": "",
+        "ar": "أصدر فريق Hugging Face دليلاً لتعلم المعزز متعدد الهياكل، موضحاً كيف يمكن لنفس النموذج أن يحقق نتائج مختلفة جداً (62% مقابل 33%) اعتماداً على هيكل الوكيل المستخدم.",
         "meta": {
           "author": "Hugging Face @huggingface · Oct 2"
         }
       },
       {
+        "id": "9fc72791f1792def",
         "title": "OpenResearch is now available as a desktop app   Native builds for: • macOS (Apple Silicon + Intel) • Windows (x64) • Linux (x64 + ARM)  Turn your coding agents into research agents, and own your stac",
-        "title_ar": "",
+        "title_ar": "OpenResearch يتوفر كتطبيق سطح مكتب لتحويل وكلاء البرمجة إلى وكلاء بحث",
         "url": "https://x.com/askalphaxiv/status/2104947053642047521",
         "topic": "research_tools",
         "sources": [
@@ -626,14 +658,15 @@
         "days": 1,
         "score": 59.92,
         "taste": 0.658,
-        "ar": "",
+        "ar": "أصبح OpenResearch متاحاً كتطبيق سطح مكتب لأنظمة macOS وWindows وLinux، مما يتيح للمستخدمين تحويل وكلاء البرمجة إلى وكلاء بحثية والاحتفاظ ببياناتهم محلياً.",
         "meta": {
           "author": "alphaXiv @askalphaxiv · Sep 29"
         }
       },
       {
+        "id": "0367207720b387dc",
         "title": "On-Policy Self-Training  Data-Free Self-Improvement in Large Language Models  paper:  https:// huggingface.co/papers/2610.32 770 …",
-        "title_ar": "",
+        "title_ar": "ورقة بحثية: التدريب الذاتي على السياسة (On-Policy Self-Training) والتحسين الذاتي بدون بيانات في النماذج اللغوية الكبيرة",
         "url": "https://x.com/_akhaliq/status/2114730501626015880",
         "topic": "research_tools",
         "sources": [
@@ -645,14 +678,15 @@
         "days": 1,
         "score": 57.45,
         "taste": 0.666,
-        "ar": "",
+        "ar": "أُصدرت ورقة بحثية جديدة تستكشف تقنية \"التدريب الذاتي على السياسة\" التي تتيح للنماذج اللغوية الكبيرة تحسين أدائها ذاتياً دون الحاجة إلى بيانات تدريب إضافية. التفاصيل التقنية الكاملة غير متوفرة في النص المقدم.",
         "meta": {
           "author": "AK @_akhaliq · Oct 26"
         }
       },
       {
+        "id": "118d3c5b1b31df20",
         "title": "There’s more to System One decision models than Jev.  These 15 models are worth a closer look:   Jeva  Prism-1  Bongard  Verdict (multi-question)  VideoJev  MJev-Spatial  AudioJev  MetaEncoder  FastJE",
-        "title_ar": "",
+        "title_ar": "نماذج اتخاذ القرار من النوع الأول (System One) تتجاوز Jev: 15 نموذجاً تستحق الدراسة",
         "url": "https://x.com/TheTuringPost/status/2114422040929489241",
         "topic": "ai",
         "sources": [
@@ -664,7 +698,7 @@
         "days": 1,
         "score": 53.21,
         "taste": 0.784,
-        "ar": "",
+        "ar": "يُسلّط الضوء على تنوع نماذج \"النوع الأول\" (System One) في اتخاذ القرار، مشيراً إلى وجود 15 نموذجاً مهماً بجانب النموذج المعروف Jev، مثل Prism-1 وBongard وVideoJev. التفاصيل المحددة حول أداء هذه النماذج غير متوفرة في النص المقدم.",
         "meta": {
           "author": "Turing Post (Ksenia Se) @TheTuringPost · Oct 25"
         }
