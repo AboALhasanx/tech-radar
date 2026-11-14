@@ -103,6 +103,29 @@ APP_JS = r"""
     return [button.dataset.savePage, button.dataset.saveFile].filter(Boolean)
       .map((value) => new URL(value, location.href).href);
   }
+  async function prepareDownload(link, cache) {
+    const source = link.dataset.cacheUrl || link.href;
+    link.dataset.cacheUrl = source;
+    try {
+      const response = await cache.match(source);
+      if (!response) {
+        if (link.dataset.objectUrl) {
+          URL.revokeObjectURL(link.dataset.objectUrl);
+          delete link.dataset.objectUrl;
+          link.href = source;
+        }
+        return;
+      }
+      if (link.dataset.objectUrl) return;
+      const objectUrl = URL.createObjectURL(await response.blob());
+      link.dataset.objectUrl = objectUrl;
+      link.href = objectUrl;
+      if (!link.getAttribute("download")) {
+        const path = new URL(source).pathname;
+        link.download = decodeURIComponent(path.split("/").pop() || "summary.md");
+      }
+    } catch (_) {}
+  }
   async function refreshButtons() {
     if (!("caches" in window)) return;
     try {
@@ -112,6 +135,8 @@ APP_JS = r"""
         button.setAttribute("aria-pressed", saved ? "true" : "false");
         button.textContent = saved ? "محفوظ · إزالة" : "حفظ دون إنترنت";
       }
+      for (const link of document.querySelectorAll("a[download]"))
+        await prepareDownload(link, cache);
     } catch (_) {}
   }
   document.querySelectorAll("[data-save-page]").forEach((button) => {
@@ -125,6 +150,7 @@ APP_JS = r"""
         button.setAttribute("aria-pressed", saved ? "false" : "true");
         button.textContent = saved ? "حفظ دون إنترنت" : "محفوظ · إزالة";
         if (status) status.textContent = saved ? "أزيل الحفظ من هذا الجهاز." : "الملخص وملف Markdown جاهزان دون إنترنت.";
+        await refreshButtons();
       } catch (_) {
         if (status) status.textContent = "تعذر الحفظ. اتصل بالإنترنت ثم أعد المحاولة.";
       } finally { button.disabled = false; }
@@ -133,6 +159,10 @@ APP_JS = r"""
   async function renderSaved() {
     const list = document.querySelector("[data-saved-list]");
     if (!list || !("caches" in window)) return;
+    for (const link of list.querySelectorAll("a[download][data-object-url]")) {
+      URL.revokeObjectURL(link.dataset.objectUrl);
+      delete link.dataset.objectUrl;
+    }
     list.replaceChildren();
     try {
       const cache = await caches.open(cacheName);
@@ -176,6 +206,8 @@ APP_JS = r"""
           download.href = fileUrl;
           download.download = "";
           download.textContent = "تنزيل ملف Markdown";
+          download.dataset.cacheUrl = fileUrl;
+          await prepareDownload(download, cache);
           actions.append(download);
         }
         const remove = document.createElement("button");
