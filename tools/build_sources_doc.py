@@ -12,12 +12,16 @@ except Exception:
     pass
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
+from radar import config
+
 CURATED = json.loads((ROOT / "radar" / "curated.json").read_text("utf-8"))
 
 OUT = ["# Sources worth following", "",
-       "A curated map of where research tooling news actually appears. The radar",
-       "reads the machine-readable entries automatically; the X accounts are for",
-       "you to follow, and for the local scraper when you are at the machine.", ""]
+       "A curated directory of platforms, newsletters, accounts, and communities.",
+       "The scheduled collector reads newsletter feeds from `radar/curated.json`;",
+       "the curated X handles feed local refreshes. Platforms are reference links.",
+       "Collected communities and search queries are defined in `radar/config.py`.", ""]
 
 OUT += ["## Platforms", "", "| Platform | Why |", "|---|---|"]
 for p in CURATED.get("platforms", []):
@@ -30,8 +34,8 @@ for n in CURATED.get("newsletters", []):
     OUT.append(f"| [{n['name']}]({n['url']}) | `{n['focus']}` | {n['why']} |")
 
 OUT += ["", "## X accounts", "",
-        "Follow these; the local scraper can pull their timelines with",
-        "`python tools/x_session.py accounts` once they are in your following list.", "",
+        "The local X session searches these curated handles with",
+        "`python tools/x_session.py accounts` and saves posts to `data/x_accounts.json`.", "",
         "| Account | Type | Followers | Why |", "|---|---|---|---|"]
 for a in CURATED.get("x_accounts", []):
     followers = f"{a['followers']:,}" if a.get("followers") else "—"
@@ -40,15 +44,16 @@ for a in CURATED.get("x_accounts", []):
     )
 
 OUT += ["", "## Communities", "",
-        "Subreddits and Mastodon tags the radar already reads:", ""]
-OUT.append("- Reddit: " + ", ".join(f"r/{s}" for s in CURATED.get("subreddits", [])))
-OUT.append("- Mastodon: " + ", ".join(f"#{t}" for t in CURATED.get("mastodon_tags", [])))
+        "Read by the scheduled collectors from `radar/config.py`:", ""]
+OUT.append("- Reddit: " + ", ".join(f"r/{s}" for s in config.REDDIT_SUBS))
+OUT.append("- Mastodon: " + ", ".join(f"#{t}" for t in config.MASTODON_TAGS))
 
 OUT += ["", "## Adding a source", "",
-        "1. Newsletters and platforms: edit `radar/curated.json`.",
-        "2. Communities: edit `REDDIT_SUBS` / `MASTODON_TAGS` in `radar/config.py`.",
-        "3. Queries: edit `X_QUERIES` / `NEWS_QUERIES` in `radar/config.py`.",
-        "4. Regenerate this page: `python tools/build_sources_doc.py`.", ""]
+        "1. Newsletter feeds and X handles: edit `radar/curated.json`; refresh the local X snapshot with `python tools/x_session.py accounts`.",
+        "2. Platform reference links: edit `radar/curated.json`.",
+        "3. Communities and search queries: edit `radar/config.py`.",
+        "4. A new collector needs a fetcher registered in `radar/sources/__init__.py`.",
+        "5. Regenerate this page: `python tools/build_sources_doc.py`.", ""]
 
 path = ROOT / "docs" / "SOURCES.md"
 path.write_text("\n".join(OUT), encoding="utf-8")

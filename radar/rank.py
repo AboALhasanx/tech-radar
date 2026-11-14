@@ -108,7 +108,7 @@ class Story:
 
 
 def cluster(signals: list[Signal], threshold: float = 0.5) -> list[Story]:
-    """Greedy single-pass clustering; order-independent enough for a digest."""
+    """Greedy single-pass clustering; membership can depend on input order."""
     stories: list[Story] = []
     for signal in signals:
         sig_tokens = tokens(signal.title)

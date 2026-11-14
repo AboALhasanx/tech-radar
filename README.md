@@ -1,13 +1,13 @@
 # tech-radar
 
 Free, keyless discovery of what is actually moving in tech — built to answer one
-question every morning: **what should I look at today?**
+question on every run: **what changed, and what deserves a closer look?**
 
 No X API key. No paid news API. No server. It runs on a stock Python install and
 a GitHub Actions cron.
 
 ```bash
-python main.py            # collect → rank → digest/2026-10-29.md
+python main.py            # collect → rank → digest/brief-YYYY-MM-DD.md
 python main.py --publish  # also send the top stories to Telegram
 python main.py --retro 60 # what trended over the last two months
 ```
@@ -23,9 +23,9 @@ indexes public X posts and serves them through plain RSS:
 https://news.google.com/rss/search?q=site:x.com+(AI+OR+LLM)+when:2d
 ```
 
-That returns real tweet text, timestamps, and links — free, keyless, and stable
-enough to run unattended. The radar leans on it, then cross-checks every story
-against independent sources so a single loud account cannot dominate the digest.
+That can surface public X posts alongside their timestamps and links without an
+X API key. The radar gives additional weight when a story appears in independent
+sources, so one loud account is less likely to dominate the digest.
 
 When you want the *personal* view (your own following list, your own timeline),
 `tools/x_session.py` drives the Chromium you are already logged into — locally
@@ -38,8 +38,8 @@ only, nothing leaves the machine.
 | X posts | Google News `site:x.com` | free | the primary signal |
 | X (personal) | Playwright + your profile | free, local | your following list and timeline |
 | Product Hunt | public RSS | free | launches before the press |
-| Newsletters | curated RSS | free | Import AI, Interconnects, Ahead of AI, One Useful Thing |
-| Researcher accounts | local scrape of `curated.json` | free | the 17 voices that surface tooling first |
+| Newsletters | curated RSS feeds | free | research and tooling analysis |
+| X account posts | local X session using curated handles | free, local refresh | saved to `data/x_accounts.json` |
 | GitHub tooling | topic search API | free | research tools people actually install |
 | Hacker News | Algolia API | free | builder-grade filtering |
 | GitHub | search API (new + starred) | free | what people are actually shipping |
@@ -62,16 +62,18 @@ work** — the thing a researcher installs, pays for, or gets for free:
 These four are ranked first and carry an 8-point boost. Papers still exist as
 an opt-in (`PAPERS_ENABLED=1`) but they are not the point.
 
-**The full directory — platforms, newsletters, X accounts, communities — is in
-[`docs/SOURCES.md`](docs/SOURCES.md).** It is generated from
-`radar/curated.json`, so adding a source is a one-line edit.
+**The source directory — platforms, newsletters, X accounts, and communities — is in
+[`docs/SOURCES.md`](docs/SOURCES.md).** It is generated from `radar/curated.json`
+and `radar/config.py`: feeds and curated account details come from the former;
+search queries and communities come from the latter. Adding a new collector also
+requires a fetcher registered in `radar/sources/__init__.py`.
 
 ## How ranking works
 
 A link is not a story. Titles are clustered (token Jaccard ≥ 0.5), then the
 cluster is scored:
 
-- **recency** — exponential decay, 18 h half-life
+- **recency** — exponential decay, 24 h half-life
 - **cross-source** — the same story in X *and* HN *and* press is the real trend
 - **topic spread** — matches several X queries (ai + agents + open source)
 - **niche** — Arabic, RTL, local-first, agents, the stacks used here
@@ -118,11 +120,11 @@ when `p < 0.15`; every story shows its match score.
 ## Output
 
 ```
-digest/brief-2026-10-29.md   the 3-day brief (primary artifact)
-digest/weekly/2026-W44.md    the weekly rollup
+digest/brief-YYYY-MM-DD.md   the 3-day brief (primary artifact)
+digest/weekly/YYYY-Www.md    the weekly rollup
 CATCHUP.md                   rolling 30-day picture, always current
 data/brief.json              machine-readable feed for agents
-data/archive/2026-10.jsonl.gz durable history
+data/archive/YYYY-MM.jsonl.gz durable history
 site/index.html + feed.xml   static site, RSS, and installable PWA
 ```
 
@@ -160,7 +162,7 @@ work with the original titles. The other keys are optional.
 The radar is built for absence, not for live monitoring:
 
 - every run archives the top 60 stories to `data/archive/YYYY-MM.jsonl.gz`
-- a Sunday job writes `digest/weekly/2026-W44.md` and refreshes **`CATCHUP.md`**
+- a Sunday job writes `digest/weekly/YYYY-Www.md` and refreshes **`CATCHUP.md`**
 - `CATCHUP.md` ranks by **longevity** — how many separate days a story kept
   surfacing — so a three-week thread everyone kept talking about beats a
   one-day spike
@@ -180,8 +182,9 @@ noise; a term that shows up in seven windows is a trend.
 python -m pytest tests -q
 ```
 
-Eleven unit tests cover feed parsing, URL normalisation, clustering and scoring.
-No network access required.
+The automated suite covers feed parsing, URL normalisation, clustering, ranking,
+site generation, Arabic summaries, and taste-model behavior. It needs no live
+network access.
 
 ## Limits, stated plainly
 

@@ -1,8 +1,9 @@
 # Sources worth following
 
-A curated map of where research tooling news actually appears. The radar
-reads the machine-readable entries automatically; the X accounts are for
-you to follow, and for the local scraper when you are at the machine.
+A curated directory of platforms, newsletters, accounts, and communities.
+The scheduled collector reads newsletter feeds from `radar/curated.json`;
+the curated X handles feed local refreshes. Platforms are reference links.
+Collected communities and search queries are defined in `radar/config.py`.
 
 ## Platforms
 
@@ -39,8 +40,8 @@ Fetched by `radar/sources/newsletters.py` (RSS, free).
 
 ## X accounts
 
-Follow these; the local scraper can pull their timelines with
-`python tools/x_session.py accounts` once they are in your following list.
+The local X session searches these curated handles with
+`python tools/x_session.py accounts` and saves posts to `data/x_accounts.json`.
 
 | Account | Type | Followers | Why |
 |---|---|---|---|
@@ -75,14 +76,15 @@ Follow these; the local scraper can pull their timelines with
 
 ## Communities
 
-Subreddits and Mastodon tags the radar already reads:
+Read by the scheduled collectors from `radar/config.py`:
 
-- Reddit: r/AskAcademia, r/PhD, r/GradSchool, r/MachineLearning, r/LocalLLaMA, r/academia
-- Mastodon: #academicchatter, #openscience, #phd, #research
+- Reddit: r/technology, r/LocalLLaMA, r/programming, r/MachineLearning, r/FlutterDev, r/AskAcademia, r/PhD, r/academia
+- Mastodon: #ai, #opensource, #programming, #academicchatter, #openscience
 
 ## Adding a source
 
-1. Newsletters and platforms: edit `radar/curated.json`.
-2. Communities: edit `REDDIT_SUBS` / `MASTODON_TAGS` in `radar/config.py`.
-3. Queries: edit `X_QUERIES` / `NEWS_QUERIES` in `radar/config.py`.
-4. Regenerate this page: `python tools/build_sources_doc.py`.
+1. Newsletter feeds and X handles: edit `radar/curated.json`; refresh the local X snapshot with `python tools/x_session.py accounts`.
+2. Platform reference links: edit `radar/curated.json`.
+3. Communities and search queries: edit `radar/config.py`.
+4. A new collector needs a fetcher registered in `radar/sources/__init__.py`.
+5. Regenerate this page: `python tools/build_sources_doc.py`.
