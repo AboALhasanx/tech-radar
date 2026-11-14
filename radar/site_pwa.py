@@ -16,7 +16,7 @@ CSS = r"""
 body{margin:0;background:var(--bg);color:var(--fg);font-family:"Noto Sans Arabic","Noto Naskh Arabic","Segoe UI",Tahoma,sans-serif;line-height:1.85}
 a,button{-webkit-tap-highlight-color:transparent}a{color:inherit;text-decoration:none}a:hover{color:var(--accent-hi)}button{font:inherit}
 button:focus-visible,a:focus-visible{outline:3px solid var(--accent);outline-offset:3px}button:focus:not(:focus-visible),a:focus:not(:focus-visible){outline:none}
-.wrap{width:min(calc(100% - 26px),var(--content));margin:auto;padding:max(10px,env(safe-area-inset-top,0px)) max(0px,env(safe-area-inset-right,0px)) max(48px,env(safe-area-inset-bottom,0px)) max(0px,env(safe-area-inset-left,0px))}
+.wrap{width:min(calc(100% - 40px),var(--content));margin:auto;padding:max(10px,env(safe-area-inset-top,0px)) max(0px,env(safe-area-inset-right,0px)) max(48px,env(safe-area-inset-bottom,0px)) max(0px,env(safe-area-inset-left,0px))}
 .site-header{display:flex;align-items:flex-start;flex-direction:column;gap:12px;padding:8px 0 16px;border-bottom:1px solid var(--line)}
 .brand{display:inline-flex;align-items:center;gap:11px;font-weight:750;letter-spacing:-.02em}.brand img{width:42px;height:42px}
 .brand small{display:block;color:var(--muted);font-size:10px;letter-spacing:.13em;line-height:1.2}
@@ -52,7 +52,7 @@ h1,h2,h3,p{margin-top:0;overflow-wrap:anywhere}.page-heading h1{margin:0;font-si
 .site-footer{margin-top:48px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:12px}
 .site-footer a{text-decoration:underline;text-underline-offset:3px}.network-state{color:var(--muted);font-size:11px}
 @media(max-width:620px){.original-title{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}.detail-original{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}}
-@media(min-width:621px){.wrap{width:min(calc(100% - 36px),var(--content));padding:max(18px,env(safe-area-inset-top,0px)) max(0px,env(safe-area-inset-right,0px)) max(54px,env(safe-area-inset-bottom,0px)) max(0px,env(safe-area-inset-left,0px))}.site-header{align-items:center;flex-direction:row;padding-bottom:18px}.nav{width:auto}.nav a,.nav button{flex:none}.page-heading{padding:42px 0 25px}.story--feature{padding:24px}.story{padding:20px 0}.detail{padding-top:34px}.detail h1{font-size:clamp(28px,6vw,44px)}.detail-meta{margin:18px 0 28px}.summary-panel{padding:22px 24px}}
+@media(min-width:621px){.wrap{width:min(calc(100% - 48px),var(--content));padding:max(18px,env(safe-area-inset-top,0px)) max(0px,env(safe-area-inset-right,0px)) max(54px,env(safe-area-inset-bottom,0px)) max(0px,env(safe-area-inset-left,0px))}.site-header{align-items:center;flex-direction:row;padding-bottom:18px}.nav{width:auto}.nav a,.nav button{flex:none}.page-heading{padding:42px 0 25px}.story--feature{padding:24px}.story{padding:20px 0}.detail{padding-top:34px}.detail h1{font-size:clamp(28px,6vw,44px)}.detail-meta{margin:18px 0 28px}.summary-panel{padding:22px 24px}}
 """
 
 APP_JS = r"""
