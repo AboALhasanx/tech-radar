@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-11-13T22:49:19.203090+00:00",
+  "generated_at": "2026-11-16T14:10:11.870499+00:00",
   "days": 3,
   "stories": [
+    {
+      "id": "241011747e6a0924",
+      "title": "Expo open-sourced Exact: a cross-platform app runtime with no webview and no JS bridge. One app runs natively on web, iOS, macOS and Linux, and a coding agent can build, tap and test it on each. Pre-1.0, but as a mobile dev I'm curious :)",
+      "title_ar": "Expo تطلق Exact: بيئة تشغيل تطبيقات متعددة المنصات بدون WebView أو JS Bridge",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ERFA4M2kzU3o4NkgxNHJTYnEyblpRa1l5YWx2VDBHOUpoc2FPWklKYjNMYWo5WHR3NUlDa1lleFlzbGxhQUYtMTV3QlRUYnhmZlR1aWE1VHFsSUJpOE5Z?oc=5",
+      "topic": "harness",
+      "sources": [
+        "x"
+      ],
+      "topics": [
+        "harness"
+      ],
+      "days": 1,
+      "score": 116.19,
+      "taste": 0.902,
+      "ar": "أطلقت شركة Expo مشروع Exact مفتوح المصدر، وهو بيئة تشغيل تتيح لتطبيق واحد العمل بشكل أصلي على الويب وiOS وmacOS وLinux دون الحاجة إلى WebView أو جسر JavaScript. المشروع ما زال في مرحلة ما قبل الإصدار 1.0، مما أثار فضول المطورين حول قدراته.",
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d"
+      }
+    },
     {
       "id": "e627a49c8bc1601c",
       "title": "I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app",
@@ -130,6 +150,47 @@
       }
     },
     {
+      "id": "1694aa235530dbc9",
+      "title": "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop",
+      "title_ar": "أسئلة حول نظام SMART AI الجديد في إدارة الطيران، رغم نفي أي صلة بإيقاف الإقلاع",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mNDFBRnY1U294aU1BNzZLSDFFRmxJeWNBbVJoczQ2QURqcUsxVGJKMnluU3dOWE9Na0xSMnk5b0c2cXNrNkJlM3ZxNHVSblR2eEtYLVg3bjAxaExVQ2syMA?oc=5",
+      "topic": "ai",
+      "sources": [
+        "news",
+        "x"
+      ],
+      "topics": [
+        "ai"
+      ],
+      "days": 1,
+      "score": 105.39,
+      "taste": 0.749,
+      "ar": "تتداول تساؤلات حول نظام الذكاء الاصطناعي الجديد SMART التابع لإدارة الطيران الفيدرالية (FAA)، لكن المسؤولين نفوا وجود أي ارتباط بين النظام وحادث إيقاف الإقلاع الأخير. التفاصيل المحددة حول طبيعة النظام وأسئلة المجتمع تقنيًا محدودة في النص المقدم.",
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d"
+      }
+    },
+    {
+      "id": "a2c7291c78edd7b3",
+      "title": "This GitHub repository contains 112 reusable AI agent skills",
+      "title_ar": "مستودع GitHub يحتوي على 112 مهارة قابلة لإعادة الاستخدام لوكلاء الذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ET1VmTGNxRmZnYXM3UExVaUoxYWM1T1lBMm9VY0VDS0NjWFdDMmVzbUg4Ty1fV244dEJsMFdFaDJ5ei1pSm5waEs2bVhtdjc5dnUtRHQwY3J5TWo2VGh1cnRn?oc=5",
+      "topic": "harness",
+      "sources": [
+        "x"
+      ],
+      "topics": [
+        "harness"
+      ],
+      "days": 1,
+      "score": 103.34,
+      "taste": 0.755,
+      "ar": "ظهر مستودع جديد على GitHub يضم 112 مهارة قابلة لإعادة الاستخدام، مصممة لتحسين قدرات وكلاء الذكاء الاصطناعي (AI Agents) وتوسيع نطاق تطبيقاتهم.",
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d"
+      }
+    },
+    {
       "id": "b598d21f2ddd00f5",
       "title": "I gave a coding agent the Python scripts I wrote at university, and watching it fix them taught me more than the course did",
       "title_ar": "أعطيت وكيل البرمجة سكربتات بايثون من الجامعة، وتصحيحها علّمني أكثر من الدرس",
@@ -147,6 +208,27 @@
       "ar": "شارك المستخدم تجربته في استخدام وكيل برمجة لتصحيح سكربتات بايثون قديمة من أيام الجامعة، معتبرًا أن عملية التصحيح أضافت له معرفة تقنية تفوق ما تعلمه في المقرر الدراسي.",
       "meta": {
         "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d"
+      }
+    },
+    {
+      "id": "a06fa2d6113f96fa",
+      "title": "Alibaba unveils new flagship AI model in challenge to US rivals",
+      "title_ar": "علي بابا تكشف عن نموذج ذكاء اصطناعي رئيسي جديد في تحدٍّ للمنافسين الأمريكيين",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIdXVTaElCWkU4aW1PNzJCMFdadF9pY19ucGRFZ2p3Tng2ZVhmV3d4TGdhTXZqczJ3R21HVC0wb05SM3ZmbW1ycW9yVzg0aFg2YmlNSG1CMlRaSmZKeXA4bTE0Yk0?oc=5",
+      "topic": "ai",
+      "sources": [
+        "news",
+        "x"
+      ],
+      "topics": [
+        "ai"
+      ],
+      "days": 1,
+      "score": 101.16,
+      "taste": 0.689,
+      "ar": "أعلنت شركة علي بابا عن إطلاق نموذج ذكاء اصطناعي رئيسي جديد، في خطوة تهدف إلى المنافسة المباشرة مع الشركات الأمريكية الرائدة في مجال الذكاء الاصطناعي.",
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d"
       }
     },
     {
@@ -254,6 +336,26 @@
       }
     },
     {
+      "id": "24c7704b6673af4a",
+      "title": "I used AI and somehow built a JavaScript engine in just 2–3 days. * Pure Go * `unsafe`-free * ES2025 support (99.99% of Test262 tests pass) * Over 3× faster than goja and Sobek * Over 2× faster than cznic's Go port of QuickJS #golang",
+      "title_ar": "مطور يستخدم الذكاء الاصطناعي لبناء محرك JavaScript بلغة Go في أيام قليلة",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLNkc1MjNLRGRkNUVldzE1VU1FV1g3LUhYbGxYVlMxalptZmFkRTZyVU05WXBzLVR4aVJXVkF0TDhCU2JXbGpCc1hhLUlWX05maGFEZ21MZ2lpNFpvNHl3UXp3?oc=5",
+      "topic": "ai",
+      "sources": [
+        "x"
+      ],
+      "topics": [
+        "ai"
+      ],
+      "days": 1,
+      "score": 96.4,
+      "taste": 0.956,
+      "ar": "أعلن مطور عن نجاحه في بناء محرك JavaScript بلغة Go باستخدام مساعدة الذكاء الاصطناعي خلال 2-3 أيام فقط. يتميز المحرك بدعم كامل لمواصفات ES2025 وسرعة تفوق المنافسين مثل goja وSobek بأكثر من 3 أضعاف.",
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d"
+      }
+    },
+    {
       "id": "796a7f7ee338b70f",
       "title": "Claude Fable 5.2 and Mythos 5.2",
       "title_ar": "Claude Fable 5.2 و Mythos 5.2",
@@ -317,106 +419,6 @@
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d"
       }
-    },
-    {
-      "id": "773e9cf8b4a77857",
-      "title": "The free tier of Paper is super restrictive. 100 MCP tool calls/week doesn't get your far. is an open source alternative, no limits on MCP tool calls. Unlimited designs. Let's create some hype!",
-      "title_ar": "بديل مفتوح المصدر لـ Paper بدون حدود على استدعاءات MCP",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkSVVVXzUzUElJRnlycUVxUmFKMGdKbW5hbEl5NktGWEpHNmVhelQzaGFKMTZaVk9aU19sZG8taFpIYWZlYTVzUGllOHh4YWVWbEFRQjlZajRrODRJYTZn?oc=5",
-      "topic": "free",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "free"
-      ],
-      "days": 1,
-      "score": 95.58,
-      "taste": 0.789,
-      "ar": "يُروج لمنصة مفتوحة المصدر كبديل لخدمة Paper، مبررًا ذلك بأن الخطة المجانية لـ Paper مقيدة بـ 100 استدعاء أسبوعيًا لأدوات MCP، بينما يتيح البديل استخدامًا غير محدود للتصاميم والاستدعاءات.",
-      "meta": {
-        "query": "site:x.com (\"free tier\" OR \"free credits\" OR \"free trial\" OR \"no API key\" OR \"free plan\") when:7d"
-      }
-    },
-    {
-      "id": "280673128a387d79",
-      "title": "Local AI. Local compute. Open weights. Open source. Global collaboration.",
-      "title_ar": "ذكاء اصطناعي محلي، حوسبة محلية، أوزان مفتوحة، ومصدر مفتوح",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41Q0thTjZod0lCU1ZLaHlSWkNIVGRHZG9vZENubkR4d0NkWUdoWWxUaUtyTDFqZ3BPbGN1NXRRbkVRZlJrcVIybzFueW1KYU9DMjRjSXlDVQ?oc=5",
-      "topic": "ai",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "ai"
-      ],
-      "days": 1,
-      "score": 95.36,
-      "taste": 0.893,
-      "ar": "يُبرز المنشور مزايا الحلول القائمة على الذكاء الاصطناعي المحلي والحوسبة المحلية، مع التأكيد على أهمية الأوزان المفتوحة والمصادر المفتوحة لتعزيز التعاون العالمي.",
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d"
-      }
-    },
-    {
-      "id": "bdd914b0a0fe08ed",
-      "title": "Vibe coding works when your agent has the right tools. Connect Apify MCP, build your app, ask the AI which Actors would improve it. @AiHomegirl does exactly that - and the AI surprises her every time. MCP setup ↓",
-      "title_ar": "البرمجة بالاهتزاز (Vibe Coding) تنجح عندما يمتلك الوكيل الأدوات الصحيحة عبر Apify MCP",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ba1hwTFExdHZfdFZXTVZyUTJldWVBalNPWmpoNGhwNUhLOHQwSjRCOEMtRUVpOUVNQkVGU18tOWR2WElRQ1NGY0JlQnZxUG5PdlhONDg2UDJ4Zw?oc=5",
-      "topic": "agents",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "agents"
-      ],
-      "days": 1,
-      "score": 94.84,
-      "taste": 0.848,
-      "ar": "يوضح المنشور كيف يمكن لربط Apify MCP تحسين أداء وكلاء الذكاء الاصطناعي في بناء التطبيقات، حيث يطلب من الذكاء الاصطناعي اقتراح أدوات (Actors) لتحسين التطبيق، مما يؤدي إلى نتائج مفاجئة ومفيدة.",
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d"
-      }
-    },
-    {
-      "id": "bbaf46dac7477aed",
-      "title": "Meet Hy4. Out of preview. ◆ First Hy model with eyes: native vision + computer use. ◆ The price stayed in preview. The benchmarks didn't. ◆ Open weights coming soon. Hy4 Flash right behind.",
-      "title_ar": "تقديم Hy4: أول نموذج من Hy مع رؤية أصلية واستخدام حاسوب، مع أوزان مفتوحة قريباً",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OcVBhS2xWbHlENEpMVXRrMUlwaTMxT3BzZ2lxRzZ4LXFFREY4WDFNdV9sY1hZUjRhblE4cnNCRFFPUUFFZWxLWHVxNFlDTXZXams1UlF5a0FNUUVpQ1hWTHlZcG95UQ?oc=5",
-      "topic": "ai",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "ai"
-      ],
-      "days": 1,
-      "score": 94.57,
-      "taste": 0.949,
-      "ar": "أُعلن عن انتهاء فترة المعاينة لنموذج Hy4، الذي يتميز بدعم الرؤية الأصلية واستخدام الحاسوب، مع الحفاظ على أسعار فترة المعاينة رغم تحسن الأداء، على أن تتوفر الأوزان المفتوحة قريباً.",
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d"
-      }
-    },
-    {
-      "id": "0681a31eb2bc5427",
-      "title": "I tested 7 free GitHub repos that turned my AI agent from a junior intern into a senior engineer. All open source. 👉 Understand-Anything maps an entire codebase so your agent actually knows what it's working with before it starts writing code 👉 agent-skills give",
-      "title_ar": "اختبار 7 مستودعات مفتوحة المصدر على GitHub لرفع كفاءة وكلاء الذكاء الاصطناعي",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80OHRlNGJsTTdpTVFvbDZhdmJsMmRUZGIySml5c1VNQzdXMVFZSG5INGdKMEQ2MVBHZzNLZG5sb3ZSZk04WDZxY1owS1FlRnpUZUxFZ0JTczE4T2VuYk1RbExmNk9Bdw?oc=5",
-      "topic": "opensource",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "opensource"
-      ],
-      "days": 1,
-      "score": 94.31,
-      "taste": 0.851,
-      "ar": "شارك المستخدم تجربته مع 7 مستودعات مفتوحة المصدر ساعدت في تحويل وكيل الذكاء الاصطناعي من مستوى مبتدئ إلى مهندس خبير، مع التركيز على أدوات مثل Understand-Anything لرسم خرائط قواعد الكود.",
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d"
-      }
     }
   ],
   "shelves": {
@@ -439,6 +441,46 @@
         "ar": "نشرة إخبارية تغطي مواضيع متنوعة تشمل لعبة Spacewar، ومقارنة بين المهام منخفضة الكمون ونماذج اللغة الكبيرة (LLMs)، بالإضافة إلى تقنية Genie 4.",
         "meta": {
           "outlet": "Import AI"
+        }
+      },
+      {
+        "id": "8479f47633fa8f96",
+        "title": "Open-source AI without Jensen",
+        "title_ar": "",
+        "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+        "topic": "research",
+        "sources": [
+          "newsletter"
+        ],
+        "topics": [
+          "research"
+        ],
+        "days": 1,
+        "score": 83.74,
+        "taste": 0.589,
+        "ar": "",
+        "meta": {
+          "outlet": "Interconnects"
+        }
+      },
+      {
+        "id": "950ac38f23f2d5a7",
+        "title": "Understanding Positional Embeddings in Modern LLMs",
+        "title_ar": "",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "topic": "research",
+        "sources": [
+          "newsletter"
+        ],
+        "topics": [
+          "research"
+        ],
+        "days": 1,
+        "score": 75.11,
+        "taste": 0.414,
+        "ar": "",
+        "meta": {
+          "outlet": "Ahead of AI"
         }
       },
       {
@@ -499,46 +541,6 @@
         "ar": "نشرة إخبارية تطرح سؤالاً حول حجم اقتصاد النماذج المفتوحة (Open Models) في الوقت الحالي، دون تقديم أرقام أو تفاصيل إضافية في العنوان.",
         "meta": {
           "outlet": "Interconnects"
-        }
-      },
-      {
-        "id": "255d0fc950f33d7a",
-        "title": "AGI Is Not Multimodal",
-        "title_ar": "الذكاء الاصطناعي العام ليس متعدد الوسائط",
-        "url": "https://thegradient.pub/agi-is-not-multimodal/",
-        "topic": "research",
-        "sources": [
-          "newsletter"
-        ],
-        "topics": [
-          "research"
-        ],
-        "days": 1,
-        "score": 42.82,
-        "taste": 0.664,
-        "ar": "نشرة إخبارية تدفع بفكرة أن الذكاء الاصطناعي العام (AGI) لا يتطلب بالضرورة أن يكون متعدد الوسائط (Multimodal)، دون تفاصيل إضافية في النص المقدم.",
-        "meta": {
-          "outlet": "The Gradient"
-        }
-      },
-      {
-        "id": "44084287147f6737",
-        "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-        "title_ar": "GPT-6 Astra، محولات الحلقات (Looped Transformers)، والاستدلال الخفي",
-        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-        "topic": "research",
-        "sources": [
-          "newsletter"
-        ],
-        "topics": [
-          "research"
-        ],
-        "days": 1,
-        "score": 38.69,
-        "taste": 0.605,
-        "ar": "نشرة إخبارية تناقش تقنيات متقدمة تشمل GPT-6 Astra، وهندسة محولات الحلقات، وآليات الاستدلال الخفي في نماذج الذكاء الاصطناعي.",
-        "meta": {
-          "outlet": "Ahead of AI"
         }
       }
     ],
