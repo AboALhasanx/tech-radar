@@ -1,308 +1,218 @@
 {
-  "generated_at": "2026-11-16T14:10:11.711998+00:00",
-  "fetched": 710,
+  "generated_at": "2026-11-19T14:51:30.409317+00:00",
+  "fetched": 732,
   "stories": [
     {
-      "id": "241011747e6a0924",
-      "title": "Expo open-sourced Exact: a cross-platform app runtime with no webview and no JS bridge. One app runs natively on web, iOS, macOS and Linux, and a coding agent can build, tap and test it on each. Pre-1.0, but as a mobile dev I'm curious :)",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ERFA4M2kzU3o4NkgxNHJTYnEyblpRa1l5YWx2VDBHOUpoc2FPWklKYjNMYWo5WHR3NUlDa1lleFlzbGxhQUYtMTV3QlRUYnhmZlR1aWE1VHFsSUJpOE5Z?oc=5",
+      "id": "8d156418546cf7d7",
+      "title": "• Provides bottom-sheet components for React Native • Built by core React Native contributors • Install from npm as @swmansion/react-native-bottom-sheet",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMSGZwbVczNzRWWFd1cnhhcTZFRmJtMUxkMUxRbzU2MFI4b05ndnhqNkFYT0pBTjdGZHpjd0tBTXdZVTQwblZ0WWI1bk4xN25XS2lyRGJBbkgzSHlPSmc?oc=5",
       "source": "x",
-      "topic": "harness",
-      "published": "2026-11-16T10:48:01+00:00",
-      "summary": "Expo open-sourced Exact: a cross-platform app runtime with no webview and no JS bridge. One app runs natively on web, iOS, macOS and Linux, and a coding agent can build, tap and test it on each. Pre-1.0, but as a mobile dev I'm curious :) https://t.co/ppkxa X",
+      "topic": "opensource",
+      "published": "2026-11-19T13:57:04+00:00",
+      "summary": "• Provides bottom-sheet components for React Native • Built by core React Native contributors • Install from npm as @swmansion/react-native-bottom-sheet X",
       "engagement": 0.0,
-      "score": 80.6,
+      "score": 71.32,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.9025
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.983
       },
-      "title_ar": "Expo تطلق Exact: بيئة تشغيل تطبيقات متعددة المنصات بدون WebView أو JS Bridge",
-      "ar": "أطلقت شركة Expo مشروع Exact مفتوح المصدر، وهو بيئة تشغيل تتيح لتطبيق واحد العمل بشكل أصلي على الويب وiOS وmacOS وLinux دون الحاجة إلى WebView أو جسر JavaScript. المشروع ما زال في مرحلة ما قبل الإصدار 1.0، مما أثار فضول المطورين حول قدراته.",
+      "title_ar": "مكوّنات Bottom-Sheet لـ React Native من مساهمين أساسيين",
+      "ar": "يوفر هذا الحزمة مكوّنات Bottom-Sheet لتطبيقات React Native، وقد تم تطويرها بواسطة مساهمين أساسيين في إطار العمل ويمكن تثبيتها عبر npm.",
       "sources": [
         "x"
       ],
-      "taste": 0.902
+      "taste": 0.983
     },
     {
-      "id": "1694aa235530dbc9",
-      "title": "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mNDFBRnY1U294aU1BNzZLSDFFRmxJeWNBbVJoczQ2QURqcUsxVGJKMnluU3dOWE9Na0xSMnk5b0c2cXNrNkJlM3ZxNHVSblR2eEtYLVg3bjAxaExVQ2syMA?oc=5",
+      "id": "46f43ee268fd7e49",
+      "title": "37x faster, 230 times less memory, 11 MB idle. That's Firecrawl Local, an open source rust rewrite of their scraping core, shipped about a year after Firecrawl raised roughly 82 million dollars on top of its 14.5 million Series A, chasing search, scraping, and brow",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaelQ0dFN6MzNUVUpSZjZPd3JtQm1iX0tMdnpuVjdFNWkyOXlJdXlQbnhZLXk1aE9ueC1iUnhDVUVQWl9RTnI5eHpldXU2VXJzQkdxRDdIMkM2SmFfR2dYYjB4aw?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-11-16T12:00:21+00:00",
-      "summary": "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop https://t.co/Y497ihy2PT X",
+      "topic": "opensource",
+      "published": "2026-11-19T09:21:00+00:00",
+      "summary": "37x faster, 230 times less memory, 11 MB idle. That's Firecrawl Local, an open source rust rewrite of their scraping core, shipped about a year after Firecrawl raised roughly 82 million dollars on top of its 14.5 million Series A, chasing search, scraping, and brow X",
       "engagement": 0.0,
-      "score": 75.98,
+      "score": 68.48,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7453
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8446
       },
-      "title_ar": "أسئلة حول نظام SMART AI الجديد في إدارة الطيران، رغم نفي أي صلة بإيقاف الإقلاع",
-      "ar": "تتداول تساؤلات حول نظام الذكاء الاصطناعي الجديد SMART التابع لإدارة الطيران الفيدرالية (FAA)، لكن المسؤولين نفوا وجود أي ارتباط بين النظام وحادث إيقاف الإقلاع الأخير. التفاصيل المحددة حول طبيعة النظام وأسئلة المجتمع تقنيًا محدودة في النص المقدم.",
-      "sources": [
-        "news",
-        "x"
-      ],
-      "taste": 0.749
-    },
-    {
-      "id": "a06fa2d6113f96fa",
-      "title": "Alibaba unveils new flagship AI model in challenge to US rivals",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIdXVTaElCWkU4aW1PNzJCMFdadF9pY19ucGRFZ2p3Tng2ZVhmV3d4TGdhTXZqczJ3R21HVC0wb05SM3ZmbW1ycW9yVzg0aFg2YmlNSG1CMlRaSmZKeXA4bTE0Yk0?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-16T13:01:08+00:00",
-      "summary": "Alibaba unveils new flagship AI model in challenge to US rivals https://t.co/D4NzV8oeBw X",
-      "engagement": 0.0,
-      "score": 73.54,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.6886
-      },
-      "title_ar": "علي بابا تكشف عن نموذج ذكاء اصطناعي رئيسي جديد في تحدٍّ للمنافسين الأمريكيين",
-      "ar": "أعلنت شركة علي بابا عن إطلاق نموذج ذكاء اصطناعي رئيسي جديد، في خطوة تهدف إلى المنافسة المباشرة مع الشركات الأمريكية الرائدة في مجال الذكاء الاصطناعي.",
-      "sources": [
-        "news",
-        "x"
-      ],
-      "taste": 0.689
-    },
-    {
-      "id": "a2c7291c78edd7b3",
-      "title": "This GitHub repository contains 112 reusable AI agent skills",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ET1VmTGNxRmZnYXM3UExVaUoxYWM1T1lBMm9VY0VDS0NjWFdDMmVzbUg4Ty1fV244dEJsMFdFaDJ5ei1pSm5waEs2bVhtdjc5dnUtRHQwY3J5TWo2VGh1cnRn?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-11-16T11:56:09+00:00",
-      "summary": "This GitHub repository contains 112 reusable AI agent skills https://t.co/KzUMVD0vcr - X",
-      "engagement": 0.0,
-      "score": 72.62,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.7555
-      },
-      "title_ar": "مستودع GitHub يحتوي على 112 مهارة قابلة لإعادة الاستخدام لوكلاء الذكاء الاصطناعي",
-      "ar": "ظهر مستودع جديد على GitHub يضم 112 مهارة قابلة لإعادة الاستخدام، مصممة لتحسين قدرات وكلاء الذكاء الاصطناعي (AI Agents) وتوسيع نطاق تطبيقاتهم.",
+      "title_ar": "Firecrawl Local: إعادة كتابة مفتوحة المصدر بلغة Rust أسرع وأخف",
+      "ar": "أطلقت Firecrawl نسخة محلية مفتوحة المصدر من نواة الزحف (Scraping) مكتوبة بلغة Rust، تتميز بسرعة أعلى واستهلاك أقل للذاكرة، وذلك بعد فترة وجيزة من جمعها لمبالغ استثمارية كبيرة.",
       "sources": [
         "x"
       ],
-      "taste": 0.755
+      "taste": 0.845
     },
     {
-      "id": "24c7704b6673af4a",
-      "title": "I used AI and somehow built a JavaScript engine in just 2–3 days. * Pure Go * `unsafe`-free * ES2025 support (99.99% of Test262 tests pass) * Over 3× faster than goja and Sobek * Over 2× faster than cznic's Go port of QuickJS #golang",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLNkc1MjNLRGRkNUVldzE1VU1FV1g3LUhYbGxYVlMxalptZmFkRTZyVU05WXBzLVR4aVJXVkF0TDhCU2JXbGpCc1hhLUlWX05maGFEZ21MZ2lpNFpvNHl3UXp3?oc=5",
+      "id": "47d1b1b49b14091a",
+      "title": "With Qwen4-Max, Alibaba puts the open source jacket back on the hanger",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83N21JTXVYRktnLTJEbHZscEU1dkV3akRBOWlPRUZuQnRKMl9TMEY4NTlUUVdxdldGRE5GeGNBVU1OX0dFa0h0blFzSlQzM0FMRlBwamUyYzBaRDVkY0E0SEJ3?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-11-16T08:44:37+00:00",
-      "summary": "I used AI and somehow built a JavaScript engine in just 2–3 days. * Pure Go * `unsafe`-free * ES2025 support (99.99% of Test262 tests pass) * Over 3× faster than goja and Sobek * Over 2× faster than cznic's Go port of QuickJS #golang https://t.co/rAnbAPHb7 X",
+      "topic": "opensource",
+      "published": "2026-11-19T12:00:16+00:00",
+      "summary": "With Qwen4-Max, Alibaba puts the open source jacket back on the hanger https://t.co/3BWn5qFDlp X",
       "engagement": 0.0,
-      "score": 70.24,
+      "score": 67.15,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.956
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8337
       },
-      "title_ar": "مطور يستخدم الذكاء الاصطناعي لبناء محرك JavaScript بلغة Go في أيام قليلة",
-      "ar": "أعلن مطور عن نجاحه في بناء محرك JavaScript بلغة Go باستخدام مساعدة الذكاء الاصطناعي خلال 2-3 أيام فقط. يتميز المحرك بدعم كامل لمواصفات ES2025 وسرعة تفوق المنافسين مثل goja وSobek بأكثر من 3 أضعاف.",
+      "title_ar": "Alibaba تعيد إحياء نموذج Qwen4-Max مفتوح المصدر",
+      "ar": "أطلقت شركة Alibaba نموذج Qwen4-Max، مما يعيد التركيز على استراتيجية النماذج مفتوحة المصدر في مجال الذكاء الاصطناعي.",
       "sources": [
         "x"
       ],
-      "taste": 0.956
+      "taste": 0.834
     },
     {
-      "id": "30846ae5327abb29",
-      "title": "Anthropic's auto-approval model is down, agentic coding is over",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0b0hhS2k5WUNUX0pEMXBacmcwaUpmcVpZS1d6NnVBME9zc2FtUnFLTURDeDlBQW5ib212eUozNUc1dTEzWFNSSkRTbmZNVjBMblhncThLY2RpaEJSTVE?oc=5",
+      "id": "d2f42518fc962c8a",
+      "title": "Fable 5.2 has everyone hyped about AI 3D, but generating a single model was never the hard part. Editing, creating variations, and jumping between tools is. That’s exactly what @tripoai’s Tripo Agentic Canvas solves. You describe what you need, the AI agen",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xeGt6WDREaG5KVVVaMDgzUko0Q3VLY0tYN19KejlBOWZBYTY4bFFiZUdKVDZHWlpILVZGUjRCMGFSc2V5UmNpYU5qbFJ3YzUyTTI5UWhBWVNxSnVsTTBTLXBEMWU?oc=5",
       "source": "x",
-      "topic": "agents",
-      "published": "2026-11-16T07:44:49+00:00",
-      "summary": "Anthropic's auto-approval model is down, agentic coding is over X",
-      "engagement": 0.0,
-      "score": 66.61,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.8228
-      },
-      "title_ar": "",
-      "ar": "",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.823
-    },
-    {
-      "id": "f2d25f1d760f44be",
-      "title": "GPUI Kit v0.10.0 is out! This release brings RTL layouts and improvements to text input, keyboard navigation, and accessibility. - RTL: Global right-to-left layout support for more natural Arabic, Hebrew, and other interfaces. - Editor: Better caret movement, IME c",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oLVMyRUhjWkJtS1doTGdhbHQ4bmI3TkdULW9uQWE3UzNjcnZ3MXMxZE1FalJGRmtxNWdnZXhOdjVrUEpvTkN6ZURXSjZJX24wRm40VHdoVnpOOFdxaWc?oc=5",
-      "source": "x",
-      "topic": "arabic",
-      "published": "2026-11-16T07:23:09+00:00",
-      "summary": "GPUI Kit v0.10.0 is out! This release brings RTL layouts and improvements to text input, keyboard navigation, and accessibility. - RTL: Global right-to-left layout support for more natural Arabic, Hebrew, and other interfaces. - Editor: Better caret movement, IME c X",
-      "engagement": 0.0,
-      "score": 66.59,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (Arabic OR RTL OR عربي OR \"الذكاء الاصطناعي\") when:7d",
-        "taste": 0.6569
-      },
-      "title_ar": "",
-      "ar": "",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.657
-    },
-    {
-      "id": "0eb82b2e85bda451",
-      "title": "DeepSeek’s coding agent is too tidy for its own good — and benchmarks are punishing it",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iN21zSnNuM2x4NHVVVEdtZ1hudFg2RHBEU1VxVlBXUUVfQXNVZEZmVEZQcXpGSjZULVhTeFRpT0htekJWc3RHdFNPTzExQll6Z2hoWTJZa0xObkpoRnZxVHVn?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-11-16T05:00:13+00:00",
-      "summary": "DeepSeek’s coding agent is too tidy for its own good — and benchmarks are punishing it https://t.co/3pv0ebDzfr X",
+      "topic": "free",
+      "published": "2026-11-19T12:24:51+00:00",
+      "summary": "Fable 5.2 has everyone hyped about AI 3D, but generating a single model was never the hard part. Editing, creating variations, and jumping between tools is. That’s exactly what @tripoai’s Tripo Agentic Canvas solves. You describe what you need, the AI agen X",
       "engagement": 0.0,
       "score": 66.4,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.9237
+        "query": "site:x.com (\"free tier\" OR \"free credits\" OR \"free trial\" OR \"no API key\" OR \"free plan\") when:7d",
+        "taste": 0.6
       },
-      "title_ar": "",
-      "ar": "",
+      "title_ar": "Tripo Agentic Canvas يحل تحديات تحرير النماذج ثلاثية الأبعاد بالذكاء الاصطناعي",
+      "ar": "مع انتشار الحماس حول الذكاء الاصطناعي ثلاثي الأبعاد، يقدم Tripo Agentic Canvas حلاً للتحديات الحقيقية مثل التحرير وإنشاء التباينات، حيث يوصف للمستخدم ما يحتاجه ويتولى الوكيل الذكي التنفيذ.",
       "sources": [
         "x"
       ],
-      "taste": 0.924
+      "taste": 0.6
     },
     {
-      "id": "01b42a00b9da04a4",
-      "title": "Kathamo has reached 95 stars on GitHub! I've improved so many things, and Kathamo is now built entirely in Rust. It supports 100+ AI providers, with more being added. Kathamo is more than just an AI agent. You can use it as a terminal emulator, an AI agent",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OR0dYMEdPdWFJTzVuRG50bENUa29jUkUyQlJxT1RzOUFBMGdYeWk4bk1Wbk5OUEtkOGRad0NIREhNNUNRZ3U1RjFyd1poWFJrbEVIX2lEMi13N05zM3g3VA?oc=5",
+      "id": "555e014285551370",
+      "title": "ICYMI: 69% of organizations are already prototyping agentic AI, and OSPOs are helping govern it. Read the 2026 State of OSPOs and Open Source Management report:",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nQ1BPUVFWMXZKc3F2UG82YTAyUURMRWFxejhQc18tSGpnZFFmc2pha1VtRFU1VTBzV0N6c1had3JrQzN4T3Vob0VrbzRxTVdGTXFXLUY5eEg3bnd2VnJLdmRVWTBEWkE?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-19T14:18:07+00:00",
+      "summary": "ICYMI: 69% of organizations are already prototyping agentic AI, and OSPOs are helping govern it. Read the 2026 State of OSPOs and Open Source Management report: https://t.co/g0EXPH3tQP X",
+      "engagement": 0.0,
+      "score": 65.6,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.735
+      },
+      "title_ar": "تقرير 2026: 69% من المؤسسات تختبر الذكاء الاصطناعي الوكيلي",
+      "ar": "يكشف تقرير حالة OSPOs وإدارة المصادر المفتوحة لعام 2026 أن 69% من المؤسسات تقوم بالفعل بتطوير نماذج أولية للذكاء الاصطناعي الوكيلي (Agentic AI)، مع دور متزايد لفرق OSPO في حوكمة هذه التقنيات.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.735
+    },
+    {
+      "id": "37f80d5a820bdb22",
+      "title": "Tencent just released a self-evolving agent for AI-generated video detection on Hugging Face It hits 95.2% average accuracy across in-domain, out-of-domain and agentic benchmarks, 9.0% above the strongest prior detector.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10NHhWbmRReFZoYzNFcFBZYmV0cTA2TlJ0bUxYd2lDem02cUREWjFNZ29NRVVOR2ItcDdIYk1mOVB5Y28tT2lnZFo3NnZQOWpaTlpZdVotZmtabmRDQWkwdEZxN24?oc=5",
       "source": "x",
       "topic": "agents",
-      "published": "2026-11-16T08:01:45+00:00",
-      "summary": "Kathamo has reached 95 stars on GitHub! I've improved so many things, and Kathamo is now built entirely in Rust. It supports 100+ AI providers, with more being added. Kathamo is more than just an AI agent. You can use it as a terminal emulator, an AI agent X",
+      "published": "2026-11-19T08:33:06+00:00",
+      "summary": "Tencent just released a self-evolving agent for AI-generated video detection on Hugging Face It hits 95.2% average accuracy across in-domain, out-of-domain and agentic benchmarks, 9.0% above the strongest prior detector. X",
       "engagement": 0.0,
-      "score": 64.99,
+      "score": 62.7,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.7705
+        "taste": 0.7202
+      },
+      "title_ar": "Tencent تطلق وكيلاً ذاتياً للكشف عن الفيديوهات المولدة بالذكاء الاصطناعي",
+      "ar": "أطلقت Tencent وكيلاً ذكياً ذاتياً التطور على Hugging Face للكشف عن الفيديوهات المولدة آلياً، محققاً دقة متوسطة تبلغ 95.2%، متفوقاً على أقوى أدوات الكشف السابقة.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.72
+    },
+    {
+      "id": "403b62f1052917b3",
+      "title": "MCP Dev Summit (@mcpsummit) Nairobi starts with a charge for accountable and secure agentic AI for last-mile use in Africa. In the opening keynote, Dr Rachel Sibande (@rachelsiba), Senior Program Officer for Artificial Intelligence at the Gates Foundation (",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pWmdQbHVsTWRoMEROTElyYVF2ZkVaaUhBUVdaTENfS2x1ZEtjdGJhY2hWRkozeWptSnhMUXZPZVZHME1hRVJDejdFM2FZa3Jnc3dUc21TR1E3V0h1aEpUeUdSUFhsdw?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-11-19T12:15:15+00:00",
+      "summary": "MCP Dev Summit (@mcpsummit) Nairobi starts with a charge for accountable and secure agentic AI for last-mile use in Africa. In the opening keynote, Dr Rachel Sibande (@rachelsiba), Senior Program Officer for Artificial Intelligence at the Gates Foundation ( X",
+      "engagement": 0.0,
+      "score": 62.54,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.6435
       },
       "title_ar": "",
       "ar": "",
       "sources": [
         "x"
       ],
-      "taste": 0.77
+      "taste": 0.643
     },
     {
-      "id": "8184afdf14be3032",
-      "title": "Qwen4-Max is out! And it's available in OpenCode Go. I tried one prompt. Cost: $0.18 on API pricing, but 6% hourly and 2% weekly limit used, on my $10/mo OpenCode Go plan. Will keep running the full benchmark, and will shoot a video when I have the num",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sdER2Wng0S2diV1ZFMURXeldRbHlwa2VueEx2QXJ2UDBlZ3lQdWxkYnh3N3hYQ1M1clJOZFRkbkRpZkdRcUJTdlNlUTBHVTJ5RUtsRzRZQktfNUY0b1daNHpwNA?oc=5",
+      "id": "4cb5ab979aaf747a",
+      "title": "Expo Exact takes on the cross-platform UI problem with a shared interface, Rust, and tools for coding agents. #softwaredevelopment #crossplatform...Show more",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CV3doYkhJaFhmcG90cUMwNFBsaFp5RDlNTDBVX1hYaEp0MkMwSmZ6Z1ZDWEdxSFkya1pSWEZ5d3pFbnpzUmNQcmhHcm8wS2czMkF0T3Nka2lDOFVaMG1xTQ?oc=5",
       "source": "x",
-      "topic": "devtools",
-      "published": "2026-11-16T07:58:01+00:00",
-      "summary": "Qwen4-Max is out! And it's available in OpenCode Go. I tried one prompt. Cost: $0.18 on API pricing, but 6% hourly and 2% weekly limit used, on my $10/mo OpenCode Go plan. Will keep running the full benchmark, and will shoot a video when I have the num X",
+      "topic": "mobile",
+      "published": "2026-11-19T07:14:45+00:00",
+      "summary": "Expo Exact takes on the cross-platform UI problem with a shared interface, Rust, and tools for coding agents. #softwaredevelopment #crossplatform...Show more X",
       "engagement": 0.0,
-      "score": 63.55,
+      "score": 61.53,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
-        "taste": 0.7972
+        "query": "site:x.com (Flutter OR \"React Native\" OR Expo OR Android) when:7d",
+        "taste": 0.6907
       },
       "title_ar": "",
       "ar": "",
       "sources": [
         "x"
       ],
-      "taste": 0.797
+      "taste": 0.691
     },
     {
-      "id": "523ce9546e88cfd3",
-      "title": "AI should not replace your thinking. It should augment it. At @blrskillsummit 2026, I was asked: How will AI augment skilling? My answer: it depends on where you are. 1. If you are the expert → use AI as your Assistant. Research, data crunching, summarising l",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EREJobXI3TFo4WnVCZGhMNE92alEzM1BKNnRQN1pRQ2tnUXVtOHBxNWlaNzhJWnNsaEN4a3dUT0E0WHN3RUpiR3BIT0MxTExYM04ydmhfbko4X3ZkU3U3dTBaV0c3c1U?oc=5",
+      "id": "992004450b91f2bf",
+      "title": "Purr is a free, open-source dictation app that does all its speech recognition on your Mac. Here's how it's built and what took the longest to fix. #ondeviceai #speechrecognition...Show more",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oSzdfRTZCcE1STmQ2d1RHQ21ZRVV6QmJKaDZSaWRRNWpkcWpsa1ZwQUJPeFRFbkx6WEFlNkhyN0FHUTZaTnVSV2Z2cTJFT09GQ2oxS2U2X194SnM2bi15dw?oc=5",
       "source": "x",
-      "topic": "harness",
-      "published": "2026-11-16T08:11:23+00:00",
-      "summary": "AI should not replace your thinking. It should augment it. At @blrskillsummit 2026, I was asked: How will AI augment skilling? My answer: it depends on where you are. 1. If you are the expert → use AI as your Assistant. Research, data crunching, summarising l X",
+      "topic": "opensource",
+      "published": "2026-11-19T07:16:08+00:00",
+      "summary": "Purr is a free, open-source dictation app that does all its speech recognition on your Mac. Here's how it's built and what took the longest to fix. #ondeviceai #speechrecognition...Show more X",
       "engagement": 0.0,
-      "score": 63.38,
+      "score": 61.47,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.5846
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8008
       },
       "title_ar": "",
       "ar": "",
       "sources": [
         "x"
       ],
-      "taste": 0.585
+      "taste": 0.801
     },
     {
-      "id": "e883f7ca05f6bc14",
-      "title": "Nvidia played a key role enabling the AI gold rush thanks in large part to its recently ousted CEO Jensen Huang. Huang was a master of foreseeing technological changes, investing in chips to train AI earlier than most.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMSWZHLUFsSHVEMXJfZHVaNEFITHU2ZjVoY0l2eDRNUnh5ajktOEpLeU8yd1R1ZFVJaW9XaU4tRHA4NWxLcG43WkJfVDF1OGFFVzg4N2ZPNHJGZw?oc=5",
+      "id": "cb9016d66576266e",
+      "title": "A hijacked agent can only do what its tools allow. Why shell blocklists fail, how allowlists leak, and a test you can add without running a model. #aiagents #mcp...Show more",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZT2lCaFB5Q2IySzkwNWszeXpfc1BfQ3RkcWJLZW9JYUQzelFaVUpjdVZKUWQ0MmtKQUJVMEFaeHV4TmFoZFNZdmxaT0FnR2JSSkp6WXROemt4Y2trX3NjVA?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-11-16T13:34:07+00:00",
-      "summary": "Nvidia played a key role enabling the AI gold rush thanks in large part to its recently ousted CEO Jensen Huang. Huang was a master of foreseeing technological changes, investing in chips to train AI earlier than most. https://t.co/G6W9er7UVx X",
+      "topic": "agents",
+      "published": "2026-11-19T07:25:12+00:00",
+      "summary": "A hijacked agent can only do what its tools allow. Why shell blocklists fail, how allowlists leak, and a test you can add without running a model. #aiagents #mcp...Show more X",
       "engagement": 0.0,
-      "score": 63.35,
+      "score": 61.06,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7838
-      },
-      "title_ar": "",
-      "ar": "",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.784
-    },
-    {
-      "id": "7ec5b5a0c5b9a82b",
-      "title": "🐧 Minisforum M2 Pro Mini PC Running Linux – Lemonade and Local LLMs Lemonade on the Minisforum M2 Pro runs Qwen3, Qwen3.6 and Ornith…",
-      "url": "https://igeek.gamer-geek-news.com/@feed/statuses/01M7JARJZ2FQ3PBVB0K42JGQRC",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-11-16T14:04:19+00:00",
-      "summary": "🐧 Minisforum M2 Pro Mini PC Running Linux – Lemonade and Local LLMs Lemonade on the Minisforum M2 Pro runs Qwen3, Qwen3.6 and Ornith locally, with chat and coding benchmarks on the Intel Arc B390. 📰 Source: LinuxLinks 🔗 Link: https://www.linuxlinks.com/minisforum-m2-pro-mini-pc-running-linux-lemonade-local-llms/ # Linux # OpenSource",
-      "engagement": 0.0,
-      "score": 61.1,
-      "niche_hits": [],
-      "meta": {
-        "account": "feed@igeek.gamer-geek-news.com",
-        "taste": 0.9341
-      },
-      "title_ar": "",
-      "ar": "",
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.934
-    },
-    {
-      "id": "455ef6c7913856e8",
-      "title": "Fine-tune LLM agents without fine-tuning LLMs! Memento is a memory based continual learning framework for LLM agents that lets them learn from experience over time without touching model weights. It maintains a Case Bank of past trajectories including ta",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10d3htV0JwMVA0Vm90VHllczNVTEtmSmg4bDhQdVhvOGJZYXJla2RzanZraElBMTd6U3hJUjE1Mjlxak1RS1p3dm12aDRwaGhWTUF1X2gyVDRpa002dEhwYXFR?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-16T11:43:21+00:00",
-      "summary": "Fine-tune LLM agents without fine-tuning LLMs! Memento is a memory based continual learning framework for LLM agents that lets them learn from experience over time without touching model weights. It maintains a Case Bank of past trajectories including ta X",
-      "engagement": 0.0,
-      "score": 60.98,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
         "taste": 0.6646
       },
       "title_ar": "",
@@ -313,26 +223,114 @@
       "taste": 0.665
     },
     {
-      "id": "c7e96caaef41c4d8",
-      "title": "Roast my new domain's landing page... 👇 Give the GitHub repo a Star ⭐",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DVUdWWTRfbkxwQW01UlpPNUcwcElER1VXU3Z4a2h2MW42VjF2cHdlejZBSXk5U21GYXZiVnJsUmRacTBmN1JoM1ZYcFhHZFhXNmxrM3BBOTlnVzRSU3hySWtn?oc=5",
+      "id": "3db175ab00ebad99",
+      "title": "changelog-bot v0.12.0 is out! 😸🚀 Our biggest release since joining Necoz",
+      "url": "https://mastodon.social/@nyaomaru/117643602058464217",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-11-19T14:35:08.364000+00:00",
+      "summary": "changelog-bot v0.12.0 is out! 😸🚀 Our biggest release since joining Necoz. • Changelogs to a PR, local file, or stdout • New `--audience` option for user-facing notes • Evidence-grounded WHY extraction Phase 7 of our deterministic-first v1 architecture is complete! 🎉 AI can help improve the changelog, but it doesn’t get to decide whether the system works. And we welcomed 12 new contributors. My fav",
+      "engagement": 0.0,
+      "score": 60.54,
+      "niche_hits": [],
+      "meta": {
+        "account": "nyaomaru",
+        "taste": 0.9274
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.927
+    },
+    {
+      "id": "41eef140944e6cd8",
+      "title": "5 cool websites for web developers. - 70K+ free AI agent skills - Full-stack hosting for Python, Go, Javascript, PHP... - 384 free AI agent resources - 316 open-sourc",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtQzlieXJxdjFPQ2NEcHVYaVFnQW5iOWNmakRSTG8xaW9tVWNNVTZfaEp6ZzFqbHVybVpoTzVyNjZibDJxMUFkWU55M3hhWm5UTG1wdDZMNk1reWVlYTlxb3lB?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-11-16T08:38:19+00:00",
-      "summary": "Roast my new domain's landing page... 👇 https://t.co/ZEnQgFCrWA Give the GitHub repo a Star ⭐ X",
+      "published": "2026-11-19T08:25:24+00:00",
+      "summary": "5 cool websites for web developers. https://t.co/vvPSiu9WK3 - 70K+ free AI agent skills https://t.co/QfIg7QY7Sn - Full-stack hosting for Python, Go, Javascript, PHP... https://t.co/NLD1Dzwqbd - 384 free AI agent resources https://t.co/PjzEfswzQT - 316 open-sourc X",
       "engagement": 0.0,
-      "score": 60.01,
+      "score": 60.18,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.7002
+        "taste": 0.6325
       },
       "title_ar": "",
       "ar": "",
       "sources": [
         "x"
       ],
-      "taste": 0.7
+      "taste": 0.632
+    },
+    {
+      "id": "175d94b3f26fd8d4",
+      "title": "AI debt collection, exposed by basic authentication failures. New research from Eaton Zveare details access to 6.6 million accounts across three CreditNirvana customer instances and roughly 315,000 call recordings in its AI call-center platform. A client-side A",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxV0FGckUyLVBXVHNCRE1paVBVekZEdE9obFY2NExzNG1aVmNRQjVERktJRE1GbFNZcHF5Tklrd1MwU2ZfX1JOYUtHQWhPQTJBWnZfSlE3bDVkdU01TWVFZFM3MA?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-19T14:08:28+00:00",
+      "summary": "AI debt collection, exposed by basic authentication failures. New research from Eaton Zveare details access to 6.6 million accounts across three CreditNirvana customer instances and roughly 315,000 call recordings in its AI call-center platform. A client-side A X",
+      "engagement": 0.0,
+      "score": 59.46,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.6341
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.634
+    },
+    {
+      "id": "a5a47d8b0dfd7083",
+      "title": "Deleting code is harder than writing it, yet it remains the single most underrated engineering skill—trimming the fat so the whole system…",
+      "url": "https://mastodon.social/@graphwiz_ai/117643648962200947",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-11-19T14:47:04.059000+00:00",
+      "summary": "Deleting code is harder than writing it, yet it remains the single most underrated engineering skill—trimming the fat so the whole system breathes again. https:// yagni.dev Less code, more shipping — yagni.dev # YAGNI # programming # software # lean # simplicity # engineering # dev # coding # fediverse # opensource",
+      "engagement": 1.0,
+      "score": 58.89,
+      "niche_hits": [],
+      "meta": {
+        "account": "graphwiz_ai",
+        "taste": 0.8571
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.857
+    },
+    {
+      "id": "f43c21b3482e7a0e",
+      "title": "Just integrated NVIDIA SkillEvaluator into You can now check whether a skill is compatible with 6 different coding agent harnesses, and see exactly what needs to be fixed when compatibility isn't perfect - Supports Claude Code, Codex, C",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNRnUtTTJDRERzeXcwNGEzSjZHVnVBLUhzYkFNb1pjNnhuOWhrV0pFY2JNZGVJam9Kb0FuaUVTTUhLWDFnOENlREwzN1VBa0VreGJJYndzMnBtYVdGeURRVWhB?oc=5",
+      "source": "x",
+      "topic": "harness",
+      "published": "2026-11-19T01:15:19+00:00",
+      "summary": "Just integrated NVIDIA SkillEvaluator into https://t.co/pEjytZiAFd You can now check whether a skill is compatible with 6 different coding agent harnesses, and see exactly what needs to be fixed when compatibility isn't perfect - Supports Claude Code, Codex, C X",
+      "engagement": 0.0,
+      "score": 58.74,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.6801
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.68
     }
   ]
 }

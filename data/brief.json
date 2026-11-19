@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:10:11.870499+00:00",
+  "generated_at": "2026-11-19T14:51:31.481043+00:00",
   "days": 3,
   "stories": [
     {
@@ -316,6 +316,26 @@
       }
     },
     {
+      "id": "8d156418546cf7d7",
+      "title": "• Provides bottom-sheet components for React Native • Built by core React Native contributors • Install from npm as @swmansion/react-native-bottom-sheet",
+      "title_ar": "مكوّنات Bottom-Sheet لـ React Native من مساهمين أساسيين",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMSGZwbVczNzRWWFd1cnhhcTZFRmJtMUxkMUxRbzU2MFI4b05ndnhqNkFYT0pBTjdGZHpjd0tBTXdZVTQwblZ0WWI1bk4xN25XS2lyRGJBbkgzSHlPSmc?oc=5",
+      "topic": "opensource",
+      "sources": [
+        "x"
+      ],
+      "topics": [
+        "opensource"
+      ],
+      "days": 1,
+      "score": 98.28,
+      "taste": 0.983,
+      "ar": "يوفر هذا الحزمة مكوّنات Bottom-Sheet لتطبيقات React Native، وقد تم تطويرها بواسطة مساهمين أساسيين في إطار العمل ويمكن تثبيتها عبر npm.",
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d"
+      }
+    },
+    {
       "id": "ee7b95e9dd988aac",
       "title": "Top 5 GitHubs of the week 💻 The repos builders starred most this week: a username finder, a security auditor for your coding agent, your own team of AI bots, real-world agent skills, and computer use without screenshots. 🧵",
       "title_ar": "أفضل 5 مستودعات GitHub لهذا الأسبوع",
@@ -398,26 +418,6 @@
       "ar": "أصبحت تطبيقات Tableau Data Apps متاحة في مرحلة الاختبار المفتوح، مما يتيح للمستخدمين بناء تطبيقات مخصصة باستخدام وكلاء الذكاء الاصطناعي مع الحفاظ على حوكمة البيانات داخل بيئة Tableau Cloud.",
       "meta": {
         "query": "site:x.com (\"open source alternative\" OR \"just launched\" OR \"now available\" OR \"v1.0\") when:3d"
-      }
-    },
-    {
-      "id": "4833ab6511956955",
-      "title": "🔊New Coding Harness! This might replace my DeepSeekHarness. Small local model power-up? ❓What if your local coding agent wasn't allowed to change the codebase until its changes passed independent verification? A new open-source coding agent fro",
-      "title_ar": "وكيل برمجة مفتوح المصدر جديد يفرض التحقق المستقل قبل تعديل الكود",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SdU1mSmdNbEk1bE9DUjVYZi1NajhmazI2X2J3T2I2MENMZzlpWjRaOGhJVklBeVJyREZ5ZlNGM0ZtcXZQSnJTd0RRNFNial84SFloMTRyOUFERzJoRkE?oc=5",
-      "topic": "opensource",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "opensource"
-      ],
-      "days": 1,
-      "score": 95.95,
-      "taste": 0.891,
-      "ar": "أُطلق وكيل برمجة مفتوح المصدر جديد يعمل محلياً، يتميز بمنع تعديل قاعدة الكود إلا بعد اجتياز التغييرات لعمليات تحقق مستقلة، مما قد يعزز قدرات النماذج المحلية الصغيرة.",
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d"
       }
     }
   ],
