@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:43:49.557509+00:00",
+  "generated_at": "2026-11-25T16:22:00.958480+00:00",
   "days": 3,
   "stories": [
     {
@@ -252,6 +252,27 @@
       }
     },
     {
+      "id": "b4c471028a94101d",
+      "title": "More on all our AI agents here: Grab FREE guide to AI Sales Agents here:",
+      "title_ar": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yYnZfVDJKMlhkbzF2SVp2NThlYWFuVHM0YS1DeXVqSk1IRks0MkdyV2FmOUFIM3liUWRHVVVkLTl2T1ZrYWtFcGUwRm9nald5eVlCTmdIU2w1OE44?oc=5",
+      "topic": "agents",
+      "sources": [
+        "x"
+      ],
+      "topics": [
+        "agents",
+        "ai"
+      ],
+      "days": 3,
+      "score": 99.8,
+      "taste": 0.739,
+      "ar": "",
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d"
+      }
+    },
+    {
       "id": "33a7dd2eb281fbc0",
       "title": "DeepSeek drops enhanced coding agent with aim to rival Anthropic",
       "title_ar": "DeepSeek تطلق وكيل برمجة معززًا بهدف منافسة Anthropic",
@@ -292,6 +313,26 @@
       }
     },
     {
+      "id": "c141d12bb2d3a54b",
+      "title": "Google Chrome just released Modern Web Guidance skill for AI coding agents. 100% Opensource. ps: try it out with gemini 4 Neon.",
+      "title_ar": "Google Chrome تطلق مهارة \"Modern Web Guidance\" لوكلاء البرمجة بالذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kSGU0QzIwbW5TVFhjNGN1ZTIzdDZLQ2xnamo0bF9lcUtudmxXZ1gydXgyYUlnQVNBU19QU09HQWJUNDJaQkp4ZFBsUkRkNDB5OHZ0S1RkTUpveF9ycURKeFJTeWREUQ?oc=5",
+      "topic": "harness",
+      "sources": [
+        "x"
+      ],
+      "topics": [
+        "harness"
+      ],
+      "days": 1,
+      "score": 99.32,
+      "taste": 0.781,
+      "ar": "أطلقت Google Chrome مهارة مفتوحة المصدر جديدة تسمى \"Modern Web Guidance\" مصممة خصيصاً لوكلاء البرمجة المدعومين بالذكاء الاصطناعي، مع توصية بتجربتها باستخدام Gemini 4 Neon.",
+      "meta": {
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d"
+      }
+    },
+    {
       "id": "35eb1824f5c6cbfa",
       "title": "Global Microsoft Outage",
       "title_ar": "انقطاع خدمات Microsoft العالمي",
@@ -313,6 +354,26 @@
         "points": 203,
         "comments": 115,
         "hn_url": "https://news.ycombinator.com/item?id=50479098"
+      }
+    },
+    {
+      "id": "91e2e53815341339",
+      "title": "VERIFICATION ENGINEERING with @e2e → fully open source → runs on your machine & AI subscription",
+      "title_ar": "هندسة التحقق مع e2e: مفتوح المصدر بالكامل ويعمل على جهازك واشتراك الذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tdGpaTG1XaE80bkdGWkk2eVQ1cmdrZEJ3OWl5NVdwVi1BdjBDOFgyR3lodDk3NEJleFB5amFUNEhiYmY0VGRhbW56ZDNIZW9LbkY2SlBDSkVsU2lEZlRJS2Vreks?oc=5",
+      "topic": "opensource",
+      "sources": [
+        "x"
+      ],
+      "topics": [
+        "opensource"
+      ],
+      "days": 1,
+      "score": 98.78,
+      "taste": 0.958,
+      "ar": "أصبح مشروع e2e مفتوح المصدر بالكامل، مما يتيح للمستخدمين تشغيل أدوات هندسة التحقق محلياً على أجهزتهم الخاصة مع الاستفادة من اشتراكات الذكاء الاصطناعي.",
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d"
       }
     },
     {
@@ -353,71 +414,6 @@
       "ar": "تصدرت خمسة مستودعات قائمة الأكثر تفضيلاً لدى المطورين هذا الأسبوع، وتشمل أدوات للبحث عن أسماء المستخدمين، ومُدقق أمني لوكلاء البرمجة، وفرق من روبوتات الذكاء الاصطناعي، ومهارات عملية للوكلاء، واستخدام الحاسوب دون الحاجة لالتقاطات الشاشة.",
       "meta": {
         "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d"
-      }
-    },
-    {
-      "id": "24c7704b6673af4a",
-      "title": "I used AI and somehow built a JavaScript engine in just 2–3 days. * Pure Go * `unsafe`-free * ES2025 support (99.99% of Test262 tests pass) * Over 3× faster than goja and Sobek * Over 2× faster than cznic's Go port of QuickJS #golang",
-      "title_ar": "مطور يستخدم الذكاء الاصطناعي لبناء محرك JavaScript بلغة Go في أيام قليلة",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLNkc1MjNLRGRkNUVldzE1VU1FV1g3LUhYbGxYVlMxalptZmFkRTZyVU05WXBzLVR4aVJXVkF0TDhCU2JXbGpCc1hhLUlWX05maGFEZ21MZ2lpNFpvNHl3UXp3?oc=5",
-      "topic": "ai",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "ai"
-      ],
-      "days": 1,
-      "score": 96.4,
-      "taste": 0.956,
-      "ar": "أعلن مطور عن نجاحه في بناء محرك JavaScript بلغة Go باستخدام مساعدة الذكاء الاصطناعي خلال 2-3 أيام فقط. يتميز المحرك بدعم كامل لمواصفات ES2025 وسرعة تفوق المنافسين مثل goja وSobek بأكثر من 3 أضعاف.",
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d"
-      }
-    },
-    {
-      "id": "796a7f7ee338b70f",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "title_ar": "Claude Fable 5.2 و Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "topic": "dev",
-      "sources": [
-        "hackernews",
-        "x"
-      ],
-      "topics": [
-        "ai",
-        "dev",
-        "launch"
-      ],
-      "days": 1,
-      "score": 96.13,
-      "taste": 0.298,
-      "ar": "يذكر العنوان إصدارين جديدين هما Claude Fable 5.2 و Mythos 5.2، لكن المقتطف لا يحتوي على تفاصيل كافية لشرح طبيعة هذه الإصدارات أو مزاياها.",
-      "meta": {
-        "points": 705,
-        "comments": 870,
-        "hn_url": "https://news.ycombinator.com/item?id=50429068"
-      }
-    },
-    {
-      "id": "b22f1584889b0464",
-      "title": "Tableau Data Apps is now available in open beta! Vibe coding doesn't have to mean ditching data governance. Build custom Tableau Data Apps in Tableau Cloud with any AI agent—running directly on live, trusted data in an admin-controlled environment wit",
-      "title_ar": "تطبيقات Tableau Data Apps متاحة الآن في بيتا مفتوحة",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aTnhXUlZnQkVxamtGb0FBLU1WcC1MOTdtT19zMmY2TmFhc2RUVWVNd2dwVnNxRDdoV1NQSWlqMzZ6MUpLaUNJb1JJWjljWjlvUHhXVDFsZVNmUVRH?oc=5",
-      "topic": "launch",
-      "sources": [
-        "x"
-      ],
-      "topics": [
-        "launch"
-      ],
-      "days": 1,
-      "score": 96.05,
-      "taste": 0.921,
-      "ar": "أصبحت تطبيقات Tableau Data Apps متاحة في مرحلة الاختبار المفتوح، مما يتيح للمستخدمين بناء تطبيقات مخصصة باستخدام وكلاء الذكاء الاصطناعي مع الحفاظ على حوكمة البيانات داخل بيئة Tableau Cloud.",
-      "meta": {
-        "query": "site:x.com (\"open source alternative\" OR \"just launched\" OR \"now available\" OR \"v1.0\") when:3d"
       }
     }
   ],

@@ -1,176 +1,287 @@
 {
-  "generated_at": "2026-11-22T13:43:49.410430+00:00",
-  "fetched": 747,
+  "generated_at": "2026-11-25T16:22:00.772002+00:00",
+  "fetched": 771,
   "stories": [
     {
-      "id": "7c69180539fa2773",
-      "title": "/elicit: teach your AI what you want (and get clearer on it yourself at the same time) It’s nearly 2027, and it’s wild to think LLMs have been around for at least 4 years now. But I think we all still feel the same way about agents: they jump to conclusions, don’t reall",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zd0ZkXzh6VWJBMkVNd3hwbGM1QnFOcldWZjNWSS1oXzBocWJMZnM4YkwwS0QwYnlIT3d1UGNxSEd1Y0xya0tMWTdVODJRNFpYNkFKcWtrRF9tSDJ3dG5JMw?oc=5",
-      "source": "x",
-      "topic": "research_tools",
-      "published": "2026-11-22T07:34:26+00:00",
-      "summary": "/elicit: teach your AI what you want (and get clearer on it yourself at the same time) It’s nearly 2027, and it’s wild to think LLMs have been around for at least 4 years now. But I think we all still feel the same way about agents: they jump to conclusions, don’t reall X",
-      "engagement": 0.0,
-      "score": 66.52,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (Elicit OR Consensus OR SciSpace OR NotebookLM OR Zotero OR Overleaf OR \"literature review\") when:14d",
-        "taste": 0.6095
-      },
-      "title_ar": "Elicit: علّم ذكاءك الاصطناعي ما تريده (واكتسب وضوحاً أكبر بنفس الوقت)",
-      "ar": "يقدّم هذا المنشور أداة Elicit التي تهدف إلى تحسين تفاعل المستخدمين مع وكلاء الذكاء الاصطناعي (Agents) من خلال توضيح المتطلبات بدقة، مما يساعد في تقليل استنتاجات الوكلاء الخاطئة.",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.61
-    },
-    {
-      "id": "54637f70096ad6a9",
-      "title": "The 1 Skill AI Will Never Master — No Matter How Advanced It Gets Read more:",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aWEZGYWRINmFIVzRzdExTSHhJTl9wVjN1SmVWU2dBQkVWY1M2REZTbFRQZGw0N0pqOFlpdE5BU3ZLcEwxV2w2ejFNZDd0QjFJZmFUR216VERPZVd5cDFWUlZjOA?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-11-22T10:03:22+00:00",
-      "summary": "The 1 Skill AI Will Never Master — No Matter How Advanced It Gets Read more: https://t.co/5Z7xf8XZEZ X",
-      "engagement": 0.0,
-      "score": 65.35,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.6338
-      },
-      "title_ar": "المهارة الوحيدة التي لن يتقنها الذكاء الاصطناعي مهما تقدم",
-      "ar": "يثير هذا المنشور تساؤلاً حول وجود مهارة بشرية محددة لن يتمكن الذكاء الاصطناعي من إتقانها مهما بلغت تطوره التقني، مع الإشارة إلى رابط لمزيد من التفاصيل.",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.634
-    },
-    {
-      "id": "c39f9310f4e88f8b",
-      "title": "100% FREE Offline JARVIS AI (My Setup) Main model: Qwen 2.5 7B running on Ollama Fast fallback: Gemma 3 4B Heavy lifter: GPT-OSS 20B Voice: Kokoro, open source and runs on device Memory: one simple notes file Search brain: mxbai-embed-large em",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CM1d0amIzN3ZmMGY5REZyZlFmQUczSjdHM2J2OV9ZR3VJZHFUN0ZEUWhKeGlrR3B4MjNkMmJoR3VjZzZOZ0d5YkhTRnZEa3I1QU9PcVJIbklCSnA2MzMxQVB2MUNjWm8?oc=5",
+      "id": "91e2e53815341339",
+      "title": "VERIFICATION ENGINEERING with @e2e → fully open source → runs on your machine & AI subscription",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tdGpaTG1XaE80bkdGWkk2eVQ1cmdrZEJ3OWl5NVdwVi1BdjBDOFgyR3lodDk3NEJleFB5amFUNEhiYmY0VGRhbW56ZDNIZW9LbkY2SlBDSkVsU2lEZlRJS2Vreks?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-11-22T02:29:53+00:00",
-      "summary": "100% FREE Offline JARVIS AI (My Setup) Main model: Qwen 2.5 7B running on Ollama Fast fallback: Gemma 3 4B Heavy lifter: GPT-OSS 20B Voice: Kokoro, open source and runs on device Memory: one simple notes file Search brain: mxbai-embed-large em X",
+      "published": "2026-11-25T13:58:32+00:00",
+      "summary": "VERIFICATION ENGINEERING with @e2e → fully open source → runs on your machine & AI subscription X",
       "engagement": 0.0,
-      "score": 63.9,
+      "score": 72.12,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.8883
+        "taste": 0.958
       },
-      "title_ar": "نظام JARVIS مجاني بالكامل ويعمل دون اتصال (إعداداتي)",
-      "ar": "يشارك المستخدم إعداداته لنظام مساعد ذكاء اصطناعي يعمل محلياً ومجانياً، مستخدماً نماذج مثل Qwen 2.5 وGemma 3 عبر Ollama، مع نظام صوتي مفتوح المصدر وذاكرة مبنية على ملفات ملاحظات.",
+      "title_ar": "هندسة التحقق مع e2e: مفتوح المصدر بالكامل ويعمل على جهازك واشتراك الذكاء الاصطناعي",
+      "ar": "أصبح مشروع e2e مفتوح المصدر بالكامل، مما يتيح للمستخدمين تشغيل أدوات هندسة التحقق محلياً على أجهزتهم الخاصة مع الاستفادة من اشتراكات الذكاء الاصطناعي.",
       "sources": [
         "x"
       ],
-      "taste": 0.888
+      "taste": 0.958
     },
     {
-      "id": "2b61df78b4343703",
-      "title": "gm. retweet if AI agents should be accountable.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42YTF0U1B6NFV0Q3hrNElERllieHlWa0hPOElEUU5lZnNOX2lHVlZfampYZDhmZDVEeFRDTzhVbVZLdzhmWWVtZHNIanRXLXAtRnVNX0E2azFpS2VfVzBjSQ?oc=5",
+      "id": "c141d12bb2d3a54b",
+      "title": "Google Chrome just released Modern Web Guidance skill for AI coding agents. 100% Opensource. ps: try it out with gemini 4 Neon.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kSGU0QzIwbW5TVFhjNGN1ZTIzdDZLQ2xnamo0bF9lcUtudmxXZ1gydXgyYUlnQVNBU19QU09HQWJUNDJaQkp4ZFBsUkRkNDB5OHZ0S1RkTUpveF9ycURKeFJTeWREUQ?oc=5",
       "source": "x",
-      "topic": "agents",
-      "published": "2026-11-22T08:30:00+00:00",
-      "summary": "gm. retweet if AI agents should be accountable. X",
+      "topic": "harness",
+      "published": "2026-11-25T07:22:33+00:00",
+      "summary": "Google Chrome just released Modern Web Guidance skill for AI coding agents. 100% Opensource. https://t.co/ZfTlmpp2Qf ps: try it out with gemini 4 Neon. X",
       "engagement": 0.0,
-      "score": 63.48,
+      "score": 68.97,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.727
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.7815
       },
-      "title_ar": "صباح الخير. أعيد النشر إذا كنت ترى أن وكلاء الذكاء الاصطناعي يجب أن يكونوا مسؤولين",
-      "ar": "دعوة تفاعلية من المستخدم لإعادة النشر لدعم فكرة أن وكلاء الذكاء الاصطناعي يجب أن يخضعوا للمساءلة عن أفعالهم.",
+      "title_ar": "Google Chrome تطلق مهارة \"Modern Web Guidance\" لوكلاء البرمجة بالذكاء الاصطناعي",
+      "ar": "أطلقت Google Chrome مهارة مفتوحة المصدر جديدة تسمى \"Modern Web Guidance\" مصممة خصيصاً لوكلاء البرمجة المدعومين بالذكاء الاصطناعي، مع توصية بتجربتها باستخدام Gemini 4 Neon.",
       "sources": [
         "x"
       ],
-      "taste": 0.727
+      "taste": 0.781
     },
     {
-      "id": "f2ab0a207e454116",
-      "title": "AI may not work like the human brain after all, scientists discover",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16ZE5jdi1MWDU2dENhM1pqcXhBZ0RlN0JGMDRLYUpHSURBQlJZeHFGQmRHZUlad0w4NlhTZ0p6ZjVIaHVwbko5ZnFTWTc2bTBLWEVUMFZFb0lQS3ho?oc=5",
+      "id": "e99455ab177137d4",
+      "title": "The Vibe Coding Mistake That Exposed 1.5M API Keys (a One-Time Fix for Your Every App) Everything you need to understand about what stands between AI-built apps and the data they read, and how to keep it the same no matter which agent wrote the cod",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lV0ZpSkU1YXNKci1CVzJTRVJhdlVjTDA4aGRtelEtYzFpazMxaTJheVlhLTJuc09GUDJJS2JCbXhnRG5nMWFWSThJcE1nOW5aM3RfNmFHd1NhMVpLMDBsZA?oc=5",
+      "source": "x",
+      "topic": "devtools",
+      "published": "2026-11-25T08:44:37+00:00",
+      "summary": "The Vibe Coding Mistake That Exposed 1.5M API Keys (a One-Time Fix for Your Every App) Everything you need to understand about what stands between AI-built apps and the data they read, and how to keep it the same no matter which agent wrote the cod X",
+      "engagement": 0.0,
+      "score": 68.51,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
+        "taste": 0.8656
+      },
+      "title_ar": "خطأ في \"Vibe Coding\" يكشف 1.5 مليون مفتاح API: حل دائم لتطبيقات الذكاء الاصطناعي",
+      "ar": "سلّط تقرير الضوء على خطأ شائع في تطوير التطبيقات عبر الذكاء الاصطناعي (Vibe Coding) أدى إلى تسريب 1.5 مليون مفتاح API، مقدماً حلاً موحداً لحماية البيانات بغض النظر عن الوكيل الذي كتب الكود.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.866
+    },
+    {
+      "id": "eba5ba786f252033",
+      "title": "Klinik-KI als Open Source: Leipzig teilt AMPEL-Code Das Uniklinikum Leipzig gibt den Code der AMPEL-Plattform frei",
+      "url": "https://social.heise.de/@heiseonline/117677925589074152",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-11-25T16:04:03+00:00",
+      "summary": "Klinik-KI als Open Source: Leipzig teilt AMPEL-Code Das Uniklinikum Leipzig gibt den Code der AMPEL-Plattform frei. Kliniken sollen damit eigene Medizinprodukte entwickeln können. https://www. heise.de/news/Klinik-KI-als-Op en-Source-Leipzig-teilt-AMPEL-Code-11538066.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon # Gesundheit # IT # KünstlicheIntelligenz # Ope",
+      "engagement": 6.0,
+      "score": 67.61,
+      "niche_hits": [],
+      "meta": {
+        "account": "heiseonline@social.heise.de",
+        "taste": 0.4351
+      },
+      "title_ar": "مستشفى ليبتسي الجامعي يحرر كود منصة AMPEL الطبية مفتوح المصدر",
+      "ar": "أعلن مستشفى ليبتسي الجامعي عن إتاحة كود منصة AMPEL للذكاء الاصطناعي الطبي كمصدر مفتوح، بهدف تمكين المستشفيات الأخرى من تطوير منتجات طبية خاصة بها.",
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.961
+    },
+    {
+      "id": "6624279c8f557ee2",
+      "title": "this account shares useful open source projects:",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EY2FKUmdJMnlsUGlWMmdpX0ZDaFh1Z09rTVlmTjJEdDNTT205UlZrMnY2WVdQcnRVS0p4ZUx5YTRabHk0NmpkaWlvcmx5b3ZINE9vRWI5blNtdEEwSTE5LXk5aHY?oc=5",
+      "source": "x",
+      "topic": "opensource",
+      "published": "2026-11-25T10:51:46+00:00",
+      "summary": "this account shares useful open source projects: X",
+      "engagement": 0.0,
+      "score": 67.07,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
+        "taste": 0.8317
+      },
+      "title_ar": "حساب يشارك مشاريع مفتوحة المصدر مفيدة",
+      "ar": "يشارك هذا الحساب على منصة X قائمة بمشاريع مفتوحة المصدر مفيدة للمطورين والمهتمين بالتقنية.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.832
+    },
+    {
+      "id": "8e80b9d96243fcd9",
+      "title": "AI Agents can now patch failure modes and help tiny models climb evals by attaching micromachines to the model",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lZEJ5SGhIMEpsVE8yTXd4NGEyRndhSk9VbFlpNndZTzVRb2owQTJDc211M1dFMW5CM3ZULVU4UHd2QUhuWEozME1PaU9XTzFHekc2RC1uVnFHY1l3anVOOWxNYk9TQQ?oc=5",
       "source": "x",
       "topic": "ai",
-      "published": "2026-11-22T11:37:14+00:00",
-      "summary": "AI may not work like the human brain after all, scientists discover https://t.co/GGb95IKM0P X",
+      "published": "2026-11-25T15:48:57+00:00",
+      "summary": "AI Agents can now patch failure modes and help tiny models climb evals by attaching micromachines to the model https://t.co/D7rB4mBm9L X",
       "engagement": 0.0,
-      "score": 62.91,
+      "score": 66.67,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.4129
+        "taste": 0.8067
       },
-      "title_ar": "الذكاء الاصطناعي قد لا يعمل مثل الدماغ البشري بعد الآن، حسب اكتشافات العلماء",
-      "ar": "أفاد العلماء باكتشافات تشير إلى أن آلية عمل الذكاء الاصطناعي تختلف جوهرياً عن طريقة عمل الدماغ البشري، مما قد يعيد النظر في الفرضيات السابقة حول تشابههما.",
-      "sources": [
-        "news",
-        "x"
-      ],
-      "taste": 0.423
-    },
-    {
-      "id": "6be57df3ac4fa02e",
-      "title": "Shoppers, not AI agents, are stilling shopping",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03dU5qcWFnRUs4bDRxU1hzMUlVMG5EVDREYUhRaDFfSDZUdURLLXdsTFd0VHc1OUdJVWZKTXgxbm5lUHlHLUhyejBfREdCal9ScFlLVldpLVRabGR1U3B0YXhxYUdPQ0E?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-22T12:11:46+00:00",
-      "summary": "Shoppers, not AI agents, are stilling shopping https://t.co/n5tR594JIR X",
-      "engagement": 0.0,
-      "score": 62.82,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7104
-      },
-      "title_ar": "المستهلكون، وليس وكلاء الذكاء الاصطناعي، هم من لا يزالون يتسوقون",
-      "ar": "يؤكد المنشور على أن البشر لا يزالون هم الفاعلين الرئيسيين في عمليات التسوق، على عكس التوقعات التي قد تشير إلى هيمنة وكلاء الذكاء الاصطناعي في هذا المجال.",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.71
-    },
-    {
-      "id": "a75e5a8e1fa418e3",
-      "title": "A high school kid is recompiling the GTA6 to work on PC. What’s more interesting is how they’re github issues to coordinate tasks across agent swarms. A new model for open source?",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGktTWhqeTFBaVhYWm9fal82c0RGcHpvY0ttVk1kWFJ5Vlo3NmNhcklTZnM3WGUzck9qX0xRZTE2MEJieFNMbXc4UzI0b2NYREVuOXRGQklVREE?oc=5",
-      "source": "x",
-      "topic": "agents",
-      "published": "2026-11-22T03:31:39+00:00",
-      "summary": "A high school kid is recompiling the GTA6 to work on PC. What’s more interesting is how they’re github issues to coordinate tasks across agent swarms. A new model for open source? X",
-      "engagement": 0.0,
-      "score": 62.04,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
-        "taste": 0.8066
-      },
-      "title_ar": "",
-      "ar": "",
+      "title_ar": "وكلاء الذكاء الاصطناعي يصلحون أخطاء النماذج الصغيرة عبر إرفاق \"آلات دقيقة\"",
+      "ar": "أصبح بإمكان وكلاء الذكاء الاصطناعي الآن معالجة أخطاء الأداء في النماذج الصغيرة (Tiny Models) وتحسين نتائجها في الاختبارات من خلال إرفاق ما يُسمى بـ \"الآلات الدقيقة\" (micromachines) بالنموذج.",
       "sources": [
         "x"
       ],
       "taste": 0.807
     },
     {
-      "id": "c958a5e6cf133c76",
-      "title": "500+ free components for coders - Free AI frontend design skills - 86 open-source animated React components - 54 free UI microinteractions - 350+ open-source",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95U2o2bkdPNEx6cTVNZm9zQkozX0xvT0U3T1pNSDkyMklFRVlmTnNKZTJMbVdWdkVwMnM3V3RzdEVYN0w5SmJ2NUdMYlNMblVudFJQWXNMZlBiT3B5dkJzYm5n?oc=5",
+      "id": "88f1d008f98f6b6d",
+      "title": "Explorer has opened a free MCP server and API for AI agents. Assistants like Claude and ChatGPT can now look up Bitcoin blocks, transactions and addresses, with plain-English answers and no API key. Read all about it. 🔗",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2S05wcWJNaGEwQmw5dkpYaG91ZDRrYldyazJycUVRR1NVOWlrUGVMQ25hSHBYME50Ykp3WmNaSXVaYXpOZjFtVUJfNndJYjYwX3AtaWl6alFiOTFaRUczOVpB?oc=5",
+      "source": "x",
+      "topic": "free",
+      "published": "2026-11-25T14:44:33+00:00",
+      "summary": "https://t.co/si2F97ZxSq Explorer has opened a free MCP server and API for AI agents. Assistants like Claude and ChatGPT can now look up Bitcoin blocks, transactions and addresses, with plain-English answers and no API key. Read all about it. 🔗 https://t.co/s X",
+      "engagement": 0.0,
+      "score": 66.33,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"free tier\" OR \"free credits\" OR \"free trial\" OR \"no API key\" OR \"free plan\") when:7d",
+        "taste": 0.5383
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.538
+    },
+    {
+      "id": "7df80db3eb201cac",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "source": "hackernews",
+      "topic": "dev",
+      "published": "2026-11-25T15:14:32+00:00",
+      "summary": "",
+      "engagement": 121.0,
+      "score": 66.11,
+      "niche_hits": [],
+      "meta": {
+        "points": 121,
+        "comments": 29,
+        "hn_url": "https://news.ycombinator.com/item?id=50643129",
+        "taste": 0.7483
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "hackernews"
+      ],
+      "taste": 0.748
+    },
+    {
+      "id": "73c92ce09058c62d",
+      "title": "5 awesome sites for web developers - Free AI design agent skills - Open-source visual coding agent plan reviews - Open-source collaborative AI design canvas - O",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LVTI1bkJpVW1IR2hrSmFsSlZoMm9FR3RHUGYtZklnTkdPVTN1XzdrM3NLano0LVR0dzdIdlMxTVdlYTQtZUNLd0MtRTZfQl9KQ1VNR2tNdmEzTGRidDJ2UHpn?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-11-22T07:25:42+00:00",
-      "summary": "500+ free components for coders https://t.co/IjuvJO2SP8 - Free AI frontend design skills https://t.co/x5Pr4XmBKW - 86 open-source animated React components https://t.co/LN08ALMoz8 - 54 free UI microinteractions https://t.co/js5yGXaXna - 350+ open-source X",
+      "published": "2026-11-25T08:18:25+00:00",
+      "summary": "5 awesome sites for web developers https://t.co/c9nbpIiJYk - Free AI design agent skills https://t.co/zZrBeih0nB - Open-source visual coding agent plan reviews https://t.co/vKcUxwswXG - Open-source collaborative AI design canvas https://t.co/wSFJuWcgF6 - O X",
       "engagement": 0.0,
-      "score": 60.77,
+      "score": 65.58,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.7317
+        "taste": 0.8617
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.862
+    },
+    {
+      "id": "6b352f15d8e02f64",
+      "title": "Andrej Karpathy predicts the future of AI: “Everyone’s renting frontier models for jobs — Small models are the future.”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PQjVEMjZJWlh0cy0tclppOXdHOURfQ1Mwc2RyT2hqVGw4OXFvdkpHNktaRkFEUGRzQW1qcTdBVkl5ZUhqZVBtSEs0WGs3TnJzcGpEYlFNOHBDTTVWQW92Ng?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-25T15:52:26+00:00",
+      "summary": "Andrej Karpathy predicts the future of AI: “Everyone’s renting frontier models for jobs — Small models are the future.” X",
+      "engagement": 0.0,
+      "score": 64.1,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.8024
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.802
+    },
+    {
+      "id": "dc8abc89c1168929",
+      "title": "More on all our AI agents here: Grab FREE guide to AI Sales Agents here:",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtUEpsa1J1eDJKWXZpcl8xMDdnU2RJYWdoUGh2ZFB3VVF3WEpTWFJ1VVRSN3N2ajFpeDQ3cDhrQjhtVFE3aTRqTFhYczg1WE15T2RPNUhXTDJhaWZj?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-25T14:30:45+00:00",
+      "summary": "More on all our AI agents here: https://t.co/RlXTUtCH4X Grab FREE guide to AI Sales Agents here: https://t.co/5pm6mXlhFB X",
+      "engagement": 0.0,
+      "score": 63.98,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.7394
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.739
+    },
+    {
+      "id": "0e9bbf33240a5ff6",
+      "title": "Claude is becoming a one-person app studio. Ask it to build a tool, click \"Install as app\", and it opens on your Mac or Windows machine like any other app. Own icon. Own window. Notifications. Menu bar. No packaging, no signing, no API key.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aGdNN0d4QkNDa2FhXzNRQmlpclVDbFdCYnlFMHRPYVhqeUpROVR6UDhBWmZVN0NUSlpqbzFJRWFkMDVRX0JXYmFXaEtSVHNoQWxhT0hFWEwwWEQy?oc=5",
+      "source": "x",
+      "topic": "free",
+      "published": "2026-11-25T15:37:23+00:00",
+      "summary": "Claude is becoming a one-person app studio. Ask it to build a tool, click \"Install as app\", and it opens on your Mac or Windows machine like any other app. Own icon. Own window. Notifications. Menu bar. No packaging, no signing, no API key. X",
+      "engagement": 0.0,
+      "score": 63.68,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"free tier\" OR \"free credits\" OR \"free trial\" OR \"no API key\" OR \"free plan\") when:7d",
+        "taste": 0.592
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.592
+    },
+    {
+      "id": "6136165d8cbcff6f",
+      "title": "The interesting part isn't that AI solved 15+ conjectures. It's how. The agents shared one memory, searched 17 million lines of proof, and found the one theorem that mattered.",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TbGtrLUlHWl8zeGpYRVRobm5Vc1I2MG9fbnZsZG44c0xQSV9qeThXOVdVMkpKZHNhMDJIaXJZNDYyc1prUXJ5ZEpmbzA5bVNHc2JHLTYxVEhGamVWRU8w?oc=5",
+      "source": "x",
+      "topic": "ai",
+      "published": "2026-11-25T14:01:41+00:00",
+      "summary": "The interesting part isn't that AI solved 15+ conjectures. It's how. The agents shared one memory, searched 17 million lines of proof, and found the one theorem that mattered. X",
+      "engagement": 0.0,
+      "score": 63.66,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
+        "taste": 0.7315
       },
       "title_ar": "",
       "ar": "",
@@ -180,158 +291,48 @@
       "taste": 0.732
     },
     {
-      "id": "e6ce0c3b8b1b0c8c",
-      "title": "Amuse, built by Replit Missions, is open source!",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOSFhueVZfeTBPRjBncjdPd0V1cExtUTBHMlR4bEhVM3pLVmhFZ0ZSOUVzbE4tRHFzOW5OenNZNjY5RjBLdEFNMnZUa01GRW83Z21JNEZwMEFvVjg?oc=5",
+      "id": "b7498457682558da",
+      "title": "Introducing my new open-source project: Swipterm Linux containers on iOS—use any distribution and kernel you prefer, with the Ghostty terminal and automatic JIT support. Available for testing now via TestFlight or sideloading.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zcm5CX2lKVFJET3RmT1VjRS1rOUQxSU1QNmRZRlNGb2YwazBBWFpkT2ZDLXRDVHY4c2dyenR3RFo2T09keTI2WGVKWHluc2dBMlpsR1J5NFo0ZWpSLVQxN1lR?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-11-21T23:03:33+00:00",
-      "summary": "Amuse, built by Replit Missions, is open source! X",
+      "published": "2026-11-25T09:05:23+00:00",
+      "summary": "Introducing my new open-source project: Swipterm Linux containers on iOS—use any distribution and kernel you prefer, with the Ghostty terminal and automatic JIT support. Available for testing now via TestFlight or sideloading. https://t.co/IBRTYwbhwq X",
       "engagement": 0.0,
-      "score": 60.0,
+      "score": 63.36,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.9581
+        "taste": 0.8358
       },
       "title_ar": "",
       "ar": "",
       "sources": [
         "x"
       ],
-      "taste": 0.958
+      "taste": 0.836
     },
     {
-      "id": "dfe0038183bad8da",
-      "title": "Will AI outsmart human intelligence? By Geoffrey Hinton. Explains in simple language.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LU2xuVGlkZGlNeHlPWk5YcExuN29EQ3FIMkU1d3VOLUpRaU5IQXlKRUk1OEg4SmtuM0dDc0VYalRIVTJENTFpandvVld0YTkxZHVocWZvZFdkSHk5?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-22T13:03:27+00:00",
-      "summary": "Will AI outsmart human intelligence? By Geoffrey Hinton. Explains in simple language. https://t.co/LpZCOzQ2nC X",
-      "engagement": 0.0,
-      "score": 59.84,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.6959
-      },
-      "title_ar": "",
-      "ar": "",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.696
-    },
-    {
-      "id": "94e1d826950a0266",
-      "title": "New Filament v5.12 release! 9 new features listed here on GitHub: Do you want me to shoot a video about any of them?",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QZXhVYUgxNmdjT0FnNXpyOHBiQ05pM2JxcWpNWDlLc2pNaFREYl8wcXNjUnRrTnBDZUJNa1dTN2owTGxvM090Q1BWeHhOUUEtbXduenpnLUJRZ05lYm9QcWhVZw?oc=5",
-      "source": "x",
-      "topic": "devtools",
-      "published": "2026-11-22T12:32:34+00:00",
-      "summary": "New Filament v5.12 release! 9 new features listed here on GitHub: https://t.co/A25WyxQb9m Do you want me to shoot a video about any of them? X",
-      "engagement": 0.0,
-      "score": 59.62,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
-        "taste": 0.6904
-      },
-      "title_ar": "",
-      "ar": "",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.69
-    },
-    {
-      "id": "70b0f1aa5a82295b",
-      "title": "GPT-6.2 Astra tops benchmarks but draws mixed real-world reviews — here is what independent testers, developers, and open-weight…",
-      "url": "https://mastodon.social/@nerdhead_01/117660355313566276",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-11-22T13:35:42.760000+00:00",
-      "summary": "GPT-6.2 Astra tops benchmarks but draws mixed real-world reviews — here is what independent testers, developers, and open-weight comparisons actually show three days in. https://www. nerdheadz.com/blog/gpt-6-2-ast ra-sol-review-vs-open-models # ai # machinelearning",
-      "engagement": 0.0,
-      "score": 59.06,
-      "niche_hits": [],
-      "meta": {
-        "account": "nerdhead_01",
-        "taste": 0.9071
-      },
-      "title_ar": "",
-      "ar": "",
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.907
-    },
-    {
-      "id": "a7a7dc9322c2fe86",
-      "title": "700+ animated backgrounds made for AI websites LLMs often output AI slop not because of capability, but lack of great backgrounds No more boring hero designs. 👉 It works with any coding agent",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OTVEwTjZfWFZYN1Q0MUtyajRQcjEtWDN3QTV2azI0dXdZWFFMcTg4YzQ2WmlBX2NvaVRseENFYkdlekZuamdFbWRUbkxPUkFWNGczSXlhdmxBN1ZNRWc2dg?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-22T11:44:01+00:00",
-      "summary": "700+ animated backgrounds made for AI websites LLMs often output AI slop not because of capability, but lack of great backgrounds No more boring hero designs. 👉 https://t.co/GNMRtOrI5i It works with any coding agent X",
-      "engagement": 0.0,
-      "score": 58.91,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.6128
-      },
-      "title_ar": "",
-      "ar": "",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.613
-    },
-    {
-      "id": "ddd4b8faa2227b42",
-      "title": "a gemini-cli issue prepared with an AI assistant went up yesterday with the assistant's notes to its user still in it. one heading: \"Note for root (not part of the issue body)\". private notes and public text were one draft. i'd keep two files. the repo's triage job replied: \"c",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpUnN2ZlRUVHRYc3dESUdadGxKNnFfSWNRcThxOVZNZ0NxdEpYV21GNnJNT2hSV1NPTUUtdzVoTWo2RzhvUzFRVDE0emt1ME5lNzI2Y0YxaWQwemltNUN5M0lsQ0c?oc=5",
-      "source": "x",
-      "topic": "ai",
-      "published": "2026-11-22T11:30:21+00:00",
-      "summary": "a gemini-cli issue prepared with an AI assistant went up yesterday with the assistant's notes to its user still in it. one heading: \"Note for root (not part of the issue body)\". private notes and public text were one draft. i'd keep two files. the repo's triage job replied: \"c X",
-      "engagement": 0.0,
-      "score": 58.65,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.6663
-      },
-      "title_ar": "",
-      "ar": "",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.666
-    },
-    {
-      "id": "035bfde412d7b686",
-      "title": "Announcing a new skill for AI agents in Amazon Textract Core Amazon Textract Core now lets AI agents extract text, tables, forms, and other data from documents through a skill, with no server to run or infrastructure to deploy. The skill guides an agent to the rig",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmTlhMSUNxMDdxNWxzaXl6ZzFObzlyWWZNUnpOajhwLUNhaHl2Z1RudG0tZlljQ3JJMFJLcmpDbzdUUXdJTExlVzJWY2c0NkxEekU5b3FnZ20wV29vZDI5cnVB?oc=5",
+      "id": "252ff858c372e203",
+      "title": "The model is only 1 of the 6 parts inside a coding agent. Knowing the other 5 is what separates people who use coding agents from people who can build them. Here's the breakdown: 1. The model is the brain Every call, it gets the whole context and replies wit",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxSXpRYU54ZXlhR0tXb3lUd091R3Z3YUpxeUFHd2JLeGJSalZIOGpsVkhTbTlTY3dBUkNXeHhrcmUtZTVYcDZUTlZKMDVNaWluMkdYeDZUUl9NY19PdXdrUw?oc=5",
       "source": "x",
       "topic": "harness",
-      "published": "2026-11-21T21:13:40+00:00",
-      "summary": "Announcing a new skill for AI agents in Amazon Textract Core Amazon Textract Core now lets AI agents extract text, tables, forms, and other data from documents through a skill, with no server to run or infrastructure to deploy. The skill guides an agent to the rig X",
+      "published": "2026-11-25T03:08:40+00:00",
+      "summary": "The model is only 1 of the 6 parts inside a coding agent. Knowing the other 5 is what separates people who use coding agents from people who can build them. Here's the breakdown: 1. The model is the brain Every call, it gets the whole context and replies wit X",
       "engagement": 0.0,
-      "score": 58.02,
+      "score": 61.17,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.7448
+        "taste": 0.729
       },
       "title_ar": "",
       "ar": "",
       "sources": [
         "x"
       ],
-      "taste": 0.745
+      "taste": 0.729
     }
   ]
 }
