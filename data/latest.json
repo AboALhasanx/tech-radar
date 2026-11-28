@@ -1,338 +1,338 @@
 {
-  "generated_at": "2026-11-25T16:22:00.772002+00:00",
-  "fetched": 771,
+  "generated_at": "2026-11-28T14:41:23.315577+00:00",
+  "fetched": 722,
   "stories": [
     {
-      "id": "91e2e53815341339",
-      "title": "VERIFICATION ENGINEERING with @e2e → fully open source → runs on your machine & AI subscription",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tdGpaTG1XaE80bkdGWkk2eVQ1cmdrZEJ3OWl5NVdwVi1BdjBDOFgyR3lodDk3NEJleFB5amFUNEhiYmY0VGRhbW56ZDNIZW9LbkY2SlBDSkVsU2lEZlRJS2Vreks?oc=5",
-      "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-25T13:58:32+00:00",
-      "summary": "VERIFICATION ENGINEERING with @e2e → fully open source → runs on your machine & AI subscription X",
-      "engagement": 0.0,
-      "score": 72.12,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.958
-      },
-      "title_ar": "هندسة التحقق مع e2e: مفتوح المصدر بالكامل ويعمل على جهازك واشتراك الذكاء الاصطناعي",
-      "ar": "أصبح مشروع e2e مفتوح المصدر بالكامل، مما يتيح للمستخدمين تشغيل أدوات هندسة التحقق محلياً على أجهزتهم الخاصة مع الاستفادة من اشتراكات الذكاء الاصطناعي.",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.958
-    },
-    {
-      "id": "c141d12bb2d3a54b",
-      "title": "Google Chrome just released Modern Web Guidance skill for AI coding agents. 100% Opensource. ps: try it out with gemini 4 Neon.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kSGU0QzIwbW5TVFhjNGN1ZTIzdDZLQ2xnamo0bF9lcUtudmxXZ1gydXgyYUlnQVNBU19QU09HQWJUNDJaQkp4ZFBsUkRkNDB5OHZ0S1RkTUpveF9ycURKeFJTeWREUQ?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-11-25T07:22:33+00:00",
-      "summary": "Google Chrome just released Modern Web Guidance skill for AI coding agents. 100% Opensource. https://t.co/ZfTlmpp2Qf ps: try it out with gemini 4 Neon. X",
-      "engagement": 0.0,
-      "score": 68.97,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.7815
-      },
-      "title_ar": "Google Chrome تطلق مهارة \"Modern Web Guidance\" لوكلاء البرمجة بالذكاء الاصطناعي",
-      "ar": "أطلقت Google Chrome مهارة مفتوحة المصدر جديدة تسمى \"Modern Web Guidance\" مصممة خصيصاً لوكلاء البرمجة المدعومين بالذكاء الاصطناعي، مع توصية بتجربتها باستخدام Gemini 4 Neon.",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.781
-    },
-    {
-      "id": "e99455ab177137d4",
-      "title": "The Vibe Coding Mistake That Exposed 1.5M API Keys (a One-Time Fix for Your Every App) Everything you need to understand about what stands between AI-built apps and the data they read, and how to keep it the same no matter which agent wrote the cod",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lV0ZpSkU1YXNKci1CVzJTRVJhdlVjTDA4aGRtelEtYzFpazMxaTJheVlhLTJuc09GUDJJS2JCbXhnRG5nMWFWSThJcE1nOW5aM3RfNmFHd1NhMVpLMDBsZA?oc=5",
+      "id": "13a9ebc0f88131ea",
+      "title": "2000+ design inspirations and AI coding tools - Open-source coding agent dashboard - 25 free coding agent skills - Open-source AI code auditing - Turn software i",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12U1E3alQzSmxvMXBGMm5qMGlTWWk4di1yeW9sTFp3czFVLS1CX1pPNnF3RWRhUG1XVU01YWVKdUd4UURuOTg2WUMyM0pvZy1xT3pHWWNYNlZYUGFlbmppdGF3?oc=5",
       "source": "x",
       "topic": "devtools",
-      "published": "2026-11-25T08:44:37+00:00",
-      "summary": "The Vibe Coding Mistake That Exposed 1.5M API Keys (a One-Time Fix for Your Every App) Everything you need to understand about what stands between AI-built apps and the data they read, and how to keep it the same no matter which agent wrote the cod X",
+      "published": "2026-11-28T07:48:25+00:00",
+      "summary": "2000+ design inspirations and AI coding tools https://t.co/ZIxTCx3Gia - Open-source coding agent dashboard https://t.co/k3fQVEFNGw - 25 free coding agent skills https://t.co/aNcvR4jBCa - Open-source AI code auditing https://t.co/gIMwc5ip7O - Turn software i X",
       "engagement": 0.0,
-      "score": 68.51,
+      "score": 63.69,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
-        "taste": 0.8656
+        "taste": 0.7684
       },
-      "title_ar": "خطأ في \"Vibe Coding\" يكشف 1.5 مليون مفتاح API: حل دائم لتطبيقات الذكاء الاصطناعي",
-      "ar": "سلّط تقرير الضوء على خطأ شائع في تطوير التطبيقات عبر الذكاء الاصطناعي (Vibe Coding) أدى إلى تسريب 1.5 مليون مفتاح API، مقدماً حلاً موحداً لحماية البيانات بغض النظر عن الوكيل الذي كتب الكود.",
+      "title_ar": "أكثر من 2000 مصدر إلهام للتصميم وأدوات برمجة بالذكاء الاصطناعي ولوحة تحكم مفتوحة المصدر",
+      "ar": "تجميع موارد تشمل أكثر من 2000 مصدر إلهام للتصميم، وأدوات برمجة مدعومة بالذكاء الاصطناعي، ولوحة تحكم مفتوحة المصدر لوكلاء البرمجة، بالإضافة إلى 25 مهارة مجانية وأدوات تدقيق كود مفتوحة المصدر.",
       "sources": [
         "x"
       ],
-      "taste": 0.866
+      "taste": 0.768
     },
     {
-      "id": "eba5ba786f252033",
-      "title": "Klinik-KI als Open Source: Leipzig teilt AMPEL-Code Das Uniklinikum Leipzig gibt den Code der AMPEL-Plattform frei",
-      "url": "https://social.heise.de/@heiseonline/117677925589074152",
-      "source": "mastodon",
-      "topic": "community",
-      "published": "2026-11-25T16:04:03+00:00",
-      "summary": "Klinik-KI als Open Source: Leipzig teilt AMPEL-Code Das Uniklinikum Leipzig gibt den Code der AMPEL-Plattform frei. Kliniken sollen damit eigene Medizinprodukte entwickeln können. https://www. heise.de/news/Klinik-KI-als-Op en-Source-Leipzig-teilt-AMPEL-Code-11538066.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon # Gesundheit # IT # KünstlicheIntelligenz # Ope",
-      "engagement": 6.0,
-      "score": 67.61,
-      "niche_hits": [],
-      "meta": {
-        "account": "heiseonline@social.heise.de",
-        "taste": 0.4351
-      },
-      "title_ar": "مستشفى ليبتسي الجامعي يحرر كود منصة AMPEL الطبية مفتوح المصدر",
-      "ar": "أعلن مستشفى ليبتسي الجامعي عن إتاحة كود منصة AMPEL للذكاء الاصطناعي الطبي كمصدر مفتوح، بهدف تمكين المستشفيات الأخرى من تطوير منتجات طبية خاصة بها.",
-      "sources": [
-        "mastodon"
-      ],
-      "taste": 0.961
-    },
-    {
-      "id": "6624279c8f557ee2",
-      "title": "this account shares useful open source projects:",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EY2FKUmdJMnlsUGlWMmdpX0ZDaFh1Z09rTVlmTjJEdDNTT205UlZrMnY2WVdQcnRVS0p4ZUx5YTRabHk0NmpkaWlvcmx5b3ZINE9vRWI5blNtdEEwSTE5LXk5aHY?oc=5",
+      "id": "533f9e7182219290",
+      "title": "Gumroad MCP is early (3.6% creators use it) but growing very quickly",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12OHUxaUZ5UGdMT1p5Z3FNZ2NOcm9ULWs1TGVscjhUcXdUcHdNczhaUTF0UVpOeVU0TFRfVVBtR1pPSEVicmNFUnYxaERNMHBlOVhHbG9IalhVUFYt?oc=5",
       "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-25T10:51:46+00:00",
-      "summary": "this account shares useful open source projects: X",
+      "topic": "agents",
+      "published": "2026-11-28T14:10:51+00:00",
+      "summary": "Gumroad MCP is early (3.6% creators use it) but growing very quickly X",
       "engagement": 0.0,
-      "score": 67.07,
+      "score": 62.38,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.8317
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.6996
       },
-      "title_ar": "حساب يشارك مشاريع مفتوحة المصدر مفيدة",
-      "ar": "يشارك هذا الحساب على منصة X قائمة بمشاريع مفتوحة المصدر مفيدة للمطورين والمهتمين بالتقنية.",
+      "title_ar": "Gumroad MCP في مراحله الأولى لكن نموها سريع جداً",
+      "ar": "يستخدم 3.6% فقط من المبدعين أداة Gumroad MCP حالياً، مما يشير إلى أنها لا تزال في مراحلها المبكرة، لكنها تشهد نمواً سريعاً.",
       "sources": [
         "x"
       ],
-      "taste": 0.832
+      "taste": 0.7
     },
     {
-      "id": "8e80b9d96243fcd9",
-      "title": "AI Agents can now patch failure modes and help tiny models climb evals by attaching micromachines to the model",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lZEJ5SGhIMEpsVE8yTXd4NGEyRndhSk9VbFlpNndZTzVRb2owQTJDc211M1dFMW5CM3ZULVU4UHd2QUhuWEozME1PaU9XTzFHekc2RC1uVnFHY1l3anVOOWxNYk9TQQ?oc=5",
+      "id": "ca0c44f9f61c5d86",
+      "title": "Source 🔗: github. com/DeadInternetStudios/100x-engineer-skill",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mYmxXRjNEeVdkOG1IUm9tczEtUnBTWF9mMF9PandHWjJVUDlHQ1pCbHVMVDN1TFZad3dYN1J2eV9CTWdzOG01TW16QVNYay1DeDhsUlpUUWtaNEV3cDFv?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-11-25T15:48:57+00:00",
-      "summary": "AI Agents can now patch failure modes and help tiny models climb evals by attaching micromachines to the model https://t.co/D7rB4mBm9L X",
+      "topic": "harness",
+      "published": "2026-11-27T20:46:17+00:00",
+      "summary": "Source 🔗: github. com/DeadInternetStudios/100x-engineer-skill X",
       "engagement": 0.0,
-      "score": 66.67,
+      "score": 62.11,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.8067
+        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
+        "taste": 0.9442
       },
-      "title_ar": "وكلاء الذكاء الاصطناعي يصلحون أخطاء النماذج الصغيرة عبر إرفاق \"آلات دقيقة\"",
-      "ar": "أصبح بإمكان وكلاء الذكاء الاصطناعي الآن معالجة أخطاء الأداء في النماذج الصغيرة (Tiny Models) وتحسين نتائجها في الاختبارات من خلال إرفاق ما يُسمى بـ \"الآلات الدقيقة\" (micromachines) بالنموذج.",
+      "title_ar": "مصدر: مستودع 100x-engineer-skill على GitHub",
+      "ar": "إشارة إلى مستودع مفتوح المصدر على GitHub يحمل اسم 100x-engineer-skill، دون تفاصيل إضافية في النص المقدم.",
       "sources": [
         "x"
       ],
-      "taste": 0.807
+      "taste": 0.944
     },
     {
-      "id": "88f1d008f98f6b6d",
-      "title": "Explorer has opened a free MCP server and API for AI agents. Assistants like Claude and ChatGPT can now look up Bitcoin blocks, transactions and addresses, with plain-English answers and no API key. Read all about it. 🔗",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2S05wcWJNaGEwQmw5dkpYaG91ZDRrYldyazJycUVRR1NVOWlrUGVMQ25hSHBYME50Ykp3WmNaSXVaYXpOZjFtVUJfNndJYjYwX3AtaWl6alFiOTFaRUczOVpB?oc=5",
-      "source": "x",
-      "topic": "free",
-      "published": "2026-11-25T14:44:33+00:00",
-      "summary": "https://t.co/si2F97ZxSq Explorer has opened a free MCP server and API for AI agents. Assistants like Claude and ChatGPT can now look up Bitcoin blocks, transactions and addresses, with plain-English answers and no API key. Read all about it. 🔗 https://t.co/s X",
-      "engagement": 0.0,
-      "score": 66.33,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (\"free tier\" OR \"free credits\" OR \"free trial\" OR \"no API key\" OR \"free plan\") when:7d",
-        "taste": 0.5383
-      },
-      "title_ar": "",
-      "ar": "",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.538
-    },
-    {
-      "id": "7df80db3eb201cac",
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "id": "6e1690b6807c26e8",
+      "title": "Audible removes download option for purchased audiobooks",
+      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
       "source": "hackernews",
       "topic": "dev",
-      "published": "2026-11-25T15:14:32+00:00",
+      "published": "2026-11-28T11:51:27+00:00",
       "summary": "",
-      "engagement": 121.0,
-      "score": 66.11,
+      "engagement": 107.0,
+      "score": 60.81,
       "niche_hits": [],
       "meta": {
-        "points": 121,
-        "comments": 29,
-        "hn_url": "https://news.ycombinator.com/item?id=50643129",
-        "taste": 0.7483
+        "points": 107,
+        "comments": 33,
+        "hn_url": "https://news.ycombinator.com/item?id=50676723",
+        "taste": 0.6889
       },
-      "title_ar": "",
-      "ar": "",
+      "title_ar": "Audible تلغي خيار التنزيل للكتب الصوتية المشتراة",
+      "ar": "أعلنت منصة Audible عن إزالة إمكانية تنزيل الكتب الصوتية التي تم شراؤها مسبقاً، مما يغير طريقة وصول المستخدمين إلى مكتباتهم.",
       "sources": [
         "hackernews"
       ],
-      "taste": 0.748
+      "taste": 0.689
     },
     {
-      "id": "73c92ce09058c62d",
-      "title": "5 awesome sites for web developers - Free AI design agent skills - Open-source visual coding agent plan reviews - Open-source collaborative AI design canvas - O",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LVTI1bkJpVW1IR2hrSmFsSlZoMm9FR3RHUGYtZklnTkdPVTN1XzdrM3NLano0LVR0dzdIdlMxTVdlYTQtZUNLd0MtRTZfQl9KQ1VNR2tNdmEzTGRidDJ2UHpn?oc=5",
+      "id": "1f1dc03007525ced",
+      "title": "GigaChat 4 is now open source under the MIT licence 🔥 ​ Sber's 708B model has a 1M token context window and both instant and reasoning modes",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Sk1SdGdtdXZwQlhZWVNub1BWVE03bm01VEJ1WndGbFhlYzlhNlRDblU0WDhoeE5yQWg3YUtDcUpQcnA2YzM3S0t2UmhWQXN3THZkek5OUU4xdXUwOV9nZ0lTeDU?oc=5",
       "source": "x",
       "topic": "opensource",
-      "published": "2026-11-25T08:18:25+00:00",
-      "summary": "5 awesome sites for web developers https://t.co/c9nbpIiJYk - Free AI design agent skills https://t.co/zZrBeih0nB - Open-source visual coding agent plan reviews https://t.co/vKcUxwswXG - Open-source collaborative AI design canvas https://t.co/wSFJuWcgF6 - O X",
+      "published": "2026-11-28T05:47:22+00:00",
+      "summary": "GigaChat 4 is now open source under the MIT licence 🔥 ​ Sber's 708B model has a 1M token context window and both instant and reasoning modes X",
       "engagement": 0.0,
-      "score": 65.58,
+      "score": 60.42,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.8617
+        "taste": 0.7794
+      },
+      "title_ar": "GigaChat 4 يصبح مفتوح المصدر تحت رخصة MIT",
+      "ar": "أصبح نموذج GigaChat 4 من شركة Sber مفتوح المصدر تحت رخصة MIT، ويتميز بنافذة سياق تصل إلى مليون توكن ويدعم وضعي الاستجابة الفورية والاستدلال.",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.779
+    },
+    {
+      "id": "49432a25ad947430",
+      "title": "OpenCode (Rune) : le prochain client desktop d'OpenCode, réécrit en Rust sur leur framework natif, sans Electron ni Chromium",
+      "url": "https://mastodon.social/@camilleroux/117694191219201497",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-11-28T13:00:37.702000+00:00",
+      "summary": "OpenCode (Rune) : le prochain client desktop d'OpenCode, réécrit en Rust sur leur framework natif, sans Electron ni Chromium. Impressionnant : l'ouverture est vraiment instantanée ! Version de dev dispo sur macOS, Windows et Linux. ⬇️ https:// github.com/anomalyco/opencode- rune # Rust # Linux # macOS # Programming # WebDev 📬 Ma veille dev, chaque vendredi par email → https:// l.camilleroux.com/si",
+      "engagement": 4.0,
+      "score": 58.09,
+      "niche_hits": [],
+      "meta": {
+        "account": "camilleroux",
+        "taste": 0.8443
+      },
+      "title_ar": "OpenCode (Rune): عميل سطح مكتب جديد مكتوب بلغة Rust",
+      "ar": "أعيد كتابة عميل سطح المكتب OpenCode (Rune) بلغة Rust باستخدام إطار عمل أصلي، دون الاعتماد على Electron أو Chromium، مما يوفر فتحاً فورياً وتوفره حالياً كنسخة تطويرية لأنظمة macOS وWindows وLinux.",
+      "sources": [
+        "mastodon"
+      ],
+      "taste": 0.844
+    },
+    {
+      "id": "ab5a550b6eb58bbe",
+      "title": "OpenAI just launched Businesses in ChatGPT - claim your business, upload products, see how people discover you. Google → ChatGPT is the shift. A website is still what both of them read. Not a guarantee. Still a pretty big deal 👇",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyWk5kcndTcllDcU44Y0xCQzVYSmRETjkwTTVEWDhyLUY4V2t0aGctVUdWSGpwcm1YUHNEZkRVejhQVF9sd2MwbTcwSjBXMzZVeDZKa3N3UUpoemkxREtN?oc=5",
+      "source": "x",
+      "topic": "launch",
+      "published": "2026-11-28T14:00:58+00:00",
+      "summary": "OpenAI just launched Businesses in ChatGPT - claim your business, upload products, see how people discover you. Google → ChatGPT is the shift. A website is still what both of them read. Not a guarantee. Still a pretty big deal 👇 X",
+      "engagement": 0.0,
+      "score": 57.02,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (\"open source alternative\" OR \"just launched\" OR \"now available\" OR \"v1.0\") when:3d",
+        "taste": 0.4256
       },
       "title_ar": "",
       "ar": "",
       "sources": [
         "x"
       ],
-      "taste": 0.862
+      "taste": 0.426
     },
     {
-      "id": "6b352f15d8e02f64",
-      "title": "Andrej Karpathy predicts the future of AI: “Everyone’s renting frontier models for jobs — Small models are the future.”",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PQjVEMjZJWlh0cy0tclppOXdHOURfQ1Mwc2RyT2hqVGw4OXFvdkpHNktaRkFEUGRzQW1qcTdBVkl5ZUhqZVBtSEs0WGs3TnJzcGpEYlFNOHBDTTVWQW92Ng?oc=5",
+      "id": "a916dc26092f33f5",
+      "title": "JetBrains' latest Mellum coding model uses 45% fewer tokens. It got there by not thinking.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1SklsakluRXNNaXZGUFBuVHE3YmUzRV9YV2M4S3ZFT3g0dkxrS3UzZ1A0ZkFDZEFHWHlXSUowODZBdlFRcmlMZjhXXzE0YnpqNU1YbDdJeHFCVUZiODFuek5B?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-11-25T15:52:26+00:00",
-      "summary": "Andrej Karpathy predicts the future of AI: “Everyone’s renting frontier models for jobs — Small models are the future.” X",
+      "topic": "devtools",
+      "published": "2026-11-28T05:00:21+00:00",
+      "summary": "JetBrains' latest Mellum coding model uses 45% fewer tokens. It got there by not thinking. https://t.co/MENC3iSEBo X",
       "engagement": 0.0,
-      "score": 64.1,
+      "score": 56.25,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.8024
+        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
+        "taste": 0.7486
       },
       "title_ar": "",
       "ar": "",
       "sources": [
         "x"
       ],
-      "taste": 0.802
+      "taste": 0.749
     },
     {
-      "id": "dc8abc89c1168929",
-      "title": "More on all our AI agents here: Grab FREE guide to AI Sales Agents here:",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtUEpsa1J1eDJKWXZpcl8xMDdnU2RJYWdoUGh2ZFB3VVF3WEpTWFJ1VVRSN3N2ajFpeDQ3cDhrQjhtVFE3aTRqTFhYczg1WE15T2RPNUhXTDJhaWZj?oc=5",
+      "id": "f8ff29fcd3e2f198",
+      "title": "Again thank God Arsenal banter era came before AI, Imagine wenger as a bricklayer 😭😭😭",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13SUJzTDItOXdoeGptRVF2OTlMUUZDUDMzUXVCYUpDY2V5OE9zRklaNzdydWVaQ2NQSGMwbW1WTVBKcVlkYjQxNzIxZlNmRGRoSXdidjI5M1o1VXNDMWlJ?oc=5",
       "source": "x",
       "topic": "ai",
-      "published": "2026-11-25T14:30:45+00:00",
-      "summary": "More on all our AI agents here: https://t.co/RlXTUtCH4X Grab FREE guide to AI Sales Agents here: https://t.co/5pm6mXlhFB X",
+      "published": "2026-11-28T09:59:54+00:00",
+      "summary": "Again thank God Arsenal banter era came before AI, Imagine wenger as a bricklayer 😭😭😭 X",
       "engagement": 0.0,
-      "score": 63.98,
+      "score": 56.04,
       "niche_hits": [],
       "meta": {
         "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7394
+        "taste": 0.601
       },
       "title_ar": "",
       "ar": "",
       "sources": [
         "x"
+      ],
+      "taste": 0.601
+    },
+    {
+      "id": "bd63aa0dd84f6cf5",
+      "title": "pierridotite/mobile-agent-testers: 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessib...",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jZzdZSWxqeDZuR1RUNV92Z1BacFllWkNDSmlPZUN1YlNYVnJFODREZkZwcDNMQk02VlVBbUhMWVEwUlFXOXlPTWhZMVI1cVJZd0ZnQzcxSWl5WXc?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-11-28T13:44:11+00:00",
+      "summary": "pierridotite/mobile-agent-testers: 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessib... https://t.co/0KWI08wVqE X",
+      "engagement": 0.0,
+      "score": 55.43,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.5258
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.526
+    },
+    {
+      "id": "fe32526739af22ea",
+      "title": "introducing rsrc let your agents read x, reddit, and 5 other sites web search misses free and open source. cli + agent skill",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04U0EtckNQVTBRd0JBWDZHeFFLVl9aTjNMQm5CcjlFUVJlZFk2TnJkTHlBUVBZcmlRc3VSVllvNXR6LU9BVTBsU0oxWmRiX1cxbFNQUlFob3V4dDE0MDhaYzJvWQ?oc=5",
+      "source": "x",
+      "topic": "agents",
+      "published": "2026-11-27T15:49:37+00:00",
+      "summary": "introducing rsrc let your agents read x, reddit, and 5 other sites web search misses free and open source. cli + agent skill X",
+      "engagement": 0.0,
+      "score": 55.28,
+      "niche_hits": [],
+      "meta": {
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.9816
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "x"
+      ],
+      "taste": 0.982
+    },
+    {
+      "id": "45b16d3d4e97c45d",
+      "title": "RE: https:// mastodon.green/@gerrymcgovern/ 117694337792516669 Psst...it warms the air around the # ai # datacenters # ButlerianJihadNow",
+      "url": "https://universeodon.com/@SrRochardBunson/117694545166540202",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-11-28T14:30:38+00:00",
+      "summary": "RE: https:// mastodon.green/@gerrymcgovern/ 117694337792516669 Psst...it warms the air around the # ai # datacenters # ButlerianJihadNow",
+      "engagement": 2.0,
+      "score": 54.99,
+      "niche_hits": [],
+      "meta": {
+        "account": "SrRochardBunson@universeodon.com",
+        "taste": 0.7385
+      },
+      "title_ar": "",
+      "ar": "",
+      "sources": [
+        "mastodon"
       ],
       "taste": 0.739
     },
     {
-      "id": "0e9bbf33240a5ff6",
-      "title": "Claude is becoming a one-person app studio. Ask it to build a tool, click \"Install as app\", and it opens on your Mac or Windows machine like any other app. Own icon. Own window. Notifications. Menu bar. No packaging, no signing, no API key.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aGdNN0d4QkNDa2FhXzNRQmlpclVDbFdCYnlFMHRPYVhqeUpROVR6UDhBWmZVN0NUSlpqbzFJRWFkMDVRX0JXYmFXaEtSVHNoQWxhT0hFWEwwWEQy?oc=5",
-      "source": "x",
-      "topic": "free",
-      "published": "2026-11-25T15:37:23+00:00",
-      "summary": "Claude is becoming a one-person app studio. Ask it to build a tool, click \"Install as app\", and it opens on your Mac or Windows machine like any other app. Own icon. Own window. Notifications. Menu bar. No packaging, no signing, no API key. X",
+      "id": "55ac4d258194d228",
+      "title": "Lokale Spracheingabe für # macOS : # OpenSource -App Dictly diktiert direkt ins aktive Textfeld 🎤🗣️✨ https://…",
+      "url": "https://mastodon.social/@tchgdns/117694583423131282",
+      "source": "mastodon",
+      "topic": "community",
+      "published": "2026-11-28T14:40:22.254000+00:00",
+      "summary": "Lokale Spracheingabe für # macOS : # OpenSource -App Dictly diktiert direkt ins aktive Textfeld 🎤🗣️✨ https:// tchgdns.de/lokale-spracheingab e-fuer-mac-open-source-app-dictly-diktiert-direkt-ins-aktive-textfeld/",
       "engagement": 0.0,
-      "score": 63.68,
+      "score": 54.34,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"free tier\" OR \"free credits\" OR \"free trial\" OR \"no API key\" OR \"free plan\") when:7d",
-        "taste": 0.592
+        "account": "tchgdns",
+        "taste": 0.7841
       },
       "title_ar": "",
       "ar": "",
       "sources": [
-        "x"
+        "mastodon"
       ],
-      "taste": 0.592
+      "taste": 0.784
     },
     {
-      "id": "6136165d8cbcff6f",
-      "title": "The interesting part isn't that AI solved 15+ conjectures. It's how. The agents shared one memory, searched 17 million lines of proof, and found the one theorem that mattered.",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TbGtrLUlHWl8zeGpYRVRobm5Vc1I2MG9fbnZsZG44c0xQSV9qeThXOVdVMkpKZHNhMDJIaXJZNDYyc1prUXJ5ZEpmbzA5bVNHc2JHLTYxVEhGamVWRU8w?oc=5",
+      "id": "da9feb34d11f1ad0",
+      "title": "Example why you need to review and cross-check your code with a DIFFERENT agent. It's not (that much) about Claude or Neon. It's about the fact that AI agents may make SILENT decisions on your behalf during agentic session and you won't even see them,",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvcm5mS0NlbkdYRjFCaHlsWWVnRFpXTS1VckU4MFJUSGFRYWlNZlduREFYS0pad0d1RHU0d080eXVTVURaeFkwU25zNzZKV0wyUFBiWEFubDhabXotcUx3UVgtQQ?oc=5",
       "source": "x",
-      "topic": "ai",
-      "published": "2026-11-25T14:01:41+00:00",
-      "summary": "The interesting part isn't that AI solved 15+ conjectures. It's how. The agents shared one memory, searched 17 million lines of proof, and found the one theorem that mattered. X",
+      "topic": "devtools",
+      "published": "2026-11-28T08:36:00+00:00",
+      "summary": "Example why you need to review and cross-check your code with a DIFFERENT agent. It's not (that much) about Claude or Neon. It's about the fact that AI agents may make SILENT decisions on your behalf during agentic session and you won't even see them, X",
       "engagement": 0.0,
-      "score": 63.66,
+      "score": 53.74,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (AI OR LLM OR \"language model\" OR OpenAI OR Anthropic) when:3d",
-        "taste": 0.7315
+        "query": "site:x.com (developer OR coding OR IDE OR compiler) when:3d",
+        "taste": 0.4873
       },
       "title_ar": "",
       "ar": "",
       "sources": [
         "x"
       ],
-      "taste": 0.732
+      "taste": 0.487
     },
     {
-      "id": "b7498457682558da",
-      "title": "Introducing my new open-source project: Swipterm Linux containers on iOS—use any distribution and kernel you prefer, with the Ghostty terminal and automatic JIT support. Available for testing now via TestFlight or sideloading.",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zcm5CX2lKVFJET3RmT1VjRS1rOUQxSU1QNmRZRlNGb2YwazBBWFpkT2ZDLXRDVHY4c2dyenR3RFo2T09keTI2WGVKWHluc2dBMlpsR1J5NFo0ZWpSLVQxN1lR?oc=5",
+      "id": "fc3d3c492264cdb4",
+      "title": "Introducing @v2video, GitHub for agentic video editing. Free and open source. Within 18 months, the main video editor will be an agent: Claude Code, Codex, Antigravity. v2 stores every version of your video with the prompts, files and comments behind it, so y",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95UW94ZThQd1R2VlI3N2JheFJvNGJlRDdVUkIzS3ItLTFYa2F5ZG5uQ0hpZ2YtNHFFM3BjREhRQ0p5RVZYTXJTZE5qTXRpSmhLaW95dDhXRFhFUmpFOVk0Vg?oc=5",
       "source": "x",
-      "topic": "opensource",
-      "published": "2026-11-25T09:05:23+00:00",
-      "summary": "Introducing my new open-source project: Swipterm Linux containers on iOS—use any distribution and kernel you prefer, with the Ghostty terminal and automatic JIT support. Available for testing now via TestFlight or sideloading. https://t.co/IBRTYwbhwq X",
+      "topic": "agents",
+      "published": "2026-11-27T21:41:56+00:00",
+      "summary": "Introducing @v2video, GitHub for agentic video editing. Free and open source. Within 18 months, the main video editor will be an agent: Claude Code, Codex, Antigravity. v2 stores every version of your video with the prompts, files and comments behind it, so y X",
       "engagement": 0.0,
-      "score": 63.36,
+      "score": 53.34,
       "niche_hits": [],
       "meta": {
-        "query": "site:x.com (\"open source\" OR \"open-source\" OR \"self-hosted\") when:3d",
-        "taste": 0.8358
+        "query": "site:x.com (agent OR agents OR agentic OR MCP) when:3d",
+        "taste": 0.7959
       },
       "title_ar": "",
       "ar": "",
       "sources": [
         "x"
       ],
-      "taste": 0.836
-    },
-    {
-      "id": "252ff858c372e203",
-      "title": "The model is only 1 of the 6 parts inside a coding agent. Knowing the other 5 is what separates people who use coding agents from people who can build them. Here's the breakdown: 1. The model is the brain Every call, it gets the whole context and replies wit",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxSXpRYU54ZXlhR0tXb3lUd091R3Z3YUpxeUFHd2JLeGJSalZIOGpsVkhTbTlTY3dBUkNXeHhrcmUtZTVYcDZUTlZKMDVNaWluMkdYeDZUUl9NY19PdXdrUw?oc=5",
-      "source": "x",
-      "topic": "harness",
-      "published": "2026-11-25T03:08:40+00:00",
-      "summary": "The model is only 1 of the 6 parts inside a coding agent. Knowing the other 5 is what separates people who use coding agents from people who can build them. Here's the breakdown: 1. The model is the brain Every call, it gets the whole context and replies wit X",
-      "engagement": 0.0,
-      "score": 61.17,
-      "niche_hits": [],
-      "meta": {
-        "query": "site:x.com (harness OR \"coding agent\" OR skill OR \"agent skills\") when:3d",
-        "taste": 0.729
-      },
-      "title_ar": "",
-      "ar": "",
-      "sources": [
-        "x"
-      ],
-      "taste": 0.729
+      "taste": 0.796
     }
   ]
 }
